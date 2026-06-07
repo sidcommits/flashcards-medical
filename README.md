@@ -68,6 +68,17 @@ npm run build    # outputs a static site to out/
   and build with `NEXT_PUBLIC_BASE_PATH=/<repo>`.
 - **Any static host / VPS:** serve the `out/` folder.
 
+### This project's live deployment
+
+Hosted at **https://flashcards.webkraft.work** on a VPS (nginx static serving).
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the static
+export and `rsync`s `out/` to `/var/www/flashcards` on the server. DNS (`*.webkraft.work`)
+and TLS (wildcard cert) are already in place, so a normal `git push` is all that's needed.
+
+The server nginx block is mirrored at `deploy/nginx-flashcards.conf` for reference.
+Deploy secrets (`VPS_HOST`, `VPS_USER`, `VPS_SSH_KEY`, `VPS_KNOWN_HOSTS`) live in the
+repo's GitHub Actions secrets; the deploy uses a dedicated, restricted SSH key.
+
 ## Keyboard shortcuts (study)
 
 | Key            | Action                       |
