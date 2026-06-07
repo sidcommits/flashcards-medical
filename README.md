@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Flashcards
 
-## Getting Started
+An Anki-style spaced-repetition flashcard site whose **source of truth is plain CSV
+spreadsheets**. Add cards by editing CSVs in Excel / Numbers / Google Sheets — one row per
+card. The app reads those CSVs in the browser at runtime, so adding a row and refreshing
+shows the new card. No database, no backend, no auth. Exports to a fully static site.
 
-First, run the development server:
+Cards are organized as **Subject → Deck → Topic → Card**. Study works like Anki: flip a card,
+self-grade recall (Again / Hard / Good / Easy), and a spaced-repetition scheduler picks what's
+due. Progress persists in `localStorage`.
+
+## Quick start
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev      # http://localhost:3000  (regenerates public/decks/index.json first)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Adding cards
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Open `public/decks/obgyn.csv` (or a new subject file) in Excel / Numbers / Sheets.
+2. Add rows with this exact header, columns in order:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+   ```
+   subject,deck,topic,front,back
+   ```
 
-## Learn More
+   An optional 6th column `hint` is supported (a small toggle-able hint on the card front).
+3. Save / export as **CSV UTF-8**.
+4. **New subject?** Save a new file like `pharmacology.csv` with the same header, drop it in
+   `public/decks/`. Optionally add a color entry to `public/decks/manifest.json`.
+5. `npm run dev` — the index script runs automatically. Adding rows to an *existing* file just
+   needs a browser refresh; adding a *new* file needs the dev server to re-run the index step
+   (restart `npm run dev`).
 
-To learn more about Next.js, take a look at the following resources:
+### CSV rules
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- One row = one card. Comma-separated; fields with commas/quotes/newlines must be double-quoted
+  (spreadsheets do this automatically on export).
+- UTF-8 — characters like `° → ↑ ↓ β α` are preserved. Multi-line answers (quoted) render their
+  line breaks.
+- Blank rows, and rows missing `front` or `back`, are skipped.
+- A card whose `front` begins with `[DRAW` (e.g. `[DRAW & LABEL] …`) is a "draw it yourself"
+  prompt and gets a distinct teal accent.
+- A card's stable id = a hash of `subject | deck | front`, so reordering rows preserves history.
+  Editing a card's `front` resets its review history (treated as a new card).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Optional theming — `public/decks/manifest.json`
 
-## Deploy on Vercel
+```json
+{
+  "subjects": {
+    "Obstetrics & Gynaecology": { "color": "#7c2b3e", "order": 1, "blurb": "O&G revision" }
+  }
+}
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Subjects not listed fall back to an auto-assigned palette color and alphabetical order.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Deployment (static)
+
+```bash
+npm run build    # outputs a static site to out/
+```
+
+- **Vercel / Netlify:** import the repo — framework auto-detected, works out of the box.
+- **GitHub Pages (subpath):** set `basePath` / `assetPrefix` to `/<repo>` in `next.config.mjs`
+  and build with `NEXT_PUBLIC_BASE_PATH=/<repo>`.
+- **Any static host / VPS:** serve the `out/` folder.
+
+## Keyboard shortcuts (study)
+
+| Key            | Action                       |
+| -------------- | ---------------------------- |
+| `Space`/`Enter`| Flip / show answer           |
+| `1` `2` `3` `4`| Again / Hard / Good / Easy   |
+| `H`            | Toggle hint                  |

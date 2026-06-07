@@ -1,26 +1,64 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #f4efe6;
+  --ink: #22201c;
+  --muted: #7c7468;
+  --line: #d8cfc0;
+  --card: #fbf8f1;
+  --accent: #7c2b3e;
 }
 
+/* Map runtime CSS variables to Tailwind utilities.
+   `inline` keeps the var() reference live, so overriding --accent on a
+   wrapper (per subject) recolors text-accent / bg-accent / border-accent. */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-newsreader);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-card: var(--card);
+  --color-accent: var(--accent);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background:
+    radial-gradient(1100px 560px at 50% -12%, rgba(255, 255, 255, 0.65), transparent 62%),
+    var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body), Georgia, "Times New Roman", serif;
+}
+
+/* Reusable card surface */
+.card-face {
+  background: var(--card);
+  border: 1.5px solid var(--line);
+  border-radius: 18px;
+  box-shadow: 0 18px 40px -22px rgba(40, 30, 20, 0.18);
+}
+
+/* 3D flip */
+.scene {
+  perspective: 1600px;
+}
+.flip-card {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.flip-card.is-flipped {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.flip-face--back {
+  position: absolute;
+  inset: 0;
+  transform: rotateY(180deg);
 }
