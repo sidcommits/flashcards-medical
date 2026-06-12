@@ -1,1 +1,6 @@
-{ "subjects": { "Obstetrics & Gynaecology": { "color": "#7c2b3e", "order": 1, "blurb": "O&G revision" } } }
+{
+  "subjects": {
+    "Obstetrics & Gynaecology": { "color": "#7c2b3e", "order": 1, "blurb": "O&G revision" },
+    "Pharmacology": { "color": "#1f5d54", "order": 2, "blurb": "Pharmacology revision" }
+  }
+}
