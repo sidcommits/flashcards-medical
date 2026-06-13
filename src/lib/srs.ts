@@ -6,12 +6,13 @@ export type Review = {
   due: number;      // epoch ms
   reps: number;
   lapses: number;
+  ts: number;       // last graded, epoch ms — merge key for sync
 };
 
 const DAY = 86_400_000;
 
 export function newReview(): Review {
-  return { ease: 2.5, interval: 0, due: Date.now(), reps: 0, lapses: 0 };
+  return { ease: 2.5, interval: 0, due: Date.now(), reps: 0, lapses: 0, ts: Date.now() };
 }
 
 export function schedule(prev: Review, grade: Grade): Review {
@@ -20,7 +21,7 @@ export function schedule(prev: Review, grade: Grade): Review {
   if (grade === 'again') {
     lapses += 1;
     ease = Math.max(1.3, ease - 0.2);
-    return { ease, interval: 0, reps: 0, lapses, due: Date.now() + 10 * 60_000 };
+    return { ease, interval: 0, reps: 0, lapses, due: Date.now() + 10 * 60_000, ts: Date.now() };
   }
 
   if (reps === 0) {
@@ -34,7 +35,7 @@ export function schedule(prev: Review, grade: Grade): Review {
   if (grade === 'easy') ease = ease + 0.15;
 
   reps += 1;
-  return { ease, interval, reps, lapses, due: Date.now() + interval * DAY };
+  return { ease, interval, reps, lapses, due: Date.now() + interval * DAY, ts: Date.now() };
 }
 
 export function isDue(r: Review | undefined): boolean {
