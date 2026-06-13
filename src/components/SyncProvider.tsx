@@ -9,7 +9,9 @@ export default function SyncProvider({ children }: { children: React.ReactNode }
   useEffect(() => {
     const off = onSyncStatus(setStatus);
     pullAndMerge();
-    if ('serviceWorker' in navigator) {
+    // Only register the SW in production — in dev it caches stale bundles
+    // (its cache version never bumps), which masks code changes.
+    if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js').catch(() => {});
     }
     const onOnline = () => pullAndMerge();
