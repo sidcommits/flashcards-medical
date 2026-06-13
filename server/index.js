@@ -15,6 +15,7 @@ function readBody(req) {
     let d = '';
     req.on('data', (c) => { d += c; if (d.length > 5e6) req.destroy(); });
     req.on('end', () => { try { resolve(d ? JSON.parse(d) : {}); } catch { resolve(null); } });
+    req.on('close', () => resolve(null));
   });
 }
 
@@ -28,42 +29,47 @@ function createServer() {
   if (!SECRET || !PASSWORD_HASH) throw new Error('Missing COOKIE_SECRET or PASSWORD_HASH');
 
   return http.createServer(async (req, res) => {
-    const url = req.url.split('?')[0];
-    const ip = req.socket.remoteAddress || 'unknown';
+    try {
+      const url = req.url.split('?')[0];
+      const ip = req.socket.remoteAddress || 'unknown';
 
-    if (req.method === 'POST' && url === '/api/login') {
-      if (!rateLimit('login:' + ip)) return send(res, 429, { error: 'too many attempts' });
-      const body = await readBody(req);
-      if (!body || typeof body.password !== 'string') return send(res, 400, { error: 'bad request' });
-      if (!verifyPassword(body.password, PASSWORD_HASH)) return send(res, 401, { error: 'wrong password' });
-      return send(res, 200, { ok: true }, { 'Set-Cookie': makeSessionCookie(SECRET) });
-    }
-
-    if (req.method === 'POST' && url === '/api/logout') {
-      return send(res, 200, { ok: true }, { 'Set-Cookie': clearCookie() });
-    }
-
-    if (url === '/_verify') {
-      return authed(req, SECRET) ? send(res, 200, { ok: true }) : send(res, 401, { error: 'unauthorized' });
-    }
-
-    if (url === '/api/progress') {
-      if (!authed(req, SECRET)) return send(res, 401, { error: 'unauthorized' });
-      if (req.method === 'GET') return send(res, 200, readDoc());
-      if (req.method === 'PUT') {
+      if (req.method === 'POST' && url === '/api/login') {
+        if (!rateLimit('login:' + ip)) return send(res, 429, { error: 'too many attempts' });
         const body = await readBody(req);
-        if (body === null) return send(res, 400, { error: 'bad json' });
-        const next = body.reset === true
-          ? { ...emptyDoc(), resetAt: Date.now() }
-          : mergeDoc(readDoc(), { reviews: body.reviews || {}, bookmarks: body.bookmarks || {}, hidden: body.hidden || {} });
-        writeDoc(next);
-        return send(res, 200, next);
+        if (!body || typeof body.password !== 'string') return send(res, 400, { error: 'bad request' });
+        if (!verifyPassword(body.password, PASSWORD_HASH)) return send(res, 401, { error: 'wrong password' });
+        return send(res, 200, { ok: true }, { 'Set-Cookie': makeSessionCookie(SECRET) });
       }
-      return send(res, 405, { error: 'method not allowed' });
-    }
 
-    if (url === '/health') return send(res, 200, { ok: true });
-    return send(res, 404, { error: 'not found' });
+      if (req.method === 'POST' && url === '/api/logout') {
+        return send(res, 200, { ok: true }, { 'Set-Cookie': clearCookie() });
+      }
+
+      if (url === '/_verify') {
+        return authed(req, SECRET) ? send(res, 200, { ok: true }) : send(res, 401, { error: 'unauthorized' });
+      }
+
+      if (url === '/api/progress') {
+        if (!authed(req, SECRET)) return send(res, 401, { error: 'unauthorized' });
+        if (req.method === 'GET') return send(res, 200, readDoc());
+        if (req.method === 'PUT') {
+          const body = await readBody(req);
+          if (body === null) return send(res, 400, { error: 'bad json' });
+          const next = body.reset === true
+            ? { ...emptyDoc(), resetAt: Date.now() }
+            : mergeDoc(readDoc(), { reviews: body.reviews || {}, bookmarks: body.bookmarks || {}, hidden: body.hidden || {} });
+          writeDoc(next);
+          return send(res, 200, next);
+        }
+        return send(res, 405, { error: 'method not allowed' });
+      }
+
+      if (url === '/health') return send(res, 200, { ok: true });
+      return send(res, 404, { error: 'not found' });
+    } catch (err) {
+      console.error('handler error', err);
+      if (!res.headersSent) send(res, 500, { error: 'internal' });
+    }
   });
 }
 
