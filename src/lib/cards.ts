@@ -1,6 +1,6 @@
 import Papa from 'papaparse';
 import * as XLSX from 'xlsx';
-import { isHidden } from './flags';
+import { loadFlags } from './flags';
 
 export type Card = {
   id: string;
@@ -105,5 +105,6 @@ export function byTopic(cards: Card[]): Map<string, Card[]> {
 
 /** Cards not soft-hidden by the user. Use everywhere study queues/counts are built. */
 export function visibleCards(cards: Card[]): Card[] {
-  return cards.filter((c) => !isHidden(c.id));
+  const hidden = loadFlags('hidden');
+  return cards.filter((c) => !hidden[c.id]?.on);
 }

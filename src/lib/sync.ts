@@ -2,8 +2,7 @@
 
 import { loadReviews, replaceReviews } from './store';
 import { loadFlags, FLAG_KEYS } from './flags';
-import { mergeDoc, emptyDoc, type ProgressDoc, type Flag } from './merge';
-import type { Review } from './srs';
+import { mergeDoc, emptyDoc, type ProgressDoc } from './merge';
 
 type Status = 'idle' | 'syncing' | 'synced' | 'offline';
 let status: Status = 'idle';
@@ -46,7 +45,9 @@ export async function pullAndMerge(): Promise<void> {
     if (!remote) return;
     const merged = mergeDoc(localDoc(), remote as ProgressDoc);
     writeLocal(merged);
-    await api('PUT', { reviews: merged.reviews, bookmarks: merged.bookmarks, hidden: merged.hidden });
+    const canonical = await api('PUT', { reviews: merged.reviews, bookmarks: merged.bookmarks, hidden: merged.hidden });
+    if (!canonical) return;            // 401 -> navigating to login
+    writeLocal(canonical as ProgressDoc);
     setStatus('synced');
   } catch {
     setStatus('offline');
