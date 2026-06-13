@@ -2,12 +2,14 @@
 
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { loadAllCards, type Card } from '@/lib/cards';
+import { loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { getReview, saveReview } from '@/lib/store';
 import { isDue, newReview, previewInterval, schedule, type Grade } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta } from '@/lib/theme';
+import { pushDebounced } from '@/lib/sync';
 import { BackLink, Button, ProgressBar } from './ui';
 import Flashcard from './Flashcard';
+import CardActions from './CardActions';
 
 const GRADES: { grade: Grade; label: string; key: string; color: string }[] = [
   { grade: 'again', label: 'Again', key: '1', color: '#9b4a4a' },
@@ -60,7 +62,7 @@ export default function StudySession() {
       if (!alive) return;
       const subjects = [...new Set(all.map((c) => c.subject))];
       const meta = resolveSubjectMeta(subjects, manifest);
-      const filtered = all.filter(
+      const filtered = visibleCards(all).filter(
         (c) =>
           (!subject || c.subject === subject) &&
           (!deck || c.deck === deck) &&
@@ -99,6 +101,7 @@ export default function StudySession() {
       if (!current) return;
       const next = schedule(getReview(current.id) ?? newReview(), g);
       saveReview(current.id, next);
+      pushDebounced();
       setReviewed((n) => n + 1);
       setIndex((i) => i + 1);
       setFlipped(false);
@@ -198,6 +201,13 @@ export default function StudySession() {
       </div>
 
       <Flashcard card={current} flipped={flipped} onFlip={() => setFlipped(true)} accent={accent} />
+
+      <div className="flex justify-center">
+        <CardActions
+          cardId={current.id}
+          onHide={() => { setReviewed((n) => n + 1); setIndex((i) => i + 1); setFlipped(false); setShowHint(false); }}
+        />
+      </div>
 
       {!flipped ? (
         <div className="flex flex-wrap items-center justify-center gap-3">
