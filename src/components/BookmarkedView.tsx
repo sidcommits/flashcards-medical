@@ -82,7 +82,7 @@ function StudyView({
           <p className="text-sm text-muted">
             {i + 1} / {cards.length}
           </p>
-          <Flashcard card={current} flipped={flipped} onFlip={() => setFlipped(true)} accent={accent} />
+          <Flashcard key={current.id} card={current} flipped={flipped} onFlip={() => setFlipped(true)} accent={accent} />
           <div className="flex justify-center">
             <button
               className="rounded-xl bg-accent px-4 py-2.5 font-display text-sm font-semibold text-white"
@@ -200,7 +200,7 @@ export default function BookmarkedView() {
   // STUDY: ?subject=X
   if (subjectParam) {
     const filtered = bookmarked.filter((c) => c.subject === subjectParam);
-    const metaMap = resolveSubjectMeta([subjectParam], manifest);
+    const metaMap = resolveSubjectMeta(bookmarked.map((c) => c.subject), manifest);
     const meta = metaMap.get(subjectParam)!;
     return (
       <StudyView
