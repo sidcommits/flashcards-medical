@@ -26,3 +26,12 @@ export function saveReview(id: string, r: Review): void {
 export function resetStore(): void {
   localStorage.removeItem(KEY);
 }
+
+export function loadReviews(): Record<string, Review> {
+  if (typeof window === 'undefined') return {};
+  try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch { return {}; }
+}
+
+export function replaceReviews(map: Record<string, Review>): void {
+  localStorage.setItem(KEY, JSON.stringify(map));
+}
