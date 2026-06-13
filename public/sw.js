@@ -28,8 +28,9 @@ self.addEventListener('fetch', (e) => {
       fetch(request)
         .then((res) => {
           if (res.redirected || url.pathname.endsWith('login.html')) return res;
+          if (!res.ok) return res;
           const copy = res.clone();
-          caches.open(VERSION).then((c) => c.put(request, copy));
+          caches.open(VERSION).then((c) => c.put(request, copy)).catch(() => {});
           return res;
         })
         .catch(() => caches.match(request).then((r) => r || caches.match('/')))
@@ -40,7 +41,7 @@ self.addEventListener('fetch', (e) => {
   // Deck CSV/JSON: network-first (fresh), fall back to cache offline.
   if (isDeckData(url)) {
     e.respondWith(
-      fetch(request).then((res) => { const c = res.clone(); caches.open(VERSION).then((x) => x.put(request, c)); return res; })
+      fetch(request).then((res) => { if (!res.ok) return res; const c = res.clone(); caches.open(VERSION).then((x) => x.put(request, c)).catch(() => {}); return res; })
         .catch(() => caches.match(request))
     );
     return;
@@ -48,6 +49,7 @@ self.addEventListener('fetch', (e) => {
 
   // Hashed static assets: cache-first.
   e.respondWith(caches.match(request).then((r) => r || fetch(request).then((res) => {
-    const c = res.clone(); caches.open(VERSION).then((x) => x.put(request, c)); return res;
+    if (!res.ok) return res;
+    const c = res.clone(); caches.open(VERSION).then((x) => x.put(request, c)).catch(() => {}); return res;
   })));
 });
