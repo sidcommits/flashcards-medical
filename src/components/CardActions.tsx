@@ -15,7 +15,6 @@ export default function CardActions({ cardId, onHide }: { cardId: string; onHide
   };
 
   const hide = () => {
-    if (!confirm('Hide this card from study? You can restore it later from Hidden cards.')) return;
     setHidden(cardId, true);
     pushDebounced();
     onHide();
