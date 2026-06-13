@@ -2,7 +2,8 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import { bySubject, loadAllCards, type Card } from '@/lib/cards';
+import { bySubject, loadAllCards, visibleCards, type Card } from '@/lib/cards';
+import { loadFlags } from '@/lib/flags';
 import { getReview } from '@/lib/store';
 import { isDue } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta, type SubjectMeta } from '@/lib/theme';
@@ -29,7 +30,8 @@ export default function SubjectGrid() {
 
   const rows: Row[] = useMemo(() => {
     if (!cards) return [];
-    const groups = bySubject(cards);
+    const visible = visibleCards(cards);
+    const groups = bySubject(visible);
     const meta = resolveSubjectMeta([...groups.keys()], manifest);
     const out: Row[] = [];
     for (const [subject, list] of groups) {
@@ -40,6 +42,9 @@ export default function SubjectGrid() {
   }, [cards, manifest]);
 
   const totalDue = rows.reduce((n, r) => n + r.due, 0);
+
+  const bookmarkCount = useMemo(() => Object.values(loadFlags('bookmarks')).filter((f) => f.on).length, [cards]);
+  const hiddenCount = useMemo(() => Object.values(loadFlags('hidden')).filter((f) => f.on).length, [cards]);
 
   if (!cards) {
     return <p className="py-16 text-center text-muted">Loading cards…</p>;
@@ -70,6 +75,13 @@ export default function SubjectGrid() {
           </Link>
         </div>
       )}
+
+      <div className="flex flex-wrap gap-3">
+        <Link href="/bookmarked" className="card-face px-4 py-2 text-sm hover:text-accent">★ Bookmarked ({bookmarkCount})</Link>
+        {hiddenCount > 0 && (
+          <Link href="/hidden" className="card-face px-4 py-2 text-sm text-muted hover:text-accent">Hidden ({hiddenCount})</Link>
+        )}
+      </div>
 
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
         {rows.map((r) => (
