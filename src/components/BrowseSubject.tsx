@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { byDeck, byTopic, loadAllCards, type Card } from '@/lib/cards';
+import { byDeck, byTopic, loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { getReview } from '@/lib/store';
 import { isDue } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta } from '@/lib/theme';
@@ -24,7 +24,7 @@ export default function BrowseSubject() {
       if (!alive) return;
       const meta = resolveSubjectMeta([...new Set(all.map((c) => c.subject))], manifest);
       setAccent(meta.get(subject)?.color ?? '#7c2b3e');
-      setCards(all.filter((c) => c.subject === subject));
+      setCards(visibleCards(all).filter((c) => c.subject === subject));
     })();
     return () => {
       alive = false;
