@@ -21,8 +21,10 @@ import { pullAndMerge, pushReset, onSyncStatus } from './sync';
 import type { ProgressDoc } from './merge';
 
 const REVIEWS_KEY = 'flashcards.reviews.v1';
-const BOOKMARKS_KEY = 'flashcards.bookmarks.v1';
-const HIDDEN_KEY = 'flashcards.hidden.v1';
+// Keys kept for potential future assertions
+const _BOOKMARKS_KEY = 'flashcards.bookmarks.v1';
+const _HIDDEN_KEY = 'flashcards.hidden.v1';
+void _BOOKMARKS_KEY; void _HIDDEN_KEY;
 
 function emptyRemote(): ProgressDoc {
   return { version: 1, updatedAt: 1, resetAt: null, reviews: {}, bookmarks: {}, hidden: {} };

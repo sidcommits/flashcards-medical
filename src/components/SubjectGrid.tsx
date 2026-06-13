@@ -43,8 +43,8 @@ export default function SubjectGrid() {
 
   const totalDue = rows.reduce((n, r) => n + r.due, 0);
 
-  const bookmarkCount = useMemo(() => Object.values(loadFlags('bookmarks')).filter((f) => f.on).length, [cards]);
-  const hiddenCount = useMemo(() => Object.values(loadFlags('hidden')).filter((f) => f.on).length, [cards]);
+  const bookmarkCount = useMemo(() => Object.values(loadFlags('bookmarks')).filter((f) => f.on).length, []);
+  const hiddenCount = useMemo(() => Object.values(loadFlags('hidden')).filter((f) => f.on).length, []);
 
   if (!cards) {
     return <p className="py-16 text-center text-muted">Loading cards…</p>;

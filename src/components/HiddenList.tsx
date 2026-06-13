@@ -9,12 +9,16 @@ import { BackLink } from './ui';
 export default function HiddenList() {
   const [hiddenCards, setHiddenCards] = useState<Card[] | null>(null);
 
-  const refresh = async () => {
-    const all = await loadAllCards();
-    const map = loadFlags('hidden');
-    setHiddenCards(all.filter((c) => map[c.id]?.on));
-  };
-  useEffect(() => { refresh(); }, []);
+  useEffect(() => {
+    let alive = true;
+    (async () => {
+      const all = await loadAllCards();
+      if (!alive) return;
+      const map = loadFlags('hidden');
+      setHiddenCards(all.filter((c) => map[c.id]?.on));
+    })();
+    return () => { alive = false; };
+  }, []);
 
   const restore = (id: string) => {
     setHidden(id, false);

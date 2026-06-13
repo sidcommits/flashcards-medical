@@ -5,7 +5,7 @@ import { visibleCards } from './cards';
 
 describe('visibleCards', () => {
   it('drops hidden cards', () => {
-    const cards = [{ id: 'a' }, { id: 'b' }, { id: 'c' }] as any;
-    expect(visibleCards(cards).map((c: any) => c.id)).toEqual(['a', 'c']);
+    const cards = [{ id: 'a' }, { id: 'b' }, { id: 'c' }] as Parameters<typeof visibleCards>[0];
+    expect(visibleCards(cards).map((c) => c.id)).toEqual(['a', 'c']);
   });
 });

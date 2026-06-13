@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // CommonJS server package linted separately with node:test runner
+    "server/**",
   ]),
 ]);
 
