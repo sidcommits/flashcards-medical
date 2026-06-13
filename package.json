@@ -5,6 +5,7 @@
   "scripts": {
     "predev": "node scripts/build-index.mjs",
     "dev": "next dev",
+    "dev:local": "node scripts/dev-local.mjs",
     "prebuild": "node scripts/build-index.mjs",
     "build": "next build",
     "postbuild": "node scripts/version-sw.mjs",
