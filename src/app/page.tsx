@@ -2,6 +2,7 @@
 
 import SubjectGrid from '@/components/SubjectGrid';
 import { resetStore } from '@/lib/store';
+import { pushReset } from '@/lib/sync';
 
 export default function Home() {
   return (
@@ -20,12 +21,19 @@ export default function Home() {
           onClick={() => {
             if (confirm('Reset all study progress? This cannot be undone.')) {
               resetStore();
+              pushReset();
               location.reload();
             }
           }}
           className="text-sm text-muted transition-colors hover:text-accent"
         >
           Reset all progress
+        </button>
+        <button
+          onClick={async () => { await fetch('/api/logout', { method: 'POST', credentials: 'include' }); location.href = '/login.html'; }}
+          className="ml-4 text-sm text-muted transition-colors hover:text-accent"
+        >
+          Log out
         </button>
       </footer>
     </main>

@@ -1,6 +1,7 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Fraunces, Newsreader } from "next/font/google";
 import "./globals.css";
+import SyncProvider from "@/components/SyncProvider";
 
 const fraunces = Fraunces({
   variable: "--font-fraunces",
@@ -20,7 +21,11 @@ const newsreader = Newsreader({
 export const metadata: Metadata = {
   title: "Flashcards",
   description: "CSV-powered spaced-repetition flashcards",
+  manifest: "/manifest.webmanifest",
+  appleWebApp: { capable: true, statusBarStyle: "default", title: "Flashcards" },
 };
+
+export const viewport: Viewport = { themeColor: "#7c2b3e" };
 
 export default function RootLayout({
   children,
@@ -32,7 +37,9 @@ export default function RootLayout({
       lang="en"
       className={`${fraunces.variable} ${newsreader.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        <SyncProvider>{children}</SyncProvider>
+      </body>
     </html>
   );
 }
