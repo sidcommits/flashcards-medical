@@ -44,7 +44,10 @@ export default function BookmarkedView() {
           <div className="flex justify-center">
             <button
               className="rounded-xl bg-accent px-4 py-2.5 font-display text-sm font-semibold text-white"
-              onClick={() => { setFlipped(false); setI((n) => n + 1); }}
+              onClick={() => {
+                if (!flipped) { setFlipped(true); }
+                else { setFlipped(false); setI((n) => n + 1); }
+              }}
             >
               {flipped ? 'Next' : 'Show answer'}
             </button>

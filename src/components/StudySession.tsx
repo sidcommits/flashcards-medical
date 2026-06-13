@@ -204,6 +204,7 @@ export default function StudySession() {
 
       <div className="flex justify-center">
         <CardActions
+          key={current.id}
           cardId={current.id}
           onHide={() => { setReviewed((n) => n + 1); setIndex((i) => i + 1); setFlipped(false); setShowHint(false); }}
         />

@@ -14,6 +14,7 @@ type Row = { subject: string; total: number; due: number; meta: SubjectMeta };
 export default function SubjectGrid() {
   const [cards, setCards] = useState<Card[] | null>(null);
   const [manifest, setManifest] = useState<Record<string, Partial<SubjectMeta>>>({});
+  const [counts, setCounts] = useState({ bookmarks: 0, hidden: 0 });
 
   useEffect(() => {
     let alive = true;
@@ -22,6 +23,10 @@ export default function SubjectGrid() {
       if (!alive) return;
       setCards(c);
       setManifest(m);
+      setCounts({
+        bookmarks: Object.values(loadFlags('bookmarks')).filter((f) => f.on).length,
+        hidden: Object.values(loadFlags('hidden')).filter((f) => f.on).length,
+      });
     })();
     return () => {
       alive = false;
@@ -42,9 +47,6 @@ export default function SubjectGrid() {
   }, [cards, manifest]);
 
   const totalDue = rows.reduce((n, r) => n + r.due, 0);
-
-  const bookmarkCount = useMemo(() => Object.values(loadFlags('bookmarks')).filter((f) => f.on).length, []);
-  const hiddenCount = useMemo(() => Object.values(loadFlags('hidden')).filter((f) => f.on).length, []);
 
   if (!cards) {
     return <p className="py-16 text-center text-muted">Loading cards…</p>;
@@ -77,9 +79,9 @@ export default function SubjectGrid() {
       )}
 
       <div className="flex flex-wrap gap-3">
-        <Link href="/bookmarked" className="card-face px-4 py-2 text-sm hover:text-accent">★ Bookmarked ({bookmarkCount})</Link>
-        {hiddenCount > 0 && (
-          <Link href="/hidden" className="card-face px-4 py-2 text-sm text-muted hover:text-accent">Hidden ({hiddenCount})</Link>
+        <Link href="/bookmarked" className="card-face px-4 py-2 text-sm hover:text-accent">★ Bookmarked ({counts.bookmarks})</Link>
+        {counts.hidden > 0 && (
+          <Link href="/hidden" className="card-face px-4 py-2 text-sm text-muted hover:text-accent">Hidden ({counts.hidden})</Link>
         )}
       </div>
 
