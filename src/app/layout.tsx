@@ -23,6 +23,7 @@ export const metadata: Metadata = {
   description: "CSV-powered spaced-repetition flashcards",
   manifest: "/manifest.webmanifest",
   appleWebApp: { capable: true, statusBarStyle: "default", title: "Flashcards" },
+  icons: { apple: "/icons/apple-touch-icon.png" },
 };
 
 export const viewport: Viewport = { themeColor: "#7c2b3e" };
