@@ -4,7 +4,8 @@ import { useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { loadAllCards, visibleCards, type Card } from '@/lib/cards';
-import { loadFlags } from '@/lib/flags';
+import { loadFlags, setBookmark } from '@/lib/flags';
+import { pushDebounced } from '@/lib/sync';
 import { loadManifest, resolveSubjectMeta, type SubjectMeta } from '@/lib/theme';
 import { BackLink } from './ui';
 import Flashcard from './Flashcard';
@@ -18,7 +19,12 @@ type LoadedData = {
   manifest: Record<string, Partial<SubjectMeta>>;
 };
 
-function useBookmarkedData(): LoadedData | null {
+// `refreshKey` re-derives the bookmarked set whenever it changes. The landing
+// and the per-subject study views share the /bookmarked route (query-param
+// navigation doesn't remount this component), so without a changing key the
+// landing would show stale counts after un-bookmarking. loadAllCards is cached,
+// so re-running is cheap.
+function useBookmarkedData(refreshKey: string): LoadedData | null {
   const [data, setData] = useState<LoadedData | null>(null);
 
   useEffect(() => {
@@ -33,7 +39,7 @@ function useBookmarkedData(): LoadedData | null {
     return () => {
       alive = false;
     };
-  }, []);
+  }, [refreshKey]);
 
   return data;
 }
@@ -55,10 +61,20 @@ function StudyView({
   backHref: string;
   backLabel: string;
 }) {
+  const [list, setList] = useState(cards);
   const [i, setI] = useState(0);
   const [flipped, setFlipped] = useState(false);
 
-  const current = cards[i];
+  const current = list[i];
+
+  const removeBookmark = () => {
+    if (!current) return;
+    setBookmark(current.id, false);
+    pushDebounced();
+    // Drop it from this session; the next card slides into the current index.
+    setList((prev) => prev.filter((c) => c.id !== current.id));
+    setFlipped(false);
+  };
 
   return (
     <div className="flex flex-col gap-6" style={{ ['--accent' as string]: accent }}>
@@ -66,24 +82,28 @@ function StudyView({
       <h1 className="font-display text-3xl font-semibold text-accent">{heading}</h1>
       {!current ? (
         <div className="card-face p-8 text-center">
-          <p className="font-display text-xl text-ink">Done — reviewed all {cards.length} bookmarked.</p>
-          <button
-            className="mt-4 text-sm text-accent"
-            onClick={() => {
-              setI(0);
-              setFlipped(false);
-            }}
-          >
-            Start over
-          </button>
+          <p className="font-display text-xl text-ink">
+            {list.length === 0 ? 'No bookmarked cards here.' : `Done — reviewed all ${list.length}.`}
+          </p>
+          {list.length > 0 && (
+            <button
+              className="mt-4 text-sm text-accent"
+              onClick={() => {
+                setI(0);
+                setFlipped(false);
+              }}
+            >
+              Start over
+            </button>
+          )}
         </div>
       ) : (
         <>
           <p className="text-sm text-muted">
-            {i + 1} / {cards.length}
+            {i + 1} / {list.length}
           </p>
           <Flashcard key={current.id} card={current} flipped={flipped} onFlip={() => setFlipped(true)} accent={accent} />
-          <div className="flex justify-center">
+          <div className="flex flex-wrap items-center justify-center gap-3">
             <button
               className="rounded-xl bg-accent px-4 py-2.5 font-display text-sm font-semibold text-white"
               onClick={() => {
@@ -96,6 +116,14 @@ function StudyView({
               }}
             >
               {flipped ? 'Next' : 'Show answer'}
+            </button>
+            <button
+              type="button"
+              onClick={removeBookmark}
+              aria-label="Remove bookmark"
+              className="rounded-xl border border-line px-4 py-2.5 font-display text-sm font-semibold text-muted transition-colors hover:border-accent hover:text-accent"
+            >
+              ★ Remove bookmark
             </button>
           </div>
         </>
@@ -178,7 +206,8 @@ export default function BookmarkedView() {
   const subjectParam = params.get('subject');
   const allParam = params.get('all');
 
-  const data = useBookmarkedData();
+  // Re-read bookmarks on every landing<->study navigation within /bookmarked.
+  const data = useBookmarkedData(params.toString());
 
   if (!data) return <p className="py-16 text-center text-muted">Loading…</p>;
 
@@ -188,6 +217,7 @@ export default function BookmarkedView() {
   if (allParam === '1') {
     return (
       <StudyView
+        key="all"
         cards={bookmarked}
         accent="#7c2b3e"
         heading="★ All bookmarked"
@@ -200,12 +230,15 @@ export default function BookmarkedView() {
   // STUDY: ?subject=X
   if (subjectParam) {
     const filtered = bookmarked.filter((c) => c.subject === subjectParam);
-    const metaMap = resolveSubjectMeta(bookmarked.map((c) => c.subject), manifest);
-    const meta = metaMap.get(subjectParam)!;
+    // Always include subjectParam so its color resolves even when the subject
+    // has no remaining bookmarks (e.g. after removing its last one).
+    const subjects = [...new Set([subjectParam, ...bookmarked.map((c) => c.subject)])];
+    const accent = resolveSubjectMeta(subjects, manifest).get(subjectParam)?.color ?? '#7c2b3e';
     return (
       <StudyView
+        key={subjectParam}
         cards={filtered}
-        accent={meta.color}
+        accent={accent}
         heading={subjectParam}
         backHref="/bookmarked"
         backLabel="Bookmarked"
