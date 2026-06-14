@@ -8,6 +8,7 @@ import { isDue, newReview, previewInterval, schedule, type Grade } from '@/lib/s
 import { loadManifest, resolveSubjectMeta } from '@/lib/theme';
 import { pushDebounced } from '@/lib/sync';
 import { recordEvent, flushEventsDebounced } from '@/lib/events';
+import { markGoalDay } from '@/lib/profile';
 import { BackLink, Button, ProgressBar } from './ui';
 import Flashcard from './Flashcard';
 import CardActions from './CardActions';
@@ -138,6 +139,14 @@ export default function StudySession() {
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
   }, [current, flipped, grade]);
+
+  // Hitting the end of a real due queue = "cleared due today" -> streak credit.
+  useEffect(() => {
+    if (!ahead && total > 0 && index >= total) {
+      markGoalDay();
+      pushDebounced();
+    }
+  }, [ahead, total, index]);
 
   const crumb = useMemo(
     () => [subject, deck, topic].filter(Boolean).join(' ▸ ') || 'Everything due',
