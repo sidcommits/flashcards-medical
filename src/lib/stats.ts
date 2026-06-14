@@ -14,7 +14,8 @@ export function daysUntil(examDate: string | null): number | null {
 
 /**
  * Mean FSRS recall probability across all cards at the exam date. Never-studied
- * cards count as 0 (you won't recall what you haven't learned). null if no date.
+ * cards count as 0 (you won't recall what you haven't learned). null if no date
+ * or no cards.
  */
 export function readiness(cards: Card[], reviews: Record<string, Review>, examDate: string | null): number | null {
   if (!examDate || cards.length === 0) return null;
