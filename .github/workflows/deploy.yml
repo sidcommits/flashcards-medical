@@ -3,6 +3,9 @@ name: Deploy to VPS
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'docs/**'
+      - '**.md'
   workflow_dispatch:
 
 concurrency:
@@ -38,6 +41,15 @@ jobs:
           rsync -avz --delete \
             -e "ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes" \
             out/ "${{ secrets.VPS_USER }}@${{ secrets.VPS_HOST }}:/var/www/flashcards/"
+
+      - name: Deploy sync service + reload pm2
+        run: |
+          rsync -avz --delete --exclude='.env' --exclude='node_modules' \
+            -e "ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes" \
+            server/ "${{ secrets.VPS_USER }}@${{ secrets.VPS_HOST }}:/opt/flashcards-sync/"
+          ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes \
+            "${{ secrets.VPS_USER }}@${{ secrets.VPS_HOST }}" \
+            'cd /opt/flashcards-sync && pm2 reload ecosystem.config.cjs'
 
       - name: Clean up SSH key
         if: always()
