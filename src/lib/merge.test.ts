@@ -50,3 +50,20 @@ describe('client merge', () => {
     expect(mergeDoc(a, b).resetAt).toBe(5000);
   });
 });
+
+describe('examDate + goalDays merge', () => {
+  it('examDate: newest ts wins; goalDays union', () => {
+    const a = { ...emptyDoc(), examDate: { value: '2026-09-01', ts: 10 }, goalDays: { '2026-06-13': { on: true, ts: 5 } } };
+    const b = { ...emptyDoc(), examDate: { value: '2026-10-01', ts: 20 }, goalDays: { '2026-06-14': { on: true, ts: 6 } } };
+    const m = mergeDoc(a, b);
+    expect(m.examDate.value).toBe('2026-10-01'); // newer ts
+    expect(Object.keys(m.goalDays).sort()).toEqual(['2026-06-13', '2026-06-14']);
+  });
+
+  it('tolerates docs missing the new fields (back-compat)', () => {
+    const legacy = { version: 1, updatedAt: 0, resetAt: null, reviews: {}, bookmarks: {}, hidden: {} } as never;
+    const m = mergeDoc(legacy, emptyDoc());
+    expect(m.examDate.value).toBeNull();
+    expect(m.goalDays).toEqual({});
+  });
+});
