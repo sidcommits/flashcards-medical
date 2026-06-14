@@ -61,7 +61,13 @@ function createServer() {
           if (body === null) return send(res, 400, { error: 'bad json' });
           const next = body.reset === true
             ? { ...emptyDoc(), resetAt: Date.now() }
-            : mergeDoc(readDoc(), { reviews: body.reviews || {}, bookmarks: body.bookmarks || {}, hidden: body.hidden || {} });
+            : mergeDoc(readDoc(), {
+                reviews: body.reviews || {},
+                bookmarks: body.bookmarks || {},
+                hidden: body.hidden || {},
+                examDate: body.examDate,
+                goalDays: body.goalDays || {},
+              });
           writeDoc(next);
           return send(res, 200, next, refresh);
         }
