@@ -4,7 +4,7 @@ const { makeSessionCookie, clearCookie, parseCookies, verify, COOKIE_NAME } = re
 const { readDoc, writeDoc } = require('./lib/store');
 const { mergeDoc, emptyDoc } = require('./lib/merge');
 const { rateLimit } = require('./lib/ratelimit');
-const { insertEvents } = require('./lib/eventstore');
+const { insertEvents, statsAggregates } = require('./lib/eventstore');
 
 function send(res, status, body, headers = {}) {
   res.writeHead(status, { 'Content-Type': 'application/json', ...headers });
@@ -88,6 +88,19 @@ function createServer() {
         }
         if (inserted < 0) return send(res, 503, { error: 'log unavailable' }, refresh);
         return send(res, 200, { ok: true, inserted }, refresh);
+      }
+
+      if (req.method === 'GET' && url === '/api/stats') {
+        if (!authed(req, SECRET)) return send(res, 401, { error: 'unauthorized' });
+        const refresh = { 'Set-Cookie': makeSessionCookie(SECRET) };
+        let stats;
+        try {
+          stats = statsAggregates();
+        } catch (e) {
+          console.error('stats', e);
+          return send(res, 200, { retention30: null, reviewedByDay: {} }, refresh);
+        }
+        return send(res, 200, stats, refresh);
       }
 
       if (url === '/health') return send(res, 200, { ok: true });

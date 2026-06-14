@@ -83,4 +83,23 @@ function countEvents() {
   return Number(db.prepare('SELECT COUNT(*) AS c FROM review_events').get().c);
 }
 
-module.exports = { getDb, available, insertEvents, countEvents, dbPath };
+const DAY_MS = 86400000;
+function statsAggregates() {
+  const db = getDb();
+  if (!db) return { retention30: null, reviewedByDay: {} };
+  const since = Date.now() - 30 * DAY_MS;
+  const ret = db
+    .prepare(`SELECT COUNT(*) AS total, SUM(CASE WHEN grade != 'again' THEN 1 ELSE 0 END) AS correct
+              FROM review_events WHERE reviewed_at >= ?`)
+    .get(since);
+  const retention30 = ret.total > 0 ? Number(ret.correct) / Number(ret.total) : null;
+  const rows = db
+    .prepare(`SELECT local_date AS d, COUNT(*) AS c FROM review_events
+              GROUP BY local_date ORDER BY local_date DESC LIMIT 28`)
+    .all();
+  const reviewedByDay = {};
+  for (const r of rows) reviewedByDay[r.d] = Number(r.c);
+  return { retention30, reviewedByDay };
+}
+
+module.exports = { getDb, available, insertEvents, countEvents, dbPath, statsAggregates };
