@@ -36,7 +36,7 @@ function remoteWithReview(): ProgressDoc {
     updatedAt: 100,
     resetAt: null,
     reviews: {
-      'card-abc': { ease: 2.6, interval: 2, reps: 1, lapses: 0, due: 9999, ts: 500 },
+      'card-abc': { stability: 2.6, difficulty: 5, state: 2, reps: 1, lapses: 0, due: 9999, ts: 500 },
     },
     bookmarks: {},
     hidden: {},
@@ -71,7 +71,7 @@ describe('pullAndMerge', () => {
 
     const stored = JSON.parse(mem[REVIEWS_KEY] ?? '{}');
     expect(stored['card-abc']).toBeDefined();
-    expect(stored['card-abc'].ease).toBe(2.6);
+    expect(stored['card-abc'].stability).toBe(2.6);
     expect(stored['card-abc'].ts).toBe(500);
   });
 
@@ -94,7 +94,7 @@ describe('pullAndMerge', () => {
     vi.stubGlobal('fetch', vi.fn().mockRejectedValue(new Error('network error')));
 
     // pre-set something in storage to verify it is unchanged
-    mem[REVIEWS_KEY] = JSON.stringify({ 'pre-existing': { ease: 2.5, interval: 1, reps: 0, lapses: 0, due: 0, ts: 1 } });
+    mem[REVIEWS_KEY] = JSON.stringify({ 'pre-existing': { stability: 1, difficulty: 5, state: 0, reps: 0, lapses: 0, due: 0, ts: 1 } });
 
     let lastStatus = '';
     const unsub = onSyncStatus((s) => { lastStatus = s; });
