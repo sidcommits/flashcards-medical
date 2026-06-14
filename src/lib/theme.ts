@@ -4,7 +4,7 @@ const PALETTE = ['#7c2b3e', '#1f5d54', '#2f4858', '#6a4c93', '#8a5a17', '#3a6ea5
 
 export type SubjectMeta = { color: string; order: number; blurb?: string };
 
-export async function loadManifest(): Promise<Record<string, Partial<SubjectMeta>>> {
+async function fetchManifest(): Promise<Record<string, Partial<SubjectMeta>>> {
   try {
     const res = await fetch(`${BASE}/decks/manifest.json`, { cache: 'no-store' });
     if (!res.ok) return {};
@@ -12,6 +12,14 @@ export async function loadManifest(): Promise<Record<string, Partial<SubjectMeta
   } catch {
     return {};
   }
+}
+
+// Cached for the page lifetime — called on every route mount. (Never rejects.)
+let manifestPromise: Promise<Record<string, Partial<SubjectMeta>>> | null = null;
+
+export function loadManifest(): Promise<Record<string, Partial<SubjectMeta>>> {
+  if (!manifestPromise) manifestPromise = fetchManifest();
+  return manifestPromise;
 }
 
 export function resolveSubjectMeta(

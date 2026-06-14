@@ -70,7 +70,7 @@ async function parseXlsx(url: string): Promise<Card[]> {
   return rowsToCards(rows);
 }
 
-export async function loadAllCards(): Promise<Card[]> {
+async function fetchAllCards(): Promise<Card[]> {
   const { files } = await fetch(`${BASE}/decks/index.json`, { cache: 'no-store' }).then((r) =>
     r.json()
   );
@@ -82,6 +82,22 @@ export async function loadAllCards(): Promise<Card[]> {
   const map = new Map<string, Card>();
   for (const c of all.flat()) map.set(c.id, c); // de-dupe; last wins
   return [...map.values()];
+}
+
+// Cache the parsed cards for the lifetime of the page. Every route mounts a
+// component that calls loadAllCards(); without this, each navigation (doubled
+// by React StrictMode in dev) re-downloads and re-parses ~0.5 MB of CSV. A full
+// page reload re-evaluates this module, so edited decks still appear on refresh.
+let cardsPromise: Promise<Card[]> | null = null;
+
+export function loadAllCards(): Promise<Card[]> {
+  if (!cardsPromise) {
+    cardsPromise = fetchAllCards().catch((err) => {
+      cardsPromise = null; // don't cache a failure — allow retry on next call
+      throw err;
+    });
+  }
+  return cardsPromise;
 }
 
 // Grouping helpers
