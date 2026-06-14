@@ -3,7 +3,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import { loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { loadReviews } from '@/lib/store';
-import { type Review } from '@/lib/srs';
+import { type Review, isLeech } from '@/lib/srs';
+import Link from 'next/link';
 import { loadExamDate, setExamDate, loadGoalDays, todayLocal } from '@/lib/profile';
 import { pushDebounced } from '@/lib/sync';
 import { readiness, daysUntil, dueForecast, streak, recentAvgPerDay, onPace, cardsNotReady } from '@/lib/stats';
@@ -53,6 +54,7 @@ export default function StatsDashboard() {
       streakN: streak(goalDays),
       todayCount: stats.reviewedByDay[todayLocal()] ?? 0, // device-local, matches server local_date
       forecast: dueForecast(reviews, 7),
+      strugglingN: cards.filter((c) => isLeech(reviews[c.id])).length,
     };
   }, [cards, reviews, exam, goalDays, stats]);
 
@@ -112,6 +114,10 @@ export default function StatsDashboard() {
         <span className="text-xs uppercase tracking-[0.16em] text-muted">Due · next 7 days</span>
         <Forecast values={m.forecast} />
       </div>
+
+      <Link href="/struggling" className="card-face p-4 text-center font-display text-[#8a4b1a] hover:text-accent">
+        ⚑ Struggling cards ({m.strugglingN})
+      </Link>
     </div>
   );
 }
