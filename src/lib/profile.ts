@@ -12,6 +12,7 @@ export function todayLocal(d = new Date()): string {
 export function loadExamDate(): ExamDate {
   if (typeof localStorage === 'undefined') return { value: null, ts: 0 };
   try {
+    // Missing key -> '' -> JSON.parse throws -> caught below -> default.
     return JSON.parse(localStorage.getItem(EXAM_KEY) || '') as ExamDate;
   } catch {
     return { value: null, ts: 0 };
