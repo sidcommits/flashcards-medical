@@ -23,9 +23,15 @@ export default function SubjectGrid() {
       if (!alive) return;
       setCards(c);
       setManifest(m);
+      // Count against the actual cards so the badges match their destinations:
+      // bookmarks excludes hidden cards (like the Bookmarked landing), hidden
+      // counts existing hidden cards (like the Hidden list). A bookmarked card
+      // that's also hidden shows under Hidden only — never as a phantom bookmark.
+      const bm = loadFlags('bookmarks');
+      const hd = loadFlags('hidden');
       setCounts({
-        bookmarks: Object.values(loadFlags('bookmarks')).filter((f) => f.on).length,
-        hidden: Object.values(loadFlags('hidden')).filter((f) => f.on).length,
+        bookmarks: visibleCards(c).filter((card) => bm[card.id]?.on).length,
+        hidden: c.filter((card) => hd[card.id]?.on).length,
       });
     })();
     return () => {
