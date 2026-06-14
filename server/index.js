@@ -51,7 +51,10 @@ function createServer() {
 
       if (url === '/api/progress') {
         if (!authed(req, SECRET)) return send(res, 401, { error: 'unauthorized' });
-        if (req.method === 'GET') return send(res, 200, readDoc());
+        // Sliding session: refresh the cookie on every sync so an actively-used
+        // session never expires (she logs in once and stays in).
+        const refresh = { 'Set-Cookie': makeSessionCookie(SECRET) };
+        if (req.method === 'GET') return send(res, 200, readDoc(), refresh);
         if (req.method === 'PUT') {
           const body = await readBody(req);
           if (body === null) return send(res, 400, { error: 'bad json' });
@@ -59,7 +62,7 @@ function createServer() {
             ? { ...emptyDoc(), resetAt: Date.now() }
             : mergeDoc(readDoc(), { reviews: body.reviews || {}, bookmarks: body.bookmarks || {}, hidden: body.hidden || {} });
           writeDoc(next);
-          return send(res, 200, next);
+          return send(res, 200, next, refresh);
         }
         return send(res, 405, { error: 'method not allowed' });
       }
