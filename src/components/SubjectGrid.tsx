@@ -7,6 +7,8 @@ import { loadFlags } from '@/lib/flags';
 import { getReview } from '@/lib/store';
 import { isDue } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta, type SubjectMeta } from '@/lib/theme';
+import { loadExamDate, loadGoalDays } from '@/lib/profile';
+import { readiness, streak } from '@/lib/stats';
 import { Button } from './ui';
 
 type Row = { subject: string; total: number; due: number; meta: SubjectMeta };
@@ -15,6 +17,7 @@ export default function SubjectGrid() {
   const [cards, setCards] = useState<Card[] | null>(null);
   const [manifest, setManifest] = useState<Record<string, Partial<SubjectMeta>>>({});
   const [counts, setCounts] = useState({ bookmarks: 0, hidden: 0 });
+  const [insight, setInsight] = useState<{ streak: number; ready: number | null }>({ streak: 0, ready: null });
 
   useEffect(() => {
     let alive = true;
@@ -33,6 +36,11 @@ export default function SubjectGrid() {
         bookmarks: visibleCards(c).filter((card) => bm[card.id]?.on).length,
         hidden: c.filter((card) => hd[card.id]?.on).length,
       });
+      const exam = loadExamDate().value;
+      const reviewsMap = Object.fromEntries(
+        visibleCards(c).map((card) => [card.id, getReview(card.id)]).filter(([, r]) => r) as [string, NonNullable<ReturnType<typeof getReview>>][]
+      );
+      setInsight({ streak: streak(loadGoalDays()), ready: readiness(visibleCards(c), reviewsMap, exam) });
     })();
     return () => {
       alive = false;
@@ -89,6 +97,9 @@ export default function SubjectGrid() {
         {counts.hidden > 0 && (
           <Link href="/hidden" className="card-face px-4 py-2 text-sm text-muted hover:text-accent">Hidden ({counts.hidden})</Link>
         )}
+        <Link href="/stats" className="card-face px-4 py-2 text-sm hover:text-accent">
+          🔥 {insight.streak}{insight.ready != null ? ` · ${Math.round(insight.ready * 100)}% ready` : ''}
+        </Link>
       </div>
 
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">

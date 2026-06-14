@@ -62,3 +62,6 @@ body {
   inset: 0;
   transform: rotateY(180deg);
 }
+
+/* Custom grid utility not in Tailwind v4 */
+.grid-cols-14 { grid-template-columns: repeat(14, minmax(0, 1fr)); }
