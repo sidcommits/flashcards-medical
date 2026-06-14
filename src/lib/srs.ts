@@ -97,6 +97,11 @@ export function previewInterval(prev: Review, grade: Grade): string {
   return formatInterval(due - now.getTime());
 }
 
+/** FSRS-predicted recall probability for this card at a given date (0..1). */
+export function retrievabilityAt(prev: Review, date: Date): number {
+  return scheduler.get_retrievability(toCard(prev), date, false);
+}
+
 function formatInterval(ms: number): string {
   const mins = Math.round(ms / 60_000);
   if (mins < 1) return '<1m';
