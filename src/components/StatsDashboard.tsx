@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { loadReviews } from '@/lib/store';
 import { type Review } from '@/lib/srs';
-import { loadExamDate, setExamDate, loadGoalDays } from '@/lib/profile';
+import { loadExamDate, setExamDate, loadGoalDays, todayLocal } from '@/lib/profile';
 import { pushDebounced } from '@/lib/sync';
 import { readiness, daysUntil, dueForecast, streak, recentAvgPerDay, onPace, cardsNotReady } from '@/lib/stats';
 import { BackLink } from './ui';
@@ -51,7 +51,7 @@ export default function StatsDashboard() {
     return {
       ready, days, pace,
       streakN: streak(goalDays),
-      todayCount: stats.reviewedByDay[new Date().toISOString().slice(0, 10)] ?? 0,
+      todayCount: stats.reviewedByDay[todayLocal()] ?? 0, // device-local, matches server local_date
       forecast: dueForecast(reviews, 7),
     };
   }, [cards, reviews, exam, goalDays, stats]);

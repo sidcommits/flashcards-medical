@@ -37,10 +37,11 @@ export default function SubjectGrid() {
         hidden: c.filter((card) => hd[card.id]?.on).length,
       });
       const exam = loadExamDate().value;
+      const visible = visibleCards(c);
       const reviewsMap = Object.fromEntries(
-        visibleCards(c).map((card) => [card.id, getReview(card.id)]).filter(([, r]) => r) as [string, NonNullable<ReturnType<typeof getReview>>][]
+        visible.map((card) => [card.id, getReview(card.id)]).filter(([, r]) => r) as [string, NonNullable<ReturnType<typeof getReview>>][]
       );
-      setInsight({ streak: streak(loadGoalDays()), ready: readiness(visibleCards(c), reviewsMap, exam) });
+      setInsight({ streak: streak(loadGoalDays()), ready: readiness(visible, reviewsMap, exam) });
     })();
     return () => {
       alive = false;
