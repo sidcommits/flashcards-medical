@@ -1,50 +1,112 @@
+import { fsrs, createEmptyCard, Rating, State, type Card, type Grade as FsrsGrade } from 'ts-fsrs';
+
 export type Grade = 'again' | 'hard' | 'good' | 'easy';
 
 export type Review = {
-  ease: number;     // ease factor, starts 2.5
-  interval: number; // days
-  due: number;      // epoch ms
+  stability: number;     // 0 for New cards; legacy SM-2 blobs lack it — detect via === undefined, never falsiness
+  difficulty: number;    // 1..10 (FSRS)
+  state: number;         // State enum: 0 New, 1 Learning, 2 Review, 3 Relearning
+  lastReview?: number;   // epoch ms of previous grade; undefined if never reviewed
+  due: number;           // epoch ms — when next due
   reps: number;
   lapses: number;
-  ts: number;       // last graded, epoch ms — merge key for sync
+  ts: number;            // last graded, epoch ms — sync merge key (unchanged)
 };
 
 const DAY = 86_400_000;
 
+// One scheduler for the whole app. 90% target retention is the recommended
+// board-prep default; fuzz spreads reviews so they don't clump on one day;
+// short-term steps preserve the old "Again -> ~10 min" feel. Default FSRS-6
+// weights, no optimizer (out of scope — see spec).
+const scheduler = fsrs({
+  request_retention: 0.9,
+  enable_fuzz: true,
+  enable_short_term: true,
+  learning_steps: ['1m', '10m'],
+  relearning_steps: ['10m'],
+});
+
+const RATING: Record<Grade, Rating> = {
+  again: Rating.Again,
+  hard: Rating.Hard,
+  good: Rating.Good,
+  easy: Rating.Easy,
+};
+
+// Build a ts-fsrs Card from our stored Review. Legacy SM-2 blobs (no
+// `stability`) are seeded in place: stability from the old interval, a neutral
+// difficulty, and the existing due date preserved. Approximate but
+// self-correcting — FSRS refines difficulty/stability on the next review.
+function toCard(prev: Review): Card {
+  const c = createEmptyCard(new Date(prev.due));
+  const reps = prev.reps ?? 0;
+  c.reps = reps;
+  c.lapses = prev.lapses ?? 0;
+
+  if (prev.stability === undefined) {
+    // legacy SM-2 blob (no FSRS state) -> seed it
+    const interval = (prev as { interval?: number }).interval ?? 0;
+    const reviewed = reps > 0;
+    c.stability = Math.max(interval, 0.1);
+    c.difficulty = 5;
+    c.state = reviewed ? State.Review : State.New;
+    c.last_review = reviewed ? new Date(prev.due - interval * DAY) : undefined;
+  } else {
+    c.stability = prev.stability;
+    c.difficulty = prev.difficulty;
+    c.state = prev.state as State;
+    c.last_review = prev.lastReview !== undefined ? new Date(prev.lastReview) : undefined;
+  }
+  return c;
+}
+
+// Fold a scheduled Card back into our Review (Date -> epoch ms), stamping ts.
+function fromCard(c: Card): Review {
+  return {
+    stability: c.stability,
+    difficulty: c.difficulty,
+    state: c.state,
+    lastReview: c.last_review ? c.last_review.getTime() : undefined,
+    due: c.due.getTime(),
+    reps: c.reps,
+    lapses: c.lapses,
+    ts: Date.now(),
+  };
+}
+
 export function newReview(): Review {
-  return { ease: 2.5, interval: 0, due: Date.now(), reps: 0, lapses: 0, ts: Date.now() };
+  return fromCard(createEmptyCard());
 }
 
 export function schedule(prev: Review, grade: Grade): Review {
-  let { ease, interval, reps, lapses } = prev;
-
-  if (grade === 'again') {
-    lapses += 1;
-    ease = Math.max(1.3, ease - 0.2);
-    return { ease, interval: 0, reps: 0, lapses, due: Date.now() + 10 * 60_000, ts: Date.now() };
-  }
-
-  if (reps === 0) {
-    interval = grade === 'easy' ? 4 : 1;
-  } else {
-    const mult = grade === 'hard' ? 1.2 : grade === 'easy' ? ease * 1.3 : ease;
-    interval = Math.max(1, Math.round(interval * mult));
-  }
-
-  if (grade === 'hard') ease = Math.max(1.3, ease - 0.15);
-  if (grade === 'easy') ease = ease + 0.15;
-
-  reps += 1;
-  return { ease, interval, reps, lapses, due: Date.now() + interval * DAY, ts: Date.now() };
+  const { card } = scheduler.next(toCard(prev), new Date(), RATING[grade] as FsrsGrade);
+  return fromCard(card);
 }
 
 export function isDue(r: Review | undefined): boolean {
   return !r || r.due <= Date.now();
 }
 
-// human label for the "next due" preview on each grade button
+// Short human label for the next-due preview on each grade button.
 export function previewInterval(prev: Review, grade: Grade): string {
-  const next = schedule(prev, grade);
-  if (grade === 'again') return '10m';
-  return next.interval >= 1 ? `${next.interval}d` : '<1d';
+  const now = new Date();
+  // preview uses repeat(); the actual grade uses next(); fuzz makes the two differ slightly
+  const preview = scheduler.repeat(toCard(prev), now);
+  const due = preview[RATING[grade] as FsrsGrade].card.due.getTime();
+  return formatInterval(due - now.getTime());
+}
+
+function formatInterval(ms: number): string {
+  const mins = Math.round(ms / 60_000);
+  if (mins < 1) return '<1m';
+  if (mins < 60) return `${mins}m`;
+  const hours = Math.round(ms / 3_600_000);
+  if (hours < 24) return `${hours}h`;
+  const days = Math.round(ms / 86_400_000);
+  if (days < 30) return `${days}d`;
+  const rawDays = ms / 86_400_000;
+  const months = rawDays / 30;
+  if (months < 12) return `${months < 10 ? months.toFixed(1) : Math.round(months)}mo`;
+  return `${(rawDays / 365).toFixed(1)}y`;
 }
