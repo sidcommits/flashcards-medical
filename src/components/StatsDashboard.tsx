@@ -115,9 +115,11 @@ export default function StatsDashboard() {
         <Forecast values={m.forecast} />
       </div>
 
-      <Link href="/struggling" className="card-face p-4 text-center font-display text-[#8a4b1a] hover:text-accent">
-        ⚑ Struggling cards ({m.strugglingN})
-      </Link>
+      {m.strugglingN > 0 && (
+        <Link href="/struggling" className="card-face p-4 text-center font-display text-[#8a4b1a] hover:text-accent">
+          ⚑ Struggling cards ({m.strugglingN})
+        </Link>
+      )}
     </div>
   );
 }
