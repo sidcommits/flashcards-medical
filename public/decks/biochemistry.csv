@@ -1,0 +1,659 @@
+subject,deck,topic,front,back
+Biochemistry,Biochem-P1,Substrates,What substrate does LIVER use in FED state (2hr)?,Glucose
+Biochemistry,Biochem-P1,Substrates,What substrate does LIVER use in FASTING (12-18hr)?,Fatty Acids
+Biochemistry,Biochem-P1,Substrates,What substrate does LIVER use in STARVATION (1-3d)?,Amino acids
+Biochemistry,Biochem-P1,Substrates,What substrate does MUSCLE use in FED state?,Glucose
+Biochemistry,Biochem-P1,Substrates,What substrate does MUSCLE use in FASTING?,Fatty Acids
+Biochemistry,Biochem-P1,Substrates,What substrate does MUSCLE use in STARVATION?,Ketone Bodies
+Biochemistry,Biochem-P1,Substrates,What substrate does ADIPOSE use in FED state?,Glucose
+Biochemistry,Biochem-P1,Substrates,What substrate does ADIPOSE use in FASTING?,Fatty Acids
+Biochemistry,Biochem-P1,Substrates,What substrate does ADIPOSE use in STARVATION?,Fatty Acids
+Biochemistry,Biochem-P1,Substrates,What substrate does BRAIN use in FED state?,Glucose
+Biochemistry,Biochem-P1,Substrates,What substrate does BRAIN use in FASTING?,Glucose — crosses BBB
+Biochemistry,Biochem-P1,Substrates,What substrate does BRAIN use in STARVATION?,Ketone Bodies
+Biochemistry,Biochem-P1,Substrates,What substrate do RBCs use in ALL states (Fed/Fasting/Starvation)?,Glucose — always
+Biochemistry,Biochem-P1,Substrates,What substrate does HEART use in FED state?,Fatty Acids
+Biochemistry,Biochem-P1,Substrates,What substrate does HEART use in FASTING?,Fatty Acids
+Biochemistry,Biochem-P1,Substrates,What substrate does HEART use in STARVATION?,Ketone Bodies
+Biochemistry,Biochem-P1,Substrates,What 2 processes occur at the top of the fasting column?,Glycogenolysis → Gluconeogenesis
+Biochemistry,Biochem-P1,Substrates,Which ketone body forms FIRST?,Acetoacetate
+Biochemistry,Biochem-P1,Substrates,Which ketone body is the MAIN/most common?,β-Hydroxybutyrate
+Biochemistry,Biochem-P1,Substrates,Which ketone body causes fruity odour?,Acetone
+Biochemistry,Biochem-P1,Substrates,Which enzyme is COMMON to both KB synthesis AND breakdown?,Thiolase
+Biochemistry,Biochem-P1,Substrates,Which enzyme is ABSENT in liver so KBs are NOT utilized there?,Thiophorase (succinyl-CoA transferase / acetoacetate-CoA transferase)
+Biochemistry,Biochem-P1,Substrates,Thiophorase is also called?,Succinyl-CoA transferase / Acetoacetate-CoA transferase — absent in liver
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-1 — location?,"Brain, kidney, placenta, erythrocytes"
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-1 — function?,Basal uptake of glucose — HIGH affinity
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-2 — location?,"Liver, pancreatic β-cell, small intestine"
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-2 — function?,Fed state — LOW priority (low affinity)
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-3 — location?,"Brain, kidney, placenta"
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-3 — function?,Glucose uptake — MAXIMUM affinity for glucose
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-4 — location?,"Heart and skeletal muscle, adipose tissue"
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-4 — function?,Insulin-stimulated glucose uptake
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-5 — location?,"Small intestine, sperms"
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT-5 — what does it transport?,Fructose
+Biochemistry,Biochem-P1,Glucose Transporters,GLUT transporters use what type of transport?,Facilitated diffusion — Bidirectional
+Biochemistry,Biochem-P1,Glucose Transporters,SGLT stands for?,Sodium-Glucose Linked Transporter
+Biochemistry,Biochem-P1,Glucose Transporters,SGLT uses what type of transport?,Secondary Active Transport — Unilateral
+Biochemistry,Biochem-P1,Glucose Transporters,SGLT-1 — location?,Intestine
+Biochemistry,Biochem-P1,Glucose Transporters,SGLT-2 — location?,Kidneys
+Biochemistry,Biochem-P1,Glucose Transporters,SGLT-2 is inhibited by?,GLIFOZINS (e.g. Empagliflozin / Dapagliflozin)
+Biochemistry,Biochem-P1,Glucose Transporters,Examples of PRIMARY active transport pumps?,"Na⁺-K⁺ ATPase pump, H⁺ pump, Ca²⁺ ATPase (SR pump)"
+Biochemistry,Biochem-P1,Glucose Transporters,Examples of SECONDARY active transport?,"SGLT, Na-I symport"
+Biochemistry,Biochem-P1,Glucose Transporters,Fanconi-Bickel syndrome — which transporter is absent?,GLUT-2 is absent
+Biochemistry,Biochem-P1,Glucose Transporters,Fanconi-Bickel — clinical presentation?,Fast → Hypoglycemia; Fed → Hyperglycemia
+Biochemistry,Biochem-P1,Glucose Transporters,In the diffusion graph — which reaches Vmax: simple diffusion or facilitated diffusion?,Facilitated diffusion (GLUT) reaches Vmax; simple diffusion is linear (no Vmax)
+Biochemistry,Biochem-P1,Glucose Transporters,Channel proteins vs Carrier proteins — which type are GLUTs?,Carrier proteins (facilitated diffusion)
+Biochemistry,Biochem-P1,Basics,Fed state (Insulin) — active in which cellular state?,De-phosphorylated state — Cytoplasm — ANABOLIC
+Biochemistry,Biochem-P1,Basics,Fed state — which pathways are active?,"Glycolysis, Glycogen Synthesis, Cholesterol Synthesis, FA Synthesis, Lipoprotein Lipase"
+Biochemistry,Biochem-P1,Basics,Fasting state (Glucagon) — active in which cellular state?,Phosphorylated state — Mitochondria (except Glycogenolysis = cytoplasm) — CATABOLIC
+Biochemistry,Biochem-P1,Basics,Fasting state — which pathways are active?,"Glycogenolysis, Gluconeogenesis, KB Synthesis/Breakdown, FA oxidation, Hormone Sensitive Lipase"
+Biochemistry,Biochem-P1,Basics,Which processes occur in BOTH mitochondria and cytoplasm?,H = Heme Synthesis; U = Urea Cycle; G = Gluconeogenesis
+Biochemistry,Biochem-P1,Basics,HSL is inhibited by?,"Insulin, PGE1, Niacin"
+Biochemistry,Biochem-P1,Basics,Cholesterol and bile acid synthesis — active in which state?,Both FED and FASTING — BOTH mitochondria & cytoplasm
+Biochemistry,Biochem-P1,Basics,HSL is active in which state?,FASTING state (Glucagon)
+Biochemistry,Biochem-P1,Basics,Lipoprotein Lipase is active in which state?,FED state (Insulin)
+Biochemistry,Biochem-P1,Basics,Glycogenolysis occurs in cytoplasm or mitochondria?,CYTOPLASM — exception among fasting pathways
+Biochemistry,Biochem-P1,Cycles Summary,What is the Cahill Cycle?,Pyruvate ⇌ Alanine
+Biochemistry,Biochem-P1,Cycles Summary,What is the Cori Cycle?,Pyruvate ⇌ Lactate
+Biochemistry,Biochem-P1,Cycles Summary,Pink circle in cycles diagram = ?,Rate-limiting step
+Biochemistry,Biochem-P1,Cycles Summary,Blue/purple circle in cycles diagram = ?,Substrate Level Phosphorylation
+Biochemistry,Biochem-P1,Cycles Summary,Aerobic glycolysis ATP yield?,32 ATP (7 ATP + 5 ATP + 20 ATP)
+Biochemistry,Biochem-P1,Cycles Summary,Anaerobic glycolysis ATP yield?,2 ATP
+Biochemistry,Biochem-P1,Cycles Summary,Glycogen breakdown ATP yield?,3 ATP
+Biochemistry,Biochem-P1,Cycles Summary,RBC-RL shunt produces?,2,3-BPG → Right Shift in O₂ Dissociation Curve
+Biochemistry,Biochem-P1,Cycles Summary,HMP shunt produces?,NADPH (oxidative stress) and Ribose
+Biochemistry,Biochem-P1,Cycles Summary,Amphibolic cycle = ?,Kreb's Cycle (TCA cycle)
+Biochemistry,Biochem-P1,Cycles Summary,Anaplerotic reaction = ?,Pyruvate → OAA (Pyruvate Decarboxylase; requires Vit B₁₂)
+Biochemistry,Biochem-P1,Cycles Summary,Succinyl-CoA is precursor for?,Heme
+Biochemistry,Biochem-P1,Cycles Summary,Alpha-ketoglutarate is precursor for?,"Glutamate, GABA"
+Biochemistry,Biochem-P1,Cycles Summary,Citrate is precursor for?,Fatty acid synthesis
+Biochemistry,Biochem-P1,Cycles Summary,SGPT/ALT transamination: Pyruvate ⇌ ?,Alanine (requires Vit B₆; Cahill cycle)
+Biochemistry,Biochem-P1,Cycles Summary,SGOT/AST transamination: Oxaloacetate ⇌ ?,Aspartate
+Biochemistry,Biochem-P1,Cycles Summary,Gluconeogenesis substrate 1?,Alanine (Cahill cycle)
+Biochemistry,Biochem-P1,Cycles Summary,Gluconeogenesis substrate 2?,Lactate (Cori cycle)
+Biochemistry,Biochem-P1,Cycles Summary,Gluconeogenesis substrate 3?,Glycerol (from TG)
+Biochemistry,Biochem-P1,Cycles Summary,Gluconeogenesis substrate 4?,Propionyl-CoA (from Odd-chain FA)
+Biochemistry,Biochem-P1,Cycles Summary,Which molecule is NOT a gluconeogenesis substrate — and what is it instead?,Acetyl-CoA — it is an ACTIVATOR (not a substrate)
+Biochemistry,Biochem-P1,Cycles Summary,Carnitine shuttle is for?,FA oxidation
+Biochemistry,Biochem-P1,Cycles Summary,Citrate shuttle is for?,FA synthesis
+Biochemistry,Biochem-P1,Cycles Summary,Malate shuttle is for?,OAA (transport)
+Biochemistry,Biochem-P1,Cycles Summary,NaF inhibits which enzyme?,Enolase (glycolysis)
+Biochemistry,Biochem-P1,Cycles Summary,Rate-limiting enzyme of cholesterol synthesis (#23)?,HMG-CoA reductase
+Biochemistry,Biochem-P1,Cycles Summary,CPS-I function and location?,Urea Cycle — Mitochondria; CO₂ + NH₃
+Biochemistry,Biochem-P1,Cycles Summary,Most common enzyme deficiency of Urea Cycle (#21)?,OTC (Ornithine Transcarbamylase) — mitochondrial enzyme
+Biochemistry,Biochem-P1,Cycles Summary,Vit D / bile acids / steroids are derived from?,Cholesterol
+Biochemistry,Biochem-P1,Cycles Summary,Odd-chain FA/Ile/Val/Met/Thr/pyrimidines → Propionyl-CoA → (B₁₂) → ? → Succinyl-CoA,Methylmalonyl-CoA
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #14 in cycles diagram — PDH — is it reversible?,Pyruvate Dehydrogenase (PDH) — IRREVERSIBLE (marked with #)
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #18 in cycles diagram — rate-limiting TCA step?,Isocitrate Dehydrogenase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #7 in glycolysis is?,Phosphofructokinase-1 (PFK-1) — rate limiting step of glycolysis
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #4 (Von Gierke disease) is?,Glucose-6-Phosphatase
+Biochemistry,Biochem-P1,Cycles Summary,GTP is produced in TCA at which step?,Succinyl-CoA → Succinate (Substrate Level Phosphorylation)
+Biochemistry,Biochem-P1,Cycles Summary,Biotin is required for which enzyme in cycles (#15)?,Pyruvate Carboxylase — Pyruvate → OAA
+Biochemistry,Biochem-P1,Cycles Summary,Thiamine (B₁) required for which TCA enzyme (#19)?,α-Ketoglutarate Dehydrogenase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #1 in cycles — Galactose metabolism?,Galactokinase (mild galactosemia)
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #2 in cycles?,Galactose-1-phosphate uridyltransferase (severe galactosemia)
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #3 in cycles?,Hexokinase/Glucokinase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #5 in cycles?,G6PD — Glucose-6-phosphate dehydrogenase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #6 in cycles?,Transketolase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #8 in cycles?,Fructose-1,6-bisphosphatase-1 (FBPase-1)
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #9 in cycles (Essential fructosuria)?,Fructokinase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #10 in cycles (Fructose intolerance)?,Aldolase B
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #11 in cycles?,Aldolase B (liver) / Aldolase A (muscle)
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #12 in cycles?,Triose phosphate isomerase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #13 in cycles?,Pyruvate kinase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #15 in cycles?,Pyruvate carboxylase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #16 in cycles?,PEP carboxykinase (PEPCK)
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #17 in cycles?,Citrate synthase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #19 in cycles?,α-ketoglutarate dehydrogenase
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #20 in cycles?,Carbamoyl phosphate synthetase (CPS-I)
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #21 in cycles — Urea Cycle?,Ornithine Transcarbamylase (OTC) — most common urea cycle enzyme deficiency
+Biochemistry,Biochem-P1,Cycles Summary,Enzyme #22 in cycles?,Propionyl-CoA carboxylase
+Biochemistry,Biochem-P1,Cycles Summary,HMG-CoA Synthase in starvation — what happens?,HMG-CoA Synthase is upregulated in starvation → ↑ KB synthesis
+Biochemistry,Biochem-P1,Cycles Summary,Acetoacetyl-CoA → HMG-CoA → ?,HMG-CoA → (HMG-CoA Lyase) → Acetoacetate → β-Hydroxybutyrate OR Acetone (Ketogenesis)
+Biochemistry,Biochem-P1,Cycles Summary,Cahill cycle is also called?,Glucose-Alanine cycle — transfers nitrogen from muscle to liver
+Biochemistry,Biochem-P1,Cycles Summary,Cori's Cycle — which cells produce lactate?,RBCs and muscle (anaerobic) → Lactate → Liver → Glucose → back to muscle/RBCs
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Glucokinase — location and Km?,Liver / B cells — High Km (↓ affinity)
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Glucokinase — when is it active?,Fed state — insulin-activated
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Hexokinase — location and Km?,All tissues — Low Km (↑ affinity)
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Hexokinase — what inhibits it?,Glucose-6-Phosphate (product inhibition)
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,PFK-2 is active in which state?,Fed state
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,FBPase-2 is active in which state?,Fasting state
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,PFK-1 is activated by?,5 AMP+
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Gluconeogenesis occurs in which organs?,"Liver, Kidney"
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Rossman fold = ?,NADP binding domain
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,3 sources of NADPH?,"HMP shunt, Malic enzyme, Cytoplasmic Isocitrate Dehydrogenase"
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,HMP pathway sites for OXIDATIVE STRESS?,Lens / RBC
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,HMP pathway sites for FA/Steroid synthesis?,"Liver, Adipose, Adrenal cortex, Gonads"
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,PDH co-factors?,"Vit B₁, B₂, B₃, B₅, Lipoic Acid"
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Lipoic acid in PDH is inhibited by?,Arsenite
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Fructose-2,6-Bisphosphate — what makes it in fed state?,PFK-2 (active in fed state) → makes F-2,6-BP → activates PFK-1
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,FBPase-2 — what does it do in fasting?,Active in fasting state → degrades F-2,6-BP → reduces PFK-1 activity → favours gluconeogenesis
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,Liver and Kidney — role shown in glycolysis diagram?,Gluconeogenesis box — only organs that perform gluconeogenesis
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,PDH complex — components shown in diagram?,"TPP (B₁), Hydroxyethyl, Lipoic Acid, Acetyl Lipoamide, CoA-SH, Dihydrolipoamide Transacetylase, Dihydrolipoamide Dehydrogenase, FAD, NADH + H⁺"
+Biochemistry,Biochem-P1,Glycolysis & Link Reaction,PDH converts Pyruvate + CoA + NAD⁺ → ?,Acetyl-CoA + CO₂ + NADH (Link Reaction)
+Biochemistry,Biochem-P1,ETC,1 NADH yields how many ATP?,2.5 ATP
+Biochemistry,Biochem-P1,ETC,1 FADH₂ yields how many ATP?,1.5 ATP
+Biochemistry,Biochem-P1,ETC,ETC Uncouplers?,"Dinitrophenol, Thyroxine, Bilirubin, Brown fat, Aspirin overdose"
+Biochemistry,Biochem-P1,ETC,Uncouplers: Electron transport + ATP → produces what?,↑↑ Heat
+Biochemistry,Biochem-P1,ETC,Brown fat mediates?,Non-shivering thermogenesis
+Biochemistry,Biochem-P1,ETC,What inhibits Complex I?,"Rotenone, Metformin, Phenobarbitone"
+Biochemistry,Biochem-P1,ETC,What inhibits Complex II? Co-factor of Complex II?,Malonate; co-factor = Fe (iron)
+Biochemistry,Biochem-P1,ETC,What inhibits Complex III?,Antimycin A
+Biochemistry,Biochem-P1,ETC,What inhibits Complex IV?,"Azide, Cyanide, CO, H₂S"
+Biochemistry,Biochem-P1,ETC,Complex IV is also known as?,Cyt C oxidase — cofactor is Copper (Cu)
+Biochemistry,Biochem-P1,ETC,What inhibits Complex V?,Oligomycin
+Biochemistry,Biochem-P1,ETC,Atractyloside — what does it inhibit?,ATP transporter (adenine nucleotide translocase)
+Biochemistry,Biochem-P1,ETC,Complex V mnemonic?,DRAACCO
+Biochemistry,Biochem-P1,ETC,Complex III is also known as?,Cyt C reductase
+Biochemistry,Biochem-P1,ETC,Complex II — enzyme name and cofactor?,Succinate Dehydrogenase (Complex II) — co-factor is Fe (iron)
+Biochemistry,Biochem-P1,ETC,Phenobarbitone inhibits which Complex?,Complex I (along with Rotenone and Metformin)
+Biochemistry,Biochem-P1,Glycogen Metabolism,Enzyme absent in MUSCLE that prevents free glucose release?,Glucose-6-Phosphatase
+Biochemistry,Biochem-P1,Glycogen Metabolism,Von Gierke disease — enzyme defect?,Glucose-6-Phosphatase (#4)
+Biochemistry,Biochem-P1,Glycogen Metabolism,Von Gierke — clinical findings?,"Hypoglycemia, Hyperlipidemia, Hyperuricemia, Fatty liver, Doll-like facies"
+Biochemistry,Biochem-P1,Glycogen Metabolism,Cori disease — enzyme defect?,De-Branching Enzyme → Limit Dextrins accumulate
+Biochemistry,Biochem-P1,Glycogen Metabolism,Cori disease — what are Limit Dextrins?,Branched glycogen fragments — accumulate because debranching enzyme is absent (Limit Dextrinosis)
+Biochemistry,Biochem-P1,Glycogen Metabolism,Pompe disease — enzyme defect?,Lysosomal alpha-glucosidase = ACID Maltase
+Biochemistry,Biochem-P1,Glycogen Metabolism,Pompe disease — clinical findings?,Hypotonia; Cardiomyopathy
+Biochemistry,Biochem-P1,Glycogen Metabolism,Pompe disease — glycogen accumulates where?,Inside LYSOSOMES — affects heart most (Cardiomyopathy) + hypotonia
+Biochemistry,Biochem-P1,Glycogen Metabolism,Anderson Disease — enzyme defect?,Branching Enzyme
+Biochemistry,Biochem-P1,Glycogen Metabolism,Anderson Disease — consequence?,Amylopectin → Toxic to liver → Early Hepatic Failure
+Biochemistry,Biochem-P1,Glycogen Metabolism,McArdle's disease — enzyme defect?,Absent Muscle Glycogen Phosphorylase
+Biochemistry,Biochem-P1,Glycogen Metabolism,McArdle's disease — features?,"Exercise intolerance, 2nd Wind Phenomenon"
+Biochemistry,Biochem-P1,Glycogen Metabolism,2nd Wind Phenomenon in McArdle's — mechanism?,No change in cardiac output BUT muscle O₂ extracting capacity ↑ → ↑ fuel availability and oxidation
+Biochemistry,Biochem-P1,Glycogen Metabolism,Her's disease — enzyme defect?,Absent Liver Glycogen Phosphorylase
+Biochemistry,Biochem-P1,Glycogen Metabolism,Tarui's Disease — enzyme defect and extra feature?,PFK-1 deficiency → Muscle + Hemolytic anemia
+Biochemistry,Biochem-P1,Glycogen Metabolism,Coenzyme of glycogen phosphorylase?,B₆ (Pyridoxine)
+Biochemistry,Biochem-P1,Glycogen Metabolism,Fanconi-Bickel syndrome — what is absent?,GLUT-2 → Fast → Hypoglycemia; Fed → Hyperglycemia
+Biochemistry,Biochem-P1,Glycogen Metabolism,Glucagon challenge test is NEGATIVE in which diseases?,Von Gierke's Disease and Cori's Disease
+Biochemistry,Biochem-P1,Glycogen Metabolism,Glycogen synthesis/breakdown occurs in which organs?,Liver AND Muscle
+Biochemistry,Biochem-P1,Glycogen Metabolism,Hormonal cascade for glycogen breakdown — Glucagon/Adrenaline → ?,β-Receptor → Adenylate Cyclase → ↑ cAMP → Protein Kinase A → Phosphorylase Kinase → Glycogen Phosphorylase (active)
+Biochemistry,Biochem-P1,Glycogen Metabolism,In muscle contraction — glycogen breakdown is triggered by?,Ca²⁺-Calmodulin → Phosphorylase Kinase → Glycogen Phosphorylase
+Biochemistry,Biochem-P1,Glycogen Metabolism,Insulin activates Protein Phosphatase → effect on glycogen?,Activates Glycogen Synthase AND Inactivates Glycogen Phosphorylase → Glycogen SYNTHESIS
+Biochemistry,Biochem-P1,Glycogen Metabolism,Epinephrine acts on LIVER via α-receptor through?,α-Receptor → Ca²⁺-Calmodulin pathway → Phosphorylase Kinase → Glycogen Phosphorylase
+Biochemistry,Biochem-P1,Glycogen Metabolism,Epinephrine acts on LIVER via β-receptor through?,β-Receptor → cAMP → PKA → Phosphorylase Kinase → Glycogen Phosphorylase
+Biochemistry,Biochem-P1,Glycogen Metabolism,Insulin receptor on liver/muscle — type?,Tyrosine Kinase Dimer Receptor
+Biochemistry,Biochem-P1,Glycogen Metabolism,Protein Kinase A activates?,Glycogen Phosphorylase Kinase → Glycogen Phosphorylase; INHIBITS Glycogen Synthase
+Biochemistry,Biochem-P1,Glycogen Metabolism,Protein Phosphatase — effect on glycogen synthase vs phosphorylase?,Activates Glycogen Synthase AND Inactivates Glycogen Phosphorylase
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Inheritance of ALL lysosomal storage disorders EXCEPT?,Autosomal Recessive — EXCEPT Fabry's and Hunter's (both X-linked)
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Fabry's disease — enzyme defect?,α-Galactosidase
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Fabry's disease — what accumulates?,"Ceramide (Ceramide trihexoside)"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Fabry's disease — clinical features?,"Angiokeratomas, Neurological dysfunction, Cornea Verticillata/Vortex Keratopathy, Maltese Cross in urine"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Fabry's mnemonic?,My Fabrite activity is Ceramics. We made A GalaXy
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Krabbe's disease — enzyme defect?,β-Galactosidase
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Krabbe's disease — features?,"Globoid Bodies, Optic atrophy, Thalamic hyperdensity"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Krabbe's mnemonic?,Crab glob is out of this galaxy!
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Gaucher's disease — enzyme defect?,β-Glucosidase / Cerebroside
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Gaucher's disease — most common LSD?,YES — most common LSD
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Gaucher's disease — clinical features?,"Osteopenia, Erlen-Mayer Flask deformity → Metaphyseal Widening, Hepatosplenomegaly, Pan cytopenia"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Gaucher's biopsy appearance?,Crumpled Tissue Paper Appearance
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Gaucher's mnemonic?,Oh my Gauch! He broke the bones — We need to glu it!
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Tay-Sach's disease — enzyme defect?,Hexosaminidase A
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Tay-Sach's — what accumulates?,GM-2 Gangliosidosis
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Tay-Sach's — clinical features?,"NO Hepatosplenomegaly, ↑ prevalence in Jews, Onion skin bodies, Macrocephaly, Startle Reflex, Cherry Red Spot"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Tay-Sach's mnemonic?,A Gang of six small Jews eating onions
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Sandhoff's Disease — enzyme defect?,Hexosaminidase B
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Sandhoff's Disease — feature?,Macrocephaly
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Niemann-Pick's disease — enzyme defect?,Sphingomyelinase
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Niemann-Pick's — features?,"Hepatosplenomegaly, Foamy macrophages, Zebra bodies (EM)"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Niemann-Pick's mnemonic?,Pick Zebra's big nose with your sphinger with foam
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Cherry Red Spot — which diseases show it?,"Tay-Sach's, Niemann-Pick, Sandhoff's — NOT Fabry, NOT Gaucher"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Gaucher's disease — Erlen-Mayer Flask deformity leads to?,Metaphyseal Widening
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Tay-Sach's — what are Onion skin bodies on EM?,Concentric membranous cytoplasmic bodies in neurons
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Niemann-Pick — Zebra bodies seen on?,Electron Microscopy (EM)
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Hurler's disease — enzyme / inheritance / features?,"α-L-iduronidase, AR → Developmental delay, coarse facies, corneal clouding, Keratan sulfate"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Hunter's disease — enzyme / inheritance / key difference?,"Iduronate-2-sulfatase, XR → NO corneal clouding"
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Hunter's mnemonic?,I du wanna Hunt!
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Hurler's disease — GAG that accumulates?,Keratan sulfate + Heparan sulfate
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Wolman's Disease — enzyme defect and finding?,Acid lipase deficiency → Adrenal Calcifications
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Metachromatic Leukodystrophy — enzyme defect and finding?,Aryl Sulfatase deficiency → Tigroid Appearance (brain MRI)
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Inclusion Cell (I-Cell) Disease — enzyme defect?,N-Acetyl glucosamine phosphotransferase
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,I-Cell Disease mechanism?,Lysosomal enzymes not tagged → secreted outside instead of entering lysosomes → inclusions form in cells
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Farber's disease — enzyme defect and mimicry?,Ceramidase deficiency → Ceramide accumulates → Mimics Rheumatoid Arthritis
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Fabry and Gaucher — do they have Cherry Red Spot or Mental Retardation?,NO CRS; NO MR (Mental Retardation)
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Cardiolipin — chemical name and syndrome?,DiP glycerol — Barth Syndrome
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Triglycerides — are they amphipathic?,NO — Triglycerides are NOT amphipathic
+Biochemistry,Biochem-P2,Lysosomal Storage Disorders,Sphingolipid degradation order from diagram?,"GM2 →(Hex A → Tay-Sach's)→ GM3 → Ceramide trihexoside →(α-Gal-A → Fabry's)→ Glucocerebroside →(β-Glucosidase → Gaucher's)→ Galactocerebroside →(β-Gal → Krabbe's)→ Ceramide →(Sphingomyelinase → Niemann-Pick)→ Sphingomyelin"
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,FA synthesis produces which FA primarily?,Palmitate — a 16C Fatty Acid
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,FA Synthase Complex uses which cofactor?,NADPH
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Acetyl-CoA Carboxylase is activated by?,Insulin
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Acetyl-CoA Carboxylase is inhibited by?,Glucagon
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Acetyl-CoA Carboxylase requires which cofactor?,CO₂ (Biotin)
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,How does Acetyl-CoA exit mitochondria for FA synthesis?,Citrate Shuttle → ATP Citrate Lyase releases Acetyl-CoA in cytoplasm
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,How does Fatty acyl-CoA enter mitochondria for β-oxidation?,Carnitine Shuttle — Carnitine Palmitoyl Transferase I (CPT-I)
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Steps of β-oxidation in order?,DeH (FADH) → Hydratase → DeH (NADH) → Thiolase
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,β-oxidation step cofactors in order?,1st DeH = FAD (FADH); Hydratase (no cofactor); 2nd DeH = NAD⁺ (NADH); Thiolase → releases Acetyl-CoA
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,ATP yield of β-oxidation of palmitate (16C)?,108 − 2 = 106 ATP
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Activation of FA: ATP → ?,ATP → AMP (2 ATP equivalents consumed)
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Which tissues CANNOT do β-oxidation?,Brain and RBC
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Alpha-oxidation — where? ATP yield?,Peroxisomes — NO ATP produced
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Omega-oxidation — where? ATP yield?,Smooth ER — NO ATP produced
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Malonyl-CoA — shown in FA metabolism slide doing what?,1) Building block for FA synthesis; 2) Inhibits CPT-I (shown with ⊖ arrow in degradation column)
+Biochemistry,Biochem-P2,Fatty Acid Metabolism,Fatty acyl-CoA Synthetase — reaction?,"Fatty acid + CoA + ATP → Fatty acyl-CoA + AMP + PPi (ATP → AMP = 2 energy equivalents lost)"
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Apo A1 — function?,LCAT activator
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Apo CII — function?,Activates Lipoprotein Lipase
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Apo B48 — associated with?,Chylomicrons (intestinal)
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Apo B100 — associated with?,"VLDL, IDL, LDL (hepatic)"
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Apo E receptor — function?,Chylomicron remnant uptake by liver
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Nascent HDL characteristics?,"Amphipathic, Discoid"
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Mature HDL characteristics?,"Round, Hydrophobic"
+Biochemistry,Biochem-P2,Cholesterol Metabolism,LCAT converts nascent HDL to mature HDL by?,Esterifying cholesterol (Chol E)
+Biochemistry,Biochem-P2,Cholesterol Metabolism,CETP transfers?,Cholesteryl esters from HDL to VLDL / IDL / LDL → Reverse Transport
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Friedewald's Formula?,LDL = Total Cholesterol − HDL − (Triglycerides/5)
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Hepatic Lipase — role in diagram (step 6)?,Converts IDL → LDL (removes TG from IDL)
+Biochemistry,Biochem-P2,Cholesterol Metabolism,LDL receptor — what does it recognize?,ApoB100 on LDL → endocytosis of LDL into peripheral cell
+Biochemistry,Biochem-P2,Cholesterol Metabolism,Chylomicron pathway — where does lipoprotein lipase act?,On chylomicrons in systemic circulation → releases FFA → remnant taken up by liver via ApoE receptor
+Biochemistry,Biochem-P2,FA Oxidation Defects,MCAD Deficiency — features?,"Non-ketotic hypoglycemia, Dicarboxylic aciduria (SER → ω-oxidation; ⊗ β-oxidation)"
+Biochemistry,Biochem-P2,FA Oxidation Defects,MCAD deficiency — alternate pathway used?,SER → ω-oxidation → Dicarboxylic aciduria
+Biochemistry,Biochem-P2,FA Oxidation Defects,Refsum Disease — what is raised? Which oxidation defective?,"Phytanic acid raised — ⊗ α-oxidation (peroxisomes) → Retinitis pigmentosa, Ichthyosis"
+Biochemistry,Biochem-P2,FA Oxidation Defects,Zellweger's syndrome — what is absent?,Absent peroxisomes → VLCFA + Phytanic acid accumulation
+Biochemistry,Biochem-P2,FA Oxidation Defects,Abetalipoproteinemia — gene defect and lipid profile?,"MTTP gene defect → Normal HDL, ABSENT LDL/VLDL, Spur cells/Acanthocytes"
+Biochemistry,Biochem-P2,FA Oxidation Defects,Tangier's Disease — gene defect and lipid profile?,ABCA-1 gene defect → LOW HDL
+Biochemistry,Biochem-P2,FA Oxidation Defects,Fish-Eye Disease — enzyme defect and lipid profile?,Partial LCAT deficiency → LOW HDL
+Biochemistry,Biochem-P2,FA Oxidation Defects,Low HDL + High VLDL — which condition on the slide?,Shown in the rightmost column — Low HDL + High VLDL
+Biochemistry,Biochem-P2,FA Oxidation Defects,Norum's Disease — enzyme defect?,Complete LCAT deficiency
+Biochemistry,Biochem-P2,FA Oxidation Defects,Unripe Ackee fruit — disease and toxin?,Jamaican Vomiting Sickness — Hypoglycin
+Biochemistry,Biochem-P2,Lipoproteins,Chylomicrons — key features?,"Max TAG, Exogeneous lipid, Max size, Min PL + cholesterol, Min protein, Min density"
+Biochemistry,Biochem-P2,Lipoproteins,HDL — key features?,"Min TAG, Min size, Max PL, Max protein, Max density"
+Biochemistry,Biochem-P2,Lipoproteins,VLDL — key feature?,TAG-Endogeneous
+Biochemistry,Biochem-P2,Lipoproteins,LDL — key feature?,Max cholesterol
+Biochemistry,Biochem-P2,Lipoproteins,Order of lipoprotein mobility on electrophoresis (negative → positive)?,Chylomicron (origin) → LDL (beta) → VLDL (pre-β) → LDL broad-β (Remnants) → HDL (alpha)
+Biochemistry,Biochem-P2,Lipoproteins,FFA travels bound to?,Albumin
+Biochemistry,Biochem-P2,Hyperlipoproteinemias,Type I — inheritance / pathogenesis / blood levels / clinical?,"AR; Lipoprotein lipase or ApoC-II deficiency; ↑ Chylomicrons + TG + cholesterol; Pancreatitis, eruptive/pruritic xanthomas"
+Biochemistry,Biochem-P2,Hyperlipoproteinemias,Type II — inheritance / pathogenesis / blood levels / clinical?,"AD; Absent LDL receptors or ApoB-100; IIa: ↑ LDL + cholesterol; Accelerated atherosclerosis, tendon (Achilles) xanthomas, corneal arcus"
+Biochemistry,Biochem-P2,Hyperlipoproteinemias,Type II IIa vs IIb — difference?,IIa: ↑ LDL + cholesterol only; IIb: ↑ LDL + VLDL (both elevated)
+Biochemistry,Biochem-P2,Hyperlipoproteinemias,Type III — inheritance / pathogenesis / blood levels / clinical?,"AR; Defective ApoE; ↑ Chylomicrons + VLDL (Remnants); Premature atherosclerosis, tuberoeruptive + palmar xanthoma, Broad beta band"
+Biochemistry,Biochem-P2,Hyperlipoproteinemias,Type III — distinguishing electrophoresis finding?,Broad beta band (β-VLDL — remnants)
+Biochemistry,Biochem-P2,Hyperlipoproteinemias,Type III — what are the remnants?,Chylomicron remnants + VLDL remnants — Defective ApoE cannot clear them
+Biochemistry,Biochem-P2,Hyperlipoproteinemias,Type IV — inheritance / pathogenesis / blood levels / clinical?,"AD; Hepatic overproduction of VLDL; ↑ VLDL + TG; Acute pancreatitis"
+Biochemistry,Biochem-P2,Urea Cycle,CPS-1 — function / location / substrates?,Urea Cycle — Mitochondria — CO₂ + NH₃
+Biochemistry,Biochem-P2,Urea Cycle,CPS-2 — function / location / substrates?,Pyrimidine synthesis — Cytoplasm — CO₂ + Glutamine
+Biochemistry,Biochem-P2,Urea Cycle,Allosteric activator of CPS-I?,N-Acetylglutamate (NAG)
+Biochemistry,Biochem-P2,Urea Cycle,Most common enzyme deficiency of Urea Cycle?,OTC (Ornithine Transcarbamylase) deficiency
+Biochemistry,Biochem-P2,Urea Cycle,OTC deficiency — what does it cause?,Orotic Aciduria + Hyperammonemia
+Biochemistry,Biochem-P2,Urea Cycle,UMP Synthase deficiency causes?,Orotic Aciduria + Megaloblastic Anemia
+Biochemistry,Biochem-P2,Urea Cycle,3H Syndrome — what does 3H stand for?,Hyperornithinemia-Hyperammonemia-Homocitrullinuria
+Biochemistry,Biochem-P2,Urea Cycle,Urea Cycle occurs in which organ only?,LIVER only
+Biochemistry,Biochem-P2,Urea Cycle,Nitrogen scavengers in Urea Cycle disorders?,"Sodium benzoate, Phenylacetate, Phenylbutyrate"
+Biochemistry,Biochem-P2,Urea Cycle,Purines require which amino acids for synthesis?,Glycine + Glutamine + Aspartate
+Biochemistry,Biochem-P2,Urea Cycle,Pyrimidines require which amino acids?,Glutamine + Aspartate
+Biochemistry,Biochem-P2,Urea Cycle,Deamination: C → ?,C → U
+Biochemistry,Biochem-P2,Urea Cycle,Methylation: U → ?,U → T (requires Folate > B₁₂ deficiency)
+Biochemistry,Biochem-P2,Urea Cycle,Lesch-Nyhan Syndrome — enzyme defect?,"HGPRT deficiency → Self mutilation, Uric Acid stones, Gout"
+Biochemistry,Biochem-P2,Urea Cycle,SCID — enzyme defect?,ADA (Adenosine Deaminase) deficiency
+Biochemistry,Biochem-P2,Urea Cycle,Gout treatment — Xanthine Oxidase inhibitors?,"Allopurinol, Febuxostat"
+Biochemistry,Biochem-P2,Urea Cycle,Rasburicase converts Uric acid to?,Allantoin → Excreted
+Biochemistry,Biochem-P2,Urea Cycle,Urea structure — 2 nitrogen atoms come from?,NH₃ (one N) and NH₂ from Aspartate (second N); CO₂ → C=O
+Biochemistry,Biochem-P2,Urea Cycle,De novo purine synthesis — starting precursor and first complete purine?,PRPP → IMP → AMP or GMP
+Biochemistry,Biochem-P2,Urea Cycle,HGPRT defect → what accumulates?,PRPP builds up → ↑ purine synthesis → ↑ Uric Acid → Gout + Self mutilation + Uric Acid stones
+Biochemistry,Biochem-P2,Urea Cycle,Xanthine Oxidase (XO) — pathway?,Hypoxanthine →(XO)→ Xanthine →(XO)→ Uric Acid →(Rasburicase)→ Allantoin
+Biochemistry,Biochem-P2,Urea Cycle,Allopurinol and Febuxostat — mechanism?,Inhibit Xanthine Oxidase → ↓ Uric acid production
+Biochemistry,Biochem-P2,Urea Cycle,OTC — Ornithine Transcarbamylase — what does it do?,Transfers carbamoyl group from Carbamoyl Phosphate → Ornithine → Citrulline (in mitochondria)
+Biochemistry,Biochem-P2,Urea Cycle,Argininosuccinate → (Argininosuccinase) → Arginine + ?,Fumarate (enters TCA cycle)
+Biochemistry,Biochem-P2,Urea Cycle,Arginase converts Arginine → ?,Ornithine + Urea — Ornithine returns to mitochondria; Urea excreted by kidney
+Biochemistry,Biochem-P2,Urea Cycle,3H Syndrome — cause?,Ornithine transporter defect (HHH Syndrome) — Ornithine cannot enter mitochondria
+Biochemistry,Biochem-P2,Urea Cycle,Cladribine and pentostatin inhibit?,ADA (Adenosine Deaminase)
+Biochemistry,Biochem-P2,Galactose & Fructose,Hereditary Fructose Intolerance — enzyme defect?,Aldolase B deficiency → Fructose-1-P accumulates (hepatotoxic)
+Biochemistry,Biochem-P2,Galactose & Fructose,Essential Fructosuria — enzyme defect?,Fructokinase deficiency → benign
+Biochemistry,Biochem-P2,Galactose & Fructose,Classic Galactosemia — enzyme defect?,Uridyltransferase (Galactose-1-P Uridyltransferase) deficiency
+Biochemistry,Biochem-P2,Galactose & Fructose,Classic Galactosemia — is breastfeeding allowed?,NO — Breastfeeding is ABSOLUTE contraindication
+Biochemistry,Biochem-P2,Galactose & Fructose,Classic Galactosemia — infection risk?,E. coli sepsis
+Biochemistry,Biochem-P2,Galactose & Fructose,Mild galactosemia (Galactokinase deficiency) — eye finding?,Oil Droplet Cataract — REVERSIBLE; Galactitol accumulates via Aldose reductase
+Biochemistry,Biochem-P2,Galactose & Fructose,Galactose-1-P is described as?,Hepatotoxic
+Biochemistry,Biochem-P2,Galactose & Fructose,4-Epimerase — function in galactose metabolism?,Interconverts UDP-Galactose ⇌ UDP-Glucose
+Biochemistry,Biochem-P2,Galactose & Fructose,Fructose → (Fructokinase) → Fructose-1-P → (Aldolase B) → ?,DHAP + Glyceraldehyde → Glycolysis (via Triose Kinase and Triose Phosphate Isomerase)
+Biochemistry,Biochem-P2,Galactose & Fructose,Fructose-1-P accumulation effect on glycolysis?,↓ Glycolysis (inhibits PFK-1 and Aldolase A) → hypoglycemia in Hereditary Fructose Intolerance
+Biochemistry,Biochem-P2,Galactose & Fructose,Galactose → (Aldose Reductase) → ? Accumulates in?,Galactitol → accumulates in LENS → Oil Droplet Cataract (Reversible) in Galactokinase deficiency
+Biochemistry,Biochem-P2,Galactose & Fructose,Galactose → (Galactokinase) → Galactose-1-P → (Uridyltransferase) → ?,Glucose-1-P + UDP-Galactose → Glycolysis/Glycogenesis
+Biochemistry,Biochem-P2,Amino Acids,Basic amino acids (most to least basic)?,Arginine > Lysine > Histidine
+Biochemistry,Biochem-P2,Amino Acids,Acidic amino acids?,"Glutamate, Aspartate"
+Biochemistry,Biochem-P2,Amino Acids,Imino acid?,Proline
+Biochemistry,Biochem-P2,Amino Acids,-OH containing amino acids?,"Tyrosine, Serine, Threonine → Covalent modification → Helps bind phosphate"
+Biochemistry,Biochem-P2,Amino Acids,Branched chain amino acids?,"Valine, Isoleucine, Leucine"
+Biochemistry,Biochem-P2,Amino Acids,Sulphur containing amino acids?,"Methionine, Cysteine"
+Biochemistry,Biochem-P2,Amino Acids,Ketogenic ONLY amino acids?,"Leucine, Lysine"
+Biochemistry,Biochem-P2,Amino Acids,21st amino acid and its codon?,Selenocysteine (UGA) → co-translational modification
+Biochemistry,Biochem-P2,Amino Acids,22nd amino acid and its codon?,Pyrrolysine (UAG) → co-translational modification
+Biochemistry,Biochem-P2,Amino Acids,Aromatic amino acid with maximum UV light absorption?,Tryptophan (Indole Group) → Aldehyde tests
+Biochemistry,Biochem-P2,Amino Acids,Universal methyl donor?,S-Adenosyl Methionine (SAM)
+Biochemistry,Biochem-P2,Amino Acids,Semi-essential amino acids?,"Histidine, Arginine"
+Biochemistry,Biochem-P2,Amino Acids,Glycine + Arginine + Methionine → ?,Creatine
+Biochemistry,Biochem-P2,Amino Acids,Glycine + Cysteine + Glutamate → ?,Glutathione
+Biochemistry,Biochem-P2,Amino Acids,Lysine + Methionine → ?,Carnitine (Valproate antidote)
+Biochemistry,Biochem-P2,Amino Acids,Glycine is precursor for?,"Serine, Purines, Heme, Creatinine, Glutathione, Collagen (every 3rd residue)"
+Biochemistry,Biochem-P2,Amino Acids,Tyrosine is precursor for?,"Thyroxine, Dopamine, Catecholamines, Melanin"
+Biochemistry,Biochem-P2,Amino Acids,Tryptophan is precursor for?,"Niacin, Melatonin, Serotonin"
+Biochemistry,Biochem-P2,Amino Acids,Histidine is precursor for?,Histamine
+Biochemistry,Biochem-P2,Amino Acids,Arginine → NO → ?,↑ cGMP (via EDRF → eNOS)
+Biochemistry,Biochem-P2,Amino Acids,Inhaled NO is used for?,PAH (Pulmonary Arterial Hypertension)
+Biochemistry,Biochem-P2,Amino Acids,GABA is derived from which amino acid? Which vitamin?,Glutamate → (B₆ Decarboxylation) → GABA
+Biochemistry,Biochem-P2,Amino Acids,Tyrosine → DOPA → (DOPA Decarboxylase B₆) → Dopamine → (Dopamine β-hydroxylase Vit C) → ?,Norepinephrine → (PNMT + Cortisol) → Epinephrine
+Biochemistry,Biochem-P2,Amino Acids,Tryptophan → (B₂ B₆) → Niacin; Tryptophan → Serotonin → (N-acetyltransferase) → ?,Melatonin
+Biochemistry,Biochem-P2,Amino Acids,Carnitine — what is it the antidote for?,Valproate toxicity
+Biochemistry,Biochem-P2,Amino Acids,NO (Nitric Oxide) → EDRF → ↑ cGMP — inhaled NO used for?,PAH (Pulmonary Arterial Hypertension)
+Biochemistry,Biochem-P2,Amino Acids,Glycine — every 3rd amino acid in collagen — what structure?,Gly-X-Y repeat in every 3rd position of collagen triple helix
+Biochemistry,Biochem-P2,Amino Acids,Serotonin → (N-acetyltransferase) → N-Acetylserotonin → (HIOMT) → ?,Melatonin
+Biochemistry,Biochem-P2,Amino Acid Disorders,PKU — enzyme defect?,Phenylalanine Hydroxylase deficiency
+Biochemistry,Biochem-P2,Amino Acid Disorders,PKU — toxic metabolite and smell?,Phenyl pyruvate (MR); Phenyl acetate → Mousy odour
+Biochemistry,Biochem-P2,Amino Acid Disorders,Non-classical PKU — cause?,Tetrahydrobiopterin (BH₄) deficiency
+Biochemistry,Biochem-P2,Amino Acid Disorders,IOC for PKU?,TMS (Tandem Mass Spectroscopy); also FeCl₃/Guthrie test
+Biochemistry,Biochem-P2,Amino Acid Disorders,PKU — why must Aspartame be avoided?,Aspartame → Phenylalanine + Aspartate → ↑ Phe in PKU patients
+Biochemistry,Biochem-P2,Amino Acid Disorders,Phenyl Acetate — what smell does it cause?,Mousy odour (in PKU urine)
+Biochemistry,Biochem-P2,Amino Acid Disorders,Alkaptonuria — enzyme defect?,Homogentisate Oxidase Dioxygenase deficiency
+Biochemistry,Biochem-P2,Amino Acid Disorders,Alkaptonuria — features?,"Black urine, Ochronosis, IVD disc calcification"
+Biochemistry,Biochem-P2,Amino Acid Disorders,Alkaptonuria — treatment?,Nitisinone
+Biochemistry,Biochem-P2,Amino Acid Disorders,Albinism — enzyme defect?,Tyrosinase deficiency → No Melanin
+Biochemistry,Biochem-P2,Amino Acid Disorders,Type 1 Tyrosinemia — enzyme defect and features?,Fumaryl Acetoacetate Hydrolase (FAH) deficiency → Hepatic Failure; Cabbage odour of urine
+Biochemistry,Biochem-P2,Amino Acid Disorders,Type 2 Tyrosinemia — features?,Tyrosine Amino Transferase defect → Corneal erosions; Hyperkeratosis of palms
+Biochemistry,Biochem-P2,Amino Acid Disorders,Garrod's Tetrad — 4 inborn errors?,"Cystinuria, Alkaptonuria, Albinism, Pentosuria"
+Biochemistry,Biochem-P2,Amino Acid Disorders,URINE ODOUR — Burnt sugar → ?,MSUD (Maple Syrup Urine Disease) — VIL (Val/Ile/Leu) — B₁ cofactor
+Biochemistry,Biochem-P2,Amino Acid Disorders,URINE ODOUR — Mousy → ?,PKU
+Biochemistry,Biochem-P2,Amino Acid Disorders,URINE ODOUR — Cabbage → ?,Type 1 Tyrosinemia
+Biochemistry,Biochem-P2,Amino Acid Disorders,URINE ODOUR — Swimming pool → ?,Hawkinsinuria
+Biochemistry,Biochem-P2,Amino Acid Disorders,URINE ODOUR — Tom cat urine → condition and vitamin?,Multiple Carboxylase Deficiency — B₇ (Biotin)
+Biochemistry,Biochem-P2,Amino Acid Disorders,URINE ODOUR — Sweaty feet/cheesy → ?,Isovaleric Acidemia
+Biochemistry,Biochem-P2,Amino Acid Disorders,URINE ODOUR — Rotting fish → ?,Trimethylaminuria
+Biochemistry,Biochem-P2,Amino Acid Disorders,Carbidopa inhibits which enzyme?,DOPA Decarboxylase (peripheral)
+Biochemistry,Biochem-P2,Amino Acid Disorders,Vanillylmandelic acid (VMA) — formed from?,Epinephrine/Norepinephrine → via MAO and COMT
+Biochemistry,Biochem-P2,Amino Acid Disorders,Phenylethanolamine-N-methyltransferase (PNMT) converts?,Norepinephrine → Epinephrine — stimulated by Cortisol
+Biochemistry,Biochem-P2,Amino Acid Disorders,PKU pathway — what happens in PKU?,PAH deficient → Phe accumulates → Phenyl Pyruvate (by transamination) → Phenylacetate (Mousy odour) + MR
+Biochemistry,Biochem-P2,Amino Acid Disorders,BH₄ — also required for which other hydroxylases?,Tyrosine Hydroxylase and Tryptophan Hydroxylase
+Biochemistry,Biochem-P2,Amino Acid Disorders,Alkaptonuria — homogentisic acid causes?,Black urine on standing; Ochronosis (dark pigment in cartilage); IVD disc Ca²⁺ calcification
+Biochemistry,Biochem-P2,Amino Acid Disorders,Type 1 Tyrosinemia enzyme FAH — which pathway?,Tyrosine catabolism pathway — FAH deficiency → hepatic failure
+Biochemistry,Biochem-P2,Amino Acid Disorders,Phenylalanine → Phenylpyruvate — which test?,FeCl₃ test (green colour); Guthrie test (bacterial inhibition assay)
+Biochemistry,Biochem-P2,Amino Acid Disorders,Dopamine → Norepinephrine — enzyme and vitamin required?,Dopamine β-Hydroxylase requires Vitamin C
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Rate-limiting step of Heme synthesis?,ALA Synthase (Aminolevulinic Acid Synthase) — requires B₆
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Starting materials for ALA Synthase?,Succinyl-CoA + Glycine
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,ALA Synthase is inhibited by?,"Heme, Glucose, Hemin"
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Sideroblastic anemia (X-linked) — which enzyme inhibited?,ALA Synthase (inhibited by Glucose/Hemin)
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Lead poisoning inhibits which TWO enzymes?,ALA Dehydratase AND Ferrochelatase
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Acute Intermittent Porphyria (AIP) — enzyme defect?,Porphobilinogen Deaminase deficiency
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,AIP — features?,"Neuropathy, Acute Abdominal Pain"
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Porphyria Cutanea Tarda — enzyme defect and trigger?,Uroporphyrinogen Decarboxylase deficiency — m/c porphyria; triggered by Hep C
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Porphyria Cutanea Tarda — features?,"Photosensitivity, Blisters++"
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Zinc Protoporphyrin — marker for?,Lead poisoning
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Vampire's Disease / CEP — full name?,Congenital Erythropoietic Porphyria = Gunther's disease
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,CEP diagnostic finding?,Wood's lamp examination → pink/red fluorescence
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Soret Band — what is it?,Strong absorption peak of porphyrins at ~413 nm
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Final step of Heme synthesis — enzyme and cofactor?,Ferrochelatase inserts Fe²⁺ — inhibited by Lead
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Complete Heme synthesis pathway?,Succinyl-CoA + Glycine → ALA → Porphobilinogen → Hydroxymethylbilane → Uroporphyrinogen III → Coproporphyrinogen III → Protoporphyrin → Heme (Ferrochelatase + Fe²⁺)
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,ALA Synthase is in which compartment?,Mitochondria — rate-limiting step
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,ALA Dehydratase — inhibited by?,Lead (Pb) — also requires Zinc (Zn) as cofactor
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Sideroblastic anemia — X-linked — which gene?,ALA Synthase gene on X chromosome
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,AIP — Porphobilinogen Deaminase blocked → what accumulates?,Porphobilinogen (PBG) and ALA → excreted in urine → neurological symptoms
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Zinc Protoporphyrin forms in lead poisoning because?,Lead inhibits Ferrochelatase → Fe²⁺ cannot insert → Zinc inserts instead → Zinc Protoporphyrin
+Biochemistry,Biochem-P2,Heme Synthesis & Porphyrias,Gunther's Disease (CEP) — classic finding?,Vampire's Disease — urine and teeth glow pink/red under Wood's lamp
+Biochemistry,Biochem-P3,High Yield,Type I Collagen — locations?,"Bone, Tendon, Skin, Dentin, Cornea, Late wound repair, Fibrocartilage — most common (mc)"
+Biochemistry,Biochem-P3,High Yield,Type I Collagen — absent in which disease?,Osteogenesis Imperfecta
+Biochemistry,Biochem-P3,High Yield,Type II Collagen — locations?,"Hyaline Cartilage, Nucleus pulposus"
+Biochemistry,Biochem-P3,High Yield,Type III Collagen — locations?,"Reticulin, blood vessels, uterus, fetal tissue, early wound repair"
+Biochemistry,Biochem-P3,High Yield,Type III Collagen — deficient in?,Vascular Ehlers-Danlos Syndrome
+Biochemistry,Biochem-P3,High Yield,Type IV Collagen — location?,"Basement membrane (glomerulus), cochlea, lens"
+Biochemistry,Biochem-P3,High Yield,Type IV Collagen — defective in?,Alport's Syndrome
+Biochemistry,Biochem-P3,High Yield,Wound repair collagen progression?,Type III → Type I
+Biochemistry,Biochem-P3,High Yield,Zinc (Zn) metalloenzymes?,"Carbonic Anhydrase, Glutamate Dehydrogenase, LDH, ALA Dehydratase"
+Biochemistry,Biochem-P3,High Yield,Zinc deficiency causes?,"Acrodermatitis Enteropathica, Hypogonadism"
+Biochemistry,Biochem-P3,High Yield,Wilson's disease — inheritance?,AR — Copper accumulation
+Biochemistry,Biochem-P3,High Yield,Menke's Kinky Hair disease — inheritance?,XLR — Copper deficiency
+Biochemistry,Biochem-P3,High Yield,Copper (Cu) metalloenzymes?,"Tyrosinase, Cytoplasmic SOD, Ceruloplasmin, Lysyl Oxidase"
+Biochemistry,Biochem-P3,High Yield,Selenium (Se) metalloenzymes?,"Glutathione Peroxidase, Deiodinase, Thioredoxin Reductase"
+Biochemistry,Biochem-P3,High Yield,Selenium deficiency causes?,Keshan's Disease (Cardiomyopathy)
+Biochemistry,Biochem-P3,High Yield,Selenium EXCESS causes?,Alkali disease of livestock
+Biochemistry,Biochem-P3,High Yield,Molybdenum (Mo) metalloenzymes?,"Xanthine Oxidase, Sulfite Oxidase"
+Biochemistry,Biochem-P3,High Yield,Highest thermic effect of food?,Protein
+Biochemistry,Biochem-P3,High Yield,RQ of carbohydrates?,1
+Biochemistry,Biochem-P3,High Yield,Best test for HbA1c?,Ion-exchange chromatography → 2-3 months
+Biochemistry,Biochem-P3,High Yield,All kinase/phosphorylase/carboxylase use which metal? EXCEPT?,Mg — EXCEPT Pyruvate Kinase uses K⁺
+Biochemistry,Biochem-P3,High Yield,Fructosamine reflects glucose over?,2-3 weeks
+Biochemistry,Biochem-P3,High Yield,Benedict's test (+) → ?,Reduced sugar in urine
+Biochemistry,Biochem-P3,High Yield,Heat test (+) → ?,Protein in urine (negative Benedict's)
+Biochemistry,Biochem-P3,High Yield,Rothera's Nitroprusside Test (+) → ?,Ketone Bodies in urine — DKA or Prolonged Starvation
+Biochemistry,Biochem-P3,High Yield,Type I Collagen — every 3rd amino acid is?,Glycine (Gly-X-Y repeat)
+Biochemistry,Biochem-P3,GAG & Protein Structure,Pasteur effect?,Inhibition of glycolysis by O₂
+Biochemistry,Biochem-P3,GAG & Protein Structure,Crabtree effect?,Lactic acidosis if glucose concentration increased in presence of O₂
+Biochemistry,Biochem-P3,GAG & Protein Structure,Direct positive Van der Bergh's reaction → condition?,Obstructive Jaundice
+Biochemistry,Biochem-P3,GAG & Protein Structure,Arginine is NOT a lipotropic factor. What are lipotropic factors?,"Choline, Lecithin, Methionine"
+Biochemistry,Biochem-P3,GAG & Protein Structure,Avoided in fish odour syndrome?,Choline
+Biochemistry,Biochem-P3,GAG & Protein Structure,Most abundant GAG?,Chondroitin Sulfate
+Biochemistry,Biochem-P3,GAG & Protein Structure,GAG with NO protein linkage and NO sulphate?,Hyaluronic Acid
+Biochemistry,Biochem-P3,GAG & Protein Structure,GAG for cell migration during morphogenesis and wound repair?,Hyaluronic Acid
+Biochemistry,Biochem-P3,GAG & Protein Structure,GAG with NO uronic acid — role?,Keratan Sulfate → Corneal transparency
+Biochemistry,Biochem-P3,GAG & Protein Structure,GAG — Sclera / Atherogenic (LDL binding)?,Dermatan Sulfate
+Biochemistry,Biochem-P3,GAG & Protein Structure,GAG — LPL on endothelial surface / GBM charge selectiveness / Plasma membrane receptor?,Heparan Sulfate
+Biochemistry,Biochem-P3,GAG & Protein Structure,Primary structure — methods?,"Sanger's sequencing, Edman's sequencing, Reverse sequencing"
+Biochemistry,Biochem-P3,GAG & Protein Structure,Secondary structure — methods?,"Optical rotator dispersion, Ocular dichroism"
+Biochemistry,Biochem-P3,GAG & Protein Structure,Tertiary structure — methods?,"X-ray crystallography, UV spectroscopy, NMR spectroscopy"
+Biochemistry,Biochem-P3,GAG & Protein Structure,Quaternary structure is stabilized by?,Disulfide bonds and Hydrophobic interactions
+Biochemistry,Biochem-P3,GAG & Protein Structure,Secondary structure — alpha helix and beta pleated sheet are which level?,Secondary structure
+Biochemistry,Biochem-P3,GAG & Protein Structure,Tertiary structure stabilized by — 2 bonds from diagram?,Disulfide bonds AND Hydrophobic interactions
+Biochemistry,Biochem-P3,GAG & Protein Structure,Crabtree effect — when does it occur?,When glucose concentration is INCREASED in presence of O₂ → Lactic acidosis
+Biochemistry,Biochem-P3,Enzymes,Competitive inhibitor — effect on Km and Vmax?,↑ Km; Normal Vmax
+Biochemistry,Biochem-P3,Enzymes,Non-competitive inhibitor — effect on Km and Vmax?,Normal Km; ↓ Vmax
+Biochemistry,Biochem-P3,Enzymes,Uncompetitive inhibitor — where does it bind? Effect?,Binds to Enzyme-Substrate complex → ↓ Km; ↓ Vmax
+Biochemistry,Biochem-P3,Enzymes,Kcat/Km represents?,Enzyme Efficacy
+Biochemistry,Biochem-P3,Enzymes,Allosteric enzymes show what type of curve?,Sigmoidal — Co-operativity
+Biochemistry,Biochem-P3,Enzymes,Lineweaver-Burk for COMPETITIVE inhibitor — what changes?,Same x-intercept (same Vmax); different slope (↑ Km)
+Biochemistry,Biochem-P3,Enzymes,Lineweaver-Burk for UNCOMPETITIVE — what is unique?,Parallel lines — Slope = Km/Vmax
+Biochemistry,Biochem-P3,Enzymes,Lineweaver-Burk for NON-COMPETITIVE — what is unique?,Same x-intercept (−1/Km); different y-intercept (↓ Vmax)
+Biochemistry,Biochem-P3,Enzymes,Competitive inhibitor — can it be overcome by adding more substrate?,YES — can be overcome at sufficiently high [S] (same Vmax eventually reached)
+Biochemistry,Biochem-P3,Enzymes,Non-competitive inhibitor — can it be overcome by adding more substrate?,NO — acts at different site; Vmax permanently reduced regardless of [S]
+Biochemistry,Biochem-P3,Enzymes,Allosteric enzyme — sigmoidal vs Michaelis-Menten shape?,Sigmoidal (S-shaped) vs Hyperbolic (Michaelis-Menten)
+Biochemistry,Biochem-P3,Vitamins,Vitamin A — toxic at high doses causing?,Teratogenic at high doses
+Biochemistry,Biochem-P3,Vitamins,Golden rice — fortified with?,Vitamin A
+Biochemistry,Biochem-P3,Vitamins,Vitamin A deficiency skin finding?,Phrynoderma (follicular hyperkeratosis / toad skin)
+Biochemistry,Biochem-P3,Vitamins,Most specific eye sign in Vit A deficiency?,Bitot's spots (foamy white patches on conjunctiva)
+Biochemistry,Biochem-P3,Vitamins,Vit A supplementation schedule?,"Day 0, 1, 14; <1yr: 1 lakh IU each; >1yr: 2 lakh IU each"
+Biochemistry,Biochem-P3,Vitamins,Vitamin D deficiency lab findings?,"↓PO₄, ↑PTH, ↑ALP, ↓Urinary Ca²⁺"
+Biochemistry,Biochem-P3,Vitamins,Vitamin D deficiency — which bone zone deficient?,Deficiency of Zone of Provisional Calcification → Growth Plate Widening
+Biochemistry,Biochem-P3,Vitamins,Rickets metaphyseal changes — 3 findings?,"Cupping, Splaying, Fraying"
+Biochemistry,Biochem-P3,Vitamins,Vitamin C deficiency — disease and features?,"Scurvy — No collagen formation, Bleeding gums, Cork Screw Hair follicles"
+Biochemistry,Biochem-P3,Vitamins,Vitamin C deficiency X-ray signs?,"White line of Frenkel, Wimberger Ring sign"
+Biochemistry,Biochem-P3,Vitamins,Scurvy — White line of Frenkel is at?,Zone of calcification (dense white line at metaphysis)
+Biochemistry,Biochem-P3,Vitamins,Scurvy — Wimberger Ring sign is?,Ring of dense bone around epiphysis in Scurvy
+Biochemistry,Biochem-P3,Vitamins,Vitamin K — which clotting factors?,Factor 2 / 7 / 9 / 10 + Protein C & S
+Biochemistry,Biochem-P3,Vitamins,Vitamin K enzyme?,γ-Glutamyl Carboxylase
+Biochemistry,Biochem-P3,Vitamins,Vitamin K is deficient in?,Newborns and breast milk
+Biochemistry,Biochem-P3,Vitamins,Protein C and S — do they require Vitamin K?,YES — both require Vit K (γ-Glutamyl Carboxylase)
+Biochemistry,Biochem-P3,Vitamins,Vitamin E — function and deficiency?,Strongest Antioxidant — Deficiency → Hemolytic Anemia
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₁ (Thiamine) — assay?,RBC Transketolase
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₁ — enzymes it is cofactor for?,"Branch chain ketoDeH (MSUD-VIL), Alpha-ketoglutarate DeH, PDH, Transketolase — Oxidative Decarboxylation"
+Biochemistry,Biochem-P3,Vitamins,Wet Beri-beri feature?,High Output Cardiac Failure (Edema +)
+Biochemistry,Biochem-P3,Vitamins,Dry Beri-beri feature?,Neuropathy
+Biochemistry,Biochem-P3,Vitamins,Wernicke's encephalopathy — 3 features?,"Global Confusion, Ophthalmoplegia, Ataxia"
+Biochemistry,Biochem-P3,Vitamins,Korsakoff's psychosis — features?,AG/RG Amnesia + Confabulations
+Biochemistry,Biochem-P3,Vitamins,B₁ deficiency also causes?,Lactic acidosis
+Biochemistry,Biochem-P3,Vitamins,Beri-beri is seen in?,Alcoholics (give Thiamine before IV dextrose) and polished rice eaters
+Biochemistry,Biochem-P3,Vitamins,B₁ in polished rice eaters — why deficient?,Polishing removes rice bran which contains Thiamine → Thiamine deficiency → Beri-beri
+Biochemistry,Biochem-P3,Vitamins,B₁ in alcoholics — why give before IV dextrose?,Glucose metabolism requires B₁ (PDH/Transketolase) → giving dextrose without B₁ precipitates/worsens Wernicke's
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₂ (Riboflavin) — coenzymes?,FMN / FAD
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₂ — assay?,Glutathione Reductase
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₂ deficiency features?,"Corneal Neovascularisation, Cheilitis, Magenta tongue"
+Biochemistry,Biochem-P3,Vitamins,Magenta tongue — which vitamin deficiency?,Vitamin B₂ (Riboflavin) deficiency
+Biochemistry,Biochem-P3,Vitamins,Cheilitis — which vitamin deficiency?,Vitamin B₂ (Riboflavin) deficiency
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₃ (Niacin) — coenzymes?,NAD / NADP
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₃ — assay?,RBC NADH
+Biochemistry,Biochem-P3,Vitamins,Pellagra — 4 Ds?,"Diarrhea, Dementia, Dermatitis (Casal's Necklace), Death"
+Biochemistry,Biochem-P3,Vitamins,Pellagra — what rash specifically?,Casal's Necklace (photosensitive rash on neck)
+Biochemistry,Biochem-P3,Vitamins,60 mg Tryptophan → ? mg Niacin? Requires which vitamins?,1 mg Niacin — requires B₂ and B₆ (Bc)
+Biochemistry,Biochem-P3,Vitamins,Causes of Pellagra?,"Hartnup disease, Carcinoid, Maize diet, INH"
+Biochemistry,Biochem-P3,Vitamins,Hartnup disease — defect and test?,Cannot reabsorb Tryptophan → Ober-Mayer test (Obermeyer test)
+Biochemistry,Biochem-P3,Vitamins,INH causes pellagra — mechanism?,INH inhibits B₃ synthesis from Tryptophan
+Biochemistry,Biochem-P3,Vitamins,Carcinoid causes pellagra — mechanism?,Tryptophan diverted to Serotonin → less available for Niacin → Pellagra
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₅ (Pantothenic Acid) deficiency?,"Burning feet Syndrome, Adrenal insufficiency"
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₆ (Pyridoxine) — assay?,Xanthenuric Acid
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₆ deficiency features?,"Convulsions, Neuropathy, Hypoglycemia, Sideroblastic anemia"
+Biochemistry,Biochem-P3,Vitamins,Refractory Seizures treatment?,Pyridoxine (B₆)
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₆ is cofactor for?,"Decarboxylases, ALA Synthase, Glycogen Phosphorylase, Transamination"
+Biochemistry,Biochem-P3,Vitamins,B₆ (Pyridoxine) — cofactor for ALA Synthase — clinical link?,ALA Synthase requires PLP (B₆) — rate-limiting step of heme synthesis; B₆ deficiency → Sideroblastic anemia
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₇ (Biotin) deficiency features?,"Dermatitis, Alopecia"
+Biochemistry,Biochem-P3,Vitamins,What blocks Biotin absorption?,Raw Eggs → AVIDIN (blocks Biotin absorption irreversibly)
+Biochemistry,Biochem-P3,Vitamins,All Carboxylation Reactions are catalyzed by Biotin EXCEPT?,γ-Glutamyl Carboxylase (uses Vit K instead of Biotin)
+Biochemistry,Biochem-P3,Vitamins,Biotin (B₇) — carboxylation reactions (list all 3)?,Pyruvate (3C) → OAA (4C); Acetyl-CoA (2C) → Malonyl-CoA (3C); Propionyl-CoA (3C) → Methylmalonyl-CoA (4C)
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₉ (Folate) — absorbed where? Assay?,Absorbed in Jejunum — FIGLU assay
+Biochemistry,Biochem-P3,Vitamins,FIGLU assay — what is FIGLU?,Formiminoglutamic acid — elevated in folate deficiency (after Histidine load)
+Biochemistry,Biochem-P3,Vitamins,Folate deficiency — what misincorporation occurs?,Misincorporation of URACIL instead of Thymine → Megaloblastic Anemia
+Biochemistry,Biochem-P3,Vitamins,Folate deficiency causes?,Megaloblastic Anemia
+Biochemistry,Biochem-P3,Vitamins,Folate deficiency seen in?,Junk food diet
+Biochemistry,Biochem-P3,Vitamins,Folate TRAP — caused by which vitamin deficiency?,B₁₂ deficiency → Folate trap
+Biochemistry,Biochem-P3,Vitamins,Folate trap mechanism?,5-methyl-THF cannot donate methyl to Homocysteine (needs B₁₂) → THF trapped → ↓ nucleotide synthesis → Megaloblastic Anemia
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₁₂ (Cobalamin) — absorbed where? Assay?,Absorbed in Ileum — Assay: ↑ MMA (Methylmalonic Acid)
+Biochemistry,Biochem-P3,Vitamins,MMA (Methylmalonic Acid) — assay for which vitamin?,Vitamin B₁₂ deficiency — ↑ MMA is the assay
+Biochemistry,Biochem-P3,Vitamins,Vitamin B₁₂ deficiency — who is at risk?,Vegans
+Biochemistry,Biochem-P3,Vitamins,SACD — full form and tracts affected?,Subacute Combined Degeneration of Spinal Cord — Dorsal columns + UMN (B₁₂ deficiency)
+Biochemistry,Biochem-P3,Vitamins,B₁₂ deficiency neurological features?,"↓↓ Vibration/Proprioception, Neuropathy, ↓ DTR (but UMN signs)"
+Biochemistry,Biochem-P3,Vitamins,Homocystinuria — test?,Cyanide nitroprusside test
+Biochemistry,Biochem-P3,Vitamins,Homocystinuria — features?,"Thromboembolism, Marfanoid habitus, Ectopia lentis (Infero-nasal)"
+Biochemistry,Biochem-P3,Vitamins,Treatment of Homocystinuria?,"B₆, B₉ (Folate), B₁₂"
+Biochemistry,Biochem-P3,Vitamins,Marfan syndrome ectopia lentis direction?,Supero-temporal
+Biochemistry,Biochem-P3,Vitamins,Homocystinuria ectopia lentis direction?,Infero-nasal
+Biochemistry,Biochem-P3,Vitamins,Methylmalonyl-CoA → Succinyl-CoA requires?,Vitamin B₁₂ (Methylmalonyl-CoA Mutase)
+Biochemistry,Biochem-P3,Vitamins,B₁₂ deficiency — which 2 metabolites are elevated?,↑ MMA (specific for B₁₂) AND ↑ Homocysteine (seen in both B₁₂ and Folate deficiency)
+Biochemistry,Biochem-P3,Vitamins,Methionine Synthase reaction — what does it need?,Methionine Synthase needs B₁₂ → Homocysteine + 5-methyl-THF → Methionine + THF
+Biochemistry,Biochem-P3,Vitamins,SAM → SAH → Homocysteine — what happens to Homocysteine with B₆?,Cystathionine β-Synthase (B₆) → Cysteine (transsulphuration)
+Biochemistry,Biochem-P3,Vitamins,Homocystinuria — B₆/B₉/B₁₂ responsive — classic form deficiency?,Cystathionine β-Synthase deficiency (requires B₆) — classic homocystinuria
+Biochemistry,Biochem-P3,DNA Basics,Mitochondrial DNA — % of total DNA?,1%
+Biochemistry,Biochem-P3,DNA Basics,Mitochondrial DNA — inheritance?,Maternal
+Biochemistry,Biochem-P3,DNA Basics,Mitochondrial DNA — ETC proteins encoded?,13 proteins (20%)
+Biochemistry,Biochem-P3,DNA Basics,Mitochondrial DNA — copies per cell?,2-10
+Biochemistry,Biochem-P3,DNA Basics,Mitochondrial DNA — DNA polymerase used?,Gamma (Pol γ)
+Biochemistry,Biochem-P3,DNA Basics,Mitochondrial DNA — proofreading?,NO proofreading
+Biochemistry,Biochem-P3,DNA Basics,Active DNA — chromatin form?,Euchromatin (loosely packed; accessible for transcription)
+Biochemistry,Biochem-P3,DNA Basics,Inactive DNA — chromatin form?,Heterochromatin (Metaphase chromosome — maximally condensed)
+Biochemistry,Biochem-P3,DNA Basics,H1 histone is called?,Linker histone
+Biochemistry,Biochem-P3,DNA Basics,Nucleosome core — which histones?,H2A / H2B / H3 / H4 (×2 each)
+Biochemistry,Biochem-P3,DNA Basics,Nucleosome — what wraps around it?,DNA wraps around histone octamer (H2A/H2B/H3/H4 ×2) — H1 is the linker histone outside
+Biochemistry,Biochem-P3,DNA Basics,Supercoiled structure of DNA — how maintained?,Histone proteins in nucleosomes → bead-on-string → 30 nm fibre → supercoiled
+Biochemistry,Biochem-P3,DNA Basics,Genetic code — property 1: Unambiguous means?,1 codon codes for only ONE amino acid
+Biochemistry,Biochem-P3,DNA Basics,Genetic code — property 2: Degenerate/Redundant — Wobble?,Multiple codons can code for same AA — Wobble = 3rd base pair; EXCEPT Methionine (AUG) and Tryptophan (UGG)
+Biochemistry,Biochem-P3,DNA Basics,Genetic code — why Methionine (AUG) and Tryptophan (UGG) are exceptions to degeneracy?,Each has only ONE codon — no wobble possible
+Biochemistry,Biochem-P3,DNA Basics,Genetic code — property 3 and 4?,3: Commaless / Non-overlapping; 4: Universal — EXCEPT Mitochondria
+Biochemistry,Biochem-P3,DNA Basics,STOP codons?,"UAG, UAA, UGA"
+Biochemistry,Biochem-P3,DNA Basics,Telomerase — is it a Ribozyme?,NOT a Ribozyme — it is an RNA-dependent DNA Polymerase; sequence: TTAGGG; found in germ cells
+Biochemistry,Biochem-P3,DNA Basics,Telomerase sequence?,TTAGGG
+Biochemistry,Biochem-P3,DNA Basics,Silent mutation example?,UCA (Serine) → UCU (Serine) — same amino acid
+Biochemistry,Biochem-P3,DNA Basics,Missense mutation example?,UCA (Serine) → CCA (Proline) — different amino acid
+Biochemistry,Biochem-P3,DNA Basics,Nonsense mutation example?,UCA (Serine) → UAA (STOP) — premature stop
+Biochemistry,Biochem-P3,DNA Basics,Frameshift mutations seen in?,DMD (Duchenne Muscular Dystrophy) and Tay-Sach's
+Biochemistry,Biochem-P3,DNA Basics,Splice site mutations seen in?,"β-thalassemia, Marfan, Gauchers"
+Biochemistry,Biochem-P3,DNA Basics,Frameshift mutations — what type of DNA change?,Insertion or Deletion of nucleotides (not multiples of 3) → shift reading frame
+Biochemistry,Biochem-P3,DNA Basics,Splice site mutations — what happens to the protein?,"Intron-exon boundaries mutated → abnormal splicing → abnormal/absent protein"
+Biochemistry,Biochem-P3,DNA Replication,Direction of DNA replication?,Always 5' → 3'
+Biochemistry,Biochem-P3,DNA Replication,All prokaryotic DNA polymerases (I/II/III) have what ability?,3'→5' exonuclease activity (Proofreading)
+Biochemistry,Biochem-P3,DNA Replication,DNA Polymerase I — function and exonuclease?,DNA repair + Removal of RNA primers — 5'→3' AND 3'→5' exonuclease
+Biochemistry,Biochem-P3,DNA Replication,DNA Polymerase II — function?,DNA repair — 3'→5' exonuclease
+Biochemistry,Biochem-P3,DNA Replication,DNA Polymerase III — function?,Replication — 3'→5' exonuclease
+Biochemistry,Biochem-P3,DNA Replication,Pol α — function?,Primase activity; Initiate DNA synthesis
+Biochemistry,Biochem-P3,DNA Replication,Pol β — function?,Repair process
+Biochemistry,Biochem-P3,DNA Replication,Pol γ — function?,Mitochondrial DNA synthesis
+Biochemistry,Biochem-P3,DNA Replication,Pol δ — function?,Lagging strand synthesis (Okazaki fragments)
+Biochemistry,Biochem-P3,DNA Replication,Pol ε — function?,Leading strand synthesis
+Biochemistry,Biochem-P3,DNA Replication,Topoisomerase — function and defect?,Prevents supercoiling — Defect: Bloom Syndrome
+Biochemistry,Biochem-P3,DNA Replication,Helicase — function?,Unwinds DNA at replication fork
+Biochemistry,Biochem-P3,DNA Replication,Single-stranded binding protein — function?,Prevents re-annealing of separated strands
+Biochemistry,Biochem-P3,DNA Replication,Primase — function?,Removes the RNA primer (5'→3' exonuclease)
+Biochemistry,Biochem-P3,DNA Replication,DNA Ligase — function?,Fills the blank (joins Okazaki fragments)
+Biochemistry,Biochem-P3,DNA Replication,Klenow Fragment — large fragment of which Pol? Activities?,"Large fragment of DNA Pol I — has 5'→3' polymerase + 3'→5' exonuclease; LACKS 5'→3' exonuclease"
+Biochemistry,Biochem-P3,DNA Replication,Okazaki fragments — on which strand?,LAGGING strand — joined by DNA Ligase after Pol I removes RNA primer
+Biochemistry,Biochem-P3,DNA Replication,RNA primer removed by which enzyme?,DNA Polymerase I (5'→3' exonuclease removes RNA primer) → Pol δ fills → Ligase seals
+Biochemistry,Biochem-P3,DNA Replication,Nucleotide Excision Repair defect → disease?,Xeroderma Pigmentosa
+Biochemistry,Biochem-P3,DNA Replication,Base Excision Repair defect → disease?,MUTYH Associated Polyposis
+Biochemistry,Biochem-P3,DNA Replication,Mismatch Repair defect → disease?,HNPCC
+Biochemistry,Biochem-P3,DNA Replication,NHEJ defect → disease?,Ataxia Telengectasia
+Biochemistry,Biochem-P3,DNA Replication,HEJ defect → disease?,BRCA / Fanconi's Anemia
+Biochemistry,Biochem-P3,DNA Replication,Lamin A gene mutation → disease?,Progeria
+Biochemistry,Biochem-P3,DNA Replication,Bloom Syndrome — which enzyme defect?,Topoisomerase (DNA Helicase) defect
+Biochemistry,Biochem-P3,DNA Replication,NHEJ — full form?,Non-Homologous End Joining
+Biochemistry,Biochem-P3,DNA Replication,HEJ — full form?,Homologous End Joining (Homologous Recombination Repair)
+Biochemistry,Biochem-P3,DNA Replication,DNA Pol I exonuclease — both directions?,5'→3' exonuclease (removes RNA primers) AND 3'→5' exonuclease (proofreading)
+Biochemistry,Biochem-P3,Transcription,Capping of 5' end — what is added? Timing?,7-methylguanosine cap — Contranscriptional
+Biochemistry,Biochem-P3,Transcription,Polyadenylation of 3' end — what is added? Timing?,~200 A's → Poly-A tail — Posttranscriptional
+Biochemistry,Biochem-P3,Transcription,Splicing out of introns — timing?,Posttranscriptional
+Biochemistry,Biochem-P3,Transcription,Pre-mRNA to mRNA — 3 processing steps in order?,1) 5' Capping (contranscriptional); 2) 3' Polyadenylation (posttranscriptional); 3) Splicing of introns (posttranscriptional)
+Biochemistry,Biochem-P3,Transcription,Promoter elements in eukaryotes?,CAAT Box; TATA Box (at transcription start)
+Biochemistry,Biochem-P3,Transcription,Intron splice site rule?,GT...AG (GU...AG in RNA) — introns begin GU and end AG
+Biochemistry,Biochem-P3,Transcription,hnRNA is the same as?,Pre-mRNA (heterogeneous nuclear RNA)
+Biochemistry,Biochem-P3,Transcription,Polyadenylation signal sequence?,AATAAA
+Biochemistry,Biochem-P3,Transcription,RNA Editing — ApoB gene in intestine vs liver?,LIVER: No editing → ApoB100 (full protein); INTESTINE: Editing CAA→UAA (stop codon) → ApoB48 (truncated)
+Biochemistry,Biochem-P3,Transcription,Exceptions to One Gene-One Protein Hypothesis?,"1. Alternate RNA splicing, 2. RNA editing"
+Biochemistry,Biochem-P3,Transcription,5'UTR and 3'UTR — positions relative to start/stop?,5'UTR before AUG (start codon); Open reading frame between AUG and Stop; 3'UTR after Stop codon → AATAAA polyadenylation signal
+Biochemistry,Biochem-P3,Transcription,Enhancer/Silencer — where in gene structure?,Upstream (Enhancer or Silencer) → Promoter → 5'UTR → Exon/Intron → 3'UTR → Silencer
+Biochemistry,Biochem-P3,Lac Operon,State: Low glucose + Lactose available → Lac genes?,Strongly expressed
+Biochemistry,Biochem-P3,Lac Operon,State: High glucose + Lactose unavailable → Lac genes?,Not expressed
+Biochemistry,Biochem-P3,Lac Operon,State: Low glucose + Lactose unavailable → Lac genes?,Not expressed
+Biochemistry,Biochem-P3,Lac Operon,State: High glucose + Lactose available → Lac genes?,Very low (basal) expression only
+Biochemistry,Biochem-P3,Lac Operon,What activates CAP?,cAMP (↑ when glucose is LOW — Adenylate Cyclase active)
+Biochemistry,Biochem-P3,Lac Operon,What is the INDUCER of Lac operon?,Allolactose (inactivates repressor protein)
+Biochemistry,Biochem-P3,Lac Operon,Repressor protein (LacI) — binds where?,Operator — blocks transcription
+Biochemistry,Biochem-P3,Lac Operon,Structure of Lac operon (5'→3')?,LacI — CAP site — Promoter — Operator — LacZ — LacY — LacA — 3'
+Biochemistry,Biochem-P3,Lac Operon,LacI gene — what does it constitutively produce?,Repressor protein — binds operator to block transcription unless Allolactose present
+Biochemistry,Biochem-P3,Lac Operon,Allolactose (inducer) — what does it do to the repressor?,Inactivates repressor → repressor cannot bind operator → Lac genes transcribed
+Biochemistry,Biochem-P3,Lac Operon,Glucose INHIBITS Lac operon via?,High glucose → ↓ cAMP → ↓ CAP activation → ↓ transcription (catabolite repression)
+Biochemistry,Biochem-P3,Lac Operon,LacZ encodes which enzyme?,β-Galactosidase — cleaves Lactose → Glucose + Galactose; also makes Allolactose (inducer)
+Biochemistry,Biochem-P3,Lac Operon,LacY encodes which protein?,Lactose Permease — membrane transporter that brings Lactose into cell
+Biochemistry,Biochem-P3,Lac Operon,LacA encodes which enzyme?,Thiogalactoside Transacetylase — minor role
+Biochemistry,Biochem-P3,Epigenetics,Epigenetics — Transmissible?,YES
+Biochemistry,Biochem-P3,Epigenetics,Epigenetics — Reversible?,YES
+Biochemistry,Biochem-P3,Epigenetics,Epigenetics — Sequence change?,NO — No DNA sequence change
+Biochemistry,Biochem-P3,Epigenetics,DNA methylation → gene expression?,MUTES (silences) gene
+Biochemistry,Biochem-P3,Epigenetics,Histone acetylation → gene expression?,ACTIVATES gene
+Biochemistry,Biochem-P3,Epigenetics,Histone deacetylation → gene expression?,DEACTIVATES gene
+Biochemistry,Biochem-P3,Epigenetics,Gene Knock IN = ?,Insertion
+Biochemistry,Biochem-P3,Epigenetics,Gene Knock OUT = ?,Deletion
+Biochemistry,Biochem-P3,Epigenetics,Gene Knock DOWN = RNA Interference = ?,PTGS (Post Transcriptional Gene Silencing) — si/miRNA — 3'UTR — 20-25 bp — DICER1 mutation
+Biochemistry,Biochem-P3,Epigenetics,Prader-Willi Syndrome — gene and mechanism?,"SNORP gene — Paternal deletion OR Maternal disomy → Obesity, Hypotonia, ↑↑ Ghrelin (hyperphagia)"
+Biochemistry,Biochem-P3,Epigenetics,Angelman Syndrome — gene and mechanism?,UBE3A gene — Maternal deletion OR Paternal disomy → Gelastic seizures (Happy Puppet syndrome)
+Biochemistry,Biochem-P3,Epigenetics,Barr Bodies — mechanism?,Lyonisation — DNA methylation → Inactivation of X chromosome
+Biochemistry,Biochem-P3,Epigenetics,Barr bodies — gene responsible?,XIST gene
+Biochemistry,Biochem-P3,Epigenetics,Barr bodies — timing of inactivation?,6 days of development
+Biochemistry,Biochem-P3,Epigenetics,Barr body formula — XX / XO / XXX?,XX → 1; XO → 0; XXX → 2 (Barr bodies = X chromosomes − 1)
+Biochemistry,Biochem-P3,Epigenetics,Barr body in neutrophils is called?,Drum-Stick → Davidson's bodies
+Biochemistry,Biochem-P3,Epigenetics,CRISPR-Cas9 — what does Cas9 do?,Cas9 = nuclease — cuts DNA at target site guided by gRNA → creates double-strand break
+Biochemistry,Biochem-P3,Epigenetics,CRISPR-Cas9 — NHEJ causes? HDR causes?,NHEJ → Frameshift/Inactivation (knock-out); HDR (with Donor DNA) → Edited sequence (knock-in)
+Biochemistry,Biochem-P3,Epigenetics,siRNA/miRNA — bind to which region of target mRNA?,3'UTR — 20-25 bp complementarity → gene silencing (PTGS)
+Biochemistry,Biochem-P3,Epigenetics,DICER1 — role in RNA interference?,DICER1 cleaves dsRNA into siRNA (20-25 bp) — DICER1 mutation causes RNAi failure
+Biochemistry,Biochem-P3,Epigenetics,Epigenetics — 3 types of chemical changes shown in slide?,"DNA methylation, Histone acetylation, Histone deacetylation"
+Biochemistry,Biochem-P3,Epigenetics,Prader-Willi — ↑↑ Ghrelin → clinical features?,"Obesity, Hypotonia, ↑↑ Ghrelin (hence hyperphagia)"
+Biochemistry,Biochem-P3,Epigenetics,Angelman Syndrome — seizure type?,Gelastic seizures (Happy Puppet syndrome)
+Biochemistry,Biochem-P3,Epigenetics,XIST gene — what does it do?,Inactivates the X chromosome (X-Inactivation Specific Transcript) → Barr body formation
+Biochemistry,Biochem-P3,Molecular Biology Techniques,PCR Step 1 — temperature?,Denaturation — 95°C
+Biochemistry,Biochem-P3,Molecular Biology Techniques,PCR Step 2 — temperature?,Annealing — 55°C
+Biochemistry,Biochem-P3,Molecular Biology Techniques,PCR Step 3 — temperature?,Elongation — 72°C
+Biochemistry,Biochem-P3,Molecular Biology Techniques,PCR requirements?,"DNA template, DNA primers, Heat stable DNA polymerase (Taq), dNTPs"
+Biochemistry,Biochem-P3,Molecular Biology Techniques,Real-time PCR — Quantitative — uses?,"Ph chromosome detection, Viral load"
+Biochemistry,Biochem-P3,Molecular Biology Techniques,RT-PCR — what enzyme? Used for?,Reverse Transcriptase — for RNA
+Biochemistry,Biochem-P3,Molecular Biology Techniques,Digital Droplet PCR — advantage?,Little sample volume
+Biochemistry,Biochem-P3,Molecular Biology Techniques,COVID-19 diagnostic PCR sequence?,First → RT-PCR; then → Real time PCR
+Biochemistry,Biochem-P3,Molecular Biology Techniques,Real-time PCR vs RT-PCR — key difference?,RT-PCR: uses RNA template via Reverse Transcriptase; Real-time/qPCR: quantitative (measures as it amplifies)
+Biochemistry,Biochem-P3,Molecular Biology Techniques,Blotting mnemonic — SNOW DROP?,"Southern-DNA, Northern-RNA, Western-Protein, Southwestern-DNA Binding Protein, DNA footprinting"
+Biochemistry,Biochem-P3,Molecular Biology Techniques,DNA Sequencing — original method?,Sanger's Sequencing
+Biochemistry,Biochem-P3,Molecular Biology Techniques,Human genome — size?,3 billion bp / 19500 genes
+Biochemistry,Biochem-P3,Molecular Biology Techniques,NGS vs Sanger's — advantages?,"More economical, Quicker"
+Biochemistry,Biochem-P3,Molecular Biology Techniques,di-dNTPs — what are they used for?,Stop synthesis — needed for Gene sequencing (Sanger's); NOT needed for PCR
+Biochemistry,Biochem-P3,Molecular Biology Techniques,Sanger sequencing — di-dNTPs stop synthesis because?,ddNTPs lack 3'-OH → chain termination when incorporated
+Biochemistry,Biochem-P3,Molecular Biology Techniques,RFLP — what does it detect?,Mutation affecting palindromic sites — Restriction Enzyme cuts
+Biochemistry,Biochem-P3,Molecular Biology Techniques,RFLP — clinical uses?,"Paternal disputes, crime, genome mapping"
+Biochemistry,Biochem-P3,Molecular Biology Techniques,RFLP — inheritance pattern and paternity testing?,RFLP banding pattern can identify biological father (paternity testing) — bands inherited from each parent
+Biochemistry,Biochem-P3,Molecular Biology Techniques,CGH — stands for?,Comparative Genomic Hybridization
+Biochemistry,Biochem-P3,Molecular Biology Techniques,Q. DNA template GATCTAC → RNA product?,Answer: D — GUAGAUC (RNA is complementary / antiparallel / U replaces T)
+Biochemistry,Biochem-P3,Molecular Biology Techniques,RFLP — restriction enzyme cuts at?,Palindromic sequences (e.g. EcoRI cuts GAATTC)
+Biochemistry,Biochem-P3,Molecular Biology Techniques,DNA Footprinting — what does it identify?,Protein-DNA binding sites (footprint = region protected by protein)
+Biochemistry,Biochem-P3,Cytogenetics,FISH detects?,"Microdeletion, Translocation, Amplification — NOT point mutations"
+Biochemistry,Biochem-P3,Cytogenetics,Best technique for ANEUPLOIDY?,Karyotype (at Metaphase)
+Biochemistry,Biochem-P3,Cytogenetics,What arrests cells at Metaphase for karyotyping?,Colchicine (inhibits microtubules)
+Biochemistry,Biochem-P3,Cytogenetics,Fixative for karyotyping?,Carnoy Fixative
+Biochemistry,Biochem-P3,Cytogenetics,Stain for Dicentric chromosomes?,C-staining (Centromere)
+Biochemistry,Biochem-P3,Cytogenetics,G stain → ?,Giemsa
+Biochemistry,Biochem-P3,Cytogenetics,R stain → ?,Reverse Giemsa
+Biochemistry,Biochem-P3,Cytogenetics,T stain → ?,Telomerase
+Biochemistry,Biochem-P3,Cytogenetics,C stain → ?,Centromere
+Biochemistry,Biochem-P3,Cytogenetics,Q stain → ?,Quinacrine (Fluorescence)
+Biochemistry,Biochem-P3,Cytogenetics,Metacentric chromosomes — which numbers?,Chromosomes 1 / 2 & 3
+Biochemistry,Biochem-P3,Cytogenetics,Acrocentric chromosomes — which numbers? Associated with?,"13, 14, 15, 21, 22, Y — Robertsonian Translocation"
+Biochemistry,Biochem-P3,Cytogenetics,Telocentric chromosomes — present in humans?,NO — Not present in humans
+Biochemistry,Biochem-P3,Cytogenetics,Sub-metacentric chromosomes?,All others (not 1/2/3 and not acrocentric)
+Biochemistry,Biochem-P3,Cytogenetics,FISH — what can it detect that karyotype cannot?,"Microdeletion, Translocation, Amplification — not visible on regular karyotype"
+Biochemistry,Biochem-P3,Cytogenetics,FISH — what it CANNOT detect?,NOT point mutations — only structural changes
+Biochemistry,Biochem-P3,Cytogenetics,Robertsonian Translocation — involves which chromosomes?,"Acrocentric chromosomes: 13, 14, 15, 21, 22, Y"
+Biochemistry,Biochem-P3,Cytogenetics,C staining — what does it detect?,Centromere and constitutive heterochromatin — also used for Dicentric chromosomes
+Biochemistry,Biochem-P3,Cytogenetics,Karyotype — how are chromosomes arranged?,Arranged in pairs (1-22 autosomes + XX or XY) from largest to smallest — at Metaphase using Colchicine + Carnoy fixative
+Biochemistry,Biochem-P3,Cytogenetics,FISH image in slide — what does it demonstrate?,Fluorescent probes bind specific chromosomal loci — detects Microdeletion / Translocation / Amplification
