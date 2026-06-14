@@ -7,6 +7,7 @@ import { getReview, saveReview } from '@/lib/store';
 import { isDue, newReview, previewInterval, schedule, type Grade } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta } from '@/lib/theme';
 import { pushDebounced } from '@/lib/sync';
+import { recordEvent, flushEventsDebounced } from '@/lib/events';
 import { BackLink, Button, ProgressBar } from './ui';
 import Flashcard from './Flashcard';
 import CardActions from './CardActions';
@@ -99,9 +100,12 @@ export default function StudySession() {
   const grade = useCallback(
     (g: Grade) => {
       if (!current) return;
-      const next = schedule(getReview(current.id) ?? newReview(), g);
+      const prev = getReview(current.id) ?? newReview();
+      const next = schedule(prev, g);
       saveReview(current.id, next);
+      recordEvent({ cardId: current.id, grade: g, prevState: prev.state, newState: next.state });
       pushDebounced();
+      flushEventsDebounced();
       setReviewed((n) => n + 1);
       setIndex((i) => i + 1);
       setFlipped(false);
