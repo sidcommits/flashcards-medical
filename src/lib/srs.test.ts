@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { newReview, schedule, isDue, previewInterval, retrievabilityAt, type Review } from './srs';
+import { newReview, schedule, isDue, previewInterval, retrievabilityAt, isLeech, type Review } from './srs';
 
 const DAY = 86_400_000;
 
@@ -99,5 +99,12 @@ describe('FSRS scheduling', () => {
     expect(soon).toBeGreaterThan(later);
     expect(soon).toBeLessThanOrEqual(1);
     expect(later).toBeGreaterThanOrEqual(0);
+  });
+
+  it('isLeech flags cards at or past the lapse threshold', () => {
+    expect(isLeech(undefined)).toBe(false);
+    expect(isLeech({ ...newReview(), lapses: 3 })).toBe(false);
+    expect(isLeech({ ...newReview(), lapses: 4 })).toBe(true);
+    expect(isLeech({ ...newReview(), lapses: 9 })).toBe(true);
   });
 });
