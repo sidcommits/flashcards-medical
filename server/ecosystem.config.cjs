@@ -17,5 +17,11 @@ if (fs.existsSync(envPath)) {
 }
 
 module.exports = {
-  apps: [{ name: 'flashcards-sync', script: 'index.js', cwd: __dirname, env }],
+  apps: [{
+    name: 'flashcards-sync',
+    script: 'index.js',
+    cwd: __dirname,
+    node_args: '--disable-warning=ExperimentalWarning',
+    env,
+  }],
 };

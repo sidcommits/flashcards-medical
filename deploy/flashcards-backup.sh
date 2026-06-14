@@ -1,26 +1,31 @@
 #!/usr/bin/env bash
-# Nightly snapshot of the flashcards-sync progress store.
-#
-# The sync service keeps ALL of her review history in a single JSON file. This
-# takes a timestamped copy and retains the most recent 14, so a bad write,
-# accidental deletion, or file corruption can't wipe her progress.
+# Nightly snapshot of the flashcards-sync data: current card state
+# (progress.json) and the append-only review log (reviews.db). Keeps the most
+# recent 14 of each so a bad write, deletion, or corruption can't wipe history.
 #
 # Installed on the VPS at /usr/local/bin/flashcards-backup.sh, run daily by
 # root cron (03:30). Same-box backups protect against data loss, NOT full disk
-# loss — when Wave 3 moves the store to SQLite, switch this to Litestream for
-# off-box durability.
+# loss — when traffic justifies it, stream reviews.db off-box with Litestream.
 set -euo pipefail
 
-SRC=/var/lib/flashcards-sync/progress.json
 DIR=/var/backups/flashcards
 KEEP=14
-
+TS=$(date +%Y%m%d-%H%M%S)
 mkdir -p "$DIR"
-[ -f "$SRC" ] || { echo "flashcards-backup: source $SRC missing, nothing to do"; exit 0; }
 
-cp "$SRC" "$DIR/progress-$(date +%Y%m%d-%H%M%S).json"
+# Current card state.
+SRC=/var/lib/flashcards-sync/progress.json
+[ -f "$SRC" ] && cp "$SRC" "$DIR/progress-$TS.json"
 
-# Prune to the most recent $KEEP snapshots.
-ls -1t "$DIR"/progress-*.json 2>/dev/null | tail -n +$((KEEP + 1)) | xargs -r rm -f
+# Review log — consistent single-file snapshot via the helper (VACUUM INTO).
+if [ -f /var/lib/flashcards-sync/reviews.db ]; then
+  node --disable-warning=ExperimentalWarning /opt/flashcards-sync/backup-events.js "$DIR/reviews-$TS.db" \
+    || echo "flashcards-backup: events snapshot failed"
+fi
 
-echo "flashcards-backup: ok ($(ls -1 "$DIR"/progress-*.json | wc -l) snapshots retained)"
+# Prune each family to the most recent $KEEP.
+for prefix in progress reviews; do
+  ls -1t "$DIR/$prefix-"* 2>/dev/null | tail -n +$((KEEP + 1)) | xargs -r rm -f
+done
+
+echo "flashcards-backup: ok ($TS)"

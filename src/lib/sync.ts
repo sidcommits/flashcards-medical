@@ -3,6 +3,7 @@
 import { loadReviews, replaceReviews } from './store';
 import { loadFlags, FLAG_KEYS } from './flags';
 import { mergeDoc, emptyDoc, type ProgressDoc } from './merge';
+import { loadExamDate, loadGoalDays, PROFILE_KEYS } from './profile';
 
 type Status = 'idle' | 'syncing' | 'synced' | 'offline';
 let status: Status = 'idle';
@@ -16,6 +17,8 @@ function localDoc(): ProgressDoc {
     reviews: loadReviews(),
     bookmarks: loadFlags('bookmarks'),
     hidden: loadFlags('hidden'),
+    examDate: loadExamDate(),
+    goalDays: loadGoalDays(),
   };
 }
 
@@ -23,6 +26,8 @@ function writeLocal(doc: ProgressDoc) {
   replaceReviews(doc.reviews);
   localStorage.setItem(FLAG_KEYS.bookmarks, JSON.stringify(doc.bookmarks));
   localStorage.setItem(FLAG_KEYS.hidden, JSON.stringify(doc.hidden));
+  localStorage.setItem(PROFILE_KEYS.exam, JSON.stringify(doc.examDate ?? { value: null, ts: 0 }));
+  localStorage.setItem(PROFILE_KEYS.goals, JSON.stringify(doc.goalDays ?? {}));
 }
 
 async function api(method: string, body?: unknown): Promise<ProgressDoc | null> {
@@ -45,7 +50,7 @@ export async function pullAndMerge(): Promise<void> {
     if (!remote) return;
     const merged = mergeDoc(localDoc(), remote as ProgressDoc);
     writeLocal(merged);
-    const canonical = await api('PUT', { reviews: merged.reviews, bookmarks: merged.bookmarks, hidden: merged.hidden });
+    const canonical = await api('PUT', { reviews: merged.reviews, bookmarks: merged.bookmarks, hidden: merged.hidden, examDate: merged.examDate, goalDays: merged.goalDays });
     if (!canonical) return;            // 401 -> navigating to login
     writeLocal(canonical as ProgressDoc);
     setStatus('synced');
@@ -62,7 +67,7 @@ export function pushDebounced(delay = 2000): void {
     try {
       setStatus('syncing');
       const d = localDoc();
-      const canonical = await api('PUT', { reviews: d.reviews, bookmarks: d.bookmarks, hidden: d.hidden });
+      const canonical = await api('PUT', { reviews: d.reviews, bookmarks: d.bookmarks, hidden: d.hidden, examDate: d.examDate, goalDays: d.goalDays });
       if (canonical) writeLocal(canonical as ProgressDoc);
       setStatus('synced');
     } catch {

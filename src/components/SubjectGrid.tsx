@@ -5,8 +5,10 @@ import Link from 'next/link';
 import { bySubject, loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { loadFlags } from '@/lib/flags';
 import { getReview } from '@/lib/store';
-import { isDue } from '@/lib/srs';
+import { isDue, isLeech } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta, type SubjectMeta } from '@/lib/theme';
+import { loadExamDate, loadGoalDays } from '@/lib/profile';
+import { readiness, streak } from '@/lib/stats';
 import { Button } from './ui';
 
 type Row = { subject: string; total: number; due: number; meta: SubjectMeta };
@@ -14,7 +16,8 @@ type Row = { subject: string; total: number; due: number; meta: SubjectMeta };
 export default function SubjectGrid() {
   const [cards, setCards] = useState<Card[] | null>(null);
   const [manifest, setManifest] = useState<Record<string, Partial<SubjectMeta>>>({});
-  const [counts, setCounts] = useState({ bookmarks: 0, hidden: 0 });
+  const [counts, setCounts] = useState({ bookmarks: 0, hidden: 0, struggling: 0 });
+  const [insight, setInsight] = useState<{ streak: number; ready: number | null }>({ streak: 0, ready: null });
 
   useEffect(() => {
     let alive = true;
@@ -32,7 +35,14 @@ export default function SubjectGrid() {
       setCounts({
         bookmarks: visibleCards(c).filter((card) => bm[card.id]?.on).length,
         hidden: c.filter((card) => hd[card.id]?.on).length,
+        struggling: visibleCards(c).filter((card) => isLeech(getReview(card.id))).length,
       });
+      const exam = loadExamDate().value;
+      const visible = visibleCards(c);
+      const reviewsMap = Object.fromEntries(
+        visible.map((card) => [card.id, getReview(card.id)]).filter(([, r]) => r) as [string, NonNullable<ReturnType<typeof getReview>>][]
+      );
+      setInsight({ streak: streak(loadGoalDays()), ready: readiness(visible, reviewsMap, exam) });
     })();
     return () => {
       alive = false;
@@ -89,6 +99,12 @@ export default function SubjectGrid() {
         {counts.hidden > 0 && (
           <Link href="/hidden" className="card-face px-4 py-2 text-sm text-muted hover:text-accent">Hidden ({counts.hidden})</Link>
         )}
+        {counts.struggling > 0 && (
+          <Link href="/struggling" className="card-face px-4 py-2 text-sm text-[#8a4b1a] hover:text-accent">⚑ Struggling ({counts.struggling})</Link>
+        )}
+        <Link href="/stats" className="card-face px-4 py-2 text-sm hover:text-accent">
+          🔥 {insight.streak}{insight.ready != null ? ` · ${Math.round(insight.ready * 100)}% ready` : ''}
+        </Link>
       </div>
 
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">

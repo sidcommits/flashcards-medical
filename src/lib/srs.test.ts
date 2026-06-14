@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { newReview, schedule, isDue, previewInterval, type Review } from './srs';
+import { newReview, schedule, isDue, previewInterval, retrievabilityAt, isLeech, type Review } from './srs';
 
 const DAY = 86_400_000;
 
@@ -90,5 +90,21 @@ describe('FSRS scheduling', () => {
     const r = newReview();
     expect(previewInterval(r, 'again')).toMatch(/m$/); // e.g. "1m"
     expect(previewInterval(r, 'easy')).toMatch(/[mhdoy]$/); // e.g. "4d"
+  });
+
+  it('retrievabilityAt: high for a just-reviewed card, lower far in the future', () => {
+    const r = schedule(newReview(), 'good'); // freshly studied
+    const soon = retrievabilityAt(r, new Date(Date.now() + DAY));
+    const later = retrievabilityAt(r, new Date(Date.now() + 120 * DAY));
+    expect(soon).toBeGreaterThan(later);
+    expect(soon).toBeLessThanOrEqual(1);
+    expect(later).toBeGreaterThanOrEqual(0);
+  });
+
+  it('isLeech flags cards at or past the lapse threshold', () => {
+    expect(isLeech(undefined)).toBe(false);
+    expect(isLeech({ ...newReview(), lapses: 3 })).toBe(false);
+    expect(isLeech({ ...newReview(), lapses: 4 })).toBe(true);
+    expect(isLeech({ ...newReview(), lapses: 9 })).toBe(true);
   });
 });

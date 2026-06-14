@@ -88,6 +88,14 @@ export function isDue(r: Review | undefined): boolean {
   return !r || r.due <= Date.now();
 }
 
+/** A card she keeps failing — lapsed this many times or more. */
+export const LEECH_LAPSES = 4;
+
+/** True when a card has lapsed enough to count as a "leech" (struggling). */
+export function isLeech(r: Review | undefined): boolean {
+  return (r?.lapses ?? 0) >= LEECH_LAPSES;
+}
+
 // Short human label for the next-due preview on each grade button.
 export function previewInterval(prev: Review, grade: Grade): string {
   const now = new Date();
@@ -95,6 +103,11 @@ export function previewInterval(prev: Review, grade: Grade): string {
   const preview = scheduler.repeat(toCard(prev), now);
   const due = preview[RATING[grade] as FsrsGrade].card.due.getTime();
   return formatInterval(due - now.getTime());
+}
+
+/** FSRS-predicted recall probability for this card at a given date (0..1). */
+export function retrievabilityAt(prev: Review, date: Date): number {
+  return scheduler.get_retrievability(toCard(prev), date, false);
 }
 
 function formatInterval(ms: number): string {

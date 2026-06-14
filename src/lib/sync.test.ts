@@ -27,7 +27,7 @@ const _HIDDEN_KEY = 'flashcards.hidden.v1';
 void _BOOKMARKS_KEY; void _HIDDEN_KEY;
 
 function emptyRemote(): ProgressDoc {
-  return { version: 1, updatedAt: 1, resetAt: null, reviews: {}, bookmarks: {}, hidden: {} };
+  return { version: 1, updatedAt: 1, resetAt: null, reviews: {}, bookmarks: {}, hidden: {}, examDate: { value: null, ts: 0 }, goalDays: {} };
 }
 
 function remoteWithReview(): ProgressDoc {
@@ -40,6 +40,8 @@ function remoteWithReview(): ProgressDoc {
     },
     bookmarks: {},
     hidden: {},
+    examDate: { value: null, ts: 0 },
+    goalDays: {},
   };
 }
 
