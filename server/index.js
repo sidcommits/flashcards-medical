@@ -4,6 +4,7 @@ const { makeSessionCookie, clearCookie, parseCookies, verify, COOKIE_NAME } = re
 const { readDoc, writeDoc } = require('./lib/store');
 const { mergeDoc, emptyDoc } = require('./lib/merge');
 const { rateLimit } = require('./lib/ratelimit');
+const { insertEvents } = require('./lib/eventstore');
 
 function send(res, status, body, headers = {}) {
   res.writeHead(status, { 'Content-Type': 'application/json', ...headers });
@@ -65,6 +66,22 @@ function createServer() {
           return send(res, 200, next, refresh);
         }
         return send(res, 405, { error: 'method not allowed' });
+      }
+
+      if (req.method === 'POST' && url === '/api/events') {
+        if (!authed(req, SECRET)) return send(res, 401, { error: 'unauthorized' });
+        const refresh = { 'Set-Cookie': makeSessionCookie(SECRET) };
+        const body = await readBody(req);
+        if (body === null || !Array.isArray(body.events)) return send(res, 400, { error: 'bad json' }, refresh);
+        let inserted;
+        try {
+          inserted = insertEvents(body.events);
+        } catch (e) {
+          console.error('events insert', e);
+          return send(res, 500, { error: 'store' }, refresh);
+        }
+        if (inserted < 0) return send(res, 503, { error: 'log unavailable' }, refresh);
+        return send(res, 200, { ok: true, inserted }, refresh);
       }
 
       if (url === '/health') return send(res, 200, { ok: true });
