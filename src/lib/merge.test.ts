@@ -49,6 +49,17 @@ describe('client merge', () => {
     const b: ProgressDoc = { ...emptyDoc(), resetAt: null };
     expect(mergeDoc(a, b).resetAt).toBe(5000);
   });
+
+  it('mergeDoc merges the mastered map (newest ts wins)', () => {
+    const a: ProgressDoc = { ...emptyDoc(), mastered: { c: { on: true, ts: 1 } } };
+    const b: ProgressDoc = { ...emptyDoc(), mastered: { c: { on: false, ts: 2 } } };
+    expect(mergeDoc(a, b).mastered.c.on).toBe(false);
+  });
+  it('mergeDoc is back-compat when a doc lacks mastered', () => {
+    const a = { ...emptyDoc(), mastered: { c: { on: true, ts: 5 } } };
+    const legacy = { version: 1, updatedAt: 0, resetAt: null, reviews: {}, bookmarks: {}, hidden: {}, examDate: { value: null, ts: 0 }, goalDays: {} } as unknown as ProgressDoc;
+    expect(mergeDoc(a, legacy).mastered.c.on).toBe(true);
+  });
 });
 
 describe('examDate + goalDays merge', () => {

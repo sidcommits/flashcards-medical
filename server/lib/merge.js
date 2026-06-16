@@ -16,7 +16,7 @@ function mergeExam(a, b) {
 }
 
 function emptyDoc() {
-  return { version: 1, updatedAt: Date.now(), resetAt: null, reviews: {}, bookmarks: {}, hidden: {}, examDate: { value: null, ts: 0 }, goalDays: {} };
+  return { version: 1, updatedAt: Date.now(), resetAt: null, reviews: {}, bookmarks: {}, hidden: {}, mastered: {}, examDate: { value: null, ts: 0 }, goalDays: {} };
 }
 
 function mergeDoc(base, incoming) {
@@ -27,6 +27,7 @@ function mergeDoc(base, incoming) {
     reviews: mergeMap(base.reviews ?? {}, incoming.reviews ?? {}, reviewTs),
     bookmarks: mergeMap(base.bookmarks ?? {}, incoming.bookmarks ?? {}, flagTs),
     hidden: mergeMap(base.hidden ?? {}, incoming.hidden ?? {}, flagTs),
+    mastered: mergeMap(base.mastered ?? {}, incoming.mastered ?? {}, flagTs),
     examDate: mergeExam(base.examDate, incoming.examDate),
     goalDays: mergeMap(base.goalDays ?? {}, incoming.goalDays ?? {}, flagTs),
   };

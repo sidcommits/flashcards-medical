@@ -11,6 +11,7 @@ export type ProgressDoc = {
   reviews: Record<string, Review>;
   bookmarks: Record<string, Flag>;
   hidden: Record<string, Flag>;
+  mastered: Record<string, Flag>;
   examDate: ExamDate;
   goalDays: Record<string, Flag>;
 };
@@ -30,7 +31,7 @@ function mergeExam(a?: ExamDate, b?: ExamDate): ExamDate {
 }
 
 export function emptyDoc(): ProgressDoc {
-  return { version: 1, updatedAt: Date.now(), resetAt: null, reviews: {}, bookmarks: {}, hidden: {}, examDate: { value: null, ts: 0 }, goalDays: {} };
+  return { version: 1, updatedAt: Date.now(), resetAt: null, reviews: {}, bookmarks: {}, hidden: {}, mastered: {}, examDate: { value: null, ts: 0 }, goalDays: {} };
 }
 
 export function mergeDoc(a: ProgressDoc, b: ProgressDoc): ProgressDoc {
@@ -41,6 +42,7 @@ export function mergeDoc(a: ProgressDoc, b: ProgressDoc): ProgressDoc {
     reviews: mergeMap(a.reviews ?? {}, b.reviews ?? {}, (r) => r.ts ?? 0),
     bookmarks: mergeMap(a.bookmarks ?? {}, b.bookmarks ?? {}, (f) => f.ts ?? 0),
     hidden: mergeMap(a.hidden ?? {}, b.hidden ?? {}, (f) => f.ts ?? 0),
+    mastered: mergeMap(a.mastered ?? {}, b.mastered ?? {}, (f) => f.ts ?? 0),
     examDate: mergeExam(a.examDate, b.examDate),
     goalDays: mergeMap(a.goalDays ?? {}, b.goalDays ?? {}, (f) => f.ts ?? 0),
   };

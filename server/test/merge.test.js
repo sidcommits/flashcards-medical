@@ -19,6 +19,15 @@ test('mergeDoc merges all three maps', () => {
   assert.strictEqual(out.bookmarks.c1.on, true);
 });
 
+test('mergeDoc merges mastered map, back-compat when absent', () => {
+  const { mergeDoc, emptyDoc } = require('../lib/merge');
+  const a = { ...emptyDoc(), mastered: { c: { on: true, ts: 1 } } };
+  const b = { ...emptyDoc(), mastered: { c: { on: false, ts: 2 } } };
+  assert.strictEqual(mergeDoc(a, b).mastered.c.on, false);
+  // incoming legacy body without mastered must not throw or drop existing
+  assert.strictEqual(mergeDoc(a, { reviews: {}, bookmarks: {}, hidden: {} }).mastered.c.on, true);
+});
+
 test('examDate newest wins, goalDays union, back-compat', () => {
   const { mergeDoc, emptyDoc } = require('../lib/merge');
   const a = { ...emptyDoc(), examDate: { value: '2026-09-01', ts: 10 }, goalDays: { d1: { on: true, ts: 5 } } };
