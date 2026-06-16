@@ -220,6 +220,7 @@ export default function StudySession() {
           key={current.id}
           cardId={current.id}
           onHide={() => { setReviewed((n) => n + 1); setIndex((i) => i + 1); setFlipped(false); setShowHint(false); }}
+          onMastered={() => { setReviewed((n) => n + 1); setIndex((i) => i + 1); setFlipped(false); setShowHint(false); }}
         />
       </div>
 
