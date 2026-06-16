@@ -65,6 +65,7 @@ function createServer() {
                 reviews: body.reviews || {},
                 bookmarks: body.bookmarks || {},
                 hidden: body.hidden || {},
+                mastered: body.mastered || {},
                 examDate: body.examDate ?? null,
                 goalDays: body.goalDays || {},
               });

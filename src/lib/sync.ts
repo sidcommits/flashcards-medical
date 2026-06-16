@@ -17,6 +17,7 @@ function localDoc(): ProgressDoc {
     reviews: loadReviews(),
     bookmarks: loadFlags('bookmarks'),
     hidden: loadFlags('hidden'),
+    mastered: loadFlags('mastered'),
     examDate: loadExamDate(),
     goalDays: loadGoalDays(),
   };
@@ -26,6 +27,7 @@ function writeLocal(doc: ProgressDoc) {
   replaceReviews(doc.reviews);
   localStorage.setItem(FLAG_KEYS.bookmarks, JSON.stringify(doc.bookmarks));
   localStorage.setItem(FLAG_KEYS.hidden, JSON.stringify(doc.hidden));
+  localStorage.setItem(FLAG_KEYS.mastered, JSON.stringify(doc.mastered ?? {}));
   localStorage.setItem(PROFILE_KEYS.exam, JSON.stringify(doc.examDate ?? { value: null, ts: 0 }));
   localStorage.setItem(PROFILE_KEYS.goals, JSON.stringify(doc.goalDays ?? {}));
 }
@@ -50,7 +52,7 @@ export async function pullAndMerge(): Promise<void> {
     if (!remote) return;
     const merged = mergeDoc(localDoc(), remote as ProgressDoc);
     writeLocal(merged);
-    const canonical = await api('PUT', { reviews: merged.reviews, bookmarks: merged.bookmarks, hidden: merged.hidden, examDate: merged.examDate, goalDays: merged.goalDays });
+    const canonical = await api('PUT', { reviews: merged.reviews, bookmarks: merged.bookmarks, hidden: merged.hidden, mastered: merged.mastered, examDate: merged.examDate, goalDays: merged.goalDays });
     if (!canonical) return;            // 401 -> navigating to login
     writeLocal(canonical as ProgressDoc);
     setStatus('synced');
@@ -67,7 +69,7 @@ export function pushDebounced(delay = 2000): void {
     try {
       setStatus('syncing');
       const d = localDoc();
-      const canonical = await api('PUT', { reviews: d.reviews, bookmarks: d.bookmarks, hidden: d.hidden, examDate: d.examDate, goalDays: d.goalDays });
+      const canonical = await api('PUT', { reviews: d.reviews, bookmarks: d.bookmarks, hidden: d.hidden, mastered: d.mastered, examDate: d.examDate, goalDays: d.goalDays });
       if (canonical) writeLocal(canonical as ProgressDoc);
       setStatus('synced');
     } catch {

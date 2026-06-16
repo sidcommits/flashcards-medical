@@ -35,7 +35,7 @@ test('full auth + sync flow', async () => {
 
   // PUT merges
   res = await fetch(`${base()}/api/progress`, { method: 'PUT', headers: { cookie, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ reviews: { c1: { ts: 5, ease: 2.5, interval: 1, due: 1, reps: 1, lapses: 0 } }, bookmarks: { c1: { on: true, ts: 6 } }, hidden: {} }) });
+    body: JSON.stringify({ reviews: { c1: { ts: 5, ease: 2.5, interval: 1, due: 1, reps: 1, lapses: 0 } }, bookmarks: { c1: { on: true, ts: 6 } }, hidden: {}, mastered: { c1: { on: true, ts: 6 } } }) });
   let doc = await res.json();
   assert.strictEqual(doc.bookmarks.c1.on, true);
 
@@ -43,6 +43,7 @@ test('full auth + sync flow', async () => {
   res = await fetch(`${base()}/api/progress`, { headers: { cookie } });
   doc = await res.json();
   assert.strictEqual(doc.reviews.c1.interval, 1);
+  assert.strictEqual(doc.mastered.c1.on, true); // mastered round-trips through PUT
 
   // reset clears
   res = await fetch(`${base()}/api/progress`, { method: 'PUT', headers: { cookie, 'Content-Type': 'application/json' }, body: JSON.stringify({ reset: true }) });
