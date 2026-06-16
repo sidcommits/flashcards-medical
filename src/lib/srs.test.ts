@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { newReview, schedule, isDue, previewInterval, retrievabilityAt, isLeech, type Review } from './srs';
+import { newReview, schedule, isDue, previewInterval, retrievabilityAt, isLeech, splitCounts, type Review } from './srs';
 
 const DAY = 86_400_000;
 
@@ -106,5 +106,29 @@ describe('FSRS scheduling', () => {
     expect(isLeech({ ...newReview(), lapses: 3 })).toBe(false);
     expect(isLeech({ ...newReview(), lapses: 4 })).toBe(true);
     expect(isLeech({ ...newReview(), lapses: 9 })).toBe(true);
+  });
+});
+
+describe('splitCounts', () => {
+  it('splits a card set into disjoint due (reviewed & due) and left (never attempted)', () => {
+    const reviews: Record<string, Review> = {
+      reviewedDue: { ...mature(), due: Date.now() - 1000 },     // studied before, now due
+      reviewedFuture: { ...mature(), due: Date.now() + 5 * DAY }, // studied, scheduled ahead — neither
+    };
+    const cards = [
+      { id: 'reviewedDue' },
+      { id: 'reviewedFuture' },
+      { id: 'neverSeen1' },
+      { id: 'neverSeen2' },
+    ];
+    const { due, left } = splitCounts(cards, (id) => reviews[id]);
+    expect(due).toBe(1);  // only reviewedDue
+    expect(left).toBe(2); // the two never-seen
+  });
+
+  it('is all-left for a brand-new deck and all-zero for an empty list', () => {
+    const fresh = splitCounts([{ id: 'a' }, { id: 'b' }], () => undefined);
+    expect(fresh).toEqual({ due: 0, left: 2 });
+    expect(splitCounts([], () => undefined)).toEqual({ due: 0, left: 0 });
   });
 });

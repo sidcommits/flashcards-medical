@@ -88,6 +88,28 @@ export function isDue(r: Review | undefined): boolean {
   return !r || r.due <= Date.now();
 }
 
+/**
+ * Split a card set into two disjoint counts for the deck/subject tiles:
+ *   - `due`  = studied before and now resurfacing (has a review whose due time has passed)
+ *   - `left` = never attempted even once (no review yet)
+ * A studied card scheduled into the future counts as neither. Together with the
+ * scheduled-ahead cards they make up the total. `reviewOf` is injected (usually
+ * `getReview`) so this stays pure and testable.
+ */
+export function splitCounts(
+  cards: readonly { id: string }[],
+  reviewOf: (id: string) => Review | undefined,
+): { due: number; left: number } {
+  let due = 0;
+  let left = 0;
+  for (const c of cards) {
+    const r = reviewOf(c.id);
+    if (!r) left += 1;
+    else if (r.due <= Date.now()) due += 1;
+  }
+  return { due, left };
+}
+
 /** A card she keeps failing — lapsed this many times or more. */
 export const LEECH_LAPSES = 4;
 

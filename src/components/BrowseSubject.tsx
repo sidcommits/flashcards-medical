@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { byDeck, byTopic, loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { getReview } from '@/lib/store';
-import { isDue } from '@/lib/srs';
+import { splitCounts } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta } from '@/lib/theme';
 import { BackLink, Button, Pill, naturalCompare } from './ui';
 
@@ -39,7 +39,7 @@ export default function BrowseSubject() {
       .map(([deck, list]) => ({
         deck,
         total: list.length,
-        due: list.filter((c) => isDue(getReview(c.id))).length,
+        ...splitCounts(list, getReview),
         topics: [...byTopic(list).keys()].sort(naturalCompare),
       }));
   }, [cards]);
@@ -78,6 +78,12 @@ export default function BrowseSubject() {
                         <>
                           {' · '}
                           <span className="font-medium text-accent">{d.due} due</span>
+                        </>
+                      )}
+                      {d.left > 0 && (
+                        <>
+                          {' · '}
+                          <span className="font-medium text-ink">{d.left} left</span>
                         </>
                       )}
                     </p>

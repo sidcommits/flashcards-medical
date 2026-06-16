@@ -5,13 +5,13 @@ import Link from 'next/link';
 import { bySubject, loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { loadFlags } from '@/lib/flags';
 import { getReview } from '@/lib/store';
-import { isDue, isLeech } from '@/lib/srs';
+import { isLeech, splitCounts } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta, type SubjectMeta } from '@/lib/theme';
 import { loadExamDate, loadGoalDays } from '@/lib/profile';
 import { readiness, streak } from '@/lib/stats';
 import { Button } from './ui';
 
-type Row = { subject: string; total: number; due: number; meta: SubjectMeta };
+type Row = { subject: string; total: number; due: number; left: number; meta: SubjectMeta };
 
 export default function SubjectGrid() {
   const [cards, setCards] = useState<Card[] | null>(null);
@@ -58,13 +58,14 @@ export default function SubjectGrid() {
     const meta = resolveSubjectMeta([...groups.keys()], manifest);
     const out: Row[] = [];
     for (const [subject, list] of groups) {
-      const due = list.filter((c) => isDue(getReview(c.id))).length;
-      out.push({ subject, total: list.length, due, meta: meta.get(subject)! });
+      const { due, left } = splitCounts(list, getReview);
+      out.push({ subject, total: list.length, due, left, meta: meta.get(subject)! });
     }
     return out.sort((a, b) => a.meta.order - b.meta.order);
   }, [cards, manifest]);
 
   const totalDue = rows.reduce((n, r) => n + r.due, 0);
+  const totalLeft = rows.reduce((n, r) => n + r.left, 0);
 
   if (!cards) {
     return <p className="py-16 text-center text-muted">Loading cards…</p>;
@@ -84,14 +85,20 @@ export default function SubjectGrid() {
 
   return (
     <div className="flex flex-col gap-6">
-      {totalDue > 0 && (
+      {totalDue + totalLeft > 0 && (
         <div className="flex items-center justify-between gap-4">
           <p className="text-sm text-muted">
-            <span className="font-display text-ink">{totalDue}</span> card
-            {totalDue === 1 ? '' : 's'} due across all subjects
+            <span className="font-display text-accent">{totalDue}</span> due
+            {totalLeft > 0 && (
+              <>
+                {' · '}
+                <span className="font-display text-ink">{totalLeft}</span> left
+              </>
+            )}
+            {' '}across all subjects
           </p>
           <Link href="/study">
-            <Button>Study everything due</Button>
+            <Button>Study everything</Button>
           </Link>
         </div>
       )}
@@ -131,6 +138,12 @@ export default function SubjectGrid() {
                 <>
                   {' · '}
                   <span className="font-medium text-accent">{r.due} due</span>
+                </>
+              )}
+              {r.left > 0 && (
+                <>
+                  {' · '}
+                  <span className="font-medium text-ink">{r.left} left</span>
                 </>
               )}
             </p>
