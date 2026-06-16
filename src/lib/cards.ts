@@ -119,8 +119,9 @@ export function byTopic(cards: Card[]): Map<string, Card[]> {
   return m;
 }
 
-/** Cards not soft-hidden by the user. Use everywhere study queues/counts are built. */
+/** Cards the user hasn't soft-hidden or marked mastered. Use everywhere study queues/counts are built. */
 export function visibleCards(cards: Card[]): Card[] {
   const hidden = loadFlags('hidden');
-  return cards.filter((c) => !hidden[c.id]?.on);
+  const mastered = loadFlags('mastered');
+  return cards.filter((c) => !hidden[c.id]?.on && !mastered[c.id]?.on);
 }
