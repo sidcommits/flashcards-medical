@@ -1,0 +1,634 @@
+subject,deck,topic,front,back
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,What are the layers of the cornea from anterior to posterior?,"Epithelium, Bowman's membrane, Stroma, Dua's layer, Descemet's membrane, Endothelium."
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,What type of epithelium lines the cornea?,Non-keratinized stratified squamous epithelium.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,Which corneal layer does NOT regenerate?,Bowman's membrane.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,"How are the corneal stromal fibres arranged, and what does this provide?","Parallel fibre arrangement, which contributes to corneal transparency."
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,Which glycosaminoglycan (GAG) is found in the corneal stroma?,Keratan sulfate.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,Which is the strongest layer of the cornea?,Dua's layer.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,In which corneal layer does copper deposit in Wilson's disease?,Descemet's membrane.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,Which is the most metabolically active layer of the cornea?,Endothelium.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,"Which corneal layer contributes maximally to corneal transparency, and how?",Endothelium - by keeping the cornea in a dehydrated state.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,Which ion pump does the corneal endothelium use to maintain dehydration?,Na+-K+-ATPase pump.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,Is the cornea vascular or avascular?,Avascular.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Blink Reflex,What are the afferent and efferent limbs of the corneal blink reflex?,"Afferent = V1; Efferent = VII (facial nerve), bilateral."
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anesthesia,List the causes of corneal anesthesia (reduced corneal sensation).,"HSV-1, leprosy, diabetes mellitus, beta-blockers."
+Ophthalmology,Part-1 Cornea & Sclera,Interstitial Keratitis,List the causes of interstitial keratitis (IK).,"Cogan's syndrome (IK + SNHL), leprosy, TB, congenital syphilis."
+Ophthalmology,Part-1 Cornea & Sclera,Interstitial Keratitis,What is Cogan's syndrome?,Interstitial keratitis + sensorineural hearing loss (SNHL).
+Ophthalmology,Part-1 Cornea & Sclera,Interstitial Keratitis,What is Hutchinson's triad of congenital syphilis?,"Interstitial keratitis, SNHL, and peg-shaped incisors."
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Opacities,"Through a NEBULA, are the pupillary margin and iris visible?",Yes - both pupillary margin and iris are visible (faintest opacity).
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Opacities,"Through a MACULA, what is visible?","Pupillary margin is visible, but the iris is not."
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Opacities,"Which corneal opacity is the most severe, and what is visible through it?",Leukoma - neither the pupillary margin nor the iris is visible.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Opacities,Order the three corneal opacities from least to most dense.,Nebula (faintest) -> Macula -> Leukoma (most severe).
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,General features of corneal dystrophies: inflammatory? progressive? bilateral? inherited?,Inflammatory: No; Progressive: Yes; Bilateral: Yes; Inherited: Yes.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,What is the usual inheritance pattern of corneal dystrophies?,Autosomal dominant.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,Which corneal dystrophy is X-linked recessive (exception to AD)?,Lisch epithelial dystrophy.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,Which corneal dystrophies are autosomal recessive (exception to AD)?,Congenital and posterior endothelial dystrophy.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,"Which is the most common corneal epithelial dystrophy, and its hallmark?",Cogan's epithelial dystrophy (most common) - 'fingerprint' defects.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,What deposit characterizes lattice stromal dystrophy?,Amyloid deposition.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,What deposit and appearance characterize granular dystrophy?,Stromal hyaline deposition; 'bread crumb' appearance.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,What does specular microscopy measure?,Endothelial cell count.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,What is the normal corneal endothelial cell count?,2500-3000 cells.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,An endothelial cell count below 500 leads to what?,"Bullous keratopathy (fluid in the cornea), leading to corneal opacification."
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,What does pachymetry measure?,Corneal thickness.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,What does keratometry measure?,Corneal curvature.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,Which structure contributes maximally to the power of the eye?,The cornea (its curvature).
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,"If the eye's total refractive power is 60D, how much does the cornea contribute?",45 D.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,What is the Placido disc used to assess?,The corneal surface.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,What does the Pentacam assess?,The corneal surface.
+Ophthalmology,Part-1 Cornea & Sclera,Ocular Biometry,What is the axial length of the eye (per notes)?,25 mm.
+Ophthalmology,Part-1 Cornea & Sclera,Ocular Biometry,What is the depth of the anterior chamber (per notes)?,2.5 mm.
+Ophthalmology,Part-1 Cornea & Sclera,Ocular Biometry,What dioptric difference between the two eyes defines anisometropia?,A difference greater than 2.5 D.
+Ophthalmology,Part-1 Cornea & Sclera,Ocular Biometry,What is the normal refractive state from newborn till infancy?,Hypermetropia of about +2.5 D.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,"A sterile, mobile hypopyon suggests which type of corneal infection?",Bacterial.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,"A non-sterile (asterile), immobile hypopyon suggests which type of corneal infection?",Fungal.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,"Which organism causes contact-lens-related corneal ulcers, and how fast can it perforate?",Pseudomonas - can perforate the cornea within 48 hours.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,What does Seidel's test detect?,Corneal perforation - aqueous humor leak.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,"Wesley's ring, satellite lesions, and history of trauma with vegetative matter suggest which infection?",Fungal keratitis.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,A ring abscess with a history of contact lens misuse suggests which infection?,Acanthamoeba keratitis.
+Ophthalmology,Part-1 Cornea & Sclera,Acanthamoeba,What are the characteristic clinical features of Acanthamoeba keratitis?,Severe pain (+++) and neuritis (++).
+Ophthalmology,Part-1 Cornea & Sclera,Acanthamoeba,What is the drug of choice for Acanthamoeba keratitis?,PHMB (a biguanide).
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,List the causes of satellite lesions.,"H. influenzae, breast Ca (T4b), borderline tuberculoid (BT) leprosy, fungal corneal ulcer."
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Stains,Which stain is used first and stains the floor of a corneal ulcer?,Fluorescein (stains the floor).
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Stains,Which stains highlight the margin of a corneal ulcer?,Lissamine green and rose bengal.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Stains,Fluorescein is best viewed with which filter?,Cobalt blue filter.
+Ophthalmology,Part-1 Cornea & Sclera,Viral Keratitis,What is the most common cause of viral keratitis?,HSV-1.
+Ophthalmology,Part-1 Cornea & Sclera,Viral Keratitis,"In superficial punctate keratopathy (SPK), are steroids allowed?",Yes - steroids are indicated/allowed.
+Ophthalmology,Part-1 Cornea & Sclera,Viral Keratitis,"How is a dendritic ulcer treated, and what is contraindicated?",Treat with acyclovir; steroids are contraindicated.
+Ophthalmology,Part-1 Cornea & Sclera,Viral Keratitis,"What is the side-effect concern with steroids in herpetic keratitis, and the duration limit?",Metaherpetic keratitis; if steroids are used they should be limited to under 2 weeks.
+Ophthalmology,Part-1 Cornea & Sclera,Viral Keratitis,What are the features of VZV keratitis?,Pseudo-dendritic ulcer; painful vesicles in V1 distribution; Hutchinson's sign present.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoconus,Name the signs associated with keratoconus.,"Munson sign, Vogt's striae, Fleischer ring, Rizutti sign, oil droplet sign, scissoring reflex."
+Ophthalmology,Part-1 Cornea & Sclera,Keratoconus,What is the orientation of Vogt's striae in keratoconus?,Vertical.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoconus,"What is the Fleischer ring composed of, and where?",Iron (Fe) deposition in the corneal epithelium.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoconus,On which examinations are the oil droplet sign and scissoring reflex seen?,Oil droplet - ophthalmoscopy; scissoring reflex - retinoscopy.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoconus,What corneal changes characterize keratoconus?,Irregular corneal thickness and irregular astigmatism.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoconus,What are INTACS used for?,They are a treatment (intrastromal ring segments) for keratoconus.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoconus,What is C3R?,Corneal collagen cross-linking with riboflavin.
+Ophthalmology,Part-1 Cornea & Sclera,KF Rings,Where does copper deposit in a KF ring?,Descemet's membrane.
+Ophthalmology,Part-1 Cornea & Sclera,KF Rings,KF rings are associated with which disease?,Wilson's disease.
+Ophthalmology,Part-1 Cornea & Sclera,KF Rings,"In Wilson's disease, what percent of KF-ring patients have hepatic vs neurological involvement?",~50% hepatic involvement; ~90% neurological involvement.
+Ophthalmology,Part-1 Cornea & Sclera,Scleritis vs Episcleritis,Compare pain in scleritis vs episcleritis.,Scleritis - markedly increased pain; episcleritis - lesser pain compared to scleritis.
+Ophthalmology,Part-1 Cornea & Sclera,Scleritis vs Episcleritis,Compare the response to 2.5% phenylephrine in scleritis vs episcleritis.,Scleritis - no blanching; episcleritis - blanching positive.
+Ophthalmology,Part-1 Cornea & Sclera,Scleritis vs Episcleritis,Scleritis is associated with which systemic disease?,Rheumatoid arthritis (RA).
+Ophthalmology,Part-1 Cornea & Sclera,Scleromalacia Perforans,Scleromalacia perforans is associated with what history?,History of rheumatoid arthritis (RA).
+Ophthalmology,Part-1 Cornea & Sclera,Scleromalacia Perforans,"If there is no history of RA, what does the scleral thinning lead to?",Staphyloma.
+Ophthalmology,Part-1 Cornea & Sclera,Ophthalmic Anesthesia,Which agent is used for injectable LA vs topical anesthesia in ophthalmology?,Injectable LA: lignocaine; Topical: proparacaine.
+Ophthalmology,Part-1 Cornea & Sclera,Ophthalmic Anesthesia,Which block is given in the extraconal space?,Peribulbar block.
+Ophthalmology,Part-1 Cornea & Sclera,Ophthalmic Anesthesia,Which block is given in the intraconal space?,Retrobulbar block.
+Ophthalmology,Part-1 Cornea & Sclera,Ophthalmic Anesthesia,Where are the subtenon and subconjunctival blocks placed?,Subtenon block - beneath Tenon's capsule (episcleral level); subconjunctival block - beneath the conjunctiva.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,What is penetrating keratoplasty (PK)?,Keratoplasty in which all corneal layers are replaced (full thickness).
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,"What does DALK stand for, and which layers are replaced?",Deep Anterior Lamellar Keratoplasty - cornea replaced up to the mid-stroma.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,"What does DSEK stand for, and what is preserved?",Descemet Stripping with Endothelial Keratoplasty - the stroma is not disturbed.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,What are the indications for keratoplasty?,"Corneal ulcers, bullous keratopathy, keratoconus."
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,Within how many hours of death should a corneal graft be taken from a cadaver?,Within 6 hours.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,What is the McCarey-Kauffman medium used for?,Corneal graft storage medium.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,What suture material is used in keratoplasty?,Nylon sutures.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,List the signs of corneal graft rejection.,"Kaye's dots (subepithelial), Khodadoust line, and keratic precipitates (KP)."
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,Where are Kaye's dots located in graft rejection?,Subepithelial.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,A lesion of the optic nerve produces what field defect?,Blindness (total field loss) of the ipsilateral eye.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,A lesion at the optic chiasma produces what field defect?,Bitemporal hemianopia.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,A lesion of the optic tract produces what field defect?,Contralateral homonymous hemianopia.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,A lesion of the temporal lobe (Meyer's loop) produces what field defect?,Contralateral superior quadrantanopia.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,A lesion of the parietal lobe (Baum's loop) produces what field defect?,Contralateral inferior quadrantanopia.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,"What field defect results from a PCA infarct, and what syndrome is associated?",Homonymous hemianopia with macular sparing; Anton syndrome (denial of blindness).
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,An MCA lesion affects which part of vision?,The macula (central vision).
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,Wernicke's pupil localizes a lesion to where?,The optic tract.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,"Which visual radiation passes through the temporal lobe, and what is it called?",Meyer's loop (temporal loop).
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,"Which visual radiation passes through the parietal lobe, and what is it called?",Baum's loop.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,What is synapse #1 in the light reflex pathway?,Pretectal nucleus.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,What is synapse #2 in the light reflex pathway?,Edinger-Westphal nucleus.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,What is synapse #3 in the light reflex pathway?,Ciliary ganglion.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,Where are the two decussations in the light reflex pathway?,Decussation #1 at the chiasm; decussation #2 at the posterior commissure.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,What proportion of pupillary fibres are light vs near fibres?,Light fibres 3-5%; near fibres 95-97%.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,Are the postganglionic parasympathetic fibres myelinated or unmyelinated?,Myelinated.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,"Where do ipRGCs also synapse, and what function does this serve?",Suprachiasmatic nucleus of the hypothalamus - for diurnal rhythm.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,Why is CN III vulnerable to compression in its subarachnoid course?,It runs superficial and dorsomedial - vulnerable to PComm aneurysm and uncal herniation.
+Ophthalmology,Part-2 Neuro-ophthalmology,Argyll-Robertson Pupil,What are the reflex findings in Argyll-Robertson pupil?,Accommodation reflex present; light reflex absent.
+Ophthalmology,Part-2 Neuro-ophthalmology,Marcus Gunn Pupil,What test detects a Marcus Gunn pupil (RAPD)?,Swinging flashlight test.
+Ophthalmology,Part-2 Neuro-ophthalmology,Marcus Gunn Pupil,A Marcus Gunn pupil (RAPD) is the hallmark of what condition?,Optic neuritis.
+Ophthalmology,Part-2 Neuro-ophthalmology,Marcus Gunn Pupil,"If RAPD/optic neuritis is found, what must always be ruled out?",Multiple sclerosis.
+Ophthalmology,Part-2 Neuro-ophthalmology,Adie vs Pharmacological Pupil,Both cause an ipsilateral dilated pupil - how do they differ on accommodation?,Adie's: accommodation intact; pharmacological (atropine): cycloplegia (accommodation lost).
+Ophthalmology,Part-2 Neuro-ophthalmology,Adie vs Pharmacological Pupil,How does 0.125% pilocarpine differentiate Adie's tonic pupil from pharmacological mydriasis?,Adie's: causes miosis (denervation hypersensitivity); pharmacological: no reversal (no constriction).
+Ophthalmology,Part-2 Neuro-ophthalmology,Adie vs Pharmacological Pupil,What is the underlying defect in Adie's tonic pupil?,Denervation of the parasympathetic (light reflex) fibres.
+Ophthalmology,Part-2 Neuro-ophthalmology,Adie vs Pharmacological Pupil,Which drug typically causes pharmacological mydriasis?,Atropine.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Disc colour in primary vs secondary vs consecutive optic atrophy?,Primary: chalky white; Secondary: grey; Consecutive: waxy pale.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Disc margins in primary vs secondary vs consecutive optic atrophy?,Primary: distinct; Secondary: blurred; Consecutive: normal with attenuated arteries.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Which type of optic atrophy is preceded by long-standing disc swelling?,Secondary optic atrophy.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,In which type is there gliosis of the optic nerve head?,Secondary optic atrophy.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Causes of primary optic atrophy?,"Compression of optic nerve/chiasm, hereditary optic neuropathy, nutritional optic atrophy."
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Which hereditary optic neuropathy is mitochondrial?,Leber's hereditary optic neuropathy (LHON).
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Which vitamin deficiencies cause nutritional optic atrophy?,"Vitamin B6, B1, B3."
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Tobacco causes which optic problem?,Toxic amblyopia.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Causes of secondary optic atrophy?,"Chronic papilloedema, papillitis, anterior ischemic optic neuropathy (AION - giant cell arteritis)."
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Causes of consecutive optic atrophy?,"Chorioretinal disease (e.g., retinitis pigmentosa), central retinal artery occlusion."
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Neuritis (MS),What is the most common type of optic neuritis in multiple sclerosis?,Retrobulbar neuritis.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Neuritis (MS),Clinical features of retrobulbar neuritis?,Painful unilateral loss of vision with no visual field defect and a normal fundus.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Neuritis (MS),What is the investigation of choice for retrobulbar neuritis?,Contrast-enhanced MRI (CE-MRI).
+Ophthalmology,Part-2 Neuro-ophthalmology,Papilledema,Typical presentation of papilledema?,"Painless, bilateral."
+Ophthalmology,Part-2 Neuro-ophthalmology,Papilledema,Visual field defects in papilledema?,Enlargement of the blind spot and central scotoma.
+Ophthalmology,Part-2 Neuro-ophthalmology,Papilledema,What is contraindicated in raised ICP / papilledema?,Lumbar puncture.
+Ophthalmology,Part-2 Neuro-ophthalmology,Altitudinal Field Defects,Name causes of altitudinal visual field defects.,"Glaucoma, optic nerve drusen, AION."
+Ophthalmology,Part-2 Neuro-ophthalmology,Altitudinal Field Defects,"AION is associated with which condition, and what symptom may precede it?",Giant cell arteritis; amaurosis fugax.
+Ophthalmology,Part-3 Retina,Retinal Layers,List the retinal layers from inner (vitreal) to outer.,"Internal limiting membrane, nerve fibre layer, ganglion cell layer, inner plexiform, inner nuclear, outer plexiform, outer nuclear (with OLM), photoreceptors, RPE; then choroid (Bruch membrane)."
+Ophthalmology,Part-3 Retina,Retinal Layers,Which retinal layer contains the 3rd-order neurons?,Ganglion cell layer.
+Ophthalmology,Part-3 Retina,Retinal Layers,"Which retinal layer contains the 2nd-order neurons, and which cells?","Inner nuclear layer - bipolar, Muller, amacrine, and horizontal cells."
+Ophthalmology,Part-3 Retina,Retinal Layers,Which cells are the 1st-order neurons of the retina?,Photoreceptors.
+Ophthalmology,Part-3 Retina,Retinal Layers,Retinal detachment occurs between which two layers?,Between the photoreceptors and the RPE.
+Ophthalmology,Part-3 Retina,Retinal Layers,Which membrane is associated with the choroid?,Bruch membrane.
+Ophthalmology,Part-3 Retina,Direct vs Indirect Ophthalmoscopy,Compare magnification: direct vs indirect (+20D).,Direct 14X; indirect 3X.
+Ophthalmology,Part-3 Retina,Direct vs Indirect Ophthalmoscopy,Compare field diameter: direct vs indirect.,Direct 2 DD; indirect 9 DD.
+Ophthalmology,Part-3 Retina,Direct vs Indirect Ophthalmoscopy,Compare image orientation: direct vs indirect.,Direct: erect/direct image; indirect: inverted and reversed.
+Ophthalmology,Part-3 Retina,Direct vs Indirect Ophthalmoscopy,Compare view of periphery: direct vs indirect.,Direct: limited; indirect: full.
+Ophthalmology,Part-3 Retina,Direct vs Indirect Ophthalmoscopy,Which provides stereopsis - direct or indirect?,Indirect (present); direct (absent).
+Ophthalmology,Part-3 Retina,Retinal Blood Supply,What supplies the outer 4 retinal layers?,Short posterior ciliary artery.
+Ophthalmology,Part-3 Retina,Retinal Blood Supply,What supplies the inner 6 retinal layers?,Central retinal artery.
+Ophthalmology,Part-3 Retina,ERG,"In electroretinography, what does the a-wave represent?",Photoreceptors.
+Ophthalmology,Part-3 Retina,ERG,"In electroretinography, what does the b-wave represent?",Bipolar cells.
+Ophthalmology,Part-3 Retina,ERG,ERG is abnormal in which disease?,Retinitis pigmentosa.
+Ophthalmology,Part-3 Retina,EOG,What is the normal Arden's ratio (light/dark) on EOG (per Retina slide)?,1.33.
+Ophthalmology,Part-3 Retina,EOG,EOG (Arden's ratio) is decreased in which disease?,Best's disease.
+Ophthalmology,Part-3 Retina,Macular Disorders,What does the Amsler grid detect?,Metamorphopsia.
+Ophthalmology,Part-3 Retina,Macular Disorders,What appearances on fundus fluorescein angiography are described?,"Ink blot, dot-blot, and umbrella patterns."
+Ophthalmology,Part-3 Retina,Central Serous Retinopathy,What are the risk factors for central serous retinopathy (CSR)?,Steroids and type A personality.
+Ophthalmology,Part-3 Retina,Central Serous Retinopathy,What is the treatment of CSR?,Photodynamic therapy (PDT).
+Ophthalmology,Part-3 Retina,Central Serous Retinopathy,Which drug is used in photodynamic therapy?,Verteporfin (used in wet ARMD and CSR).
+Ophthalmology,Part-3 Retina,Cystoid Macular Edema,What FFA appearance characterizes cystoid macular edema?,Petalloid appearance.
+Ophthalmology,Part-3 Retina,Cystoid Macular Edema,Which retinal layer is involved in cystoid macular edema?,Outer plexiform layer (OPL).
+Ophthalmology,Part-3 Retina,Cystoid Macular Edema,List causes of cystoid macular edema.,"Irvine-Gass, PG analogues, diabetic retinopathy, uveitis, retinitis pigmentosa, CRVO, niacin toxicity."
+Ophthalmology,Part-3 Retina,Blood-Retinal Barrier,"What forms the outer blood-retinal barrier, and which disease results from its breakdown?",RPE; breakdown causes CSR.
+Ophthalmology,Part-3 Retina,Blood-Retinal Barrier,"What forms the inner blood-retinal barrier, and which disease results from its breakdown?",Capillary permeability (endothelium); breakdown causes CME.
+Ophthalmology,Part-3 Retina,Diabetic Retinopathy,"What is the earliest sign of diabetic retinopathy, and in which layer?",Microaneurysm - in the inner nuclear layer (INL).
+Ophthalmology,Part-3 Retina,Diabetic Retinopathy,Dot-and-blot hemorrhages and hard exudates are in which retinal layer?,Outer plexiform layer (OPL).
+Ophthalmology,Part-3 Retina,Diabetic Retinopathy,Flame-shaped hemorrhages and cotton-wool/soft exudates are in which retinal layer?,Nerve fibre layer (NFL).
+Ophthalmology,Part-3 Retina,Diabetic Retinopathy,When is DR screening started in type 1 vs type 2 diabetes?,Type 1: after 5 years; Type 2: immediately at diagnosis.
+Ophthalmology,Part-3 Retina,Diabetic Retinopathy,Which is a stronger determinant of DR - duration or glycemic control?,Duration > glycemic control.
+Ophthalmology,Part-3 Retina,Proliferative DR,What defines PDR?,Proliferation of new vessels (neoangiogenesis).
+Ophthalmology,Part-3 Retina,Proliferative DR,What type of hemorrhage is seen in PDR?,Subhyaloid / boat-shaped hemorrhage.
+Ophthalmology,Part-3 Retina,Proliferative DR,What is the treatment of PDR?,Panretinal photocoagulation.
+Ophthalmology,Part-3 Retina,Proliferative DR,"Which laser is used for panretinal photocoagulation, and at what wavelength?",Frequency-doubled Nd:YAG; 532 nm.
+Ophthalmology,Part-3 Retina,Severe NPDR,State the 4-2-1 rule for severe NPDR.,Greater than 20 intraretinal hemorrhages in each of 4 quadrants; definite venous beading in 2 or more quadrants; prominent IRMA in 1 or more quadrants (with no signs of PDR).
+Ophthalmology,Part-3 Retina,Anti-VEGF,List the anti-VEGF agents used intravitreally.,"Bevacizumab, ranibizumab, brolucizumab, aflibercept, pegaptanib."
+Ophthalmology,Part-3 Retina,Anti-VEGF,Where is an intravitreal injection given?,"4 mm above the temporal limbus, at a 90-degree angle."
+Ophthalmology,Part-3 Retina,Hypertensive Retinopathy,"What is the normal arteriovenous (A:V) ratio, and in hypertension?",Normal A:V = 2:3; in HTN = 1:3.
+Ophthalmology,Part-3 Retina,Hypertensive Retinopathy,Keith-Wagener grade 1?,Mild generalized retinal arteriolar narrowing.
+Ophthalmology,Part-3 Retina,Hypertensive Retinopathy,Keith-Wagener grade 2?,Definite focal narrowing and arteriovenous nipping.
+Ophthalmology,Part-3 Retina,Hypertensive Retinopathy,Keith-Wagener grade 3?,"Retinal hemorrhages, exudates, and cotton-wool spots."
+Ophthalmology,Part-3 Retina,Hypertensive Retinopathy,Keith-Wagener grade 4?,Severe grade 3 retinopathy plus papilledema.
+Ophthalmology,Part-3 Retina,AV Crossing Changes,What is the Salus sign?,S-shaped deflection of veins at the AV crossing.
+Ophthalmology,Part-3 Retina,AV Crossing Changes,What is the Gunn sign?,Tapering of the vein at either end of the crossing.
+Ophthalmology,Part-3 Retina,AV Crossing Changes,What is the Bonnet sign?,Dilatation of the vein at the crossing junction.
+Ophthalmology,Part-3 Retina,CRAO,What is the classic fundus sign of central retinal artery occlusion?,Cherry-red spot.
+Ophthalmology,Part-3 Retina,CRAO,List differentials for a cherry-red spot.,"Trauma (Berlin edema), Tay-Sachs disease, Niemann-Pick disease."
+Ophthalmology,Part-3 Retina,CRAO,"What happens with cilioretinal artery sparing in CRAO, and how common is it?",Central (tunnel) vision is preserved; occurs in ~14%.
+Ophthalmology,Part-3 Retina,CRVO,What is the classic fundus appearance of central retinal vein occlusion?,Splashed-tomato appearance.
+Ophthalmology,Part-3 Retina,CRVO,What is '100-day glaucoma'?,Neovascular glaucoma developing after CRVO due to neovascularization.
+Ophthalmology,Part-3 Retina,Roth Spots,"Roth spots are associated with which condition, and by what mechanism?",Infective endocarditis - an embolic phenomenon.
+Ophthalmology,Part-3 Retina,Roth Spots,Describe Janeway lesions.,"Vascular, painless lesions on the palms."
+Ophthalmology,Part-3 Retina,Roth Spots,Describe Osler's nodes.,"Painful, immunological lesions on the pulp of the fingers."
+Ophthalmology,Part-3 Retina,Fundus Spotters,What does a 'sea fan' appearance indicate?,Sickle cell anemia (SCA).
+Ophthalmology,Part-3 Retina,CMV Retinitis,What is the classic appearance of CMV retinitis?,Pizza-pie appearance.
+Ophthalmology,Part-3 Retina,CMV Retinitis,CMV retinitis occurs in which patients (HIV CD4 count)?,HIV/AIDS patients with CD4 < 50.
+Ophthalmology,Part-3 Retina,CMV Retinitis,What is the drug of choice for CMV retinitis?,Ganciclovir.
+Ophthalmology,Part-3 Retina,Toxoplasmosis,What is the fundus appearance of ocular toxoplasmosis?,Headlight-in-fog appearance; leaves a macular scar.
+Ophthalmology,Part-3 Retina,Congenital Infections,What causes salt-and-pepper retinopathy?,Congenital rubella or syphilis.
+Ophthalmology,Part-3 Retina,Drusen,What are drusen composed of?,Lipofuscin deposition in the fundus.
+Ophthalmology,Part-3 Retina,ARMD,"In dry ARMD, where are drusen located?",Between the RPE and Bruch membrane.
+Ophthalmology,Part-3 Retina,Best Disease,What is the classic appearance of Best disease?,Egg-yolk appearance.
+Ophthalmology,Part-3 Retina,Best Disease,What are the EOG findings in Best disease (and normal Arden ratio per this slide)?,EOG decreased; normal Arden ratio >1.85 (written 1:85). [Note: the Retina slide lists normal as 1.33 - source gives two values.]
+Ophthalmology,Part-3 Retina,ARMD,What are the components of AREDS2 supplementation?,"Vitamin C, vitamin E, zinc, copper, lutein, zeaxanthin."
+Ophthalmology,Part-3 Retina,Retinitis Pigmentosa,List the fundus features of retinitis pigmentosa.,"Arteriolar attenuation, waxy pale optic disc, bony spicules."
+Ophthalmology,Part-3 Retina,Retinitis Pigmentosa,"In RP, are rods or cones affected more, and what is lost first?",Rods > cones; night vision is lost first.
+Ophthalmology,Part-3 Retina,Retinitis Pigmentosa,What field defects occur in RP?,Ring scotoma and tunnel vision.
+Ophthalmology,Part-3 Retina,Retinitis Pigmentosa,What is Usher syndrome?,Retinitis pigmentosa + sensorineural hearing loss.
+Ophthalmology,Part-3 Retina,Retinitis Pigmentosa,Which fatty acid is decreased in RP?,Docosahexaenoic acid (DHA).
+Ophthalmology,Part-3 Retina,Stargardt Disease,"In Stargardt disease, are cones or rods affected more?",Cones > rods.
+Ophthalmology,Part-3 Retina,Stargardt Disease,List features of Stargardt disease.,"Silent choroid, fish flecks / copper-beaten appearance, ABCA4 gene mutation."
+Ophthalmology,Part-3 Retina,Oguchi Disease,What phenomenon is seen in Oguchi disease (congenital stationary night blindness)?,Mizuo-Nakamura phenomenon.
+Ophthalmology,Part-3 Retina,Retinal Detachment,"What characterizes rhegmatogenous RD, with its causes and symptom?",Caused by a retinal break (trauma/myopia/surgery); 'curtain falling in front of the eye.'
+Ophthalmology,Part-3 Retina,Retinal Detachment,What characterizes exudative RD?,Tumor/pus cause; 'fluid shift'; dome-shaped RD (diagnosed on B-mode USG).
+Ophthalmology,Part-3 Retina,Retinal Detachment,What characterizes tractional RD?,'Tent-shaped' RD.
+Ophthalmology,Part-3 Retina,Retinal Detachment,What is inverse hypopyon?,Silicone oil leaking into the anterior chamber.
+Ophthalmology,Part-3 Retina,Retinal Detachment,Name surgical treatments for RD.,Scleral buckling and pneumatic retinopexy (SF6 gas).
+Ophthalmology,Part-3 Retina,Retinoblastoma,"What is the most common presenting feature of retinoblastoma, at what age?",Leukocoria; ages 1-5 years.
+Ophthalmology,Part-3 Retina,Retinoblastoma,"What is the main differential of retinoblastoma, and its features?",PHPV - retrolental triangular opacity; hyaloid artery in Cloquet's canal.
+Ophthalmology,Part-3 Retina,Retinoblastoma,What is the hallmark of retinoblastoma on CT scan?,Calcification (Ca2+).
+Ophthalmology,Part-3 Retina,Retinoblastoma,What does B-mode USG show in retinoblastoma?,A retinal mass with calcifications (white dots).
+Ophthalmology,Part-3 Retina,Retinoblastoma,What are Flexner-Wintersteiner rosettes?,True rosettes - cells arranged in a circle with an empty center.
+Ophthalmology,Part-3 Retina,Retinoblastoma,"What are Homer Wright rosettes, and which tumors show them?","Rosettes with neuropil in the center; seen in RB, medulloblastoma, Ewing's sarcoma."
+Ophthalmology,Part-3 Retina,Retinoblastoma,Which tumor shows perivascular rosettes (blood vessel in the center)?,Ependymoma.
+Ophthalmology,Part-3 Retina,Retinoblastoma,What proportion of retinoblastoma is sporadic vs hereditary?,Sporadic 60%; hereditary 40%.
+Ophthalmology,Part-3 Retina,Retinoblastoma,What proportion is familial vs non-familial?,Familial 7%; non-familial 33%.
+Ophthalmology,Part-3 Retina,Retinoblastoma,What is the mode of inheritance and the gene/chromosome involved?,Autosomal dominant; RB gene on chromosome 13.
+Ophthalmology,Part-3 Retina,Retinoblastoma,What is trilateral retinoblastoma?,Bilateral RB plus pinealoblastoma.
+Ophthalmology,Part-3 Retina,Retinoblastoma,What is the investigation of choice for retinoblastoma?,Contrast-enhanced MRI (CE-MRI).
+Ophthalmology,Part-3 Retina,Retinoblastoma,Which cancer is most commonly associated with retinoblastoma?,Osteosarcoma.
+Ophthalmology,Part-3 Retina,Retinoblastoma,"What is the treatment for bilateral RB, and what is the VEC regimen?",Bilateral RB: neoadjuvant chemotherapy then surgery; VEC = vincristine + etoposide + carboplatin.
+Ophthalmology,Part-3 Retina,Retinoblastoma,What does enucleation involve?,Removal of the globe along with the optic nerve. [Note: source labels this 'Sx for Neuroblastoma' - appears to be a slip for retinoblastoma.]
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis,"Which structures are involved in anterior uveitis, and its presentation/management?",Iris + ciliary body (pars plicata); painful red eye with loss of vision; managed with steroids + cycloplegics.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis,"Which structure is involved in intermediate uveitis, and its signs?",Ciliary body pars plana; snowball/snowbank.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis,"Which structure is involved in posterior uveitis, and its presentation?",Choroid; painless loss of vision with floaters.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis Nodules,Where are Koeppe nodules seen (granulomatous vs non-granulomatous)?,Seen in both granulomatous and non-granulomatous uveitis.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis Nodules,Bussaca nodules are seen in which type of uveitis?,Granulomatous only.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis,What is a festooned pupil associated with?,Peripheral anterior synechiae.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Fuchs Heterochromic Iridocyclitis,List the features of Fuchs heterochromic iridocyclitis (FHI).,"Heterochromia, iris atrophy, unilateral, posterior subcapsular cataract, painless with no redness."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",VKH Syndrome,"VKH syndrome is what type of uveitis, and its fundus/skin signs?",Granulomatous panuveitis; sunset-glow fundus and perilimbal vitiligo.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Keratic Precipitates,"Mutton-fat KPs indicate which type of uveitis, and its causes?","Granulomatous; TB, sarcoidosis, leprosy, syphilis."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Keratic Precipitates,"Fine granular KPs indicate which type, and its causes?","Non-granulomatous (lymphocytic); ankylosing spondylitis, reactive arthritis, Reiter's disease, Behcet's."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Keratic Precipitates,Pigmented KPs are associated with which condition?,Juvenile idiopathic arthritis (JIA).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Keratic Precipitates,Stellate KPs are associated with which conditions?,"HSV, toxoplasma, Fuchs heterochromic iridocyclitis."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis Signs,What is Amsler's sign in uveitis?,Bleeding into the anterior chamber upon paracentesis.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis Signs,What is Suiguira's sign?,Perilimbal vitiligo.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Pterygium,What refractive problem does pterygium cause?,Astigmatism.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Pterygium,How is recurrence of pterygium reduced?,Mitomycin C and conjunctival autograft.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Pterygium,What is PERFECT surgery for pterygium?,Pterygium Extended Resection followed by Extended Conjunctival Transplant.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Limbal Stem Cells,"Which markers identify limbal stem cells, and what does their deficiency cause?",ABCG2 and CD34; deficiency causes pterygium.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Conjunctiva,Where is a dermoid typically located (vs pingecula)?,At the limbus.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Follicle vs Papilla,What colour are follicles vs papillae?,Follicles: grey; papillae: pink.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Conjunctivitis,Which agents/conditions cause a follicular reaction?,"Toxins (e.g., apraclonidine), viruses, COVID-19, Chlamydia trachomatis."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Chlamydia,What do Chlamydia serotypes A-C cause?,Trachoma.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Chlamydia,What do Chlamydia serotypes D-K cause?,Adult inclusion conjunctivitis (swimming-pool conjunctivitis).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Conjunctivitis,Which conditions cause a papillary reaction?,"Bacterial, allergic (AKC, VKC), foreign body, and giant papillary conjunctivitis (contact lens users)."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Vernal Keratoconjunctivitis,Who is typically affected by VKC (spring catarrh)?,Boys aged 5-14 years.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Vernal Keratoconjunctivitis,List the features of VKC.,"Ropy discharge, cobblestone papillae, Horner-Tranta dots, pseudogerontoxon, Maxwell-Lyon sign, shield ulcer."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Vernal Keratoconjunctivitis,What is the drug of choice for VKC?,Olopatadine + steroids.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Hemorrhagic Conjunctivitis,Which viruses cause hemorrhagic conjunctivitis?,"Adenovirus, Coxsackie A24, enterovirus 70."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Angular Conjunctivitis,Which organism causes angular conjunctivitis?,Moraxella.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Neonatal Conjunctivitis,Chemical neonatal conjunctivitis - onset and treatment?,Onset <24 hr; eye lubricant (caused by AgNO3).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Neonatal Conjunctivitis,Gonococcal neonatal conjunctivitis - onset and treatment?,Onset 2-5 days; ceftriaxone or cefotaxime.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Neonatal Conjunctivitis,Chlamydial neonatal conjunctivitis - onset and treatment?,Onset 5-14 days; oral erythromycin.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,Trachoma is what category of disease (water classification)?,A water-washed disease.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,When was trachoma eliminated from India?,October 2024.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,What are the stages of the WHO FISTO grading of trachoma?,"TF (follicular inflammation), TI (intense inflammation), TS (scarring), TT (trichiasis), CO (corneal opacity)."
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,Which trachoma stage shows a 'sago-grain' appearance?,Trachomatous inflammation - follicular (TF).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,What does the SAFE strategy stand for?,"Surgery, Antibiotics, Facial cleanliness, Environmental change."
+Ophthalmology,Part-5 Glaucoma,Glaucoma,What is the classic triad/features of glaucoma?,"Raised IOP, fundus (optic disc) cupping, and visual field defects."
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,What is the anterior chamber depth in angle closure glaucoma?,Shallow.
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,What are the components of Vogt's triad in ACG?,"Glaucomflecken (anterior subcapsular opacity), iris atrophy, and pigment dispersion on the endothelium."
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,What is glaucomflecken?,Anterior subcapsular lens opacity.
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,Classic presentation of acute ACG?,Sudden painful loss of vision with a mid-dilated fixed pupil.
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,What is the medical management of ACG (mnemonic AMP)?,"Acetazolamide, Mannitol, Pilocarpine."
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,What is the surgical treatment of ACG?,Peripheral iridotomy.
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,What are the mechanisms of angle closure?,"Pupil block, iris bombe, peripheral anterior synechiae."
+Ophthalmology,Part-5 Glaucoma,Open Angle Glaucoma,Clinical presentation of POAG?,Gradual painless loss of vision.
+Ophthalmology,Part-5 Glaucoma,Open Angle Glaucoma,Risk factors for POAG?,"High myopia, age over 40 years, positive family history."
+Ophthalmology,Part-5 Glaucoma,Open Angle Glaucoma,What laser procedure is used in POAG?,Bilateral laser trabeculoplasty.
+Ophthalmology,Part-5 Glaucoma,Malignant Glaucoma,"What is the mechanism of malignant glaucoma, and how does it resolve?",Surgery leads to ciliary block; resolves on giving atropine.
+Ophthalmology,Part-5 Glaucoma,IOP,What is the normal range of intraocular pressure?,10-21 mmHg.
+Ophthalmology,Part-5 Glaucoma,Tonometry,"How does a non-contact tonometer work, and what is its advanced version?",Uses a puff of air; the Ocular Response Analyzer is the advanced version.
+Ophthalmology,Part-5 Glaucoma,Tonometry,What is the gold standard tonometer?,Goldmann applanation tonometer.
+Ophthalmology,Part-5 Glaucoma,Tonometry,On what principle does the Goldmann applanation tonometer work?,Imbert-Fick law (P = F/A) - force is variable and area is fixed.
+Ophthalmology,Part-5 Glaucoma,Tonometry,Which contact tonometer is referred to as Pascal's tonometer?,Pascal's (contact) tonometer.
+Ophthalmology,Part-5 Glaucoma,Tonometry,Name the tonometers used to measure IOP (per notes).,"Schiotz, Goldmann applanation, non-contact (air puff), Pascal's (contact), and self/digital/rebound tonometers."
+Ophthalmology,Part-5 Glaucoma,Gonioscopy,What does a gonioscope measure?,The anterior chamber angle.
+Ophthalmology,Part-5 Glaucoma,Glaucoma Instruments,What does the Humphrey analyzer assess?,The visual field.
+Ophthalmology,Part-5 Glaucoma,Gonioscopy,What type of gonioscopy do the Richardson/Koeppe lenses provide?,Direct gonioscopy.
+Ophthalmology,Part-5 Glaucoma,Glaucomatous Cupping,What cup-to-disc ratio indicates abnormal glaucomatous cupping?,C:D ratio greater than 0.3.
+Ophthalmology,Part-5 Glaucoma,Glaucomatous Cupping,Name signs of glaucomatous optic disc cupping.,"Nasal shift of vessels, bayonetting (abrupt turn of vessels), laminar dot sign."
+Ophthalmology,Part-5 Glaucoma,Glaucomatous Cupping,"As the glaucomatous cup expands, which fibres go first and in which direction?",Arcuate fibres are lost first; the cup expands vertically.
+Ophthalmology,Part-5 Glaucoma,Glaucoma Field Defects,What is the earliest visual field change in glaucoma?,Isopter contracture.
+Ophthalmology,Part-5 Glaucoma,Glaucoma Field Defects,What is considered the earliest glaucomatous damage scotoma?,Bjerrum/arcuate scotoma.
+Ophthalmology,Part-5 Glaucoma,Glaucoma Field Defects,List the sequence of glaucomatous visual field defects.,Isopter contracture (earliest) -> paracentral scotoma -> Seidel's scotoma -> Bjerrum/arcuate scotoma -> ring/double arcuate -> Roenne's nasal step -> loss of central vision -> temporal crescent loss (last).
+Ophthalmology,Part-5 Glaucoma,Glaucoma Field Defects,Which field is lost last in glaucoma?,Temporal crescent.
+Ophthalmology,Part-5 Glaucoma,Gonioscope Structures,What is the mnemonic 'I Can See Till' for gonioscope angle structures?,"Iris, Ciliary body, Scleral spur, Trabecular meshwork."
+Ophthalmology,Part-5 Glaucoma,Gonioscope Structures,What does Schwalbe's line correspond to?,The cornea at the level of Descemet's membrane.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,List the ocular beta-blockers used in glaucoma.,"Timolol, betaxolol (selective), levobunolol, carteolol."
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Which ocular beta-blocker is cardioselective?,Betaxolol.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,What is a side effect of ocular beta-blockers?,Corneal anaesthesia.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,"Which nonselective alpha agonist is used, and a side effect?",Dipivefrine; causes black conjunctiva.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Name the alpha-2 agonists used in glaucoma.,Apraclonidine and brimonidine.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,What is a side effect of apraclonidine?,Lid retraction/spasm.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Why is brimonidine not used in children?,It can cause apnea and decreased GCS.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Name the carbonic anhydrase inhibitors used in glaucoma.,"Acetazolamide, brinzolamide, dorzolamide."
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,What are side effects of carbonic anhydrase inhibitors?,Sulfa allergy and metabolic acidosis.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,"How do beta-blockers, alpha agonists and CAIs lower IOP?",They decrease aqueous production.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,"How does pilocarpine lower IOP, and what are its side effects?",Increases trabecular outflow (cholinomimetic); side effects: miosis and NLD stenosis.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,"Which rho-kinase inhibitor is used, and its characteristic side effect?",Netarsudil; causes vortex keratopathy (cornea verticillata).
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,List causes of vortex keratopathy / cornea verticillata.,"Fabry's disease, chloroquine, amiodarone, tamoxifen, indomethacin."
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Which drugs increase uveoscleral outflow and are the drug of choice?,PGF2-alpha analogues - latanoprost and bimatoprost.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,List side effects of prostaglandin analogues.,"Heterochromia irides, eyelash hypertrichosis, CME, reactivation of uveitis."
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,"What causes a snowflake cataract, and by what mechanism?",Diabetics - sorbitol accumulation.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,What causes a sunflower cataract?,Copper deposition - Wilson's disease and chalcosis.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,What causes a Christmas tree cataract?,Myotonic dystrophy (CTG repeat).
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,A cuneiform cataract corresponds to which type of cataract?,Mature cortical cataract.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,"What is the most common congenital cataract, and an association?",Blue dot cataract; associated with Down syndrome.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,"Which congenital cataract most commonly causes diminution of vision, and its associations?",Lamellar/zonular cataract; associated with rubella and vitamin D deficiency.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,What is the hoarfrost sign associated with?,Pseudoexfoliation syndrome.
+Ophthalmology,Part-6 Lens & Cataract,Pigmentary Glaucoma,What is the Krukenberg spindle associated with?,Pigmentary glaucoma.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,A polychromatic / breadcrumb cataract indicates which type?,Complicated cataract.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,What causes a glassblower's cataract?,Radiation exposure.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,A shield-like cataract is associated with what?,Atopic dermatitis.
+Ophthalmology,Part-6 Lens & Cataract,Lens-Induced Glaucoma,What characterizes phacomorphic glaucoma?,Intumescent cataract causing a shallow anterior chamber.
+Ophthalmology,Part-6 Lens & Cataract,Lens-Induced Glaucoma,What characterizes phacolytic glaucoma?,Deep anterior chamber with leaked denatured lens proteins.
+Ophthalmology,Part-6 Lens & Cataract,Lens-Induced Glaucoma,What characterizes phacotoxic glaucoma and phacoanaphylactic uveitis?,Lens particles with a capsule that is NOT intact.
+Ophthalmology,Part-6 Lens & Cataract,Lens Anatomy,What lines the anterior lens capsule?,A single layer of cuboidal epithelium (A cells).
+Ophthalmology,Part-6 Lens & Cataract,Lens Anatomy,Where is the area of active mitosis in the lens?,The equator (E cells - columnar cells that divide and elongate into new lens fibres).
+Ophthalmology,Part-6 Lens & Cataract,Lens Anatomy,Why is there no posterior lens epithelium?,The cells are used up filling the central cavity of the lens vesicle.
+Ophthalmology,Part-6 Lens & Cataract,Lens Anatomy,Where is the lens capsule thinnest?,At the equator.
+Ophthalmology,Part-6 Lens & Cataract,Lens,What is the refractive index of the lens nucleus vs cortex?,Nucleus 1.41; cortex 1.38.
+Ophthalmology,Part-6 Lens & Cataract,Lens,What are the water-soluble lens proteins called?,Crystallins.
+Ophthalmology,Part-6 Lens & Cataract,Lens,"Which crystallin is the most common, and which is the largest?",Most common: beta; largest: alpha (provides lens transparency).
+Ophthalmology,Part-6 Lens & Cataract,Lens,Are HM1 and HM2 crystallins water soluble or insoluble?,Water soluble.
+Ophthalmology,Part-6 Lens & Cataract,Nuclear Cataract,"What happens to refractive index in nuclear cataract, and what phenomenon results?","RI increases further, causing index myopia and the 'second sight' phenomenon."
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,What is the indication for ICCE?,Significant lens subluxation associated with cataract.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,Incision details for conventional ECCE?,7-8 mm at the limbus.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,Incision details for SICS?,5-6 mm sclero-corneal tunnel.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,"Incision details for phacoemulsification, and its mechanism?",3-3.5 mm clear corneal incision; 40 kHz piezoelectric photodisruption of lens particles.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,Incision size for MICS?,1-1.8 mm.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,What does FLACS use?,Femto laser cataract surgery using an Nd:Glass laser at 1054 nm.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,List the intra-operative complications of cataract surgery.,"Posterior capsular rupture +/- vitreous loss, UGH, expulsive choroidal hemorrhage, anterior capsule tear."
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,What does UGH syndrome stand for?,"Uveitis, Glaucoma, Hyphema."
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,What is the Argentina flag sign associated with?,An anterior capsule tear during capsulorhexis.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,List the acute post-operative complications of cataract surgery.,"Iris prolapse, endophthalmitis, TASS, shallow AC."
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,What does TASS stand for?,Toxic Anterior Segment Syndrome.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,List the chronic complications of cataract surgery.,"PCO, Irvine-Gass syndrome, IOL displacement, endophthalmitis."
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,"What is the most common chronic complication of cataract surgery, its associated finding, and treatment?",PCO (posterior capsular opacification); forms a Sommering ring; treated with Nd:YAG laser 1064 nm.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,"What is Irvine-Gass syndrome, and its timing?","Delayed cystoid macular edema, about 6-10 weeks post-op."
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,Most common causes of early vs late onset post-op endophthalmitis?,Early onset: coagulase-negative staphylococci (CONS); late onset: P. acnes.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,Elschnig pearls are a finding in which post-cataract complication?,Posterior capsular opacification (PCO).
+Ophthalmology,Part-7 Surgical Instruments,Topical Anesthetic,"Which topical anesthetic is shown, its concentration, and half-life?",Proparacaine hydrochloride 0.5%; half-life 15-20 minutes.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What is the superior rectus holding forceps used for?,To place a bridle suture.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What is a cystitome used for?,Continuous curvilinear capsulorrhexis (CCC).
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What does trypan blue stain?,The anterior lens capsule.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,Which instrument is used for hydrodissection / lens delivery?,Wire vectis.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What is Simcoe's cannula used for?,Irrigation and aspiration (suction of cortex).
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What material is a rigid IOL made of?,PMMA.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What is the best IOL material?,Hydrophobic acrylic.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,Name the IOL power calculation formulas.,"Holladay, Hoffer Q, SRK-T."
+Ophthalmology,Part-7 Surgical Instruments,Instruments,Which IOL formula is used for myopic (post-LASER) eyes?,Haigis-L.
+Ophthalmology,Part-7 Surgical Instruments,Hordeolum,What is an external hordeolum?,Inflammation of the Zeis gland of the eyelid.
+Ophthalmology,Part-7 Surgical Instruments,Hordeolum,What is an internal hordeolum?,Acute inflammation of the meibomian gland.
+Ophthalmology,Part-7 Surgical Instruments,Chalazion,What is a chalazion?,Chronic granulomatous inflammation of the meibomian gland.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What is left behind in evisceration (and which scoop is used)?,The sclera is left behind (evisceration scoop).
+Ophthalmology,Part-7 Surgical Instruments,Instruments,What is Kerison's bone punch used for?,DCR (dacryocystorhinostomy).
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Lacrimal Apparatus,"Where does the nasolacrimal duct open, and in which direction does it run?",Opens into the inferior meatus; runs inferolaterally and posteriorly.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Tear Film,What are the three layers of the tear film and their sources?,"Inner mucin layer (goblet cells), middle aqueous layer (lacrimal gland), outer lipid layer (meibomian gland)."
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Tear Film,Deficiency of which tear layer is caused by vitamin A deficiency?,Inner mucin (goblet cell) layer.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Tear Film,Deficiency of the aqueous layer is seen in which condition?,Keratoconjunctivitis sicca (lacrimal involvement).
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Tear Film,The outer lipid layer is deficient in whom?,Contact lens users.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Watering Eye,"On syringing/probing, what does a hard stop indicate vs a soft stop?",Hard stop = NLD obstruction; soft stop = canaliculi/lacrimal sac obstruction.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Watering Eye,"If there is no obstruction on syringing, what test is done next?",Jones dye test 1.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Watering Eye,A positive (opacify+) Jones dye test 1 indicates what?,Hypersecretion of tears.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Watering Eye,"If Jones dye test 1 is negative, what is done, and how is test 2 interpreted?",Jones dye test 2: opacify+ = partial obstruction; opacify- = pump failure.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Lacrimal Tests,What is the Schirmer's test filter and the normal value?,Whatman filter no. 41; normal >15 mm over ~5 minutes.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Lacrimal Tests,How long does the phenol red test take?,~15 seconds.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Lacrimal Tests,"What does tear breakup time assess, and the normal value?",Mucin (tear film stability); normal >10 seconds.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Congenital Dacryocystitis,What is the most common cause of congenital dacryocystitis?,Obstruction at the valve of Hasner (NLD).
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Congenital Dacryocystitis,What is the stepwise management of congenital dacryocystitis?,Massage + topical antibiotics -> syringing & probing -> DCR (into the middle meatus) after 4 years.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Iron Lines,Which corneal iron line is associated with siderosis bulbi?,Hudson-Stahli line.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Iron Lines,What is Stocker's line?,Iron deposition around a pterygium.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Iron Lines,What is Ferry's line?,Iron deposition around a filtering bleb.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Iron Lines,What is the Fleischer ring (iron deposition)?,Iron deposition in the corneal epithelium (keratoconus).
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Trauma,A Vossius ring is a sign of what?,Blunt ocular trauma.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Trauma,Iridodialysis vs iridodonesis - what does iridodonesis produce?,A tremulous iris.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Trauma,What type of cataract is associated with trauma?,Rosette / stellate cataract.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Trauma,"What is siderosis bulbi, and its IOC and contraindication?",Iron-containing intraocular foreign body; IOC is NCCT; MRI is contraindicated.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Trauma,Which organs have immune privilege (relevant to sympathetic ophthalmia)?,The eye and the testes.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Sympathetic Ophthalmia,Penetrating trauma to which structure (and after what time) leads to sympathetic ophthalmia?,The ciliary body; after more than 2 weeks.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Sympathetic Ophthalmia,What is the nature of sympathetic ophthalmia and its characteristic nodules?,Bilateral (contralateral) granulomatous panuveitis; Dalen-Fuchs nodules.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Sympathetic Ophthalmia,How is sympathetic ophthalmia prevented and treated?,Prevention: enucleation; treatment: steroids.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Eye Removal Surgery,"What does enucleation involve, and its indications?","Removal of the globe with the optic nerve; indicated in retinoblastoma, sympathetic ophthalmitis, trauma."
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Eye Removal Surgery,"What does evisceration involve, and its indication?",Sclera is left behind; indicated in endophthalmitis.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Eye Removal Surgery,"What does exenteration involve, and its indications?",Removal of all eyeball/orbital contents; indicated in mucormycosis and metastasis.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Proptosis,How is proptosis defined by measurement?,When the distance between the lateral orbital margin and the cornea exceeds 21 mm.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Proptosis,Which instrument measures proptosis?,Hertel's exophthalmometer.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Proptosis,What causes pulsatile proptosis?,Caroticocavernous fistula (CCF).
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Proptosis,Proptosis that increases on bending/Valsalva suggests what?,Orbital varix.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Proptosis,Proptosis that increases on crying suggests what?,Encephalocele or hemangioma.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Proptosis,Proptosis that increases with URTI suggests what?,Lymphangioma.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Apex vs CST,Which nerves are involved in orbital apex syndrome vs cavernous sinus thrombosis?,"Orbital apex: II, III, IV, VI, V1; CST: VI first, then III, IV, V1, V2."
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Apex vs CST,Is ophthalmoplegia present in orbital apex syndrome and CST?,Yes - present in both.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Apex vs CST,Is vision loss present in orbital apex syndrome vs CST?,Orbital apex: yes; CST: no.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Apex vs CST,Is the presentation unilateral or bilateral - orbital apex vs CST?,Orbital apex: unilateral; CST: bilateral.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Apex vs CST,Compare chemosis/proptosis and onset - orbital apex vs CST.,"Orbital apex: increased, gradual onset; CST: markedly increased, sudden onset."
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Apex,What is Tolosa-Hunt syndrome localized to?,The orbital apex.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",CCF,A dilated superior ophthalmic vein on imaging suggests what?,Caroticocavernous fistula (CCF).
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Metastasis,Most common cause of orbital metastasis in a child vs adult?,Child: neuroblastoma; adult: breast carcinoma.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Tumors,Most common primary orbital tumor in a child - benign vs malignant?,Benign: dermoid; malignant: rhabdomyosarcoma.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Tumors,Most common orbital tumor in an adult - benign vs malignant?,Benign: hemangioma; malignant: non-Hodgkin lymphoma (NHL).
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Nerve supply and action of the medial rectus (MR)?,CN III; action: adduction only.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Nerve supply and action of the lateral rectus (LR)?,CN VI; action: abduction only.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Nerve supply and actions of the superior rectus (SR)?,"CN III; primary elevation, secondary intorsion, tertiary adduction."
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Nerve supply and actions of the inferior rectus (IR)?,"CN III; primary depression, secondary extorsion, tertiary adduction."
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Nerve supply and actions of the superior oblique (SO)?,"CN IV; primary intorsion, secondary depression, tertiary abduction."
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Nerve supply and actions of the inferior oblique (IO)?,"CN III; primary extorsion, secondary elevation, tertiary abduction."
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,What do the mnemonics SIN and RAD mean for EOM?,SIN = Superior muscles Intort; RAD = Rectus muscles Adduct.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Which extraocular muscles are supplied by CN III?,"Medial rectus, superior rectus, inferior rectus, inferior oblique."
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,"Which muscle is supplied by CN IV, and which by CN VI?",CN IV - superior oblique; CN VI - lateral rectus.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Laws,State Hering's law.,Yoke muscles must receive equal innervation at the same time.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Laws,State Sherrington's law.,Reciprocal inhibitory innervation is sent to the antagonist muscle.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Terminology,"Define eso-, exo-, hyper-, and hypo-deviation.",Eso = inward; exo = outward; hyper = upward; hypo = downward.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Terminology,Which refractive error is associated with esodeviation?,Hypermetropia.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Terminology,Difference between phoria and tropia?,Phoria = latent squint; tropia = manifest squint.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Types,What does 'second deviation greater than first' indicate?,Paralytic squint.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Types,What does 'first deviation equal to second deviation' indicate?,Non-paralytic (concomitant) squint.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Tests,What does the Hess chart assess?,Diplopia (in paralytic squint).
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Ptosis Localization,Ptosis with a dilated pupil suggests what?,Third (oculomotor) nerve palsy.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Ptosis Localization,Ptosis with a constricted pupil suggests what?,Horner's syndrome.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Ptosis Localization,Ptosis with a normal light reflex suggests what?,Myasthenia gravis.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Third Nerve Palsy,What is the classic eye position in third nerve palsy?,'Down and out' with ptosis and a dilated pupil.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Park 3-Step Test,What does the mnemonic 'IGI' mean?,"If squint Increases on Ipsilateral Gaze, the involved muscle is the Inferior (vertical rectus)."
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Park 3-Step Test,What does the mnemonic 'ITO' mean?,"If squint Increases on Ipsilateral Tilt, the involved muscle is an Oblique."
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Park 3-Step Test,A left hypertropia increasing on right gaze and right tilt localizes to which muscle?,Right superior rectus.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Park 3-Step Test,A right hypotropia (= left hypertropia) increasing on left tilt and right gaze localizes to which muscle?,Left superior oblique.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Tests,What does the cover test detect?,Manifest squint (tropia) - the uncovered eye moves to take up fixation.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Tests,What does the uncover (cover-uncover) test detect?,Latent squint (phoria) - the covered eye drifts and corrects on uncovering.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Tests,What does the Maddox rod test assess?,The type and degree of deviation (eso/exo/hyper/hypo).
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Tests,What does the Worth 4-dot test assess?,Fusion vs suppression vs diplopia (binocular single vision).
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Tests,What does the prism bar test measure?,The angle of deviation.
+Ophthalmology,Part-10 Refraction,Myopia,"In myopia, what are the axial length, AC depth, and squint type?",Axial length increased; anterior chamber deeper; exodeviation.
+Ophthalmology,Part-10 Refraction,Hypermetropia,"In hypermetropia, what are the axial length, AC depth, and squint type?",Axial length decreased; anterior chamber shallow; esodeviation.
+Ophthalmology,Part-10 Refraction,Myopia Types,What is axial myopia?,Myopia due to increased axial length.
+Ophthalmology,Part-10 Refraction,Myopia Types,What causes curvature myopia?,Keratoconus.
+Ophthalmology,Part-10 Refraction,Myopia Types,What causes index myopia?,Nuclear cataract.
+Ophthalmology,Part-10 Refraction,Myopia Types,What causes positional myopia?,Weil-Marchesani syndrome.
+Ophthalmology,Part-10 Refraction,Anisometropia,How is anisometropia defined?,A difference of more than 2.5 D between the two eyes.
+Ophthalmology,Part-10 Refraction,High Myopia,List the fundus features of high myopia.,"Tigroid appearance, chorioretinal atrophy, Foster-Fuchs spots, lacquer cracks, rhegmatogenous RD, posterior staphyloma."
+Ophthalmology,Part-10 Refraction,Hypermetropia,List the fundus features of hypermetropia.,"Small disc with ill-defined margin (pseudopapillitis), shot-silk (shiny) retina, accentuated vessel reflexes."
+Ophthalmology,Part-10 Refraction,Refractive Surgery,"What does LASIK stand for, and how does it work?",Laser Assisted In Situ Keratomileusis; it flattens the cornea.
+Ophthalmology,Part-10 Refraction,Refractive Surgery,What are the contraindications to LASIK?,"Age under 18, unstable refractive power, corneal thickness < 450 um."
+Ophthalmology,Part-10 Refraction,Visual Acuity,"What is the best possible visual acuity, and the minimum (per notes)?",Best VA 6/5; minimum VA 1/60.
+Ophthalmology,Part-10 Refraction,Snellen Chart,The distance from the chart corresponds to what optical point?,The nodal point.
+Ophthalmology,Part-10 Refraction,Snellen Chart,What angle does each Snellen letter subtend at its respective distance?,5 minutes of arc.
+Ophthalmology,Part-10 Refraction,Snellen Chart,Formula for the angle subtended by the topmost letter viewed from 6 m?,(Distance of letter / distance at which testing) x 5.
+Ophthalmology,Part-10 Refraction,Astigmatism,What is astigmatism?,Different refractive power in different axes/meridians.
+Ophthalmology,Part-10 Refraction,Astigmatism,"In 'with the rule' (WTR) astigmatism, which axis is more curved, and in whom is it typical?",The vertical axis is more curved; typical in the young.
+Ophthalmology,Part-10 Refraction,Astigmatism,"In 'against the rule' (ATR) astigmatism, which axis is more curved, and in whom is it typical?",The horizontal axis is more curved; typical in the old.
+Ophthalmology,Part-10 Refraction,Astigmatism,"In WTR astigmatism, what is the correction at the 180 vs 90 meridian?",At 180: concave (minus); at 90: convex (plus).
+Ophthalmology,Part-10 Refraction,Astigmatism,"In ATR astigmatism, what is the correction at the 180 vs 90 meridian?",At 180: convex (plus); at 90: concave (minus).
+Ophthalmology,Part-10 Refraction,Astigmatism Types,What is simple myopic astigmatism (lens)?,"Only cylinder, e.g., -2 DC."
+Ophthalmology,Part-10 Refraction,Astigmatism Types,What is compound myopic astigmatism (lens)?,"Cylinder + sphere, both minus, e.g., -2 DC / -1 DS."
+Ophthalmology,Part-10 Refraction,Astigmatism Types,What is mixed astigmatism (lens)?,"One plus and one minus, e.g., +3 DS / -4 DC."
+Ophthalmology,Part-10 Refraction,Astigmatism Types,What is simple hyperopic astigmatism (lens)?,"Only cylinder, plus, e.g., +2 DC."
+Ophthalmology,Part-10 Refraction,Astigmatism Types,What is compound hyperopic astigmatism (lens)?,"Cylinder + sphere, both plus, e.g., +2 DC / +1 DS."
+Ophthalmology,Part-10 Refraction,Astigmatism,What does Sturm's conoid measure?,Astigmatism.
+Ophthalmology,Part-10 Refraction,Astigmatism Examples,Classify -2 cyl @ 180.,"Simple myopic, with-the-rule (WTR)."
+Ophthalmology,Part-10 Refraction,Astigmatism Examples,Classify -1 DS / -2 DC @ 180.,"Compound myopic, with-the-rule (WTR)."
+Ophthalmology,Part-10 Refraction,Astigmatism Examples,Classify -3 sph / -4 D cylindrical @ 90.,"Compound myopic, against-the-rule (ATR)."
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,NPCB,How is blindness defined (NPCB)?,"Visual acuity <3/60 or visual field <10 degrees, in the better eye with best possible correction."
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,NPCB,How is visual impairment defined?,Visual acuity <6/18 in the better eye with best possible correction.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Blindness Grades,What VA range is 'low vision' (L)?,<6/18 to 6/60.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Blindness Grades,"What defines economic blindness (E), and what is lost?",<6/60 to 3/60 (6/120); work vision absent.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Blindness Grades,"What defines social blindness (S), and what is lost?",<3/60 to 1/60; walk vision absent.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Blindness Grades,What defines manifest blindness (M)?,<1/60 to perception of light (LP).
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Blindness Grades,What defines absolute blindness (A)?,No perception of light (NLP).
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Blindness Grades,What VA is considered normal?,6/18 or better.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,School Eye Screening,Who performs school eye screening?,The teacher.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,School Eye Screening,What age/grade group and ratio are used in school eye screening?,5th-8th standard (10-14 years); ratio 1:150.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,School Eye Screening,"At what VA is a child referred, and to where?",VA worse than 6/9 -> referred to the PHC.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lenticonus,Anterior lenticonus is associated with which syndrome?,Alport syndrome.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lenticonus,Posterior lenticonus is associated with which syndrome?,Lowe syndrome (oculo-cerebro-renal syndrome).
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Ectopia Lentis,Superotemporal lens dislocation suggests which condition?,Marfan's syndrome.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Ectopia Lentis,Inferonasal lens dislocation suggests which condition?,Homocystinuria.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Ectopia Lentis,Microspherophakia is associated with which syndrome?,Weil-Marchesani syndrome.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Congenital Glaucoma,What are the features of congenital buphthalmos?,"Blepharospasm, lacrimation, photophobia, Haab's striae, corneal diameter >13 mm."
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Congenital Glaucoma,"What striae are seen in buphthalmos, and their orientation?",Haab's striae; horizontal.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Congenital Glaucoma,What is the treatment of congenital buphthalmos?,Goniotomy.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Congenital Glaucoma,At what corneal diameter is buphthalmos suspected?,Corneal diameter greater than 13 mm.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eyelid,What does an eyelid coloboma lead to?,Exposure keratitis.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eyelid,What is distichiasis?,Two rows of eyelashes.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Chalazion,What must be ruled out in a recurrent chalazion?,Sebaceous cell carcinoma.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eye Medications,Correct order of instillation: eye drops or ointment first?,"Eye drops first, then ointment."
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Steroid Side Effects,Topical steroids classically cause which ocular complication?,Glaucoma.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Steroid Side Effects,Systemic steroids classically cause which ocular complication?,Cataract.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Congenital Ptosis,How is congenital ptosis with poor LPS function treated?,Frontalis sling procedure.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Congenital Ptosis,How is congenital ptosis with good LPS function treated?,LPS (levator) resection.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Symptom Localization,Gradual progressive painless loss of vision suggests what?,Cataract or open-angle glaucoma.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Symptom Localization,Sudden painful red eye with loss of vision suggests what?,Angle closure glaucoma or uveitis.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Symptom Localization,Sudden painless loss of vision suggests what?,Optic neuritis or a posterior retinal cause (CRAO).
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Symptom Localization,Floaters localize to which structure?,The vitreous.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Symptom Localization,Metamorphopsia localizes to which structure?,The macula.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Morning Glory Syndrome,What are the features of morning glory syndrome?,Absent lamina cribrosa and retrodisplacement of the optic nerve.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Color/Stereo Tests,What does the Titmus fly test assess?,Stereopsis.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Color/Stereo Tests,Which charts test colour vision?,Ishihara chart and the Farnsworth-Munsell 100-hue test.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eyelid Fusion,What is symblepharon?,Fusion of the bulbar and palpebral conjunctiva.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eyelid Fusion,What is ankyloblepharon?,Fusion of the superior and inferior eyelids.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lasers,"Which lasers are used for photocoagulation, at what wavelength, and uses?",Frequency-doubled Nd:YAG (532 nm) and argon laser; used for panretinal photocoagulation and laser trabeculoplasty.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lasers,"Which laser is used for photoablation, at what wavelength, and use?",Argon fluoride excimer laser (193 nm); used for LASIK.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lasers,"Which laser is used for photodisruption, at what wavelength, and uses?",Nd:YAG (1064 nm); used for peripheral iridotomy and treating posterior capsular opacification.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lasers,What is the Nd:Glass laser (1053 nm) used for?,FLACS (femtosecond laser-assisted cataract surgery).
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,Which corneal dystrophy shows amyloid deposition?,Lattice stromal dystrophy.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,Which corneal dystrophy shows hyaline deposition / bread-crumb appearance?,Granular dystrophy.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Dystrophy,Which corneal dystrophy shows fingerprint defects?,Cogan's epithelial dystrophy.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Opacities,Which corneal opacity is the faintest / least dense?,Nebula.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Investigations,What does bullous keratopathy ultimately lead to?,Opacification of the cornea.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Infections,Wesley's ring is associated with which type of keratitis?,Fungal keratitis.
+Ophthalmology,Part-1 Cornea & Sclera,Viral Keratitis,A dendritic ulcer is characteristic of which infection?,Herpes simplex (HSV) keratitis.
+Ophthalmology,Part-1 Cornea & Sclera,Scleritis vs Episcleritis,Which condition blanches with 2.5% phenylephrine - scleritis or episcleritis?,Episcleritis.
+Ophthalmology,Part-1 Cornea & Sclera,Scleritis vs Episcleritis,Which condition does NOT blanch with 2.5% phenylephrine?,Scleritis.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,Which keratoplasty replaces all corneal layers?,Penetrating keratoplasty (PK).
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,Which keratoplasty preserves (does not disturb) the stroma?,DSEK.
+Ophthalmology,Part-1 Cornea & Sclera,Keratoplasty,Which keratoplasty replaces cornea only up to the mid-stroma?,DALK.
+Ophthalmology,Part-1 Cornea & Sclera,Corneal Anatomy,Which corneal layer has the Na+-K+-ATPase pump?,Endothelium.
+Ophthalmology,Part-1 Cornea & Sclera,KF Rings,"In Wilson's disease, hepatic involvement is seen in what percent of KF-ring patients?",~50%.
+Ophthalmology,Part-1 Cornea & Sclera,KF Rings,"In Wilson's disease, neurological involvement is seen in what percent of KF-ring patients?",~90%.
+Ophthalmology,Part-2 Neuro-ophthalmology,Light Reflex Pathway,Which nerves carry the postganglionic parasympathetic fibres to the eye?,The short ciliary nerves.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,What is Anton syndrome?,"Denial of (cortical) blindness, seen with PCA infarct / macular sparing."
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,Bitemporal hemianopia localizes a lesion to where?,The optic chiasma.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,Contralateral homonymous hemianopia localizes a lesion to where?,The optic tract.
+Ophthalmology,Part-2 Neuro-ophthalmology,Visual Field Defects,Homonymous hemianopia with macular sparing localizes to where?,The occipital cortex (PCA infarct).
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Which optic atrophy is preceded by previous disc swelling?,Secondary optic atrophy (primary and consecutive are not).
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Which optic atrophy has a chalky white disc?,Primary optic atrophy.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Which optic atrophy has a grey disc?,Secondary optic atrophy.
+Ophthalmology,Part-2 Neuro-ophthalmology,Optic Atrophy,Which optic atrophy has a waxy pale disc?,Consecutive optic atrophy.
+Ophthalmology,Part-2 Neuro-ophthalmology,Altitudinal Field Defects,Amaurosis fugax classically precedes which condition?,AION (giant cell arteritis).
+Ophthalmology,Part-2 Neuro-ophthalmology,Marcus Gunn Pupil,"What does RAPD stand for, and which sign demonstrates it?",Relative afferent pupillary defect; shown by the Marcus Gunn pupil on swinging flashlight test.
+Ophthalmology,Part-3 Retina,Macular Disorders,What does OCT stand for?,Optical coherence tomography.
+Ophthalmology,Part-3 Retina,Macular Disorders,What does FFA stand for?,Fundus fluorescein angiography.
+Ophthalmology,Part-3 Retina,Anti-VEGF,What is the mnemonic for the anti-VEGF agents?,"'BEVA ta RANI BRO, PEG pike AFIB hogya' - Bevacizumab, Ranibizumab, Brolucizumab, Pegaptanib, Aflibercept."
+Ophthalmology,Part-3 Retina,Hypertensive Retinopathy,Name the fundus signs of hypertensive retinopathy.,"Arteriolar attenuation/narrowing, AV nicking, copper wiring, cotton-wool spots, exudates, blot hemorrhages, disc edema."
+Ophthalmology,Part-3 Retina,Hypertensive Retinopathy,What is 'copper wiring' a sign of?,Hypertensive retinopathy.
+Ophthalmology,Part-3 Retina,Retinal Detachment,A horseshoe (U-shaped) break is associated with which type of RD?,Rhegmatogenous retinal detachment.
+Ophthalmology,Part-3 Retina,Retinoblastoma,"What is the most common clinical feature of retinoblastoma, and the next most common?","Leukocoria, followed by squint (esotropia)."
+Ophthalmology,Part-3 Retina,Retinoblastoma,Which squint type is seen in retinoblastoma?,Esotropia.
+Ophthalmology,Part-3 Retina,Central Serous Retinopathy,Verteporfin is used in which conditions?,Wet ARMD and central serous retinopathy (CSR).
+Ophthalmology,Part-3 Retina,Best Disease,Which disease shows an egg-yolk appearance?,Best disease.
+Ophthalmology,Part-3 Retina,CMV Retinitis,Which retinitis shows a pizza-pie appearance?,CMV retinitis.
+Ophthalmology,Part-3 Retina,Toxoplasmosis,Which infection shows a headlight-in-fog appearance?,Ocular toxoplasmosis.
+Ophthalmology,Part-3 Retina,Congenital Infections,Which congenital infections cause salt-and-pepper retinopathy?,Congenital rubella or syphilis.
+Ophthalmology,Part-3 Retina,CRVO,Which condition shows a splashed-tomato fundus appearance?,Central retinal vein occlusion (CRVO).
+Ophthalmology,Part-3 Retina,CRVO,100-day glaucoma develops after which condition?,CRVO (due to neovascularization).
+Ophthalmology,Part-3 Retina,Retinitis Pigmentosa,Bony spicules on fundus indicate which disease?,Retinitis pigmentosa.
+Ophthalmology,Part-3 Retina,Retinitis Pigmentosa,Decreased docosahexaenoic acid (DHA) is seen in which disease?,Retinitis pigmentosa.
+Ophthalmology,Part-3 Retina,Stargardt Disease,A 'silent choroid' and fish-flecks indicate which disease?,Stargardt disease.
+Ophthalmology,Part-3 Retina,Oguchi Disease,The Mizuo-Nakamura phenomenon is seen in which disease?,Oguchi disease (congenital stationary night blindness).
+Ophthalmology,Part-3 Retina,Retinoblastoma,True rosettes with an empty centre (Flexner-Wintersteiner) are seen in which tumor?,Retinoblastoma.
+Ophthalmology,Part-3 Retina,Retinoblastoma,"Which rosettes contain neuropil in the centre, and in which tumors?","Homer Wright rosettes - retinoblastoma, medulloblastoma, Ewing's sarcoma."
+Ophthalmology,Part-3 Retina,ARMD,AREDS2 supplementation is used for which condition?,ARMD (in patients with drusen).
+Ophthalmology,Part-3 Retina,Retinal Layers,Which retinal cells are the 2nd-order neurons?,Bipolar cells (in the inner nuclear layer).
+Ophthalmology,Part-3 Retina,ERG,"Which ERG wave corresponds to photoreceptors, and which to bipolar cells?",a-wave = photoreceptors; b-wave = bipolar cells.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",VKH Syndrome,Which condition causes a sunset-glow fundus?,VKH syndrome.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",VKH Syndrome,A granulomatous panuveitis with perilimbal vitiligo suggests which syndrome?,VKH syndrome.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Vernal Keratoconjunctivitis,A shield ulcer is associated with which condition?,Vernal keratoconjunctivitis (VKC).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Vernal Keratoconjunctivitis,Cobblestone papillae are seen in which condition?,Vernal keratoconjunctivitis (VKC).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Vernal Keratoconjunctivitis,Horner-Tranta dots are seen in which condition?,Vernal keratoconjunctivitis (VKC).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Vernal Keratoconjunctivitis,The Maxwell-Lyon sign is seen in which condition?,Vernal keratoconjunctivitis (VKC).
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Keratic Precipitates,Mutton-fat KPs indicate which category of uveitis?,Granulomatous uveitis.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,What does TF stand for in FISTO grading?,Trachomatous inflammation - follicular.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,What does TI stand for in FISTO grading?,Trachomatous inflammation - intense.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,What does TS stand for in FISTO grading?,Trachomatous scarring.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,What does TT stand for in FISTO grading?,Trachomatous trichiasis.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Trachoma,What does CO stand for in FISTO grading?,Corneal opacity.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Pterygium,What is the role of mitomycin C / conjunctival autograft in pterygium?,To reduce recurrence.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis,Which uveitis presents as a painful red eye with loss of vision?,Anterior uveitis.
+Ophthalmology,"Part-4 Uvea, Conjunctiva & Trachoma",Uveitis,Which uveitis presents as painless loss of vision with floaters?,Posterior uveitis.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,How does netarsudil lower IOP?,By increasing trabecular outflow.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Which drug class is the drug of choice and increases uveoscleral outflow?,Prostaglandin (PGF2-alpha) analogues.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Which anti-glaucoma drug causes a black conjunctiva?,Dipivefrine.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Which anti-glaucoma drug causes vortex keratopathy?,Netarsudil.
+Ophthalmology,Part-5 Glaucoma,Anti-Glaucoma Drugs,Which anti-glaucoma drug class can cause corneal anaesthesia?,Ocular beta-blockers.
+Ophthalmology,Part-5 Glaucoma,Angle Closure Glaucoma,Glaucomflecken indicate a previous episode of what?,Acute angle closure glaucoma.
+Ophthalmology,Part-5 Glaucoma,Glaucoma Field Defects,Which scotoma is regarded as the earliest glaucomatous damage?,Bjerrum/arcuate scotoma.
+Ophthalmology,Part-5 Glaucoma,Tonometry,"Which tonometer is the gold standard, and on what principle?",Goldmann applanation tonometer; Imbert-Fick principle (P = F/A).
+Ophthalmology,Part-5 Glaucoma,Gonioscope Structures,Which gonioscope structure corresponds to the cornea at Descemet's membrane?,Schwalbe's line.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,A snowflake cataract is seen in which patients?,Diabetics (sorbitol accumulation).
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,A sunflower cataract is seen in which conditions?,Wilson's disease and chalcosis (copper).
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,A Christmas tree cataract is seen in which condition?,Myotonic dystrophy.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,Which is the most common congenital cataract?,Blue dot cataract.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,Which congenital cataract most commonly leads to diminution of vision?,Lamellar/zonular cataract.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Morphology,Which cataract appears polychromatic / breadcrumb-like?,Complicated cataract.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,A Sommering ring is associated with which complication?,Posterior capsular opacification (PCO).
+Ophthalmology,Part-6 Lens & Cataract,Nuclear Cataract,The 'second sight' phenomenon occurs in which cataract?,Nuclear cataract.
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,Most common chronic complication of cataract surgery?,PCO (posterior capsular opacification).
+Ophthalmology,Part-6 Lens & Cataract,Cataract Surgery,What wavelength does the Nd:Glass laser use in FLACS (cataract slide)?,1054 nm. [Note: the laser slide lists Nd:Glass as 1053 nm.]
+Ophthalmology,Part-7 Surgical Instruments,Instruments,Which dye stains the anterior lens capsule?,Trypan blue.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,Which IOL material is rigid (non-foldable)?,PMMA.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,Which instrument performs continuous curvilinear capsulorrhexis (CCC)?,Cystitome.
+Ophthalmology,Part-7 Surgical Instruments,Instruments,Which instrument is used to create a bridle suture?,Superior rectus holding forceps.
+Ophthalmology,Part-7 Surgical Instruments,Hordeolum,Inflammation of the Zeis gland is which condition?,External hordeolum.
+Ophthalmology,Part-7 Surgical Instruments,Hordeolum,Acute inflammation of the meibomian gland is which condition?,Internal hordeolum.
+Ophthalmology,Part-7 Surgical Instruments,Chalazion,Chronic granulomatous inflammation of the meibomian gland is called?,Chalazion.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Sympathetic Ophthalmia,Dalen-Fuchs nodules are characteristic of which condition?,Sympathetic ophthalmia.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Watering Eye,A negative Jones dye test 2 (opacify-) indicates what?,Pump failure.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Watering Eye,A positive Jones dye test 2 (opacify+) indicates what?,Partial obstruction.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Iron Lines,Iron deposition around a pterygium forms which line?,Stocker's line.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Iron Lines,Iron deposition around a filtering bleb forms which line?,Ferry's line.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Tumors,Most common malignant primary orbital tumor in a child?,Rhabdomyosarcoma.
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Tumors,Most common malignant orbital tumor in an adult?,Non-Hodgkin lymphoma (NHL).
+Ophthalmology,"Part-8 Lacrimal, Trauma & Orbit",Orbital Metastasis,Most common cause of orbital metastasis in an adult?,Breast carcinoma.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Fourth Nerve Palsy,Which cranial nerve palsy causes a compensatory head tilt?,Fourth (trochlear) nerve palsy.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Ptosis Localization,Which muscle is responsible for the ptosis in Horner's syndrome?,Muller's muscle.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Ptosis Localization,Which muscle is responsible for the ptosis in third nerve palsy?,Levator palpebrae superioris (LPS).
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Tests,"In the Worth 4-dot test, what do uncrossed vs crossed diplopia indicate?",Uncrossed diplopia = eso deviation; crossed diplopia = exo deviation.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Which muscle is the primary intortor of the eye?,Superior oblique.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Which muscle is the primary extortor of the eye?,Inferior oblique.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Which muscle has primary elevation with secondary intorsion?,Superior rectus.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,EOM Actions,Which muscle has primary depression with secondary extorsion?,Inferior rectus.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Laws,Which law states yoke muscles receive equal innervation?,Hering's law.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Laws,Which law concerns reciprocal inhibition of the antagonist?,Sherrington's law.
+Ophthalmology,Part-9 Strabismus & Ocular Motility,Squint Types,A squint where the second deviation exceeds the first is what type?,Paralytic squint.
+Ophthalmology,Part-10 Refraction,Astigmatism,"In astigmatism notation, what relationship between cylinder and sphere is highlighted (per notes)?",Cylindrical power > spherical power.
+Ophthalmology,Part-10 Refraction,High Myopia,Foster-Fuchs spots are seen in which condition?,High (pathological) myopia.
+Ophthalmology,Part-10 Refraction,High Myopia,Lacquer cracks are seen in which condition?,High (pathological) myopia.
+Ophthalmology,Part-10 Refraction,Hypermetropia,A shot-silk (shiny) retina is seen in which refractive error?,Hypermetropia.
+Ophthalmology,Part-10 Refraction,Myopia Types,Keratoconus causes which type of myopia?,Curvature myopia.
+Ophthalmology,Part-10 Refraction,Myopia Types,Nuclear cataract causes which type of myopia?,Index myopia.
+Ophthalmology,Part-10 Refraction,Myopia Types,Weil-Marchesani syndrome causes which type of myopia?,Positional myopia.
+Ophthalmology,Part-10 Refraction,Astigmatism,"In 'with the rule' astigmatism, which meridian is more curved?",The vertical meridian.
+Ophthalmology,Part-10 Refraction,Astigmatism,"In 'against the rule' astigmatism, which meridian is more curved?",The horizontal meridian.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,NPCB,What does NPCB stand for?,National Programme for Control of Blindness & Visual Impairment.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Steroid Side Effects,What does the GTCS mnemonic mean for steroid side effects?,Glaucoma from Topical steroids; Cataract from Systemic steroids.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lasers,Which laser (and wavelength) is used for photoablation / LASIK?,"Argon fluoride excimer laser, 193 nm."
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lasers,A 532 nm laser is used for which process?,Photocoagulation (PRP and laser trabeculoplasty).
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Lasers,A 1064 nm Nd:YAG laser is used for which procedures?,Photodisruption - peripheral iridotomy and treating posterior capsular opacification.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eyelid Fusion,Fusion of the bulbar and palpebral conjunctiva is called?,Symblepharon.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eyelid Fusion,Fusion of the superior and inferior eyelids is called?,Ankyloblepharon.
+Ophthalmology,Part-11 Community Ophthalmology & Miscellaneous,Eyelid,Eyelid coloboma leads to which complication?,Exposure keratitis.
