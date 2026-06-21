@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { bySubject, loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { loadFlags } from '@/lib/flags';
 import { getReview } from '@/lib/store';
@@ -18,6 +19,7 @@ export default function SubjectGrid() {
   const [manifest, setManifest] = useState<Record<string, Partial<SubjectMeta>>>({});
   const [counts, setCounts] = useState({ bookmarks: 0, hidden: 0, mastered: 0, struggling: 0 });
   const [insight, setInsight] = useState<{ streak: number; ready: number | null }>({ streak: 0, ready: null });
+  const router = useRouter();
 
   useEffect(() => {
     let alive = true;
@@ -66,6 +68,12 @@ export default function SubjectGrid() {
 
   const totalDue = rows.reduce((n, r) => n + r.due, 0);
   const totalLeft = rows.reduce((n, r) => n + r.left, 0);
+
+  const studyBucket = (e: React.MouseEvent, subject: string, mode: 'due' | 'left') => {
+    e.preventDefault();
+    e.stopPropagation();
+    router.push(`/study?subject=${encodeURIComponent(subject)}&mode=${mode}`);
+  };
 
   if (!cards) {
     return <p className="py-16 text-center text-muted">Loading cards…</p>;
@@ -137,13 +145,25 @@ export default function SubjectGrid() {
               {r.due > 0 && (
                 <>
                   {' · '}
-                  <span className="font-medium text-accent">{r.due} due</span>
+                  <button
+                    type="button"
+                    onClick={(e) => studyBucket(e, r.subject, 'due')}
+                    className="font-medium text-accent underline-offset-2 hover:underline"
+                  >
+                    {r.due} due
+                  </button>
                 </>
               )}
               {r.left > 0 && (
                 <>
                   {' · '}
-                  <span className="font-medium text-ink">{r.left} left</span>
+                  <button
+                    type="button"
+                    onClick={(e) => studyBucket(e, r.subject, 'left')}
+                    className="font-medium text-ink underline-offset-2 hover:underline"
+                  >
+                    {r.left} left
+                  </button>
                 </>
               )}
             </p>
