@@ -1,5 +1,4 @@
 import Papa from 'papaparse';
-import * as XLSX from 'xlsx';
 import { loadFlags } from './flags';
 
 export type Card = {
@@ -48,7 +47,7 @@ function rowsToCards(rows: Record<string, string>[]): Card[] {
 }
 
 async function parseCsv(url: string): Promise<Card[]> {
-  const text = await fetch(url, { cache: 'no-store' }).then((r) => r.text());
+  const text = await fetch(url).then((r) => r.text());
   const { data } = Papa.parse<Record<string, string>>(text, {
     header: true,
     skipEmptyLines: true,
@@ -57,27 +56,10 @@ async function parseCsv(url: string): Promise<Card[]> {
   return rowsToCards(data);
 }
 
-async function parseXlsx(url: string): Promise<Card[]> {
-  const buf = await fetch(url, { cache: 'no-store' }).then((r) => r.arrayBuffer());
-  const wb = XLSX.read(buf);
-  const sheet = wb.Sheets[wb.SheetNames[0]];
-  const raw = XLSX.utils.sheet_to_json<Record<string, string>>(sheet, { defval: '' });
-  const rows = raw.map((r) => {
-    const o: Record<string, string> = {};
-    for (const k of Object.keys(r)) o[k.trim().toLowerCase()] = String(r[k]);
-    return o;
-  });
-  return rowsToCards(rows);
-}
-
 async function fetchAllCards(): Promise<Card[]> {
-  const { files } = await fetch(`${BASE}/decks/index.json`, { cache: 'no-store' }).then((r) =>
-    r.json()
-  );
+  const { files } = await fetch(`${BASE}/decks/index.json`).then((r) => r.json());
   const all = await Promise.all(
-    files.map((f: string) =>
-      /\.xlsx$/i.test(f) ? parseXlsx(`${BASE}/decks/${f}`) : parseCsv(`${BASE}/decks/${f}`)
-    )
+    files.map((f: string) => parseCsv(`${BASE}/decks/${f}`))
   );
   const map = new Map<string, Card>();
   for (const c of all.flat()) map.set(c.id, c); // de-dupe; last wins
