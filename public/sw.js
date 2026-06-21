@@ -13,14 +13,18 @@ self.addEventListener('activate', (e) => {
   );
 });
 
-// Serve cache immediately; refresh in the background. Falls back to cache on network failure.
+// Serve cache immediately and refresh in the background; when nothing is
+// cached, await the network so a failure rejects (same as having no SW) rather
+// than resolving respondWith with undefined.
 function staleWhileRevalidate(request) {
   return caches.open(VERSION).then((cache) =>
     cache.match(request).then((cached) => {
-      const network = fetch(request)
-        .then((res) => { if (res && res.ok && !res.redirected) cache.put(request, res.clone()); return res; })
-        .catch(() => cached);
-      return cached || network;
+      const network = fetch(request).then((res) => {
+        if (res && res.ok && !res.redirected) cache.put(request, res.clone());
+        return res;
+      });
+      if (cached) { network.catch(() => {}); return cached; }
+      return network;
     })
   );
 }
@@ -39,13 +43,15 @@ self.addEventListener('fetch', (e) => {
     e.respondWith(
       caches.open(VERSION).then((cache) =>
         cache.match(url.pathname).then((cached) => {
-          const network = fetch(request)
-            .then((res) => {
-              if (res && res.ok && !res.redirected && !res.url.endsWith('login.html')) cache.put(url.pathname, res.clone());
-              return res;
-            })
-            .catch(() => cached || cache.match('/'));
-          return cached || network;
+          const network = fetch(request).then((res) => {
+            if (res && res.ok && !res.redirected && !res.url.endsWith('login.html')) cache.put(url.pathname, res.clone());
+            return res;
+          });
+          if (cached) { network.catch(() => {}); return cached; }
+          // No cached shell for this route: await the network, falling back to
+          // the cached app root, and only reject if that is missing too.
+          return network.catch(() =>
+            cache.match('/').then((r) => r || Promise.reject(new Error('offline'))));
         })
       )
     );
