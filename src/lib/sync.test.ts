@@ -139,6 +139,28 @@ describe('pullAndMerge', () => {
   });
 });
 
+describe('api timeout', () => {
+  beforeEach(() => { vi.useFakeTimers(); });
+  afterEach(() => { vi.useRealTimers(); vi.unstubAllGlobals(); });
+
+  it('aborts a hanging request and reports offline', async () => {
+    // fetch that never resolves on its own, but rejects when aborted
+    vi.stubGlobal('fetch', (_url: string, init?: { signal?: AbortSignal }) =>
+      new Promise((_resolve, reject) => {
+        init?.signal?.addEventListener('abort', () =>
+          reject(new DOMException('aborted', 'AbortError')));
+      }));
+
+    let status = '';
+    const off = onSyncStatus((s) => { status = s; });
+    const p = pullAndMerge();           // kicks off GET that will hang
+    await vi.advanceTimersByTimeAsync(8000); // trip the 8s abort
+    await p;
+    expect(status).toBe('offline');
+    off();
+  });
+});
+
 describe('pushReset', () => {
   it('happy path: calls PUT with reset:true', async () => {
     const fetchMock = vi.fn().mockResolvedValueOnce({ status: 200, ok: true, json: async () => emptyRemote() });
