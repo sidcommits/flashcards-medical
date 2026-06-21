@@ -77,13 +77,25 @@ export default function BrowseSubject() {
                       {d.due > 0 && (
                         <>
                           {' · '}
-                          <span className="font-medium text-accent">{d.due} due</span>
+                          <button
+                            type="button"
+                            onClick={() => study({ deck: d.deck, mode: 'due' })}
+                            className="font-medium text-accent underline-offset-2 hover:underline"
+                          >
+                            {d.due} due
+                          </button>
                         </>
                       )}
                       {d.left > 0 && (
                         <>
                           {' · '}
-                          <span className="font-medium text-ink">{d.left} left</span>
+                          <button
+                            type="button"
+                            onClick={() => study({ deck: d.deck, mode: 'left' })}
+                            className="font-medium text-ink underline-offset-2 hover:underline"
+                          >
+                            {d.left} left
+                          </button>
                         </>
                       )}
                     </p>
