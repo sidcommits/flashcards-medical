@@ -110,6 +110,36 @@ export function splitCounts(
   return { due, left };
 }
 
+export type StudyMode = 'mixed' | 'due' | 'left';
+
+/**
+ * Order a card set into a study queue for the given mode (mirrors splitCounts'
+ * buckets). Due cards (prior review whose due time has passed) come first,
+ * soonest-due first; never-seen cards follow in input order. `'due'` keeps only
+ * the due group; `'left'` keeps only the never-seen group; `'mixed'` (default)
+ * returns both. Cards reviewed but scheduled ahead are in neither group.
+ * Pure — `reviewOf` is injected; the caller shuffles the `'left'` result when it
+ * wants randomized new cards (kept out of here so this stays deterministic).
+ */
+export function studyQueue<T extends { id: string }>(
+  cards: readonly T[],
+  reviewOf: (id: string) => Review | undefined,
+  mode: StudyMode = 'mixed',
+): T[] {
+  const withReview: { c: T; due: number }[] = [];
+  const fresh: T[] = [];
+  for (const c of cards) {
+    const r = reviewOf(c.id);
+    if (!r) fresh.push(c);
+    else if (r.due <= Date.now()) withReview.push({ c, due: r.due });
+  }
+  withReview.sort((a, b) => a.due - b.due);
+  const due = withReview.map((x) => x.c);
+  if (mode === 'due') return due;
+  if (mode === 'left') return fresh;
+  return [...due, ...fresh];
+}
+
 /** A card she keeps failing — lapsed this many times or more. */
 export const LEECH_LAPSES = 4;
 

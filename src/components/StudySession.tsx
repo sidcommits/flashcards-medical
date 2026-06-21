@@ -4,7 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { getReview, saveReview } from '@/lib/store';
-import { isDue, newReview, previewInterval, schedule, type Grade } from '@/lib/srs';
+import { newReview, previewInterval, schedule, studyQueue, type Grade, type StudyMode } from '@/lib/srs';
 import { loadManifest, resolveSubjectMeta } from '@/lib/theme';
 import { pushDebounced } from '@/lib/sync';
 import { recordEvent, flushEventsDebounced } from '@/lib/events';
@@ -20,18 +20,6 @@ const GRADES: { grade: Grade; label: string; key: string; color: string }[] = [
   { grade: 'easy', label: 'Easy', key: '4', color: '#1f5d54' },
 ];
 
-function dueQueue(cards: Card[]): Card[] {
-  const withReview: { c: Card; due: number }[] = [];
-  const fresh: Card[] = [];
-  for (const c of cards) {
-    const r = getReview(c.id);
-    if (!r) fresh.push(c);
-    else if (isDue(r)) withReview.push({ c, due: r.due });
-  }
-  withReview.sort((a, b) => a.due - b.due);
-  return [...withReview.map((x) => x.c), ...fresh];
-}
-
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -41,12 +29,19 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+function buildQueue(cards: Card[], mode: string): Card[] {
+  const m: StudyMode = mode === 'due' ? 'due' : mode === 'left' ? 'left' : 'mixed';
+  const q = studyQueue(cards, getReview, m);
+  return m === 'left' ? shuffle(q) : q;
+}
+
 export default function StudySession() {
   const params = useSearchParams();
   const router = useRouter();
   const subject = params.get('subject') ?? '';
   const deck = params.get('deck') ?? '';
   const topic = params.get('topic') ?? '';
+  const mode = params.get('mode') ?? '';
 
   const [cards, setCards] = useState<Card[] | null>(null);
   const [accent, setAccent] = useState('#7c2b3e');
@@ -72,7 +67,7 @@ export default function StudySession() {
       );
       setAccent((subject && meta.get(subject)?.color) || '#7c2b3e');
       setCards(filtered);
-      setQueue(dueQueue(filtered));
+      setQueue(buildQueue(filtered, mode));
       setIndex(0);
       setReviewed(0);
       setFlipped(false);
@@ -82,7 +77,7 @@ export default function StudySession() {
     return () => {
       alive = false;
     };
-  }, [subject, deck, topic]);
+  }, [subject, deck, topic, mode]);
 
   const current = queue[index];
   const total = queue.length;
@@ -168,7 +163,7 @@ export default function StudySession() {
         <BackLink href={backHref}>Back</BackLink>
         <div className="card-face flex flex-col items-center gap-4 p-10 text-center">
           <p className="font-display text-2xl text-ink">You&apos;re all caught up 🎉</p>
-          <p className="text-muted">No cards due in {crumb}.</p>
+          <p className="text-muted">No {mode === 'left' ? 'new cards left' : 'cards due'} in {crumb}.</p>
           {cards.length > 0 && <Button onClick={startAhead}>Study ahead</Button>}
         </div>
       </div>
@@ -199,7 +194,7 @@ export default function StudySession() {
       <div className="flex items-center justify-between gap-3">
         <BackLink href={backHref}>Back</BackLink>
         <span className="text-xs uppercase tracking-[0.16em] text-muted">
-          {ahead ? 'Study ahead' : 'Due'}
+          {ahead ? 'Study ahead' : mode === 'left' ? 'New' : 'Due'}
         </span>
       </div>
 

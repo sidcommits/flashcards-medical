@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { bySubject, loadAllCards, visibleCards, type Card } from '@/lib/cards';
 import { loadFlags } from '@/lib/flags';
 import { getReview } from '@/lib/store';
@@ -18,6 +19,7 @@ export default function SubjectGrid() {
   const [manifest, setManifest] = useState<Record<string, Partial<SubjectMeta>>>({});
   const [counts, setCounts] = useState({ bookmarks: 0, hidden: 0, mastered: 0, struggling: 0 });
   const [insight, setInsight] = useState<{ streak: number; ready: number | null }>({ streak: 0, ready: null });
+  const router = useRouter();
 
   useEffect(() => {
     let alive = true;
@@ -66,6 +68,13 @@ export default function SubjectGrid() {
 
   const totalDue = rows.reduce((n, r) => n + r.due, 0);
   const totalLeft = rows.reduce((n, r) => n + r.left, 0);
+
+  const studyBucket = (e: React.MouseEvent, subject: string, mode: 'due' | 'left') => {
+    // stopPropagation (not preventDefault): the chip sits inside the card's
+    // role="link" div, so its click would bubble up and also open /browse.
+    e.stopPropagation();
+    router.push(`/study?subject=${encodeURIComponent(subject)}&mode=${mode}`);
+  };
 
   if (!cards) {
     return <p className="py-16 text-center text-muted">Loading cards…</p>;
@@ -121,10 +130,20 @@ export default function SubjectGrid() {
 
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
         {rows.map((r) => (
-          <Link
+          <div
             key={r.subject}
-            href={`/browse?subject=${encodeURIComponent(r.subject)}`}
-            className="card-face group flex flex-col gap-3 p-6 transition-transform hover:-translate-y-0.5"
+            role="link"
+            tabIndex={0}
+            onClick={() => router.push(`/browse?subject=${encodeURIComponent(r.subject)}`)}
+            onKeyDown={(e) => {
+              // Only navigate when the card itself (not a chip button inside it)
+              // is focused, so Enter/Space on a chip doesn't also open browse.
+              if (e.target === e.currentTarget && (e.key === 'Enter' || e.key === ' ')) {
+                e.preventDefault();
+                router.push(`/browse?subject=${encodeURIComponent(r.subject)}`);
+              }
+            }}
+            className="card-face group flex cursor-pointer flex-col gap-3 p-6 transition-transform hover:-translate-y-0.5"
             style={{ ['--accent' as string]: r.meta.color }}
           >
             <h2 className="font-display text-xl font-semibold leading-tight text-ink">
@@ -137,17 +156,29 @@ export default function SubjectGrid() {
               {r.due > 0 && (
                 <>
                   {' · '}
-                  <span className="font-medium text-accent">{r.due} due</span>
+                  <button
+                    type="button"
+                    onClick={(e) => studyBucket(e, r.subject, 'due')}
+                    className="font-medium text-accent underline-offset-2 hover:underline"
+                  >
+                    {r.due} due
+                  </button>
                 </>
               )}
               {r.left > 0 && (
                 <>
                   {' · '}
-                  <span className="font-medium text-ink">{r.left} left</span>
+                  <button
+                    type="button"
+                    onClick={(e) => studyBucket(e, r.subject, 'left')}
+                    className="font-medium text-ink underline-offset-2 hover:underline"
+                  >
+                    {r.left} left
+                  </button>
                 </>
               )}
             </p>
-          </Link>
+          </div>
         ))}
       </div>
     </div>

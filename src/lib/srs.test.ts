@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { newReview, schedule, isDue, previewInterval, retrievabilityAt, isLeech, splitCounts, type Review } from './srs';
+import { newReview, schedule, isDue, previewInterval, retrievabilityAt, isLeech, splitCounts, studyQueue, type Review } from './srs';
 
 const DAY = 86_400_000;
 
@@ -130,5 +130,47 @@ describe('splitCounts', () => {
     const fresh = splitCounts([{ id: 'a' }, { id: 'b' }], () => undefined);
     expect(fresh).toEqual({ due: 0, left: 2 });
     expect(splitCounts([], () => undefined)).toEqual({ due: 0, left: 0 });
+  });
+});
+
+describe('studyQueue', () => {
+  // ids encode their bucket; `mature()` is a reviewed, due-now card.
+  const reviews: Record<string, Review> = {
+    dueLate: { ...mature(), due: Date.now() - 2000 },   // reviewed, due (older)
+    dueSoon: { ...mature(), due: Date.now() - 1000 },   // reviewed, due (newer)
+    future: { ...mature(), due: Date.now() + 5 * DAY }, // reviewed, scheduled ahead — neither bucket
+  };
+  const reviewOf = (id: string) => reviews[id];
+  // Input order deliberately interleaves buckets to prove ordering.
+  const cards = [
+    { id: 'dueSoon' },
+    { id: 'new1' },
+    { id: 'dueLate' },
+    { id: 'future' },
+    { id: 'new2' },
+  ];
+
+  it('mixed (default): due cards sorted by due asc, then never-seen in input order', () => {
+    expect(studyQueue(cards, reviewOf).map((c) => c.id)).toEqual([
+      'dueLate', 'dueSoon', 'new1', 'new2',
+    ]);
+  });
+
+  it("'due' mode: only reviewed-and-due cards, sorted, excludes new and future", () => {
+    expect(studyQueue(cards, reviewOf, 'due').map((c) => c.id)).toEqual([
+      'dueLate', 'dueSoon',
+    ]);
+  });
+
+  it("'left' mode: only never-seen cards, in input order, excludes due and future", () => {
+    expect(studyQueue(cards, reviewOf, 'left').map((c) => c.id)).toEqual([
+      'new1', 'new2',
+    ]);
+  });
+
+  it('empty list yields an empty queue in every mode', () => {
+    expect(studyQueue([], reviewOf)).toEqual([]);
+    expect(studyQueue([], reviewOf, 'due')).toEqual([]);
+    expect(studyQueue([], reviewOf, 'left')).toEqual([]);
   });
 });
