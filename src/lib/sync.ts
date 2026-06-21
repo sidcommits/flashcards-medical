@@ -32,16 +32,25 @@ function writeLocal(doc: ProgressDoc) {
   localStorage.setItem(PROFILE_KEYS.goals, JSON.stringify(doc.goalDays ?? {}));
 }
 
+const API_TIMEOUT_MS = 8000;
+
 async function api(method: string, body?: unknown): Promise<ProgressDoc | null> {
-  const res = await fetch('/api/progress', {
-    method,
-    credentials: 'include',
-    headers: body ? { 'Content-Type': 'application/json' } : undefined,
-    body: body ? JSON.stringify(body) : undefined,
-  });
-  if (res.status === 401) { window.location.href = '/login.html'; return null; }
-  if (!res.ok) throw new Error(`sync ${method} ${res.status}`);
-  return res.json();
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), API_TIMEOUT_MS);
+  try {
+    const res = await fetch('/api/progress', {
+      method,
+      credentials: 'include',
+      headers: body ? { 'Content-Type': 'application/json' } : undefined,
+      body: body ? JSON.stringify(body) : undefined,
+      signal: ctrl.signal,
+    });
+    if (res.status === 401) { window.location.href = '/login.html'; return null; }
+    if (!res.ok) throw new Error(`sync ${method} ${res.status}`);
+    return res.json();
+  } finally {
+    clearTimeout(t);
+  }
 }
 
 /** On load: pull remote, merge into local, push merged back so both sides converge. */
