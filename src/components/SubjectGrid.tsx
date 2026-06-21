@@ -70,6 +70,8 @@ export default function SubjectGrid() {
   const totalLeft = rows.reduce((n, r) => n + r.left, 0);
 
   const studyBucket = (e: React.MouseEvent, subject: string, mode: 'due' | 'left') => {
+    // stopPropagation (not preventDefault): the chip sits inside the card's
+    // role="link" div, so its click would bubble up and also open /browse.
     e.stopPropagation();
     router.push(`/study?subject=${encodeURIComponent(subject)}&mode=${mode}`);
   };
