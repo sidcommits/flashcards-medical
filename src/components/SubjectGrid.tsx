@@ -70,7 +70,6 @@ export default function SubjectGrid() {
   const totalLeft = rows.reduce((n, r) => n + r.left, 0);
 
   const studyBucket = (e: React.MouseEvent, subject: string, mode: 'due' | 'left') => {
-    e.preventDefault();
     e.stopPropagation();
     router.push(`/study?subject=${encodeURIComponent(subject)}&mode=${mode}`);
   };
@@ -129,10 +128,20 @@ export default function SubjectGrid() {
 
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
         {rows.map((r) => (
-          <Link
+          <div
             key={r.subject}
-            href={`/browse?subject=${encodeURIComponent(r.subject)}`}
-            className="card-face group flex flex-col gap-3 p-6 transition-transform hover:-translate-y-0.5"
+            role="link"
+            tabIndex={0}
+            onClick={() => router.push(`/browse?subject=${encodeURIComponent(r.subject)}`)}
+            onKeyDown={(e) => {
+              // Only navigate when the card itself (not a chip button inside it)
+              // is focused, so Enter/Space on a chip doesn't also open browse.
+              if (e.target === e.currentTarget && (e.key === 'Enter' || e.key === ' ')) {
+                e.preventDefault();
+                router.push(`/browse?subject=${encodeURIComponent(r.subject)}`);
+              }
+            }}
+            className="card-face group flex cursor-pointer flex-col gap-3 p-6 transition-transform hover:-translate-y-0.5"
             style={{ ['--accent' as string]: r.meta.color }}
           >
             <h2 className="font-display text-xl font-semibold leading-tight text-ink">
@@ -167,7 +176,7 @@ export default function SubjectGrid() {
                 </>
               )}
             </p>
-          </Link>
+          </div>
         ))}
       </div>
     </div>
