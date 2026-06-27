@@ -1,0 +1,573 @@
+subject,deck,topic,front,back
+Cardiovascular System,Part-1,Action Potential,"In the fast-response cardiac action potential, which current drives Phase 0?",The fast inward sodium current (I_Na) — rapid depolarization.
+Cardiovascular System,Part-1,Action Potential,Which current is responsible for Phase 1 of the fast cardiac action potential?,Potassium current (I_K) — initial brief repolarization.
+Cardiovascular System,Part-1,Action Potential,"What is Phase 2 of the cardiac action potential called, and which currents produce it?","Phase 2 is the plateau (""pla-two""); produced by inward calcium current (I_Ca) balanced against outward potassium current (I_K)."
+Cardiovascular System,Part-1,Action Potential,Which current drives Phase 3 of the fast cardiac action potential?,Potassium current (I_K) — repolarization.
+Cardiovascular System,Part-1,Action Potential,Which current dominates Phase 4 (resting) of the fast cardiac action potential?,Potassium current (I_K).
+Cardiovascular System,Part-1,Action Potential,What is the resting membrane potential (RMP) of a ventricular myocyte?,-85 mV.
+Cardiovascular System,Part-1,Action Potential,Roughly how long is the effective refractory period shown on the ventricular action potential?,About 200 msec.
+Cardiovascular System,Part-1,Action Potential,"During the ventricular action potential, in which direction do K+, Na+, and Ca2+ move across the myocyte membrane?",K+ moves out; Na+ moves in; Ca2+ moves in.
+Cardiovascular System,Part-1,Action Potential,"In a pacemaker (nodal/slow-response) cell, which current drives Phase 0?","Slow inward calcium current via L-type Ca channels (I_Ca, L-type)."
+Cardiovascular System,Part-1,Action Potential,What is the approximate threshold potential of a pacemaker cell?,About -40 mV.
+Cardiovascular System,Part-1,Action Potential,Which two currents drive Phase 4 spontaneous depolarization in a pacemaker cell?,"The funny current I_f (carries Na+ and K+) and the T-type calcium current (I_Ca, T-type)."
+Cardiovascular System,Part-1,Action Potential,"What does the ""funny Cat"" mnemonic refer to in pacemaker Phase 4?","""Funny"" = funny current (I_f); ""Cat"" = Ca2+ T-type current — the two currents of pacemaker Phase 4."
+Cardiovascular System,Part-1,Action Potential,Which channel carries the funny current (I_f)?,HCN4 channel.
+Cardiovascular System,Part-1,Action Potential,What does HCN stand for (the funny current channel)?,Hyperpolarization-activated Cyclic Nucleotide-gated channel.
+Cardiovascular System,Part-1,Action Potential,What modulates the HCN4 / funny current channel and what are its key properties?,It is modulated by cAMP; it is a mixed (Na+ and K+) cation channel and a slow channel.
+Cardiovascular System,Part-1,Action Potential,What is the order of conduction speed through the cardiac conduction system (fastest to slowest)?,His-Purkinje > Atria > Ventricles > AV node (AVN).
+Cardiovascular System,Part-1,Action Potential,What mnemonic captures the conduction-speed order (His-Purkinje > Atria > Ventricles > AVN)?,"""Park At Ventura Avenue"" → Purkinje, Atria, Ventricles, AVN."
+Cardiovascular System,Part-1,Action Potential,How do acetylcholine and adenosine affect pacemaker Phase 4?,They decrease Phase 4 slope (↓ phase 4) → slow the heart rate.
+Cardiovascular System,Part-1,Action Potential,How do catecholamines affect pacemaker Phase 4?,They increase Phase 4 slope (↑ phase 4) → increase heart rate (↑ HR).
+Cardiovascular System,Part-1,Action Potential,Which drug classes decrease AV node conduction?,Non-dihydropyridine calcium channel blockers (non-DHP CCBs) and beta-blockers (β-blockers).
+Cardiovascular System,Part-1,Action Potential,"Reducing AV node conduction is used to treat which arrhythmia, and what is its underlying mechanism?","PSVT — specifically AVRT (AV reentrant tachycardia), which is due to a reentrant circuit."
+Cardiovascular System,Part-1,Action Potential,Which pre-excitation syndrome is associated with AV reentrant tachycardia in this context?,Wolff-Parkinson-White (WPW) syndrome.
+Cardiovascular System,Part-1,Action Potential,Which part of the conduction system is the fastest-conducting?,His-Purkinje system.
+Cardiovascular System,Part-1,Action Potential,Which part of the conduction system is the slowest-conducting?,The AV node (AVN).
+Cardiovascular System,Part-1,Action Potential,Which agents decrease the pacemaker phase 4 slope (slowing heart rate)?,Acetylcholine and adenosine.
+Cardiovascular System,Part-1,Action Potential,Fill in: Ventricular resting membrane potential = ___ mV.,-85
+Cardiovascular System,Part-1,Action Potential,Fill in: Pacemaker cell threshold ≈ ___ mV.,-40
+Cardiovascular System,Part-1,Action Potential,Fill in: Effective refractory period ≈ ___ msec.,200
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"What ion channel do Class I antiarrhythmics block, and what electrolyte state must you avoid them in?",They block sodium (Na+) channels; avoid in hyperkalemia.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Name the Class IA antiarrhythmic drugs (and their mnemonic).,"Quinidine, Procainamide, Disopyramide — mnemonic ""Queen Proclaims Disco Pyramid."""
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,How do Class IA drugs affect action potential duration (APD) and QT interval?,"They increase APD and prolong QT (APD↑, QT↑) — they also block K+."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Name the Class IB antiarrhythmic drugs.,Lignocaine (lidocaine) and Phenytoin — they increase K+ efflux.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,How do Class IB drugs affect APD and QT?,"They decrease APD and shorten QT (APD↓, QT↓)."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,In which arrhythmia settings are Class IB drugs (phenytoin/lignocaine) especially useful?,Digitalis (digoxin) toxicity-induced arrhythmias and ischemia-related arrhythmias.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,What is the antidote for digoxin (digitalis) toxicity?,Digibind (digoxin immune Fab).
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Name the Class IC antiarrhythmic drugs.,Flecainide and Propafenone — they have no effect on K+.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"How do Class IC drugs affect APD, and what is their key contraindication?",They have essentially no effect on APD; contraindicated in ischemic/structural heart disease.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,What are the Class II antiarrhythmics?,Beta-blockers (β-blockers).
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Name the Class III antiarrhythmic drugs and the electrolyte state to avoid them in.,"Amiodarone, Ibutilide, Dofetilide, Sotalol; avoid in hypokalemia."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"What channel do Class III drugs block, and how do they affect APD/QT?",They block potassium (K+) channels; APD↑ and QT↑ (markedly prolonged repolarization).
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,What are the Class IV antiarrhythmics?,Calcium channel blockers (CCBs).
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,What is the Class V antiarrhythmic?,Adenosine.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Which drugs cause drug-induced lupus (mnemonic SHIP)?,"Sulfasalazine, Hydralazine, Isoniazid, Procainamide."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"Which Class IA antiarrhythmic is a classic cause of drug-induced lupus, and what metabolic trait predisposes?",Procainamide; slow acetylators (acetylation = phase II metabolism) are predisposed.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,What is adenosine's mechanism and main indication?,It decreases AV node conduction; used to terminate (stable) PSVT.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,How is adenosine given and what is its dosing regimen?,IV bolus: 6 mg → 12 mg → 12 mg (maximum 30 mg).
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"What starting adenosine dose is used in patients on theophylline or caffeine, and why?","Start at 12 mg, because theophylline/caffeine are adenosine antagonists (blunt its effect)."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Which antiarrhythmic class properties does amiodarone possess?,"All four — Class I, II, III, and IV properties."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"Why must PFT, LFT, and TFT be monitored with amiodarone?",PFT → pulmonary fibrosis; LFT → hepatotoxicity; TFT → hypo- or hyperthyroidism.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,List the skin/eye adverse effects of amiodarone.,"Photosensitivity, corneal deposits, and ceruloderma (blue-grey skin / ""blue man"")."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"As a Class III agent, how does amiodarone affect APD and QT?","It increases APD and prolongs QT (APD↑, QT↑)."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,What is the common effect of all Class I antiarrhythmics on the action potential upstroke?,"They reduce the slope/rate of phase 0 depolarization (block I_Na) — modest in IA/IB, marked in IC."
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Amiodarone: what does PFT monitoring detect?,Pulmonary fibrosis.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Amiodarone: what does LFT monitoring detect?,Hepatotoxicity.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Amiodarone: what does TFT monitoring detect?,Hypothyroidism or hyperthyroidism.
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,Fill in: Adenosine IV bolus = ___ mg → ___ mg → ___ mg (max ___ mg).,6 → 12 → 12 (max 30)
+Cardiovascular System,Part-2,Antiarrhythmic Drugs,"Fill in: On theophylline/caffeine, start adenosine at ___ mg.",12
+Cardiovascular System,Part-3,ECG Basics,"On standard ECG paper, what does one large square equal in distance and time?",One large square = 5 mm = 0.2 seconds.
+Cardiovascular System,Part-3,ECG Basics,How do you estimate heart rate from large squares on ECG?,Heart rate = 300 / (number of large squares between two R waves).
+Cardiovascular System,Part-3,ECG Basics,What is the normal heart rate range?,60-100 bpm.
+Cardiovascular System,Part-3,ECG Basics,"Using large squares between R waves, when do you call bradycardia vs tachycardia?",More than 5 large squares → bradycardia; fewer than 3 large squares → tachycardia.
+Cardiovascular System,Part-3,ECG Basics,What is the normal PR interval?,120-200 msec.
+Cardiovascular System,Part-3,ECG Basics,What is the normal QRS duration?,100 ms (up to ~120 ms).
+Cardiovascular System,Part-3,ECG Basics,What is Bazett's formula for corrected QT (QTc)?,QTc = QT / √(R-R interval).
+Cardiovascular System,Part-3,ECG Basics,What QTc value is considered prolonged QT?,Greater than 440 ms.
+Cardiovascular System,Part-3,ECG Basics,"Which ECG waves correspond to atrial depolarization, ventricular depolarization, and ventricular repolarization?",P wave = atrial depolarization; QRS = ventricular depolarization; T wave = ventricular repolarization.
+Cardiovascular System,Part-3,ECG Basics,Axis: Lead I positive and aVF positive indicates what axis?,Normal axis.
+Cardiovascular System,Part-3,ECG Basics,Axis: Lead I positive and aVF negative indicates what axis?,"Left axis deviation (LAD) — ""leaving."""
+Cardiovascular System,Part-3,ECG Basics,Axis: Lead I negative and aVF positive indicates what axis?,"Right axis deviation (RAD) — ""reaching."""
+Cardiovascular System,Part-3,ECG Basics,Axis: Lead I negative and aVF negative indicates what axis?,Extreme axis deviation.
+Cardiovascular System,Part-3,ECG Basics,What P-wave change indicates right atrial hypertrophy (RAH)?,"Tall, peaked P wave (P pulmonale)."
+Cardiovascular System,Part-3,ECG Basics,What P-wave change indicates left atrial hypertrophy (LAH)?,"Broad, bifid (notched) P wave (P mitrale)."
+Cardiovascular System,Part-3,ECG Basics,"Which congenital anomaly causes ""Himalayan"" (very tall) P waves?",Ebstein anomaly.
+Cardiovascular System,Part-3,ECG Basics,Which electrolyte abnormality causes pseudo-P pulmonale?,Hypokalemia (low K+).
+Cardiovascular System,Part-3,ECG Basics,What are the classic ECG features of Wolff-Parkinson-White (WPW)?,"Delta wave, short PR interval (PR↓), and wide QRS (QRS↑)."
+Cardiovascular System,Part-3,ECG Basics,What is the name of the accessory pathway in WPW?,Bundle of Kent.
+Cardiovascular System,Part-3,ECG Basics,Which drugs must be avoided in WPW?,"AV node blockers (e.g., adenosine and other AV-nodal blocking agents)."
+Cardiovascular System,Part-3,ECG Basics,"In WPW, what is the drug of choice, treatment of choice, and emergency drug?",DOC = Flecainide; TOC = radiofrequency ablation (RFA); Emergency = IV procainamide.
+Cardiovascular System,Part-3,ECG Basics,Which ECG finding is characteristic of hypothermia?,Osborn wave (J wave).
+Cardiovascular System,Part-3,ECG Basics,Which ECG wave is characteristic of ARVD (arrhythmogenic RV dysplasia)?,Epsilon wave.
+Cardiovascular System,Part-3,ECG Basics,What is the pathological hallmark and major risk of ARVD?,RV muscle is replaced by fatty/fibrous tissue; it causes sudden cardiac death.
+Cardiovascular System,Part-3,ECG Basics,What is Naxos syndrome (associated with ARVD)?,An ARVD-associated syndrome with woolly hair and palmoplantar keratoderma.
+Cardiovascular System,Part-3,ECG Basics,What is the treatment of choice for ARVD?,ICD (implantable cardioverter-defibrillator) plus beta-blockers.
+Cardiovascular System,Part-3,ECG Basics,Which condition shows an Osborn (J) wave?,Hypothermia.
+Cardiovascular System,Part-3,ECG Basics,Which condition shows an Epsilon wave?,ARVD (arrhythmogenic RV dysplasia).
+Cardiovascular System,Part-3,ECG Basics,Which condition shows a delta wave with short PR and wide QRS?,Wolff-Parkinson-White (WPW).
+Cardiovascular System,Part-3,ECG Basics,Which condition produces Himalayan (giant) P waves?,Ebstein anomaly.
+Cardiovascular System,Part-3,ECG Basics,Which electrolyte disorder produces pseudo-P pulmonale?,Hypokalemia.
+Cardiovascular System,Part-3,ECG Basics,"A tall, peaked P wave (P pulmonale) indicates hypertrophy of which chamber?",Right atrium (RAH).
+Cardiovascular System,Part-3,ECG Basics,"A broad, bifid P wave (P mitrale) indicates hypertrophy of which chamber?",Left atrium (LAH).
+Cardiovascular System,Part-3,ECG Basics,Fill in: Heart rate = ___ / number of large squares.,300
+Cardiovascular System,Part-3,ECG Basics,Fill in: One large ECG square = ___ mm = ___ seconds.,5 mm = 0.2 s
+Cardiovascular System,Part-3,ECG Basics,Fill in: Normal PR interval = ___ to ___ msec.,120 to 200
+Cardiovascular System,Part-3,ECG Basics,Fill in: Normal QRS duration = ___ ms.,100
+Cardiovascular System,Part-3,ECG Basics,Fill in: QTc is prolonged when > ___ ms.,440
+Cardiovascular System,Part-3,ECG Basics,Fill in: Bradycardia if > ___ large squares; tachycardia if < ___ large squares (between R waves).,5 ; 3
+Cardiovascular System,Part-4,Bundle Branch Blocks,What mnemonic describes RBBB morphology on ECG?,"""MaRRoW"" — M-shape in V1 and W-shape in V6."
+Cardiovascular System,Part-4,Bundle Branch Blocks,Describe the V1 and V6 QRS morphology in RBBB.,"V1: rSR' (""rabbit ears"", M-shaped); V6: broad slurred S wave (W-shaped); with T-wave inversion (T↓)."
+Cardiovascular System,Part-4,Bundle Branch Blocks,What mnemonic describes LBBB morphology on ECG?,"""WiLLiaM"" — W-shape in V1 and M-shape in V6."
+Cardiovascular System,Part-4,Bundle Branch Blocks,Describe the V1 and V6 QRS morphology in LBBB.,V1: W-shaped (deep S); V6: broad notched/M-shaped R wave; with T-wave inversion (T↓).
+Cardiovascular System,Part-4,Bundle Branch Blocks,What is the Sokolow-Lyon criterion for LVH?,"S wave in V1 + R wave in V5 or V6 ≥ 3.5 mV (35 mm), or > 7 large boxes."
+Cardiovascular System,Part-4,Bundle Branch Blocks,"In the Sokolow-Lyon criteria, how many millimetres is one large box?",1 large box = 5 mm (so >7 boxes = >35 mm).
+Cardiovascular System,Part-4,Bundle Branch Blocks,What is the ECG criterion for right ventricular hypertrophy (RVH)?,R wave in V1 > 7 mm.
+Cardiovascular System,Part-4,Bundle Branch Blocks,Which bundle branch block gives an 'M' in V1 and 'W' in V6?,RBBB (mnemonic MaRRoW).
+Cardiovascular System,Part-4,Bundle Branch Blocks,Which bundle branch block gives a 'W' in V1 and 'M' in V6?,LBBB (mnemonic WiLLiaM).
+Cardiovascular System,Part-4,Bundle Branch Blocks,Fill in: Sokolow-Lyon LVH = S(V1) + R(V5/V6) ≥ ___ mm (___ mV).,35 mm (3.5 mV)
+Cardiovascular System,Part-4,Bundle Branch Blocks,Fill in: RVH = R wave in V1 > ___ mm.,7
+Cardiovascular System,Part-5,Heart Blocks,How do you manage unstable/symptomatic bradycardia (heart block)?,1st line: Atropine 0.5 mg IV bolus; then dopamine IV infusion; then epinephrine IV infusion.
+Cardiovascular System,Part-5,Heart Blocks,What defines first-degree (1°) heart block?,Prolonged PR interval that stays constant (PR1 = PR2 = PR3 = PR4); every P is conducted.
+Cardiovascular System,Part-5,Heart Blocks,What defines second-degree Mobitz type 1 (Wenckebach) block?,Progressive PR prolongation (PR1 < PR2 < PR3) until a P wave is not conducted (dropped QRS).
+Cardiovascular System,Part-5,Heart Blocks,What defines second-degree Mobitz type 2 block?,Constant PR interval (PR1 = PR2) with a sudden dropped beat (P wave with absent QRS).
+Cardiovascular System,Part-5,Heart Blocks,What defines third-degree (3°) heart block?,"Complete AV dissociation — atria and ventricles beat independently; PP intervals regular and RR intervals regular but unrelated, with P waves landing on QRS/T."
+Cardiovascular System,Part-5,Heart Blocks,"Which rhythm is typically seen in elderly patients, is irregular, and reflects sinus node dysfunction?",Sick sinus syndrome.
+Cardiovascular System,Part-5,Heart Blocks,Progressive PR prolongation followed by a dropped QRS describes which block?,Second-degree Mobitz type 1 (Wenckebach).
+Cardiovascular System,Part-5,Heart Blocks,A constant PR interval with a sudden dropped QRS describes which block?,Second-degree Mobitz type 2.
+Cardiovascular System,Part-5,Heart Blocks,A constantly prolonged PR with every beat conducted describes which block?,First-degree heart block.
+Cardiovascular System,Part-5,Heart Blocks,Complete independence of atrial and ventricular activity describes which block?,Third-degree (complete) heart block — AV dissociation.
+Cardiovascular System,Part-5,Heart Blocks,Fill in: First-line drug for symptomatic bradycardia = Atropine ___ mg IV bolus.,0.5
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,A normal (narrow) QRS tachycardia indicates what origin?,Supraventricular origin.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What is the ECG appearance of atrial fibrillation?,Irregularly irregular rhythm with an irregular baseline and absent P waves.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Where does atrial fibrillation typically originate?,"Left atrium, around the pulmonary veins."
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,How is unstable atrial fibrillation managed?,Synchronized cardioversion at 200 J.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What drugs are used for rate control in stable atrial fibrillation?,"Esmolol, Verapamil, or Diltiazem."
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Which drug is preferred for rate control in atrial fibrillation with acute heart failure?,Digoxin.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,"Besides rate/rhythm control, what other therapy does atrial fibrillation require?",Anticoagulation.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What is the drug of choice for multifocal atrial tachycardia (MAT)?,Verapamil.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,"What conditions is multifocal atrial tachycardia (MAT) associated with, and what is its rhythm?",COPD and pneumonia; it is irregular with multiple (multifocal) P-wave morphologies.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What is the characteristic ECG pattern of atrial flutter?,"Sawtooth flutter waves, classically with 4:1 conduction; regular RR intervals."
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Where does atrial flutter originate and by what mechanism?,Right atrium (tricuspid annulus); a re-entrant circuit.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,How is unstable atrial flutter managed?,Synchronized cardioversion at 25-50 J.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,How is stable atrial flutter managed?,Esmolol or Ibutilide (plus anticoagulation).
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What is the underlying mechanism of PSVT?,An AV re-entrant circuit.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What is the first step in managing stable PSVT?,Vagal maneuvers / carotid sinus massage (vagal/ACh stimulation).
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,"After vagal maneuvers, what is the drug order for PSVT?",IV adenosine > Esmolol > Verapamil/Diltiazem.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,How is unstable PSVT managed?,Synchronized cardioversion.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What physical sign is associated with PSVT (AVNRT)?,Frog sign (frog sign of neck pulsation).
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,"In a PSVT patient with asthma/COPD, which rate-control agent is preferred?",Diltiazem (avoid adenosine/beta-blocker due to bronchospasm risk).
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,List the CHA2DS2-VASc components and their points.,C-Congestive heart failure (1); H-Hypertension (1); A2-Age ≥75 y (2); D-Diabetes (1); S2-Stroke (2); V-Vascular disease (1); A-Age ≥65 y (1); Sc-Sex category female (1).
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,"Per ESC 2010, what anticoagulation is recommended by CHA2DS2-VASc score?",Score = 1 → aspirin; Score ≥ 2 → oral anticoagulation.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,"What are NOACs, and what is the one exception to that drug class?","NOACs are factor Xa inhibitors; the exception is warfarin (a vitamin K antagonist, not a NOAC)."
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,In which conditions must warfarin be used instead of a NOAC for anticoagulation?,Moderate-severe mitral stenosis and prosthetic (mechanical) heart valves.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,What are the target INR ranges for standard anticoagulation vs prosthetic heart valve?,"Standard (e.g., moderate-severe MS): INR 2-3; prosthetic heart valve: INR 2.5-3.5."
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Which atrial arrhythmia shows an irregular baseline with absent P waves?,Atrial fibrillation.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Which atrial arrhythmia shows a sawtooth pattern (often 4:1)?,Atrial flutter.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,An irregular tachycardia with multiple P-wave morphologies in a COPD patient suggests what?,Multifocal atrial tachycardia (MAT).
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Which atrial arrhythmia originates in the left atrium near the pulmonary veins?,Atrial fibrillation.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Which atrial arrhythmia originates at the tricuspid annulus in the right atrium?,Atrial flutter.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Which CHA2DS2-VASc components are worth 2 points each?,Age ≥75 years (A2) and prior Stroke (S2).
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for Congestive heart failure?,1 point.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for Hypertension?,1 point.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for Age ≥75 years?,2 points.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for Diabetes?,1 point.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for prior Stroke?,2 points.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for Vascular disease?,1 point.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for Age 65-74 years?,1 point.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,CHA2DS2-VASc: how many points for female Sex category?,1 point.
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Fill in: Unstable AF → cardioversion at ___ J.,200
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Fill in: Unstable atrial flutter → cardioversion at ___ to ___ J.,25 to 50
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Fill in: CHA2DS2-VASc 2-point items = Age ≥ ___ and ______.,75 ; Stroke
+Cardiovascular System,Part-6,Atrial Tachyarrhythmias,Fill in: Target INR (standard) = ___ to ___; prosthetic valve = ___ to ___.,2 to 3 ; 2.5 to 3.5
+Cardiovascular System,Part-7,Ventricular Arrhythmias,What is the ECG appearance of ventricular fibrillation?,"No discernible rhythm — chaotic, disorganized waveforms."
+Cardiovascular System,Part-7,Ventricular Arrhythmias,How is unstable ventricular fibrillation managed?,Defibrillation (unsynchronized shock).
+Cardiovascular System,Part-7,Ventricular Arrhythmias,"How is stable ventricular fibrillation managed, and what is the DOC?",Stable: IV amiodarone; drug of choice: Lignocaine (lidocaine).
+Cardiovascular System,Part-7,Ventricular Arrhythmias,What is the ECG appearance of ventricular tachycardia?,Wide QRS complexes (regular).
+Cardiovascular System,Part-7,Ventricular Arrhythmias,"What is another name for polymorphic ventricular tachycardia, and what is its morphology?",Torsades de Pointes — QRS complexes that twist around the baseline.
+Cardiovascular System,Part-7,Ventricular Arrhythmias,What underlying ECG abnormality predisposes to Torsades de Pointes?,Prolonged QT interval (QT↑).
+Cardiovascular System,Part-7,Ventricular Arrhythmias,What is the drug of choice for Torsades de Pointes?,Magnesium sulfate (MgSO4).
+Cardiovascular System,Part-7,Ventricular Arrhythmias,What inheritance patterns characterize Romano-Ward and Jervell-Lange-Nielsen congenital long-QT syndromes?,Romano-Ward is autosomal dominant (AD); Jervell-Lange-Nielsen is autosomal recessive (AR).
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which antiarrhythmic classes prolong the QT interval?,Class IA and Class III antiarrhythmics.
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which antibiotics prolong the QT interval?,"Macrolides, fluoroquinolones, Bedaquiline, and Pretomanid."
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which antipsychotics prolong the QT interval?,"Ziprasidone, quetiapine, thioridazine, and haloperidol."
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which antidepressant classes prolong the QT interval?,TCAs and SSRIs.
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which antiemetic and antifungal prolong the QT interval?,Antiemetic: ondansetron; antifungal: fluconazole.
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Name additional miscellaneous QT-prolonging drugs (besides the anti- groups).,"Methadone, Chloroquine, protease inhibitors (-navir drugs), and CAT drugs [as written on slide]."
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which withdrawn drugs cause QT prolongation/Torsades via CYP3A4 inhibition?,"Cisapride (a 5-HT4 agonist), Astemizole, and Terfenadine (antihistaminics)."
+Cardiovascular System,Part-7,Ventricular Arrhythmias,"Which 4 ""hypo"" states predispose to prolonged QT/Torsades?","Hypocalcemia, hypomagnesemia, hypokalemia, and hypothermia."
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which arrhythmia shows wide QRS complexes that are regular?,Ventricular tachycardia.
+Cardiovascular System,Part-7,Ventricular Arrhythmias,Which arrhythmia shows no discernible/chaotic rhythm?,Ventricular fibrillation.
+Cardiovascular System,Part-7,Ventricular Arrhythmias,QRS complexes twisting around the baseline describe which arrhythmia?,Torsades de Pointes (polymorphic VT).
+Cardiovascular System,Part-8,Digitalis & Electrolytes,What are the digitalis (digoxin) effects on QT and T waves?,Shortened QT interval and flattened T waves.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,"What characteristic ST change does digitalis produce, and what is it nicknamed?","Scooped (sagging) ST depression — the ""hockey stick"" or ""Salvador Dali moustache"" sign."
+Cardiovascular System,Part-8,Digitalis & Electrolytes,How does digitalis affect the PR interval and why?,"It increases (prolongs) the PR interval, because digitalis blocks the AV node."
+Cardiovascular System,Part-8,Digitalis & Electrolytes,What is the most common arrhythmia/ECG finding in digoxin toxicity?,Ventricular bigeminy.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,ECG findings of MILD hyperkalemia (5.5-6.5 mEq/L)?,Peaked T waves and prolonged PR segment.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,ECG findings of MODERATE hyperkalemia (6.5-8.0 mEq/L)?,"Loss of P wave, prolonged QRS complex, ST-segment elevation, and ectopic beats."
+Cardiovascular System,Part-8,Digitalis & Electrolytes,ECG findings of SEVERE hyperkalemia (>8.0 mEq/L)?,"Sine wave, ventricular fibrillation, and asystole."
+Cardiovascular System,Part-8,Digitalis & Electrolytes,What ECG changes occur in hypokalemia?,QT prolongation and U waves.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,What ECG change occurs in hypocalcemia?,QT prolongation.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,What ECG change occurs in hypercalcemia?,QT shortening.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,What is the FIRST-line drug in hyperkalemia management (membrane stabilization)?,Calcium gluconate (DOC); alternatively calcium chloride (CaCl2). NOT calcium carbonate (CaCO3).
+Cardiovascular System,Part-8,Digitalis & Electrolytes,"After calcium, what drugs shift potassium into cells in hyperkalemia?",Insulin (with glucose) and salbutamol.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,What measures actually remove potassium from the body in hyperkalemia?,Potassium-binding resins and hemodialysis.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,Scooped ST depression ('hockey stick'/'Salvador Dali moustache') is caused by what?,Digitalis (digoxin) effect.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,A sine-wave ECG indicates what?,Severe hyperkalemia (>8.0 mEq/L).
+Cardiovascular System,Part-8,Digitalis & Electrolytes,Loss of P wave with a widened QRS indicates what?,Moderate hyperkalemia (6.5-8.0 mEq/L).
+Cardiovascular System,Part-8,Digitalis & Electrolytes,U waves with QT prolongation indicate which electrolyte disorder?,Hypokalemia.
+Cardiovascular System,Part-8,Digitalis & Electrolytes,"Fill in serum K+: mild ___-___, moderate ___-___, severe > ___ mEq/L.",5.5-6.5 ; 6.5-8.0 ; 8.0
+Cardiovascular System,Part-9,ST-Elevation,Describe the ECG evolution of a STEMI.,Peaked (hyperacute) T wave → ST-segment elevation → pathological Q wave formation with loss of R wave → T-wave inversion.
+Cardiovascular System,Part-9,ST-Elevation,"What is the name for convex (""tombstone"") ST elevation?",Pardee sign.
+Cardiovascular System,Part-9,ST-Elevation,A pathological Q wave indicates which two conditions?,Myocardial infarction (MI) or HOCM.
+Cardiovascular System,Part-9,ST-Elevation,List causes of ST elevation other than acute STEMI.,"Ventricular aneurysm, Prinzmetal angina (transient), Takotsubo cardiomyopathy, pericarditis, and Brugada syndrome."
+Cardiovascular System,Part-9,ST-Elevation,What is the classic clinical presentation of pericarditis?,Acute chest pain with a pericardial friction rub.
+Cardiovascular System,Part-9,ST-Elevation,What is the most common cause of pericarditis?,Viral.
+Cardiovascular System,Part-9,ST-Elevation,What are the ECG features of pericarditis?,"Concave-up (""saddle-shaped"") ST elevation, PR-segment depression, and global/diffuse (all-lead) involvement."
+Cardiovascular System,Part-9,ST-Elevation,What triggers Takotsubo cardiomyopathy?,"Emotional/physical stress (""broken-heart""/stress cardiomyopathy)."
+Cardiovascular System,Part-9,ST-Elevation,What are the key features of Takotsubo cardiomyopathy?,"Raised troponin and ST elevation but NORMAL coronary angiography, with mid-ventricular/apical hypokinesis (""octopus pot"" / apical ballooning)."
+Cardiovascular System,Part-9,ST-Elevation,What is the genetic basis and inheritance of Brugada syndrome?,Loss-of-function mutation in SCN5A; autosomal dominant (AD).
+Cardiovascular System,Part-9,ST-Elevation,List the ECG characteristics of Brugada syndrome.,"Broad P wave with some PQ prolongation, J-point elevation, coved-type ST-segment elevation (in V1, pseudo-RBBB), and inverted T wave."
+Cardiovascular System,Part-9,ST-Elevation,What is the major risk and treatment of Brugada syndrome?,Risk of sudden cardiac death; treatment is an ICD.
+Cardiovascular System,Part-9,ST-Elevation,How is a posterior MI (PDA territory) identified on ECG?,"ST elevation in posterior leads V7-V9, with ST depression in V1-V3 and tall R waves in V1-V3."
+Cardiovascular System,Part-9,ST-Elevation,"Which artery supplies an anterior/septal wall MI, and what is its nickname?","LAD (left anterior descending) — the ""widow maker""; the most common (mc) MI territory."
+Cardiovascular System,Part-9,ST-Elevation,"Which artery is involved in inferior wall MI, and what associated rhythm finding occurs?",RCA (or LCx); associated with bradycardia.
+Cardiovascular System,Part-9,ST-Elevation,Which artery supplies a lateral wall MI?,Left circumflex (LCx) — or diagonal branch of LAD.
+Cardiovascular System,Part-9,ST-Elevation,"What is a major complication of anterior wall MI (LAD), and how does it affect fluid management?",Pump failure / cardiogenic shock; IV fluids are contraindicated (avoid).
+Cardiovascular System,Part-9,ST-Elevation,How is inferior wall MI (RCA) with bradycardia managed regarding fluids?,Give IV fluids (IV fluids are indicated).
+Cardiovascular System,Part-9,ST-Elevation,State Einthoven's law for limb-lead voltages.,Lead I + Lead III = Lead II.
+Cardiovascular System,Part-9,ST-Elevation,What is the FIRST ECG change in a STEMI (hyperacute phase)?,A peaked (hyperacute) T wave.
+Cardiovascular System,Part-9,ST-Elevation,What is the LAST ECG change in the STEMI evolution sequence?,T-wave inversion (after Q-wave formation).
+Cardiovascular System,Part-9,ST-Elevation,"An inferior wall MI (leads II, III, aVF) with bradycardia points to which artery?",RCA (or LCx).
+Cardiovascular System,Part-9,ST-Elevation,Tall R waves in V1-V3 with ST depression points to which MI territory?,Posterior MI (PDA territory).
+Cardiovascular System,Part-10,Coronary Anatomy,From which aortic sinuses of Valsalva do the coronary arteries arise?,Right sinus → RCA; Left sinus → LCA; the posterior sinus is non-coronary (NC) and gives no artery.
+Cardiovascular System,Part-10,Coronary Anatomy,What is the mnemonic for the branches of the RCA?,"CAMP: Conus, AV node artery, Acute Marginal, PDA (posterior descending)."
+Cardiovascular System,Part-10,Coronary Anatomy,What does the conus branch of the RCA supply?,The outflow tract (conus).
+Cardiovascular System,Part-10,Coronary Anatomy,What does the acute marginal branch of the RCA supply?,The free wall of the right ventricle.
+Cardiovascular System,Part-10,Coronary Anatomy,"What determines coronary dominance, and what percentage is right-dominant?",Dominance is defined by the origin of the PDA; ~85% of people are right-dominant (PDA from RCA).
+Cardiovascular System,Part-10,Coronary Anatomy,What myocardial regions does the PDA supply?,The posterior 1/3 of the interventricular septum and the posterior wall of the left ventricle.
+Cardiovascular System,Part-10,Coronary Anatomy,What are the two main branch groups of the LAD?,Diagonal branches and septal branches.
+Cardiovascular System,Part-10,Coronary Anatomy,What does the LAD supply?,The anterior 2/3 of the interventricular septum and the anterior wall of the left ventricle.
+Cardiovascular System,Part-10,Coronary Anatomy,What is the main branch of the LCx and what does it supply?,The obtuse marginal branch; it supplies the lateral wall.
+Cardiovascular System,Part-10,Coronary Anatomy,All cardiac veins drain via the coronary sinus into the RA except which vessels?,"The anterior cardiac veins, which drain directly into the right atrium."
+Cardiovascular System,Part-10,Coronary Anatomy,Which veins drain into the coronary sinus?,"The great cardiac vein, small cardiac vein, and middle cardiac vein (then coronary sinus → RA)."
+Cardiovascular System,Part-10,Coronary Anatomy,Which RCA branch supplies the AV node?,The AV node artery (the 'A' in CAMP).
+Cardiovascular System,Part-10,Coronary Anatomy,The obtuse marginal is a branch of which artery?,The left circumflex (LCx).
+Cardiovascular System,Part-10,Coronary Anatomy,"In a right-dominant circulation, the PDA arises from which artery?",The RCA.
+Cardiovascular System,Part-10,Coronary Anatomy,Which artery supplies the anterior 2/3 of the interventricular septum?,The LAD.
+Cardiovascular System,Part-10,Coronary Anatomy,Which artery supplies the posterior 1/3 of the interventricular septum?,The PDA.
+Cardiovascular System,Part-10,Coronary Anatomy,Which artery supplies the RV free wall?,The acute marginal branch of the RCA.
+Cardiovascular System,Part-11,MI Clinical,"Stable angina: pain pattern, troponin, ECG, infarction, and management?",Pain on exertion; troponin normal; ECG normal; no infarction; managed with beta-blockers.
+Cardiovascular System,Part-11,MI Clinical,"Unstable angina: pain pattern, troponin, ECG, and infarction?",Pain at rest/any time; troponin normal; ECG shows ST depression; no infarction.
+Cardiovascular System,Part-11,MI Clinical,"NSTEMI: pain, troponin, ECG, and type of infarction?",Pain at rest/any time; troponin elevated (↑); ECG shows ST depression; subendocardial infarction.
+Cardiovascular System,Part-11,MI Clinical,"STEMI: pain, troponin, ECG, type of infarction, and management?",Pain at rest/any time; troponin elevated (↑); ECG shows ST elevation; transmural infarction; managed with PCI.
+Cardiovascular System,Part-11,MI Clinical,"Prinzmetal angina: pain, troponin, ECG, infarction, and management?",Pain at rest/any time; troponin normal; ECG shows transient ST elevation; no infarction; managed with CCBs (dihydropyridines/DHPs).
+Cardiovascular System,Part-11,MI Clinical,"In which acute coronary syndromes are fibrinolytics contraindicated, and why?",Unstable angina and NSTEMI — because they are subendocardial (not transmural); fibrinolytics are reserved for STEMI.
+Cardiovascular System,Part-11,MI Clinical,Which early cardiac biomarkers rise before troponin in MI?,"Myoglobin (Mb), heart-type fatty acid binding protein (H-FABP), and ischemia-modified albumin (IMA)."
+Cardiovascular System,Part-11,MI Clinical,"When does troponin rise after infarction, and what cutoff is given?",By about 4 hours; cutoff 0.04 mg/dL (per the notes).
+Cardiovascular System,Part-11,MI Clinical,Why is serial troponin testing useful?,To detect reinfarction (serial interval rise).
+Cardiovascular System,Part-11,MI Clinical,Which cardiac biomarkers are plotted on the standard time-course curve?,"Troponin, myoglobin, and creatine kinase (CK)."
+Cardiovascular System,Part-11,MI Clinical,"In NSTEMI, what are the indications for IMMEDIATE PCI?","Hemodynamic instability, ventricular tachycardia, or heart failure."
+Cardiovascular System,Part-11,MI Clinical,"In NSTEMI, what are the indications for EARLY PCI (<24 hrs)?","New ST changes or a rising troponin (i.e., progression)."
+Cardiovascular System,Part-11,MI Clinical,"In NSTEMI, what are the indications for DELAYED PCI?","Diabetes mellitus, or prior CABG/PCI."
+Cardiovascular System,Part-11,MI Clinical,What is the LMWH drug of choice in ACS?,Enoxaparin.
+Cardiovascular System,Part-11,MI Clinical,What are the standard initial medical therapies for MI (besides anticoagulation)?,"Morphine, oxygen, nitrates, aspirin, and statins."
+Cardiovascular System,Part-11,MI Clinical,At what oxygen saturation should supplemental O2 be given in MI?,When SpO2 is below 94%.
+Cardiovascular System,Part-11,MI Clinical,Which acute coronary syndrome causes a subendocardial infarct?,NSTEMI.
+Cardiovascular System,Part-11,MI Clinical,Which acute coronary syndrome causes a transmural infarct?,STEMI.
+Cardiovascular System,Part-11,MI Clinical,Which acute coronary syndromes have an elevated troponin?,NSTEMI and STEMI.
+Cardiovascular System,Part-11,MI Clinical,"Which two syndromes show ST elevation, and how do they differ?","STEMI (persistent ST elevation, transmural) and Prinzmetal angina (transient ST elevation, no infarct)."
+Cardiovascular System,Part-11,MI Clinical,Fill in: Troponin rises by ~___ hours; cutoff ___ mg/dL.,4 ; 0.04
+Cardiovascular System,Part-11,MI Clinical,Fill in: Give supplemental O2 when SpO2 < ___%.,94
+Cardiovascular System,Part-12,MI Reperfusion & Types,"At a PCI-capable hospital, what is the target FMC-to-device time for STEMI?","≤90 minutes (Class I, LOE A); send straight to cath lab for primary PCI."
+Cardiovascular System,Part-12,MI Reperfusion & Types,"At a non-PCI-capable hospital, what is the target door-in-door-out (DIDO) time?",≤30 minutes.
+Cardiovascular System,Part-12,MI Reperfusion & Types,"When transferring a STEMI patient for primary PCI, what is the target FMC-to-device time?","As soon as possible and ≤120 minutes (Class I, LOE B)."
+Cardiovascular System,Part-12,MI Reperfusion & Types,"If anticipated FMC-to-device time is >120 min, what should be done and when?","Administer a fibrinolytic agent within 30 minutes of arrival (Class I, LOE B)."
+Cardiovascular System,Part-12,MI Reperfusion & Types,Define Type 1 myocardial infarction.,"Spontaneous MI from a primary coronary event — plaque erosion and/or rupture, fissuring, or dissection."
+Cardiovascular System,Part-12,MI Reperfusion & Types,Define Type 2 myocardial infarction.,MI secondary to ischaemia from increased oxygen demand or decreased supply.
+Cardiovascular System,Part-12,MI Reperfusion & Types,Define Type 3 myocardial infarction.,"Sudden unexpected cardiac death (SCD), often with symptoms suggestive of myocardial ischaemia."
+Cardiovascular System,Part-12,MI Reperfusion & Types,Define Type 4 myocardial infarction (4a and 4b).,MI associated with PCI (4a) or with stent thrombosis (4b).
+Cardiovascular System,Part-12,MI Reperfusion & Types,Define Type 5 myocardial infarction.,"MI associated with cardiac surgery (e.g., CABG)."
+Cardiovascular System,Part-12,MI Reperfusion & Types,"How is ""myocardial injury"" defined?",Multifactorial aetiology; classified acute or chronic based on a change in cardiac troponin on serial testing.
+Cardiovascular System,Part-12,MI Reperfusion & Types,What is Dressler syndrome and its time course?,Fibrinous autoimmune pericarditis occurring weeks to months after MI (a delayed complication).
+Cardiovascular System,Part-12,MI Reperfusion & Types,Which MI type is sudden unexpected cardiac death?,Type 3.
+Cardiovascular System,Part-12,MI Reperfusion & Types,Which MI type is associated with PCI?,Type 4a.
+Cardiovascular System,Part-12,MI Reperfusion & Types,Which MI type is due to stent thrombosis?,Type 4b.
+Cardiovascular System,Part-12,MI Reperfusion & Types,Which MI type is associated with cardiac surgery (CABG)?,Type 5.
+Cardiovascular System,Part-12,MI Reperfusion & Types,"Which MI type is spontaneous, from plaque rupture/erosion/dissection?",Type 1.
+Cardiovascular System,Part-12,MI Reperfusion & Types,Fill in: PCI-capable hospital FMC-device target ≤ ___ min.,90
+Cardiovascular System,Part-12,MI Reperfusion & Types,Fill in: Transfer-for-PCI FMC-device target ≤ ___ min; DIDO ≤ ___ min.,120 ; 30
+Cardiovascular System,Part-12,MI Reperfusion & Types,"Fill in: If FMC-device anticipated > 120 min, give fibrinolytic within ___ min of arrival.",30
+Cardiovascular System,Part-13,MI Pathology,What is the earliest histological change in MI (~4 hours)?,Waviness of fibres.
+Cardiovascular System,Part-13,MI Pathology,What histology is seen at 4-24 hours post-MI?,Coagulative necrosis.
+Cardiovascular System,Part-13,MI Pathology,What cells predominate at 1-3 days post-MI?,Neutrophils.
+Cardiovascular System,Part-13,MI Pathology,What cells predominate at 3-7 days post-MI?,Macrophages.
+Cardiovascular System,Part-13,MI Pathology,What happens at 7-10 days post-MI?,Neoangiogenesis and granulation tissue formation.
+Cardiovascular System,Part-13,MI Pathology,What is seen after >14 days post-MI?,Collagen deposition and scar formation.
+Cardiovascular System,Part-13,MI Pathology,What is TTC staining and what does it show in MI?,Triphenyl tetrazolium chloride — stains viable myocardium red; infarcted (LDH-depleted) tissue remains pale.
+Cardiovascular System,Part-13,MI Pathology,"Describe the LDH ""flip"" in myocardial infarction.",Normally LDH2 > LDH1; in MI it flips so that LDH1 > LDH2.
+Cardiovascular System,Part-13,MI Pathology,What does Masson trichrome stain demonstrate in the healing infarct?,Collagen / scar (fibrosis).
+Cardiovascular System,Part-13,MI Pathology,"What are contracture bands, and what causes them?","Contraction band necrosis seen in reperfusion injury, caused by free radicals."
+Cardiovascular System,Part-13,MI Pathology,Coagulative necrosis corresponds to which post-MI time window?,4-24 hours.
+Cardiovascular System,Part-13,MI Pathology,Neutrophil infiltration corresponds to which post-MI days?,1-3 days.
+Cardiovascular System,Part-13,MI Pathology,Macrophage infiltration corresponds to which post-MI days?,3-7 days.
+Cardiovascular System,Part-13,MI Pathology,Granulation tissue / neoangiogenesis corresponds to which post-MI days?,7-10 days.
+Cardiovascular System,Part-13,MI Pathology,Collagen scar formation corresponds to which post-MI time?,More than 14 days.
+Cardiovascular System,Part-13,MI Pathology,Fill in MI timeline: waviness ___ ; coag. necrosis ___ ; neutrophils ___ ; macrophages ___ ; granulation ___ ; scar ___.,4 h ; 4-24 h ; 1-3 d ; 3-7 d ; 7-10 d ; >14 d
+Cardiovascular System,Part-14,JVP,What does the JVP 'a' wave represent?,Atrial contraction.
+Cardiovascular System,Part-14,JVP,What does the JVP 'c' wave represent?,Tricuspid valve bulging into the right atrium during ventricular systole.
+Cardiovascular System,Part-14,JVP,What does the JVP 'x' descent represent?,Atrial relaxation.
+Cardiovascular System,Part-14,JVP,What does the JVP 'v' wave represent?,Venous filling of the right atrium (against a closed tricuspid valve).
+Cardiovascular System,Part-14,JVP,What does the JVP 'y' descent represent?,Passive atrial emptying (tricuspid opens).
+Cardiovascular System,Part-14,JVP,Which condition causes absent 'a' waves on JVP?,Atrial fibrillation (absent P waves / no organized atrial contraction).
+Cardiovascular System,Part-14,JVP,Which conditions cause a large 'a' wave on JVP?,"Tricuspid stenosis (TS), pulmonary stenosis (PS), and pulmonary arterial hypertension (PAH)."
+Cardiovascular System,Part-14,JVP,What causes a cannon 'a' wave on JVP?,AV dissociation (atrium contracts against a closed tricuspid valve).
+Cardiovascular System,Part-14,JVP,"Which condition causes a large 'v' wave (C-V wave) on JVP, and what is the eponym?",Tricuspid regurgitation; the Lancisi sign.
+Cardiovascular System,Part-14,JVP,What happens to the 'y' descent in cardiac tamponade?,Loss or blunting of the 'y' descent.
+Cardiovascular System,Part-14,JVP,List the clinical/ECG signs of cardiac tamponade.,"Beck's triad, pulsus paradoxus, Ewart sign, and ECG electrical alternans."
+Cardiovascular System,Part-14,JVP,Define pulsus paradoxus.,A fall in systolic BP of more than 10 mmHg during inspiration.
+Cardiovascular System,Part-14,JVP,What happens to the 'x' and 'y' descents in constrictive pericarditis?,Both 'x' and 'y' descents are prominent.
+Cardiovascular System,Part-14,JVP,List the clinical/ECG signs of constrictive pericarditis.,"Kussmaul sign, pericardial knock, pulsus paradoxus, and low-voltage ECG."
+Cardiovascular System,Part-14,JVP,Define Kussmaul sign.,A paradoxical rise in JVP during inspiration.
+Cardiovascular System,Part-14,JVP,What are common causes of constrictive pericarditis?,"Uremia, radiotherapy (RT), and tuberculosis (TB)."
+Cardiovascular System,Part-14,JVP,A cannon 'a' wave on JVP indicates what?,AV dissociation.
+Cardiovascular System,Part-14,JVP,A large 'v' wave (C-V wave) on JVP indicates what?,Tricuspid regurgitation (Lancisi sign).
+Cardiovascular System,Part-14,JVP,Absent 'a' waves on JVP indicate what rhythm?,Atrial fibrillation.
+Cardiovascular System,Part-14,JVP,Blunted/absent 'y' descent suggests which condition?,Cardiac tamponade.
+Cardiovascular System,Part-14,JVP,Prominent 'x' and 'y' descents suggest which condition?,Constrictive pericarditis.
+Cardiovascular System,Part-14,JVP,Fill in: Pulsus paradoxus = inspiratory SBP fall > ___ mmHg.,10
+Cardiovascular System,Part-15,Heart Sounds,What is the mnemonic for the cardiac auscultation areas?,"""APT M"" — Aortic, Pulmonic, Tricuspid, Mitral areas."
+Cardiovascular System,Part-15,Heart Sounds,What murmurs are heard in the aortic area?,"Systolic murmurs: aortic stenosis, physiologic flow murmur, and aortic valve sclerosis."
+Cardiovascular System,Part-15,Heart Sounds,What murmurs are heard in the pulmonic area?,"Systolic ejection murmurs: pulmonic stenosis, atrial septal defect (ASD), and flow murmur."
+Cardiovascular System,Part-15,Heart Sounds,What murmurs are heard in the tricuspid area?,Holosystolic: tricuspid regurgitation and VSD; diastolic: tricuspid stenosis.
+Cardiovascular System,Part-15,Heart Sounds,What murmurs are heard at the mitral area (apex)?,Systolic: mitral regurgitation and mitral valve prolapse; diastolic: mitral stenosis.
+Cardiovascular System,Part-15,Heart Sounds,What murmurs are heard at the left sternal border?,Systolic: hypertrophic cardiomyopathy (HOCM); diastolic: aortic regurgitation and pulmonic regurgitation.
+Cardiovascular System,Part-15,Heart Sounds,What produces S1?,Closure of the mitral and tricuspid (AV) valves.
+Cardiovascular System,Part-15,Heart Sounds,What produces S2?,Closure of the aortic and pulmonic (semilunar) valves.
+Cardiovascular System,Part-15,Heart Sounds,What does an S3 indicate and when can it be normal?,Volume overload → CHF/dilated cardiomyopathy (systolic dysfunction); it can be normal/physiologic in pregnancy.
+Cardiovascular System,Part-15,Heart Sounds,What does an S4 indicate?,"Always pathological — a stiff ventricle, e.g., HOCM."
+Cardiovascular System,Part-15,Heart Sounds,Which systolic added sounds occur in AS and MVP?,Aortic stenosis → ejection click; mitral valve prolapse → mid-systolic click.
+Cardiovascular System,Part-15,Heart Sounds,What diastolic added sound is heard in mitral stenosis?,Opening snap (OS).
+Cardiovascular System,Part-15,Heart Sounds,What is a pericardial knock associated with?,Constrictive pericarditis.
+Cardiovascular System,Part-15,Heart Sounds,What is a tumor 'plop' associated with?,Atrial myxoma.
+Cardiovascular System,Part-15,Heart Sounds,An opening snap is heard in which valve lesion?,Mitral stenosis.
+Cardiovascular System,Part-15,Heart Sounds,An ejection click is heard in which valve lesion?,Aortic stenosis.
+Cardiovascular System,Part-15,Heart Sounds,A mid-systolic click is heard in which lesion?,Mitral valve prolapse.
+Cardiovascular System,Part-15,Heart Sounds,The mitral area corresponds to which auscultation landmark?,The apex.
+Cardiovascular System,Part-16,Murmurs - Systolic,What are the auscultatory features of aortic stenosis?,"Crescendo-decrescendo ejection systolic murmur, radiates to the carotids, with a narrow/paradoxical S2 split."
+Cardiovascular System,Part-16,Murmurs - Systolic,What are the auscultatory features of mitral regurgitation?,"Holosystolic, high-pitched ""blowing"" murmur, loudest at the apex, radiates to the axilla, with a soft S1 and wide split S2."
+Cardiovascular System,Part-16,Murmurs - Systolic,What are the auscultatory features of tricuspid regurgitation?,"Holosystolic murmur, loudest at the tricuspid area."
+Cardiovascular System,Part-16,Murmurs - Systolic,What are the auscultatory features of mitral valve prolapse?,"Late crescendo murmur with a mid-systolic click (occurring after the carotid pulse), best heard over the apex."
+Cardiovascular System,Part-16,Murmurs - Systolic,What are the auscultatory features of a VSD?,"Holosystolic, harsh-sounding murmur, loudest at the tricuspid area."
+Cardiovascular System,Part-16,Murmurs - Systolic,What is Still's murmur?,A benign ejection-systolic flow murmur due to increased cardiac output in children (peds).
+Cardiovascular System,Part-16,Murmurs - Systolic,What causes an early systolic murmur of acute MR?,Posteromedial papillary muscle rupture (post-MI) and ischemic heart disease (IHD).
+Cardiovascular System,Part-16,Murmurs - Systolic,What is Carvallo's sign?,Increase in the tricuspid regurgitation (early systolic) murmur on deep inspiration.
+Cardiovascular System,Part-16,Murmurs - Systolic,What causes a loud S1?,"Mitral stenosis, a short/reduced PR (e.g., WPW in a child), and hyperdynamic circulation."
+Cardiovascular System,Part-16,Murmurs - Systolic,What causes a soft S1?,"MR/TR, CHF, calcified valves, and a prolonged PR (first-degree heart block)."
+Cardiovascular System,Part-16,Murmurs - Systolic,"In normal S2 splitting, which component comes first?",A2 precedes P2 (aortic closes before pulmonic).
+Cardiovascular System,Part-16,Murmurs - Systolic,Which murmur is a crescendo-decrescendo ejection murmur radiating to the carotids?,Aortic stenosis.
+Cardiovascular System,Part-16,Murmurs - Systolic,"Which murmur is holosystolic, blowing, loudest at the apex and radiates to the axilla?",Mitral regurgitation.
+Cardiovascular System,Part-16,Murmurs - Systolic,Which murmur has a mid-systolic click best heard at the apex?,Mitral valve prolapse.
+Cardiovascular System,Part-16,Murmurs - Systolic,"Which murmur is holosystolic and harsh, loudest at the tricuspid area?",VSD.
+Cardiovascular System,Part-17,Murmurs - Diastolic,What are the auscultatory features of aortic regurgitation?,"Early diastolic, decrescendo, high-pitched ""blowing"" murmur."
+Cardiovascular System,Part-17,Murmurs - Diastolic,What are the auscultatory features of mitral stenosis?,Follows an opening snap (OS) with a loud S1; a delayed rumbling mid-to-late diastolic murmur with presystolic accentuation.
+Cardiovascular System,Part-17,Murmurs - Diastolic,"In mitral stenosis, when is the presystolic accentuation lost?",In atrial fibrillation (A.Fib).
+Cardiovascular System,Part-17,Murmurs - Diastolic,How does the S2-opening snap (S2-OS) interval relate to mitral stenosis severity?,A shorter interval between S2 and the opening snap correlates with greater (increased) severity.
+Cardiovascular System,Part-17,Murmurs - Continuous,What are the auscultatory features of a PDA?,"A continuous, machine-like murmur, best heard at the left infraclavicular area."
+Cardiovascular System,Part-17,Murmurs - Diastolic,What is the Graham Steell murmur?,An early diastolic murmur of pulmonary regurgitation (PR) occurring in pulmonary arterial hypertension (PAH).
+Cardiovascular System,Part-17,Murmurs - Diastolic,What is the Austin Flint murmur?,"A mid-diastolic, rumbling, low-pitched murmur heard in aortic regurgitation (AR)."
+Cardiovascular System,Part-17,Murmurs - Diastolic,What is the Carey Coombs murmur?,A short mid-diastolic murmur heard in acute rheumatic fever (ARF).
+Cardiovascular System,Part-17,Murmurs - Diastolic,"Which murmur is early diastolic, decrescendo, high-pitched and blowing?",Aortic regurgitation.
+Cardiovascular System,Part-17,Murmurs - Diastolic,Which murmur follows an opening snap with a rumbling diastolic murmur and presystolic accentuation?,Mitral stenosis.
+Cardiovascular System,Part-17,Murmurs - Continuous,A continuous machine-like murmur at the left infraclavicular area is which lesion?,PDA.
+Cardiovascular System,Part-17,Murmurs - Diastolic,Which eponymous murmur is an early diastolic PR murmur in PAH?,Graham Steell murmur.
+Cardiovascular System,Part-17,Murmurs - Diastolic,Which eponymous murmur is a mid-diastolic rumble in AR?,Austin Flint murmur.
+Cardiovascular System,Part-17,Murmurs - Diastolic,Which eponymous murmur is a short mid-diastolic murmur in acute rheumatic fever?,Carey Coombs murmur.
+Cardiovascular System,Part-18,Murmurs - Maneuvers,"Which maneuvers reduce preload, and what is their general effect on murmurs?","Valsalva, standing, and nitroglycerin reduce preload → most murmurs decrease."
+Cardiovascular System,Part-18,Murmurs - Maneuvers,Which murmurs INCREASE with preload-reducing maneuvers (the exceptions)?,HOCM and MVP murmurs increase.
+Cardiovascular System,Part-18,Murmurs - Maneuvers,"Which maneuvers increase preload, and what is their effect on murmurs?","Passive leg raise, squatting, and phenylephrine increase preload → murmurs increase."
+Cardiovascular System,Part-18,Murmurs - Maneuvers,"Which maneuver reduces afterload, and what is its general effect on murmurs?",Amyl nitrite reduces afterload → most murmurs decrease.
+Cardiovascular System,Part-18,Murmurs - Maneuvers,Which murmurs INCREASE with afterload-reducing amyl nitrite (the exceptions)?,HOCM and AS murmurs increase.
+Cardiovascular System,Part-18,Murmurs - Maneuvers,"Which maneuver increases afterload, and what is its effect on murmurs?",Handgrip increases afterload → murmurs increase.
+Cardiovascular System,Part-18,Murmurs - Maneuvers,How does inspiration affect murmurs?,"It increases right-sided murmurs (e.g., tricuspid regurgitation, TR↑)."
+Cardiovascular System,Part-18,Murmurs - Maneuvers,What is the Valsalva maneuver physiologically?,Forceful expiration against a closed glottis — it raises intrathoracic pressure and decreases preload (venous return).
+Cardiovascular System,Part-18,Murmurs - Maneuvers,What hemodynamic changes improve the HOCM murmur/obstruction?,Decreased contractility and increased volume (increased preload).
+Cardiovascular System,Part-18,Murmurs - Maneuvers,What are the drugs of choice for HOCM?,Beta-blockers and non-dihydropyridine calcium channel blockers (CCB non-DHP).
+Cardiovascular System,Part-18,Murmurs - Maneuvers,Which murmurs increase with amyl nitrite (afterload reduction)?,HOCM and AS.
+Cardiovascular System,Part-18,Murmurs - Maneuvers,Which respiratory phase increases right-sided murmurs?,Inspiration.
+Cardiovascular System,Part-19,Pulse Types,What feature is present on a normal arterial pulse waveform?,A dicrotic notch (dn).
+Cardiovascular System,Part-19,Pulse Types,"What is a hypokinetic (weak) pulse also called, and which condition causes it?",Pulsus parvus et tardus; caused by aortic stenosis (AS).
+Cardiovascular System,Part-19,Pulse Types,What causes a hyperkinetic (bounding) pulse?,"High-output states: aortic regurgitation, pregnancy, beri-beri, hyperthyroidism, and AV fistula (AVF)."
+Cardiovascular System,Part-19,Pulse Types,What does a bigeminal pulse indicate?,AV dissociation.
+Cardiovascular System,Part-19,Pulse Types,What does pulsus alternans indicate?,Left ventricular failure (LVF).
+Cardiovascular System,Part-19,Pulse Types,"What is a waterhammer (collapsing) pulse associated with, and what notable feature does it lack?",Aortic regurgitation (AR); the dicrotic notch is absent.
+Cardiovascular System,Part-19,Pulse Types,What conditions produce pulsus bisferiens?,"Mixed AS + AR, and HOCM."
+Cardiovascular System,Part-19,Pulse Types,"Pulsus parvus et tardus (weak, slow-rising pulse) indicates which lesion?",Aortic stenosis.
+Cardiovascular System,Part-19,Pulse Types,A waterhammer/collapsing pulse indicates which lesion?,Aortic regurgitation.
+Cardiovascular System,Part-19,Pulse Types,Pulsus alternans indicates what?,Left ventricular failure.
+Cardiovascular System,Part-19,Pulse Types,Pulsus bisferiens indicates which conditions?,"Mixed AS + AR, or HOCM."
+Cardiovascular System,Part-20,Pressure-Volume Curves,"In the LV pressure-volume loop, what defines phase 1?",Mitral valve closes → isovolumetric contraction.
+Cardiovascular System,Part-20,Pressure-Volume Curves,"In the LV pressure-volume loop, what defines phase 2?",Aortic valve opens → ejection.
+Cardiovascular System,Part-20,Pressure-Volume Curves,"In the LV pressure-volume loop, what defines phase 3?",Aortic valve closes → isovolumetric relaxation.
+Cardiovascular System,Part-20,Pressure-Volume Curves,"In the LV pressure-volume loop, what defines phases 4 & 5?",Mitral valve opens → ventricular filling.
+Cardiovascular System,Part-20,Pressure-Volume Curves,"How does increased contractility affect SV, EF, and ESV?","↑Stroke volume, ↑ejection fraction, ↓end-systolic volume."
+Cardiovascular System,Part-20,Pressure-Volume Curves,"How does increased afterload affect aortic pressure, SV, and ESV?","↑Aortic pressure, ↓stroke volume, ↑end-systolic volume."
+Cardiovascular System,Part-20,Pressure-Volume Curves,"How does increased preload affect stroke volume, and what law governs this?",↑Stroke volume — the Frank-Starling law.
+Cardiovascular System,Part-20,Pressure-Volume Curves,What is the formula for stroke volume?,Stroke volume = EDV - ESV (end-diastolic volume minus end-systolic volume).
+Cardiovascular System,Part-20,Pressure-Volume Curves,What is the formula for ejection fraction (EF)?,EF (%) = [(EDV - ESV) / EDV] × 100.
+Cardiovascular System,Part-20,Pressure-Volume Curves,Which heart sounds correspond to mitral closure and aortic closure on the PV loop?,S1 = mitral valve closure; S2 = aortic valve closure.
+Cardiovascular System,Part-20,Pressure-Volume Curves,How does the PV loop change in mitral regurgitation regarding ESV?,ESV is decreased (↓ESV).
+Cardiovascular System,Part-20,Pressure-Volume Curves,Mitral valve closure on the PV loop marks the start of which phase?,Isovolumetric contraction.
+Cardiovascular System,Part-20,Pressure-Volume Curves,Aortic valve opening on the PV loop marks the start of which phase?,Ejection.
+Cardiovascular System,Part-21,Pressure Curves,What event does the dicrotic notch on the aortic pressure curve represent?,Aortic valve closure.
+Cardiovascular System,Part-21,Pressure Curves,List the phases of the cardiac cycle in order.,Atrial systole → isovolumetric contraction → rapid ejection → reduced ejection → isovolumetric relaxation → rapid ventricular filling → reduced ventricular filling.
+Cardiovascular System,Part-21,Pressure Curves,What is the normal aortic pressure?,120/80 mmHg.
+Cardiovascular System,Part-21,Pressure Curves,What is the normal left ventricular (LV) pressure?,121/0 mmHg.
+Cardiovascular System,Part-21,Pressure Curves,What is the normal right ventricular (RV) pressure?,25/0 mmHg.
+Cardiovascular System,Part-21,Pressure Curves,When is the left coronary artery perfused?,During diastole.
+Cardiovascular System,Part-21,Pressure Curves,When is the right coronary artery perfused?,During both systole and diastole.
+Cardiovascular System,Part-21,Pressure Curves,What pressure relationship characterizes aortic stenosis on the pressure curve?,LV pressure > aortic pressure (a systolic gradient across the valve).
+Cardiovascular System,Part-21,Pressure Curves,What pressure-curve finding characterizes aortic regurgitation?,A large pulse pressure.
+Cardiovascular System,Part-21,Pressure Curves,What pressure relationship characterizes mitral stenosis?,LA pressure > LV pressure (a diastolic gradient).
+Cardiovascular System,Part-21,Pressure Curves,What pressure-curve finding characterizes mitral regurgitation?,A tall V wave (in the left atrial pressure trace).
+Cardiovascular System,Part-21,Pressure Curves,Which coronary artery is perfused only during diastole?,The left coronary artery.
+Cardiovascular System,Part-21,Pressure Curves,Which coronary artery is perfused during both systole and diastole?,The right coronary artery.
+Cardiovascular System,Part-21,Pressure Curves,Fill in: Normal aortic ___/___; LV ___/___; RV ___/___ mmHg.,120/80 ; 121/0 ; 25/0
+Cardiovascular System,Part-22,Wiggers Diagram,What is the order of the heart sounds across the cardiac cycle (Wiggers)?,S4 → S1 → S2 → S3.
+Cardiovascular System,Part-22,Wiggers Diagram,When does S4 occur in the cardiac cycle?,"During atrial systole (with the P wave), just before S1."
+Cardiovascular System,Part-22,Wiggers Diagram,When does S1 occur in the cardiac cycle?,At the QRS — start of ventricular systole (mitral/tricuspid closure).
+Cardiovascular System,Part-22,Wiggers Diagram,When does S2 occur in the cardiac cycle?,"After the T wave — end of systole, coinciding with the dicrotic notch (aortic closure)."
+Cardiovascular System,Part-22,Wiggers Diagram,When does S3 occur in the cardiac cycle?,In early diastole (rapid ventricular filling).
+Cardiovascular System,Part-22,Wiggers Diagram,"What mnemonic links the ECG, JVP waves, dicrotic notch, and heart sounds on the Wiggers diagram?","""P a4 QRS 1 cx T 2dn v 3y"" → P wave with a-wave & S4; QRS with S1, c-wave & x-descent; after T comes S2 & dicrotic notch; then v-wave; S3 with y-descent."
+Cardiovascular System,Part-22,Wiggers Diagram,Which ECG wave does the JVP 'a' wave coincide with?,The P wave (atrial depolarization → atrial contraction).
+Cardiovascular System,Part-22,Wiggers Diagram,Which ECG complex does the JVP 'c' wave coincide with?,The QRS complex.
+Cardiovascular System,Part-23,Function Graphs,"On the Frank-Starling (CO vs preload) curve, what shifts the curve UP?","Exercise, increased myocardial contractility, and positive inotropes (curve shifts up)."
+Cardiovascular System,Part-23,Function Graphs,"On the Frank-Starling curve, what shifts the curve DOWN?",Heart failure (curve shifts down).
+Cardiovascular System,Part-23,Function Graphs,Define mean systemic filling pressure on the venous return curve.,The right atrial pressure (RAP) at which venous return = 0 (the x-intercept).
+Cardiovascular System,Part-23,Function Graphs,What does the intersection of the cardiac and vascular function curves represent?,The operating point of the heart — where cardiac output and venous return are equal (a closed circulatory system).
+Cardiovascular System,Part-23,Function Graphs,Which drugs increase inotropy (shift the cardiac function curve up)?,"Dobutamine, Digoxin, and Milrinone."
+Cardiovascular System,Part-23,Function Graphs,What decreases inotropy (shifts the cardiac function curve down)?,"CHF, beta-blockers, and non-dihydropyridine CCBs."
+Cardiovascular System,Part-23,Function Graphs,How do increased blood volume / venous tone affect the vascular function curve?,"They shift it rightward (raise mean systemic pressure), increasing venous return; decreased volume/venous tone does the opposite."
+Cardiovascular System,Part-23,Function Graphs,What causes decreased total peripheral resistance (TPR) on the function curves?,An arteriovenous fistula (AVF).
+Cardiovascular System,Part-23,Function Graphs,What causes increased total peripheral resistance (TPR)?,Vasoconstriction (VC).
+Cardiovascular System,Part-23,Function Graphs,The RAP at which venous return equals zero is called what?,Mean systemic filling pressure.
+Cardiovascular System,Part-23,Function Graphs,An arteriovenous fistula (AVF) produces what change in TPR?,Decreased TPR.
+Cardiovascular System,Part-24,CVS Physiology Misc,State Marey's (Mary's) law.,Heart rate is inversely proportional to blood pressure (HR ∝ 1/BP).
+Cardiovascular System,Part-24,CVS Physiology Misc,Describe the Bainbridge reflex.,Increased venous return stretches the right atrium → increased heart rate (↑VR → RA stretch → ↑HR).
+Cardiovascular System,Part-24,CVS Physiology Misc,Describe the Bezold-Jarisch reflex and its triggers.,"Causes hypotension and bradycardia (↓BP, ↓HR); triggered by capsaicin, serotonin (5-HT), and veratrum alkaloids."
+Cardiovascular System,Part-24,CVS Physiology Misc,Where are baroreceptors located and what channels do they use?,Stretch receptors in the adventitia; they use TRP channels.
+Cardiovascular System,Part-24,CVS Physiology Misc,What is the most sensitive stimulant of baroreceptors?,"Pulse pressure (SBP - DBP), more than mean arterial pressure (MAP)."
+Cardiovascular System,Part-24,CVS Physiology Misc,What is the formula for mean arterial pressure (MAP)?,MAP = (2/3 × DBP) + (1/3 × SBP).
+Cardiovascular System,Part-24,CVS Physiology Misc,How is postural (orthostatic) hypotension defined?,A drop in SBP > 20 mmHg or DBP > 10 mmHg within 3 minutes of standing.
+Cardiovascular System,Part-24,CVS Physiology Misc,State Fick's principle for cardiac output.,Cardiac output = total O2 consumption / ([O2] pulmonary vein - [O2] pulmonary artery).
+Cardiovascular System,Part-24,CVS Physiology Misc,"In the baroreceptor reflex, where are the sensors and what are their afferent nerves?","Sensors: carotid sinus/bodies and aortic arch; afferents: carotid sinus nerve (glossopharyngeal) from the carotid, and vagus nerve from the aortic arch."
+Cardiovascular System,Part-24,CVS Physiology Misc,What is the control center of the baroreceptor reflex?,"The medulla (nucleus tractus solitarius, NTS)."
+Cardiovascular System,Part-24,CVS Physiology Misc,"In response to raised BP, what efferent autonomic changes occur?",Decreased sympathetic (↓SNS) and increased parasympathetic (↑PNS) output.
+Cardiovascular System,Part-24,CVS Physiology Misc,"In the baroreceptor reflex, which receptors and effectors mediate the response to raised BP?",α1 on vascular smooth muscle → vasodilation; β1 on myocardium → ↓inotropy; M2 on SA node → ↓HR; net ↓SVR and ↓CO → ↓BP.
+Cardiovascular System,Part-24,CVS Physiology Misc,Which reflex causes increased HR when raised venous return stretches the right atrium?,The Bainbridge reflex.
+Cardiovascular System,Part-24,CVS Physiology Misc,"Which reflex causes hypotension + bradycardia, triggered by capsaicin/serotonin/veratrum alkaloids?",The Bezold-Jarisch reflex.
+Cardiovascular System,Part-24,CVS Physiology Misc,Which law states HR is inversely proportional to BP?,Marey's (Mary's) law.
+Cardiovascular System,Part-24,CVS Physiology Misc,Fill in: MAP = ___ × DBP + ___ × SBP.,2/3 ; 1/3
+Cardiovascular System,Part-24,CVS Physiology Misc,Fill in: Postural hypotension = SBP fall > ___ mmHg or DBP fall > ___ mmHg within ___ min of standing.,20 ; 10 ; 3
+Cardiovascular System,Part-25,Cardiomyopathies,What is the investigation of choice (IOC) for cardiomyopathies?,MRI with late gadolinium enhancement (LGE).
+Cardiovascular System,Part-25,Cardiomyopathies,What gene mutation underlies HOCM?,Myosin heavy-chain (β-myosin heavy chain) mutation.
+Cardiovascular System,Part-25,Cardiomyopathies,What is the characteristic histology of HOCM?,"Myocardial disarray (""Helter-Skelter"" arrangement)."
+Cardiovascular System,Part-25,Cardiomyopathies,What is a specific drug treatment for HOCM?,Mavacamten.
+Cardiovascular System,Part-25,Cardiomyopathies,What is the most common cause of death in HOCM?,Sudden cardiac death (SCD) from ventricular fibrillation.
+Cardiovascular System,Part-25,Cardiomyopathies,What is the characteristic gross appearance of dilated cardiomyopathy (DCM)?,"""Ninja star"" appearance."
+Cardiovascular System,Part-25,Cardiomyopathies,What are the causes of dilated cardiomyopathy?,"Alcohol, Doxorubicin, peripartum, and TITIN mutation."
+Cardiovascular System,Part-25,Cardiomyopathies,What type of ventricular dysfunction occurs in dilated cardiomyopathy?,Systolic dysfunction.
+Cardiovascular System,Part-25,Cardiomyopathies,What are the causes of restrictive cardiomyopathy (RCM)?,"Amyloidosis, hemochromatosis, sarcoidosis, fibrosis, and Loeffler's syndrome."
+Cardiovascular System,Part-25,Cardiomyopathies,What is the timing criterion for peripartum cardiomyopathy (PPCM)?,Heart failure in the last month of pregnancy or within ~6 months (5 months) postpartum.
+Cardiovascular System,Part-25,Cardiomyopathies,"Besides timing, what are the diagnostic criteria for PPCM?",Absence of prior heart disease and no determinable cause (plus echo evidence of LV dysfunction).
+Cardiovascular System,Part-25,Cardiomyopathies,What echocardiographic criteria support PPCM?,"LVEF < 45%, LVFS < 30%, and LVEDD < 2.7 cm/m² body surface area (systolic dysfunction)."
+Cardiovascular System,Part-25,Cardiomyopathies,A 'ninja star' gross appearance describes which cardiomyopathy?,Dilated cardiomyopathy (DCM).
+Cardiovascular System,Part-25,Cardiomyopathies,Myocardial disarray ('Helter-Skelter' arrangement) describes which cardiomyopathy?,HOCM.
+Cardiovascular System,Part-25,Cardiomyopathies,"Loeffler's syndrome, hemochromatosis, sarcoidosis, and amyloidosis all cause which cardiomyopathy?",Restrictive cardiomyopathy (RCM).
+Cardiovascular System,Part-25,Cardiomyopathies,"Fill in PPCM echo: LVEF < ___%, LVFS < ___%, LVEDD < ___ cm/m².",45 ; 30 ; 2.7
+Cardiovascular System,Part-26,Rheumatic Fever,What are the characteristic histological findings of rheumatic fever?,"Aschoff bodies containing Anitschkow cells (""caterpillar cells"")."
+Cardiovascular System,Part-26,Rheumatic Fever,What is the immunological mechanism of rheumatic fever?,Type II hypersensitivity via molecular mimicry following group A beta-hemolytic streptococcus (GABHS) infection.
+Cardiovascular System,Part-26,Rheumatic Fever,List the JONES major criteria for rheumatic fever.,"J-Joint involvement (migratory polyarthritis); O-carditis (""O looks like a heart""); N-subcutaneous Nodules; E-Erythema marginatum; S-Sydenham chorea."
+Cardiovascular System,Part-26,Rheumatic Fever,"Which JONES major criterion is the most common, and which is transient?",Joint involvement (migratory polyarthritis) is most common; erythema marginatum is transient.
+Cardiovascular System,Part-26,Rheumatic Fever,List the minor criteria for rheumatic fever.,"Increased CRP, Arthralgia, Fever, Elevated ESR, Prolonged PR interval, Anamnesis of rheumatism, and Leukocytosis."
+Cardiovascular System,Part-26,Rheumatic Fever,What is required to diagnose rheumatic fever?,"Evidence of streptococcal infection (throat culture growing GABHS OR elevated anti-streptolysin O titers) PLUS either 2 major criteria, OR 1 major + 2 minor criteria."
+Cardiovascular System,Part-26,Rheumatic Fever,What is the drug of choice for Sydenham chorea?,Haloperidol.
+Cardiovascular System,Part-26,Rheumatic Fever,"What is the prophylactic drug, dose, and frequency for rheumatic fever?","IM Benzathine Penicillin 0.6-1.2 million units (MU), every 3-4 weeks."
+Cardiovascular System,Part-26,Rheumatic Fever,RF prophylaxis duration: without carditis?,"5 years, or until 21 years of age (whichever is longer)."
+Cardiovascular System,Part-26,Rheumatic Fever,RF prophylaxis duration: with carditis but NO residual heart disease?,"10 years, or until 21 years of age (whichever is longer)."
+Cardiovascular System,Part-26,Rheumatic Fever,RF prophylaxis duration: with carditis AND residual heart disease?,"10 years, or until 40 years of age (whichever is longer)."
+Cardiovascular System,Part-26,Atherosclerosis,Compare a vulnerable plaque with a stable plaque.,Vulnerable plaque: thin fibrous cap with a large lipid core; stable plaque: thick fibrous cap with a small lipid core.
+Cardiovascular System,Part-26,IE Prophylaxis,What antibiotic is given for infective endocarditis prophylaxis before high-risk dental procedures?,"Amoxicillin, stat dose."
+Cardiovascular System,Part-26,IE Prophylaxis,List the indications for endocarditis prophylaxis before high-risk dental procedures.,1) Prosthetic heart valve; 2) prior endocarditis; 3) unrepaired congenital heart disease; 4) completely repaired CHD (<6 months); 5) incompletely repaired CHD; 6) valvulopathy after cardiac transplant.
+Cardiovascular System,Part-26,IE Prophylaxis,Is an ASD an indication for IE prophylaxis before dental procedures?,No — ASD is not an indication.
+Cardiovascular System,Part-26,Rheumatic Fever,Aschoff bodies and Anitschkow cells are pathognomonic of which condition?,Rheumatic fever.
+Cardiovascular System,Part-26,Rheumatic Fever,"In the JONES criteria, which letter stands for carditis?","'O' (""O looks like a heart"" = myocarditis/carditis)."
+Cardiovascular System,Part-26,Rheumatic Fever,JONES criteria: what is the 'J'?,Joint involvement (migratory polyarthritis).
+Cardiovascular System,Part-26,Rheumatic Fever,JONES criteria: what is the 'N'?,Subcutaneous nodules.
+Cardiovascular System,Part-26,Rheumatic Fever,JONES criteria: what is the 'E'?,Erythema marginatum.
+Cardiovascular System,Part-26,Rheumatic Fever,JONES criteria: what is the 'S'?,Sydenham chorea.
+Cardiovascular System,Part-26,Rheumatic Fever,RF minor criteria: which inflammatory blood markers are included?,Increased CRP and elevated ESR.
+Cardiovascular System,Part-26,Rheumatic Fever,RF minor criteria: which ECG finding is included?,Prolonged PR interval.
+Cardiovascular System,Part-26,Rheumatic Fever,RF minor criteria: which clinical/symptom items are included?,"Fever, arthralgia, and anamnesis (history) of rheumatism."
+Cardiovascular System,Part-26,Rheumatic Fever,RF minor criteria: which blood count finding is included?,Leukocytosis.
+Cardiovascular System,Part-26,Rheumatic Fever,Fill in: RF prophylaxis = IM Benzathine Penicillin ___ to ___ MU every ___ to ___ weeks.,0.6 to 1.2 ; 3 to 4
+Cardiovascular System,Part-26,Rheumatic Fever,Fill in: RF without carditis → prophylaxis ___ years or until age ___.,5 ; 21
+Cardiovascular System,Part-26,Rheumatic Fever,Fill in: RF + carditis + residual heart disease → prophylaxis ___ years or until age ___.,10 ; 40
+Cardiovascular System,Part-27,Pharm Drug Classes,What is the mechanism and characteristic side effect of Ivabradine?,Blocks the funny current (I_f); side effect: luminous phenomena (phosphenes/visual brightness).
+Cardiovascular System,Part-27,Pharm Drug Classes,What is the mechanism and side effect of Nicorandil?,Potassium channel opener; side effect: aphthous (mouth) ulcers.
+Cardiovascular System,Part-27,Pharm Drug Classes,Name a Rho kinase inhibitor.,Fasudil.
+Cardiovascular System,Part-27,Pharm Drug Classes,Name the combined neprilysin + ACE inhibitor and its key side effect.,Omapatrilat; side effect: cough/angioedema (high/refractory angioedema risk).
+Cardiovascular System,Part-27,Pharm Drug Classes,Name the neprilysin inhibitor used in heart failure.,Sacubitril.
+Cardiovascular System,Part-27,Pharm Drug Classes,Name the metabolic modulator (pFOX inhibitor) and its side effect.,Trimetazidine; side effect: aggravation of movement disorders (parkinsonism).
+Cardiovascular System,Part-27,Pharm Drug Classes,"Which drug is a metabolic modulator plus late inward sodium current blocker, and what mortality effect does it have?",Ranolazine; it reduces mortality (↓mortality).
+Cardiovascular System,Part-27,Pharm Drug Classes,Name the direct guanylate cyclase activator.,Vericiguat.
+Cardiovascular System,Part-27,Pharm Drug Classes,Name the calcium sensitizers.,Pimobendan and Levosimendan.
+Cardiovascular System,Part-27,Pharm Drug Classes,Name the direct myosin activator.,Omecamtiv.
+Cardiovascular System,Part-27,Pharm Drug Classes,What is the mechanism and main side effects of statins?,HMG-CoA reductase inhibitors; side effects: hepatotoxicity and myopathy (via CoQ10 depletion).
+Cardiovascular System,Part-27,Pharm Drug Classes,What is the mechanism and side effect of ezetimibe?,Inhibits intestinal cholesterol absorption; side effect: diarrhea.
+Cardiovascular System,Part-27,Pharm Drug Classes,What is the mechanism and side effects of fibrates?,PPAR-alpha agonists; side effects: myopathy and gallstones (inhibit 7-alpha-hydroxylase).
+Cardiovascular System,Part-27,Pharm Drug Classes,"What is the mechanism, lipid effect, and side effects of niacin?","Inhibits hormone-sensitive lipase (HSL); raises HDL; side effects: hyperuricemia, diabetes (hyperglycemia), prostaglandin-mediated flushing, and cystoid macular edema."
+Cardiovascular System,Part-27,Pharm Drug Classes,Name the PCSK9 inhibitors and their effect.,Alirocumab and Evolocumab; they increase LDL receptors.
+Cardiovascular System,Part-27,Pharm Drug Classes,What does Evinacumab target?,ANGPTL3 (angiopoietin-like protein 3).
+Cardiovascular System,Part-27,Pharm Drug Classes,Which drug classes reduce mortality in CHF?,"MRAs, beta-blockers, SGLT2 inhibitors, and ARNi (ARB + neprilysin inhibitor)."
+Cardiovascular System,Part-27,Pharm Drug Classes,Which beta-blockers are used to reduce mortality in CHF?,"Bisoprolol, Metoprolol, and Carvedilol."
+Cardiovascular System,Part-27,Pharm Drug Classes,Describe NYHA Class I heart failure.,"No limitation of physical activity; ordinary activity does not cause undue fatigue, palpitation, or dyspnoea."
+Cardiovascular System,Part-27,Pharm Drug Classes,Describe NYHA Class II heart failure.,"Slight limitation; comfortable at rest, but ordinary physical activity causes fatigue, palpitation, or dyspnoea."
+Cardiovascular System,Part-27,Pharm Drug Classes,Describe NYHA Class III heart failure.,"Marked limitation; comfortable at rest, but less than ordinary activity causes fatigue, palpitation, or dyspnoea."
+Cardiovascular System,Part-27,Pharm Drug Classes,Describe NYHA Class IV heart failure.,"Unable to carry out any physical activity without discomfort; symptoms present at rest, worsening with any activity."
+Cardiovascular System,Part-27,Pharm Drug Classes,Which drug causes luminous phenomena (phosphenes) as a side effect?,Ivabradine.
+Cardiovascular System,Part-27,Pharm Drug Classes,Which drug causes aphthous ulcers as a side effect?,Nicorandil.
+Cardiovascular System,Part-27,Pharm Drug Classes,Fasudil belongs to which drug class?,Rho kinase inhibitor.
+Cardiovascular System,Part-27,Pharm Drug Classes,Sacubitril belongs to which drug class?,Neprilysin inhibitor.
+Cardiovascular System,Part-27,Pharm Drug Classes,Omapatrilat belongs to which drug class?,Combined neprilysin + ACE inhibitor.
+Cardiovascular System,Part-27,Pharm Drug Classes,Trimetazidine belongs to which drug class?,Metabolic modulator (pFOX inhibitor).
+Cardiovascular System,Part-27,Pharm Drug Classes,Ranolazine belongs to which drug class?,Metabolic modulator + late inward sodium current blocker.
+Cardiovascular System,Part-27,Pharm Drug Classes,Vericiguat belongs to which drug class?,Direct guanylate cyclase activator.
+Cardiovascular System,Part-27,Pharm Drug Classes,Omecamtiv belongs to which drug class?,Direct myosin activator.
+Cardiovascular System,Part-27,Pharm Drug Classes,Pimobendan and Levosimendan belong to which drug class?,Calcium sensitizers.
+Cardiovascular System,Part-27,Pharm Drug Classes,Which lipid drug class is a PPAR-alpha agonist?,Fibrates.
+Cardiovascular System,Part-27,Pharm Drug Classes,Which lipid drug inhibits intestinal cholesterol absorption?,Ezetimibe.
+Cardiovascular System,Part-27,Pharm Drug Classes,Which lipid drug inhibits HSL and raises HDL?,Niacin.
+Cardiovascular System,Part-28,Pharm Individual Drugs,Name the non-DHP calcium channel blockers and their main site of action.,Diltiazem and Verapamil; act mainly on the heart (decrease AV node conduction).
+Cardiovascular System,Part-28,Pharm Individual Drugs,Name the DHP calcium channel blockers and their main site of action.,"Amlodipine, nifedipine, nimodipine; act mainly on vascular smooth muscle."
+Cardiovascular System,Part-28,Pharm Individual Drugs,What are the side effects of DHP calcium channel blockers?,Reflex tachycardia and flushing.
+Cardiovascular System,Part-28,Pharm Individual Drugs,What are the side effects of non-DHP calcium channel blockers?,"AV block, constipation, and pedal edema."
+Cardiovascular System,Part-28,Pharm Individual Drugs,What is the special use of nimodipine?,Preventing vasospasm in subarachnoid hemorrhage (SAH).
+Cardiovascular System,Part-28,Pharm Individual Drugs,What type of vasodilator is hydralazine?,An arteriolar (dilator) vasodilator.
+Cardiovascular System,Part-28,Pharm Individual Drugs,What type of vasodilators are nitroprusside and nitrates?,Venodilators.
+Cardiovascular System,Part-28,Pharm Individual Drugs,What are the toxic effects of nitroprusside?,Cyanide toxicity and methemoglobinemia.
+Cardiovascular System,Part-28,Pharm Individual Drugs,What are the cardiac actions of digoxin?,"Increased inotropy, AV node block, and prolonged PR interval (↑PR)."
+Cardiovascular System,Part-28,Pharm Individual Drugs,What are the side effects of digoxin?,"Hyperkalemia, cholinergic effects, yellow vision (xanthopsia), and ventricular bigeminy (most common arrhythmia)."
+Cardiovascular System,Part-28,Pharm Individual Drugs,Describe digoxin's molecular mechanism.,Inhibits Na+/K+-ATPase → raised intracellular Na+ → Na+/Ca2+ exchanger pushes in Ca2+ → ↑SR Ca2+ → ↑TnC Ca2+ binding → ↑cardiac contraction.
+Cardiovascular System,Part-28,Pharm Individual Drugs,Name the ACE inhibitors listed.,"Captopril, Lisinopril, Enalapril."
+Cardiovascular System,Part-28,Pharm Individual Drugs,What are the side effects of ACE inhibitors?,"Hyperkalemia, cough, and angioedema."
+Cardiovascular System,Part-28,Pharm Individual Drugs,Name the ARBs listed.,"Losartan, Valsartan."
+Cardiovascular System,Part-28,Pharm Individual Drugs,Which ARB is a PPAR-gamma agonist?,Telmisartan.
+Cardiovascular System,Part-28,Pharm Individual Drugs,"Which ARB increases uric acid excretion, and what additional effects do ARBs have?",Losartan increases uric acid excretion; ARBs also reduce insulin resistance and inhibit TxA2.
+Cardiovascular System,Part-28,Pharm Individual Drugs,What are the specific side effects of verapamil?,Gingival hyperplasia and hyperprolactinemia (via dopamine D2 blockade).
+Cardiovascular System,Part-28,Pharm Individual Drugs,"Why does verapamil interact with phenytoin, clarithromycin, and cyclosporin?","Verapamil affects the ATP-binding cassette (P-glycoprotein) transport, raising their levels."
+Cardiovascular System,Part-28,Pharm Individual Drugs,What is clonidine's mechanism and a key adverse effect?,Central alpha-2 agonist (presynaptic 'brakes' on sympathetic outflow); causes rebound hypertension on withdrawal.
+Cardiovascular System,Part-28,Pharm Individual Drugs,List the drugs that can cause hyperkalemia (↑K+).,"K-sparing diuretics, ACE inhibitors/ARBs, beta-blockers, calcineurin inhibitors, digoxin, pentamidine, NSAIDs, succinylcholine (Sch), heparin, and trimethoprim."
+Cardiovascular System,Part-28,Pharm Individual Drugs,What does Saroglitazar target?,PPAR alpha + gamma (used in NASH).
+Cardiovascular System,Part-28,Pharm Individual Drugs,What does Lanifibranor target?,"Pan-PPAR (alpha, beta, gamma) — used in NASH."
+Cardiovascular System,Part-28,Pharm Individual Drugs,Which cardiac drug classically causes yellow vision?,Digoxin.
+Cardiovascular System,Part-28,Pharm Individual Drugs,Which vasodilator causes cyanide toxicity and methemoglobinemia?,Nitroprusside.
+Cardiovascular System,Part-28,Pharm Individual Drugs,Which drug in these notes causes gingival hyperplasia?,Verapamil.
+Cardiovascular System,Part-28,Pharm Individual Drugs,"Which CCB subtype causes AV block, constipation, and pedal edema?","Non-DHP CCBs (verapamil, diltiazem)."
+Cardiovascular System,Part-28,Pharm Individual Drugs,Which CCB subtype causes reflex tachycardia and flushing?,DHP CCBs.
+Cardiovascular System,Part-29,Hypertension,"Per ISH office BP, what defines Normal BP?",Systolic < 130 mmHg AND diastolic < 85 mmHg.
+Cardiovascular System,Part-29,Hypertension,"Per ISH office BP, what defines High-Normal BP?",Systolic 130-139 and/or diastolic 85-89 mmHg.
+Cardiovascular System,Part-29,Hypertension,"Per ISH office BP, what defines Grade 1 Hypertension?",Systolic 140-159 and/or diastolic 90-99 mmHg.
+Cardiovascular System,Part-29,Hypertension,"Per ISH office BP, what defines Grade 2 Hypertension?",Systolic ≥ 160 and/or diastolic ≥ 100 mmHg.
+Cardiovascular System,Part-29,Hypertension,How is hypertension managed when HMOD (hypertension-mediated organ damage) is present?,Lifestyle modification PLUS drugs.
+Cardiovascular System,Part-29,Hypertension,How is hypertension managed when there is NO HMOD?,Lifestyle modification (drug therapy depends on grade/threshold).
+Cardiovascular System,Part-29,Hypertension,What is the preferred antihypertensive drug class for patients under 60 years?,ACE inhibitors / ARBs.
+Cardiovascular System,Part-29,Hypertension,What is the preferred antihypertensive drug class for patients over 60 years?,Diuretics / CCBs.
+Cardiovascular System,Part-29,Hypertension,Define hypertensive emergency and its treatment approach.,"Severely elevated BP WITH acute hypertension-mediated organ damage (HMOD); requires immediate BP lowering, usually with IV therapy."
+Cardiovascular System,Part-29,Hypertension,Define hypertensive urgency and its treatment approach.,Severely elevated BP WITHOUT acute HMOD; can be managed with oral antihypertensive agents.
+Cardiovascular System,Part-29,Hypertension,"Which IV drugs are used for hypertensive emergency with encephalopathy, stroke, or malignant HTN?",Labetalol or Nicardipine.
+Cardiovascular System,Part-29,Hypertension,Which IV drugs are used for hypertensive emergency with CHF / acute cardiogenic pulmonary edema?,Nitroglycerine or Nitroprusside.
+Cardiovascular System,Part-29,Hypertension,BP ≥160 and/or ≥100 mmHg corresponds to which grade?,Grade 2 hypertension.
+Cardiovascular System,Part-29,Hypertension,BP 140-159 and/or 90-99 mmHg corresponds to which grade?,Grade 1 hypertension.
+Cardiovascular System,Part-29,Hypertension,Severely elevated BP WITH acute HMOD is called what?,Hypertensive emergency.
+Cardiovascular System,Part-29,Hypertension,Severely elevated BP WITHOUT acute HMOD is called what?,Hypertensive urgency.
+Cardiovascular System,Part-29,Hypertension,Fill in: Grade 1 HTN = ___-___ / ___-___ ; Grade 2 = ≥___ / ≥___ mmHg.,140-159 / 90-99 ; 160 / 100
