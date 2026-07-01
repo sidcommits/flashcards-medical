@@ -1,0 +1,284 @@
+subject,deck,topic,front,back
+Radiology,Part-1,General Radiology - Basics,"On an X-ray, what does black versus white indicate?",Black = lucent; White = opaque.
+Radiology,Part-1,General Radiology - Basics,"On CT, MRI and USG, what do black versus white indicate?",Black = hypo (hypodense/hypointense/hypoechoic); White = hyper (hyperdense/hyperintense/hyperechoic).
+Radiology,Part-1,Hounsfield Units,Hounsfield value of air on CT?,-1000 HU
+Radiology,Part-1,Hounsfield Units,Hounsfield value of fat on CT?,-10 to -100 HU
+Radiology,Part-1,Hounsfield Units,Hounsfield value of distilled water / a cyst on CT?,0 HU
+Radiology,Part-1,Hounsfield Units,Hounsfield value of soft tissue on CT?,20-30 HU
+Radiology,Part-1,Hounsfield Units,Hounsfield value of acute hemorrhage on CT?,60-90 HU
+Radiology,Part-1,Hounsfield Units,Hounsfield value of iodinated contrast on CT?,100-300 HU
+Radiology,Part-1,Hounsfield Units,Hounsfield value of bone (Ca2+) on CT?,1000 HU
+Radiology,Part-1,X-ray vs CT,Does X-ray use ionising radiation?,Yes - X-ray uses ionising radiation.
+Radiology,Part-1,X-ray vs CT,"On a plain X-ray, how do air and bone appear?",Air = black; Bone = white.
+Radiology,Part-1,X-ray vs CT,"A chest X-ray is taken in which view, and why not the usual AP view?",Taken in PA view - so that the heart does not look enlarged (to reduce apparent cardiomegaly). (All other X-rays are usually taken AP.)
+Radiology,Part-1,X-ray vs CT,"On a chest X-ray, how do the lungs differ between inspiratory and expiratory views?",Lungs are larger in the inspiratory view; the expiratory view is taken in the erect position. (Area of focus is the lungs.)
+Radiology,Part-1,X-ray vs CT,"On NCCT, how do bone and air appear?",Bone = white; Air = black.
+Radiology,Part-1,X-ray vs CT,What does CECT use and what is its purpose?,Uses iodinated contrast - to compare vessel with muscle.
+Radiology,Part-1,X-ray vs CT,What are the uses of HRCT?,"Lung parenchyma (pneumonia, Covid-19, bronchiectasis, ILD); and PNS / temporal bone."
+Radiology,Part-1,CT - Hyperdense Lesions,"On CT, what do black, white and contrast represent?",Black = hypodense; White = hyperdense; Contrast = iodinated (hyperdense).
+Radiology,Part-1,CT - Hyperdense Lesions,State the relationship of CT pitch to image quality and dose.,Pitch is proportional to 1/quality and to 1/dose (Pitch ∝ 1/quality ∝ 1/dose).
+Radiology,Part-1,CT - Hyperdense Lesions,How does calcification appear on CT and what is its IOC?,Hyperdense; IOC = intracranial calcification.
+Radiology,Part-1,CT - Hyperdense Lesions,How do calculi appear on CT - and which calculus is the exception?,"Calculi are hyperdense, EXCEPT gallstones (IOC = USG) - because gallstones are made of cholesterol and are not radiopaque."
+Radiology,Part-1,CT - Hyperdense Lesions,"How does bone cortex/fracture appear on CT, and which fracture is the exception?","Hyperdense; fracture IOC = CT, EXCEPT stress fracture (IOC = MRI) - which has no cortical discontinuity, only bone marrow edema."
+Radiology,Part-1,CT - Hyperdense Lesions,"How does acute hemorrhage appear on CT, and what are its imaging roles?",Hyperdense; IOC for head trauma; initial investigation in stroke.
+Radiology,Part-1,CT - Hyperdense Lesions,How does a metallic foreign body appear on CT and what artifact does it cause?,Hyperdense; causes a streak artifact due to metal (whiter than the bone).
+Radiology,Part-1,CT - Hyperdense Lesions,Causes of intracranial calcification: periventricular vs parenchymal?,Periventricular = CMV; Parenchymal = Toxoplasmosis.
+Radiology,Part-1,CT - Hyperdense Lesions,Where is calcification seen in congenital Zika virus infection?,At the grey-white matter junction.
+Radiology,Part-1,CT - Hyperdense Lesions,What is the IOC for osteoid osteoma?,NCCT.
+Radiology,Part-1,Approach to Foreign Body,"On X-ray, how does an esophageal foreign body (e.g. coin) orient compared with a tracheal one?",Esophageal FB faces en face / coronal (round/coin-on view); tracheal FB lies sagittal (seen on its side/edge-on).
+Radiology,Part-1,Approach to Foreign Body,What X-ray sign indicates a button battery lodged in the esophagus?,Double ring / halo sign.
+Radiology,Part-1,Approach to Foreign Body,"For a foreign body: initial investigation, IOC, and contraindicated modality?",Initial investigation = X-ray; IOC = CT; Contraindicated = MRI.
+Radiology,Part-1,MRI - Principles,"Key features of MRI (resolution, bone cortex, radiation, basis)?",Best resolution; bone cortex appears black; no radiation; uses nuclear magnetic resonance.
+Radiology,Part-1,MRI - Principles,"Briefly, how does MRI form an image from H+ ions?","H+ ions spin on their own axis generating magnetic energy, but have no net magnetic vector (all in opposite directions). MRI aligns these fields in one direction; when the field is removed they resonate with the outer magnetic field, forming the image."
+Radiology,Part-1,MRI - Principles,What is the unit of magnetic field strength in MRI?,Tesla.
+Radiology,Part-1,MRI - Principles,MRI is based on which property of protons?,Gyromagnetic property of protons.
+Radiology,Part-1,MRI - Principles,What field strength is routinely used in MRI?,1.5 Tesla.
+Radiology,Part-1,MRI - Principles,What is the copper shielding of an MRI room called?,Faraday cage (continuous sheet or wire mesh of copper).
+Radiology,Part-1,MRI Sequences - T1/T2/FLAIR/STIR,"On T1W MRI, how do grey matter, white matter, CSF and scalp fat appear?",Grey matter = grey (darker); White matter = white; CSF = black; Scalp fat = white.
+Radiology,Part-1,MRI Sequences - T1/T2/FLAIR/STIR,"On T2W MRI, how do CSF, grey matter and scalp fat appear?",CSF = white; Grey matter = white; Scalp fat = white.
+Radiology,Part-1,MRI Sequences - T1/T2/FLAIR/STIR,What does FLAIR stand for and how do grey/white matter and CSF appear?,Fluid Attenuated Inversion Recovery. White matter = grey; Grey matter = white; it is a T2W image but CSF is made black.
+Radiology,Part-1,MRI Sequences - T1/T2/FLAIR/STIR,Why is CSF made black on FLAIR?,"Edema in the brain is bright (white); in Multiple Sclerosis these lesions would merge with the bright CSF ventricles and be missed, so CSF is suppressed (made black)."
+Radiology,Part-1,MRI Sequences - T1/T2/FLAIR/STIR,What does STIR stand for and what is its principle?,"Short Tau Inversion Recovery; it is a T2 sequence with fat suppression. On T2 both bone marrow edema and fat are hyperintense, so fat is suppressed - only edema stays white."
+Radiology,Part-1,MRI Sequences - T1/T2/FLAIR/STIR,STIR is the best Ix for which conditions?,"Bone marrow edema, stress fracture, osteomyelitis, sacroiliitis."
+Radiology,Part-1,MRI Sequences - SWI/DWI/DTI,What does SWI stand for and what is it the IOC for?,Susceptibility Weighted Imaging; IOC for DAI (diffuse axonal injury).
+Radiology,Part-1,MRI Sequences - SWI/DWI/DTI,What does DWI stand for and what are its features?,"Diffusion Weighted Imaging; no fat, no bone, only brain is seen; most sensitive Ix to pick up stroke/ischemia; restricted diffusion appears hyperintense."
+Radiology,Part-1,MRI Sequences - SWI/DWI/DTI,What does DTI stand for and how is it color coded by direction?,"Diffusion Tensor Imaging; color coded by direction - A-P = green, R-L = red, S-I = blue. Used to see a tumor disrupting white matter."
+Radiology,Part-1,Thumb Rules - MRI,"IOC for tumors of CNS, spine and nerves - and the exception?","IOC = MRI; except during an emergency, when IOC = NCCT."
+Radiology,Part-1,Thumb Rules - MRI,"Which sequence is used for bone marrow edema, and in what conditions?","STIR sequence - for stress fracture, sacroiliitis, acute osteomyelitis."
+Radiology,Part-1,Thumb Rules - MRI,"Preferred modality for ligaments, cartilage and soft tissue - and is a breast implant a contraindication?",MRI; a breast implant is NOT a contraindication to MRI.
+Radiology,Part-1,Thumb Rules - MRI,"In Pancoast tumor, why is MRI the IOC (vs other lung tumors)?","Because the brachial plexus is affected, so IOC = MRI. For other lung tumors, IOC = CT."
+Radiology,Part-1,Thumb Rules - MRI,What is time-of-flight angiography and when is it useful?,"A non-invasive, non-contrasted enhanced MR-angiography; useful in patients with renal failure where contrast is contraindicated."
+Radiology,Part-1,Thumb Rules - MRI,When is cardiac CT performed in the cardiac cycle and how?,"In mid-diastole, assisted by synchronous ECG gating - because the least cardiac motion occurs during diastole."
+Radiology,Part-1,Thumb Rules - MRI,What is cardiac CT used for in CAD?,Calcium scoring - denotes the degree of atherosclerosis and helps determine prognosis.
+Radiology,Part-1,Thumb Rules - MRI,Difference between MDCT (multi-slice/multi-detector CT) and spiral CT per rotation?,MDCT takes multiple sections in 1 rotation; spiral CT takes only one section in 1 rotation.
+Radiology,Part-1,USG - Principles,"What frequency range does USG use, and two general advantages?",2-20 MHz; no radiation and readily available.
+Radiology,Part-1,USG - Principles,What is the USG transducer made of and on what principle does it work?,Lead zirconate; works on piezoelectric current.
+Radiology,Part-1,USG - Principles,Relationship between USG frequency and depth of penetration?,Frequency is inversely proportional to depth (frequency ∝ 1/depth).
+Radiology,Part-1,USG - Principles,Describe posterior acoustic shadowing and what produces it.,"A stone is hyperechoic - it absorbs and refracts the waves passing through it, so it looks white. It is seen with gall stones, bones and air = 'dirty shadowing'. [Note as written: the source also labels the area behind the stone 'hyperechoic' - flagged as likely a slip, since shadowing classically casts a dark/anechoic shadow behind.]"
+Radiology,Part-1,USG - Principles,Describe posterior acoustic enhancement.,"A fluid-filled mass (cyst) lets all sound waves pass, so it is anechoic; the area behind it appears hyperechoic."
+Radiology,Part-1,USG - Principles,"What is the most sensitive IOC for free fluid, and give examples of such fluid?","USG; e.g. cyst, ascites, pleural effusion, pericardial effusion."
+Radiology,Part-1,USG Modes and Doppler,"What do USG A-mode, B-mode and M-mode each measure?",A-mode = amplitude; B-mode = brightness (most commonly used); M-mode = motion.
+Radiology,Part-1,USG Modes and Doppler,What are the uses of M-mode USG?,Fetal heart rate (FHR) and pneumothorax.
+Radiology,Part-1,USG Modes and Doppler,"On color Doppler, what do red and blue indicate, and what is this called?",Red = blood flowing towards the probe; Blue = blood flowing away from the probe; this is Duplex USG.
+Radiology,Part-1,USG Modes and Doppler,What does spectral Doppler show and what is it called?,Velocity of blood over time; called Triplex USG.
+Radiology,Part-1,Doppler Waveforms,"What determines the Doppler waveform, and what produces its three waves?",It depends on velocity: velocity rises in systole (wave 1) and falls in diastole (wave 2); elastic vessels in the extremities show the Windkessel effect (wave 3).
+Radiology,Part-1,Doppler Waveforms,Where is a triphasic Doppler waveform seen?,In extremity arteries and arterioles.
+Radiology,Part-1,Doppler Waveforms,Where is a biphasic Doppler waveform seen?,In visceral arteries.
+Radiology,Part-1,Doppler Waveforms,Where is a monophasic Doppler waveform seen and what are its features?,In veins (blood returns in one direction; pulsation varies with HR and respiration) and in stenosed arteries (no change between systole and diastole); there is no flow in complete occlusion.
+Radiology,Part-1,Thumb Rules - USG,"IOC for gallbladder pathology (gallstones, polyp, cholecystitis, any GB pathology)?",USG.
+Radiology,Part-1,Thumb Rules - USG,"IOC for fluid/cyst (ascites, pleural effusion, pericardial effusion)?",USG.
+Radiology,Part-1,Thumb Rules - USG,Preferred modality for pregnancy problem-solving / complex fetal imaging?,MRI.
+Radiology,Part-1,Thumb Rules - USG,IOC for DVT and varicose veins?,Doppler.
+Radiology,Part-1,Thumb Rules - USG,"For arterial diseases: initial investigation, IOC and gold standard?",Initial = USG Doppler; IOC = CT angiography; Gold standard = DSA.
+Radiology,Part-1,Thumb Rules - USG,What is the Mickey Mouse sign on USG?,"The great saphenous vein entering the common femoral vein at the saphenofemoral junction (SFJ) - the three structures (CFA, CFV, GSV) form the Mickey Mouse appearance."
+Radiology,Part-1,PYQ - Contrast Agents,"Which contrast agent is safe in a patient with renal failure, and why?","USG contrast agent ('Sonovue', given IV) - safe in renal failure because it has pulmonary excretion."
+Radiology,Part-1,PYQ - Contrast Agents,"What is the MRI contrast agent, its route, and its main complication?","Gadolinium, IV route; complication = NSF (nephrogenic systemic fibrosis)."
+Radiology,Part-1,PYQ - Contrast Agents,"What is the complication of iodinated (X-ray/CT) contrast, and how is it defined and prevented?",Contrast-induced nephropathy - a rise in serum creatinine by 0.5 mg in 48 hours; prevention by hydration.
+Radiology,Part-1,PYQ - Contrast Agents,What must be ruled out before giving barium (oral/enema)?,"Perforation, obstruction, post-op status, and TEF (tracheo-esophageal fistula)."
+Radiology,Part-1,PYQ - Contrast Agents,"In the RCM classification of contrast osmolality, which type has the highest and which the lowest osmolality?",Ionic (monomer/dimer) vs non-ionic (monomer/dimer): ionic monomer = highest osmolality; non-ionic dimer = lowest osmolality.
+Radiology,Part-1,PYQ - Contrast Agents,Which allergy should be ruled out before giving contrast?,Sulfa allergy.
+Radiology,Part-1,PYQ - Radiation Doses & Facts,"Which statement is correct: HU of water, CT X-ray filtering, CT dose, or CT for gallstones?",The HU of water is zero (the correct statement).
+Radiology,Part-1,PYQ - Radiation Doses & Facts,Radiation dose of a chest X-ray (CXR)?,0.02 mSv.
+Radiology,Part-1,PYQ - Radiation Doses & Facts,Radiation dose of a CT head?,2 mSv.
+Radiology,Part-1,PYQ - Radiation Doses & Facts,Radiation dose of a CT thorax?,5 mSv.
+Radiology,Part-1,PYQ - Radiation Doses & Facts,Radiation dose of a CT abdomen?,5 mSv.
+Radiology,Part-1,PYQ - Radiation Doses & Facts,Radiation dose of a PET-CT?,25 mSv.
+Radiology,Part-1,PYQ - Image Identification,A 28-year-old woman with severe headache is scheduled for CT - what must you definitely ask before the scan?,LMP (last menstrual period) - to rule out pregnancy before radiation exposure.
+Radiology,Part-1,PYQ - Image Identification,"An imaging study of the thyroid (showing trachea, CCA, thyroid lobes) - which modality is it?",USG.
+Radiology,Part-1,PYQ - Image Identification,An MRI of the brain showing multiple dark microhemorrhages - which sequence is it?,SWI (susceptibility weighted imaging).
+Radiology,Part-1,PYQ - Image Identification,"On a CXR, a structure on the right marked between the 3rd intercostal level - identified as which rib?",Right 4th posterior rib.
+Radiology,Part-2,Barium Studies,What percentage barium sulphate is used in a barium meal follow-through?,50% barium sulphate.
+Radiology,Part-2,Barium Studies,"On a barium study, how do the duodenum, jejunum and ileum appear?","Duodenum = smooth; Jejunum = valvulae conniventes (valves of Kerckring, feathery); Ileum = featureless."
+Radiology,Part-2,Barium Studies,Where is the tube placed in barium enteroclysis?,In the duodenum (advanced till the DJ flexure).
+Radiology,Part-2,Barium Studies,"What does a barium enema demonstrate, and what concentration/technique is used?",Demonstrates haustrations; uses double contrast with 25% barium sulphate.
+Radiology,Part-2,Achalasia Cardia,Key features of achalasia cardia on barium and its IOC?,Smooth tapering; LES not relaxing; it is a motility disorder; IOC = manometry; shows the bird beak sign.
+Radiology,Part-2,Achalasia Cardia,"On the Chicago classification, what defines achalasia cardia, DES and Jackhammer/Nutcracker esophagus?",Achalasia cardia = raised IRP + absent peristalsis [source writes 'pericarditis' - peristalsis intended]; DES = reduced distal latency; Jackhammer/Nutcracker (hypercontractile esophagus) = DCI >8000 + high-amplitude contraction.
+Radiology,Part-2,CA Esophagus,Barium and staging investigations for carcinoma esophagus?,Irregular outline; rat tail sign; IOC = UGI endoscopy + biopsy; T/N staging = EUS; M staging = PET-CT.
+Radiology,Part-2,Diffuse Esophageal Spasm (DES),Features and signs of diffuse esophageal spasm?,Reduced distal latency; diffuse contraction; corkscrew appearance; rosary bead esophagus.
+Radiology,Part-2,Eosinophilic Esophagitis,Features of eosinophilic esophagitis?,Feline esophagus; transient transverse bands; involves mid-low esophagus; also seen in GERD and hiatal hernia.
+Radiology,Part-2,Intussusception,Typical age and clinical features of intussusception?,Age 6-8 months; pain + bleeding with red currant jelly stool.
+Radiology,Part-2,Intussusception,"Most common type of intussusception, and its causes?",MC type = ileo-colic; causes = weaning and rotavirus.
+Radiology,Part-2,Intussusception,Initial investigation and IOC/gold standard for intussusception?,Initial = USG; IOC/gold standard = barium enema > air enema > saline enema.
+Radiology,Part-2,Intussusception,USG signs of intussusception?,"Donut sign (hypoechoic cortex with hyperechoic medulla), sandwich sign, target sign, pseudo-kidney sign."
+Radiology,Part-2,Intussusception,Barium enema sign of intussusception?,Coiled spring sign / claw sign.
+Radiology,Part-2,Pneumoperitoneum,Clinical features and diagnosis of pneumoperitoneum?,Pain abdomen + guarding/rigidity/tenderness; diagnosis = pneumoperitoneum / perforation peritonitis.
+Radiology,Part-2,Pneumoperitoneum,Next step in management of pneumoperitoneum?,"It is a surgical emergency: IV fluids, then exploratory laparotomy."
+Radiology,Part-2,Pneumoperitoneum,Most sensitive X-ray and most sensitive investigation for pneumoperitoneum (and which contrast is contraindicated)?,Most sensitive X-ray = CXR PA erect; most sensitive Ix = CECT + oral contrast (gastrograffin/iohexol); barium is contraindicated.
+Radiology,Part-2,Pneumoperitoneum,What is Rigler's sign / double wall sign in pneumoperitoneum?,Both the inner and outer walls of the bowel/abdomen are visible.
+Radiology,Part-2,Pneumoperitoneum,"On an erect CXR for pneumoperitoneum, which side is checked and why?","Always check the right side (for air under the diaphragm), because on the left side there is normally stomach air."
+Radiology,Part-2,Pneumoperitoneum,What is the cupola sign?,Air outlines the median subphrenic space.
+Radiology,Part-2,Intestinal Obstruction,Classic clinical tetrad of intestinal obstruction?,Pain abdomen + obstipation + abdominal distension + vomiting.
+Radiology,Part-2,Intestinal Obstruction,Most common cause of SBO vs LBO?,SBO = adhesions (history of prior surgery); LBO = malignancy.
+Radiology,Part-2,Intestinal Obstruction,Distribution of dilated bowel loops in SBO vs LBO?,SBO = central; LBO = periphery.
+Radiology,Part-2,Intestinal Obstruction,"Diameter cut-offs (3-6-9 rule) for SBO, LBO and caecum?",Small bowel >3 cm; Large bowel >6 cm; Caecum >9 cm.
+Radiology,Part-2,Intestinal Obstruction,"Valvulae conniventes, stepladder/string-of-pearls sign and haustra in SBO vs LBO?","Valvulae conniventes: present in SBO (jejunum), absent in LBO. Stepladder sign / string of pearls sign: + in SBO, - in LBO. Haustra: absent in SBO, ++ in LBO."
+Radiology,Part-2,Intestinal Obstruction,Management of SBO vs LBO?,"SBO = conservative management (if no response in 24 hours, then surgery); LBO = surgery."
+Radiology,Part-2,Barium Signs,What is the string sign and in which conditions is it seen?,"A narrowed, featureless ileum appears as a string; seen in TB (Fleischer sign on barium study), CHPS, and Crohn's disease (string sign of Kantor)."
+Radiology,Part-2,Barium Signs,Barium signs of congenital hypertrophic pyloric stenosis (CHPS)?,"String sign, mushroom sign / Kirkin sign / umbrella sign, and single bubble sign."
+Radiology,Part-2,Barium Signs,What is the lead pipe colon and in which condition is it seen?,Absence of haustrations; seen in ulcerative colitis (earliest sign = mucosal granularity).
+Radiology,Part-2,Barium Signs,What is the apple core sign and what is it also known as?,Carcinoma colon; also known as the napkin ring sign.
+Radiology,Part-2,Barium Signs,"What is the saw tooth sign, its IOC, and complication?",Sigmoid diverticulosis (outpouching of the sigmoid colon); IOC = colonoscopy > barium enema; complication = diverticulitis (IOC = CECT).
+Radiology,Part-2,Hydatid Cyst,Imaging signs of hydatid cyst?,"Honeycomb sign, water-lily sign, and calcified cyst (end stage / inactive)."
+Radiology,Part-2,Hydatid Cyst,Causative organism and most common site of hydatid cyst?,Echinococcus granulosus; most common site = liver > lung.
+Radiology,Part-2,Hydatid Cyst,Name the three layers of a hydatid cyst from outer to inner.,"Pericyst, ectocyst, and endocyst."
+Radiology,Part-2,Hydatid Cyst,Outline the Gharbi classification of hydatid cyst (I-V).,I = simple cyst; II = water-lily sign / water snake type; III = honeycomb appearance; IV = complex heterogeneous type; V = calcified cyst.
+Radiology,Part-2,Gallbladder Pathologies,USG features of cholelithiasis (GB stone) and the WES sign?,"Hyperechoic stone with posterior acoustic shadow; no jaundice. WES (wall-echo-shadow) sign = a stone in a contracted gallbladder (wall, echo, shadow)."
+Radiology,Part-2,Gallbladder Pathologies,"Features of acute cholecystitis, its IOC and most accurate test?","Stone impacted at the neck; thick wall >3 mm; fever, pain, tenderness; Murphy's sign positive; IOC = USG; most accurate = HIDA scan."
+Radiology,Part-2,Gallbladder Pathologies,Features of a GB polyp and when to do prophylactic cholecystectomy?,"Hyperechoic, no shadow; if >1 cm, do prophylactic cholecystectomy."
+Radiology,Part-2,Gallbladder Pathologies,"What does the comet tail artifact indicate in the GB, and on CT?",Adenomyomatosis - cholesterol crystals within Rokitansky-Aschoff sinuses. Comet tail on CT (chest) = round atelectasis.
+Radiology,Part-2,Gallbladder Pathologies,Management of a Phrygian cap?,Reassure.
+Radiology,Part-2,Obstructive Jaundice,Investigation for obstructive jaundice and the CBD cut-off indicating obstruction?,Initial = USG; CBD dilatation >6 mm indicates CBD obstruction (double barrel sign).
+Radiology,Part-2,Obstructive Jaundice,"Why is MRCP the next/IOC for obstructive jaundice, and how does a stone appear?","MRCP (T2W) is non-invasive, uses no contrast and no radiation; on heavily T2W imaging all fluid is white and a stone appears as a signal void."
+Radiology,Part-2,Obstructive Jaundice,What is the gold standard for obstructive jaundice and how do stones appear on it?,"ERCP (invasive, uses contrast and radiation); stones appear as filling defects."
+Radiology,Part-2,Sclerosing Cholangitis & Bile Leak,Features of primary sclerosing cholangitis?,Associated with IBD; onion-skinning duct lesions; pANCA positive; MRI shows a beaded appearance.
+Radiology,Part-2,Sclerosing Cholangitis & Bile Leak,"Work-up of a suspected bile leak (initial, best, most sensitive)?",History of cholecystectomy with increased drain output/jaundice. Initial = USG (USG-guided pigtail catheter); best = ERCP (stent); most sensitive = HIDA (shows the leak but not its type or site).
+Radiology,Part-2,PYQ - GI/HBP,A 6-month-old baby with bilious vomiting; abdominal X-ray shows a double bubble - diagnosis?,Duodenal atresia.
+Radiology,Part-2,PYQ - GI/HBP,Radiological IOC for pheochromocytoma?,MRI.
+Radiology,Part-2,PYQ - GI/HBP,"An elderly lady with abdominal pain, distension and chronic constipation - most likely diagnosis?",Sigmoid volvulus.
+Radiology,Part-2,PYQ - GI/HBP,"Sigmoid vs cecal volvulus - sign, haustra and number of loops?","Sigmoid: coffee bean sign, haustra absent, 2 loops. Cecal: C-sign, haustra present, 1 loop (predisposing factors: pregnancy, pelvic surgery)."
+Radiology,Part-2,PYQ - GI/HBP,"A 48-year-old lady with RUQ pain, multiple GB calculi, no wall thickening, CBD 12 mm, GGT 5x raised, ALP 400 IU - next step?",MRCP.
+Radiology,Part-2,PYQ - GI/HBP,"A 40-year-old with jaundice, raised bilirubin and GGT, scleroatrophic GB with dilated CBD and impacted calculi - next step?",ERCP.
+Radiology,Part-2,PYQ - GI/HBP,"A 60-year-old with increased bowel sounds, dilated small bowel loops and air in the biliary tree (h/o hysterectomy) - diagnosis?",Gallstone ileus - Rigler's triad = pneumobilia (air in biliary tree) + small bowel obstruction + stone at the ileocaecal junction.
+Radiology,Part-2,PYQ - GI/HBP,A neonatal abdominal X-ray showing the football sign - diagnosis?,Pneumoperitoneum.
+Radiology,Part-3,IVP Signs,What does the cobra head / adder head sign indicate on IVP?,Ureterocele (cystic dilatation of the distal part of the ureter).
+Radiology,Part-3,IVP Signs,"What does the hand-shaking calyces / flower vase sign indicate, and its key features?",Horseshoe kidney - the lower poles of the calyces are fused; ascent is prevented by the IMA (inferior mesenteric artery); there is an increased risk of TCC.
+Radiology,Part-3,Renal Signs - TB/Calculi/Calcinosis,Features of putty kidney (GU TB) and its most sensitive Ix?,Sterile pyuria; thimble bladder; increased frequency of voiding; most sensitive Ix = IVP; moth-eaten / phantom calyces.
+Radiology,Part-3,Renal Signs - TB/Calculi/Calcinosis,"What organism, stone type and crystals are associated with a staghorn calculus?",Proteus infection; struvite (triple phosphate) stone; coffin-lid crystals.
+Radiology,Part-3,Renal Signs - TB/Calculi/Calcinosis,Causes of nephrocalcinosis (bilateral medullary)?,"Increased calcium, oxaluria, and increased PTH."
+Radiology,Part-3,Renal Cysts,"On which modality is the Bosniak classification done, and the malignancy risk of a simple cyst?",CECT; a simple cyst has 0% risk of malignancy.
+Radiology,Part-3,Renal Cysts,Features and signs of AD PCKD?,Bilateral renal cysts; associated with berry aneurysm; shows the spider leg sign (on IVP).
+Radiology,Part-3,MCU / VUR / PUV,Describe the MCU (micturating cystourethrogram) procedure.,"450-500 ml saline + contrast is injected into the bladder through a Foley's catheter; the person is asked to void and an X-ray is taken, opacifying the bladder and urethra."
+Radiology,Part-3,MCU / VUR / PUV,Name the parts of the urethra and which form the anterior urethra.,"Prostatic, membranous, bulbar and penile; the bulbar + penile parts form the anterior urethra."
+Radiology,Part-3,MCU / VUR / PUV,"What is VUR the most common cause of, and what defines grade V?","Most common cause of recurrent UTI in children; grade V = a dilated, tortuous ureter with ballooning of the calyces."
+Radiology,Part-3,MCU / VUR / PUV,"What is PUV the most common cause of, and its key feature?",Posterior urethral valves - the most common cause of obstructive uropathy in children; the valve does not allow contrast to pass beyond it.
+Radiology,Part-3,MCU / VUR / PUV,"What does the keyhole sign indicate, and what is associated with it?",Posterior urethral valves (PUV); associated with oligohydramnios.
+Radiology,Part-3,Urethral Trauma,Clinical features of urethral trauma?,Inability to void urine and blood at the meatus.
+Radiology,Part-3,Urethral Trauma,Risk factors for anterior vs posterior urethral injury?,Anterior = straddle injury; Posterior = pelvic fracture.
+Radiology,Part-3,Urethral Trauma,Which procedures are contraindicated and what is the IOC in urethral trauma?,Foley's catheter and MCU are contraindicated; IOC = RGU (retrograde urethrogram).
+Radiology,Part-3,Urethral Trauma,Management pathway for urethral trauma?,"SPC (supra-pubic cystostomy), then after 4-6 weeks delayed urethroplasty (definitive treatment); if the urinary bladder is not palpable, wait and watch."
+Radiology,Part-3,Bladder Trauma,What is the IOC for bladder trauma?,CT cystography.
+Radiology,Part-3,Bladder Trauma,Sign and management of extraperitoneal bladder rupture?,Molar tooth sign / flame sign; managed conservatively.
+Radiology,Part-3,Bladder Trauma,Management of intraperitoneal bladder rupture?,Surgery.
+Radiology,Part-3,Obstetric USG - Early Pregnancy,What is the earliest structure seen in pregnancy and at what gestational age (TVS vs TAS)?,"Gestational sac; TVS = 4.5-5 weeks, TAS = 5.5-6 weeks."
+Radiology,Part-3,Obstetric USG - Early Pregnancy,What is the earliest sign of the gestational sac and its appearance?,"Intra-decidual sign - eccentric, with a well-defined wall. (The double decidual sign is also seen.)"
+Radiology,Part-3,Obstetric USG - Early Pregnancy,At what gestational age is the yolk sac seen?,5.5-6 weeks.
+Radiology,Part-3,Obstetric USG - Early Pregnancy,"At what gestational age is the embryo/fetal pole seen, and what is the surest sign of viability?",6.5-7 weeks; FHS positive (fetal heart sound) is the surest sign of viability.
+Radiology,Part-3,Obstetric USG - Early Pregnancy,What two structures make up the double bleb sign?,The amniotic sac and the yolk sac.
+Radiology,Part-3,PYQ - GU/Obstetric,"A 45-year-old with a renal mass on CECT; which renal tumor, and what is it associated with?","Renal angiomyolipoma; associated with tuberous sclerosis (features: seizures, subependymal nodules, adenoma sebaceum, shagreen patch)."
+Radiology,Part-3,PYQ - GU/Obstetric,"A 55-year-old man with a renal mass; most common type, association, and features?","Renal cell carcinoma; most common = clear cell RCC; associated with VHL (chromosome 3p); features include hemangioblastoma (spinal, cerebellar) and pheochromocytoma."
+Radiology,Part-3,PYQ - GU/Obstetric,A 45-year-old with abnormal uterine bleeding; USG shows a feeding vessel sign - diagnosis?,Endometrial polyp.
+Radiology,Part-3,PYQ - GU/Obstetric,A 34-year-old on OCP with amenorrhea; best method to calculate gestational age and why?,"CRL by USG - because LMP is unreliable (forgotten LMP, irregular menses, lactational amenorrhea, history of OCP use)."
+Radiology,Part-3,PYQ - GU/Obstetric,"A 30-year-old with a pelvic fracture, unable to pass urine, with blood at the meatus; RGU performed - most likely site of urethral injury?",Membranous urethra (posterior urethra - associated with pelvic fracture).
+Radiology,Part-3,PYQ - GU/Obstetric,An RGU showing a narrowing of the anterior urethra - identify the finding?,Bulbar stricture.
+Radiology,Part-3,PYQ - GU/Obstetric,An HSG showing bilateral dilated tubes (h/o TB/PID) - diagnosis?,Bilateral hydrosalpinx.
+Radiology,Part-3,PYQ - GU/Obstetric,An HSG showing a single uterine horn - diagnosis?,Unicornuate uterus.
+Radiology,Part-4,Pleural Effusion,Radiological sign and earliest finding of pleural effusion?,Sign = meniscus / Ellis S-curve sign; earliest finding = blunting of the costophrenic (CP) angle.
+Radiology,Part-4,Pleural Effusion,Direction of mediastinal shift in pleural effusion?,Towards the contralateral side.
+Radiology,Part-4,Pleural Effusion,Most sensitive investigation and most sensitive X-ray for pleural effusion (with detectable volumes)?,Most sensitive Ix = USG (detects 5-10 mL); most sensitive X-ray = ipsilateral lateral decubitus (detects 50 mL).
+Radiology,Part-4,Pneumothorax,"Direction of mediastinal shift, most sensitive Ix and most sensitive X-ray for pneumothorax?",Shift = contralateral side; most sensitive Ix = CT; most sensitive X-ray = expiratory CXR (makes the normal lung appear white).
+Radiology,Part-4,Pneumothorax,CXR findings of pneumothorax?,"Hyperlucent lung, absent bronchovascular markings, and a visceral pleural line of demarcation."
+Radiology,Part-4,Pneumothorax,"Management of an unstable (tension) pneumothorax (e.g. trauma, SBP <90)?","Needle thoracostomy, followed by ICD once stable."
+Radiology,Part-4,Pneumothorax,Site and needle size for needle thoracostomy in tension pneumothorax?,"5th ICS in the mid-axillary line in adults; 2nd ICS in the mid-clavicular line in children; needle = 14 G, 3.25 inch."
+Radiology,Part-4,Pneumothorax,"Management of a stable pneumothorax, and the borders of the triangle of safety?","ICD placed in the triangle of safety; borders = pectoralis major, latissimus dorsi, and the rib below."
+Radiology,Part-4,Pneumothorax,M-mode USG appearance of normal lung vs pneumothorax?,Normal lung = seashore sign; pneumothorax = barcode / stratosphere sign.
+Radiology,Part-4,HRCT Signs,What does the air bronchogram sign indicate and where is it seen?,Consolidation (alveolar air replaced by fluid/pus); seen in pulmonary edema (h/o heart failure) and pneumonia (h/o expectoration).
+Radiology,Part-4,HRCT Signs,"What does the tree-in-bud sign indicate, and why is it not seen in Covid-19?",Active TB (endobronchial) - nodules along the bronchus; not seen in Covid-19 because that is an alveolar disease.
+Radiology,Part-4,HRCT Signs,What does the signet ring sign indicate and what is the criterion?,Bronchiectasis - the diameter of the bronchus is greater than the adjacent pulmonary artery; also shows a tram-track appearance.
+Radiology,Part-4,Halo Signs,What does the halo sign indicate and its features?,Invasive aspergillosis (in an immunocompromised patient) - a solid center with a hazy periphery.
+Radiology,Part-4,Halo Signs,What does the reverse halo sign indicate?,Organising pneumonia and mucormycosis.
+Radiology,Part-4,GGO / Miliary / Honeycombing,"What does ground glass opacity suggest, and what CORADS grade is typical Covid?",Covid-19; typical Covid = CORADS-5.
+Radiology,Part-4,GGO / Miliary / Honeycombing,Outline the CORADS grading (0-6).,"0 = incomplete; 1 = normal; 2,3,4 = atypical; 5 = typical Covid; 6 = RT-PCR proven."
+Radiology,Part-4,GGO / Miliary / Honeycombing,"Most common cause of miliary nodules, and other causes?","MCC = TB; other causes = histoplasmosis, varicella, TPE (tropical pulmonary eosinophilia), silicosis."
+Radiology,Part-4,GGO / Miliary / Honeycombing,What does honeycombing indicate?,UIP (usual interstitial pneumonia) / ILD.
+Radiology,Part-4,Silhouette Sign & Pneumatocele,What does the silhouette sign indicate?,Right middle lobe consolidation.
+Radiology,Part-4,Silhouette Sign & Pneumatocele,A pneumatocele is associated with which pneumonia?,Staphylococcus aureus pneumonia.
+Radiology,Part-4,Popcorn Calcification,"Popcorn calcification on mammography suggests which lesion, and its BIRADS?","Fibroadenoma; calcification present = BIRADS 2, calcification absent = BIRADS 3; most sensitive Ix = MRI."
+Radiology,Part-4,Popcorn Calcification,Popcorn calcification on CT chest suggests which lesion?,Pulmonary hamartoma - the most common benign tumor of the lung.
+Radiology,Part-4,Mediastinal Shift,"Direction of mediastinal shift in consolidation, pleural effusion and lung collapse?",Consolidation = no shift; pleural effusion (e.g. massive) = contralateral shift; lung collapse = ipsilateral shift.
+Radiology,Part-4,PYQ - Thoracic,"A 28-year-old with HIV, CD4 120, and non-productive cough; B/L GGOs + cysts - diagnosis?",Pneumocystis carinii (PCP) pneumonia.
+Radiology,Part-4,PYQ - Thoracic,A 55-year-old smoker with weight loss and a cannon-ball appearance on CXR - diagnosis?,Metastasis.
+Radiology,Part-4,PYQ - Thoracic,A CXR with mediastinal shift to the contralateral side - which finding?,Pleural effusion.
+Radiology,Part-4,PYQ - Thoracic,A CT showing an aberrant right subclavian artery causes which symptom?,Dysphagia lusoria.
+Radiology,Part-4,PYQ - Thoracic,"Egg-shell calcification is seen in all of the following EXCEPT - silicosis, sarcoidosis, post-radiation LNs, metastatic LNs?","Metastatic lymph nodes are the exception (egg-shell calcification IS seen in silicosis, sarcoidosis and post-radiation therapy lymph nodes)."
+Radiology,Part-4,PYQ - Thoracic,"In blunt chest trauma, which CXR findings need further evaluation before a chest tube - pneumothorax, hemothorax, RML consolidation, diaphragm injury?",RML consolidation and diaphragm injury (these are not pneumothorax/hemothorax requiring a tube).
+Radiology,Part-4,PYQ - Thoracic,A 25-year-old with mild intermittent upper abdominal pain; CXR shows a retrocardiac gas shadow - diagnosis?,Hiatal hernia.
+Radiology,Part-4,PYQ - Thoracic,"A cattle handler with cough, hemoptysis and chest pain; CXR shown - diagnosis?",Hydatid cyst.
+Radiology,Part-4,PYQ - Thoracic,"A 35-year-old with Raynaud's, skin tightening (scleroderma), dyspnea and bilateral basal rales - next best step?",HRCT chest.
+Radiology,Part-4,PYQ - Thoracic,"A 54-year-old with dyspnea, eosinophil count 5000, and miliary mottling on CXR - diagnosis?",Tropical pulmonary eosinophilia.
+Radiology,Part-5,Head Trauma,What is the IOC for head trauma?,NCCT.
+Radiology,Part-5,Head Trauma,"Features of subdural hematoma (SDH) - vessel, trauma, suture/midline crossing?",Bridging veins; trivial trauma; crosses suture lines but does NOT cross the midline (crescent-shaped); classic in alcoholics with a fall.
+Radiology,Part-5,Head Trauma,"Features of epidural hematoma (EDH) - vessel, trauma, suture/midline crossing?",Artery; due to RTA; does NOT cross suture lines but DOES cross the midline (biconvex). Lucid interval is more typical of EDH than SDH.
+Radiology,Part-5,Head Trauma,"Features of subarachnoid hemorrhage (SAH) - presentation, cause, MC site, IOC, gold standard?",Thunderclap headache; trauma > aneurysm (berry); MC site = ACA-ACom junction; IOC = CT angiography; gold standard = DSA.
+Radiology,Part-5,Head Trauma,Features of diffuse axonal injury (DAI) - NCCT finding and IOC?,NCCT is normal or shows petechial hemorrhages; IOC = SWI.
+Radiology,Part-5,Intracerebral Hemorrhage (ICH),"Most common site, most common risk factor, and vessel involved in ICH?",MC site = putamen; MC risk factor = hypertension; vessel = artery of Charcot (a branch of the MCA).
+Radiology,Part-5,Brain Tumors - Adults,"What does the dural tail sign indicate, and a histology clue?",Meningioma (the most common benign brain tumor); psammoma bodies.
+Radiology,Part-5,Brain Tumors - Adults,"What does a butterfly tumor indicate, and a histology clue?",Glioblastoma (the most common malignant brain tumor); pseudopalisading serpentine necrosis.
+Radiology,Part-5,Brain Tumors - Adults,What does the ice cream cone sign indicate?,Acoustic neuroma / vestibular schwannoma (the most common cerebellopontine angle tumor).
+Radiology,Part-5,Brain Tumors - Children,Pilocytic astrocytoma - significance and histology clue?,The most common benign brain tumor in children; Rosenthal fibres.
+Radiology,Part-5,Brain Tumors - Children,"Medulloblastoma - significance, histology clue, and spread?",The most common malignant brain tumor in children; Homer-Wright pseudo-rosettes; drop metastases.
+Radiology,Part-5,Brain Tumors - Children,"Craniopharyngioma - location, effect, and key features?","Supra-sellar - compresses the optic chiasma; shows calcification, occurs in children, and is cystic; H/P = machine oil in the cyst."
+Radiology,Part-5,CNS Infections,Imaging features of a cerebral abscess?,Diffusion restriction and ring enhancement.
+Radiology,Part-5,CNS Infections,Features of neurocysticercosis?,Caused by T. solium eggs; cyst with a central scolex; starry sky appearance.
+Radiology,Part-5,CNS Infections,Imaging features of CNS tuberculosis?,Conglomeration; lipid-lactate peak (on MR spectroscopy).
+Radiology,Part-5,CNS Infections,Features of cerebral toxoplasmosis?,Seen in HIV; presents as a child with abnormal behaviour.
+Radiology,Part-5,PNS X-ray Views,"What is best seen on Pierre's (Water's) view, and how is the sphenoid sinus seen?",Maxillary sinus is seen best; with the mouth closed it is the Water's view; the mouth is opened to see the sphenoid sinus; the posterior ethmoidal sinus is not visible.
+Radiology,Part-5,PNS X-ray Views,"What is Caldwell's view best for, and what obscures the maxillary sinus on it?",Best for the frontal sinus; the pterygoid plates obscure the maxillary sinus.
+Radiology,Part-5,PYQ - Neuro,The Mt. Fuji sign is seen in which condition?,Pneumocephalus.
+Radiology,Part-5,PYQ - Neuro,What is the management of choice for aneurysms performed by interventional radiologists?,Coiling.
+Radiology,Part-5,PYQ - Neuro,The banana sign on USG is associated with which condition?,Spina bifida.
+Radiology,Part-5,PYQ - Neuro,Which two fetal cranial USG signs are seen in spina bifida (neural tube defect)?,The lemon sign and the banana sign.
+Radiology,Part-5,PYQ - Neuro,Increased serum alkaline phosphatase with cotton wool spots on skull X-ray - diagnosis?,Paget's disease.
+Radiology,Part-5,PYQ - Neuro,A structure marked in a CT of the paranasal sinuses (with concha bullosa noted) - identified as?,Anterior ethmoidal canal.
+Radiology,Part-5,PYQ - Neuro,Which arterial territory is involved in an infarct shown on CT between the ACA and PCA territories?,MCA.
+Radiology,Part-5,PYQ - Neuro,"A 15-year-old male with epistaxis on CECT - which sign, and what does it indicate?",Homan-Miller sign - indicates JNA (juvenile nasopharyngeal angiofibroma).
+Radiology,Part-5,PYQ - Neuro,"Match the signs: Dodd, Phelp, Griesinger?",Dodd sign = polyp; Phelp sign = glomus; Griesinger sign = lateral sinus thrombosis.
+Radiology,Part-6,Epiphyseal Bone Tumors,"Chondroblastoma (Codman's tumor) - age, location, histology?",Age <20 years; epiphyseal tumor; HPE = chicken-wire calcification.
+Radiology,Part-6,Epiphyseal Bone Tumors,"GCT / osteoclastoma - age, location, appearance and cells?",Age 30-40 years; epiphyseal tumor; soap-bubble appearance (giant cells + mononuclear cells).
+Radiology,Part-6,Epiphyseal Bone Tumors,Treatment of chondroblastoma and GCT?,External curettage + grafting.
+Radiology,Part-6,Diaphyseal Bone Tumors,"Osteoid osteoma - location, clinical feature, IOC and treatment?",Diaphyseal tumor; nocturnal pain relieved by NSAIDs (the lucent nidus releases PGE2); IOC = CT; treatment = radiofrequency ablation.
+Radiology,Part-6,Diaphyseal Bone Tumors,"Ewing sarcoma - radiosensitivity, treatment, age, periosteal reaction, histology, genetics?","Most radiosensitive (treated with RT + CT); diaphyseal; onion-peel periosteal reaction; age <20 years; HPE = Homer-Wright pseudorosettes; t(11,22)."
+Radiology,Part-6,Diaphyseal Bone Tumors,Adamantinoma - location?,"A diaphyseal tumor, classically in the tibia."
+Radiology,Part-6,Metaphyseal Bone Tumors,"Osteosarcoma - age, location, radiosensitivity, treatment, periosteal signs?",Age <20 years; metaphyseal; radioresistant (Rx = surgery); is an RT-induced tumor; shows Codman's triangle and sunburst periosteal reaction.
+Radiology,Part-6,Metaphyseal Bone Tumors,"Simple bone cyst (SBC) - location, structure, signs, treatment?",Metaphyseal tumor; a single unicameral cavity; fallen leaf sign and trapdoor sign; Rx = simple curettage.
+Radiology,Part-6,Metaphyseal Bone Tumors,"Aneurysmal bone cyst (ABC) - location, appearance, treatment?",Metaphyseal tumor; soap-bubble appearance; Rx = external curettage + grafting.
+Radiology,Part-6,Osteochondroma / Enchondroma / Fibrous Dysplasia,What cartilage cap thickness on MRI suggests malignant transformation of an osteochondroma?,A cap >1.5 cm.
+Radiology,Part-6,Osteochondroma / Enchondroma / Fibrous Dysplasia,Enchondroma - distribution and the two associated syndromes?,"Frequent and multiple, involving short bones; Ollier's syndrome = multiple enchondromas only; Maffucci syndrome = enchondromas + hemangiomas. Rx = external curettage + grafting."
+Radiology,Part-6,Osteochondroma / Enchondroma / Fibrous Dysplasia,"Fibrous dysplasia - deformity, histology, and the associated syndrome?",Shepherd's crook deformity; HPE = Chinese-letter arrangement; polyostotic involvement with precocious puberty + cafe-au-lait spots = McCune-Albright syndrome.
+Radiology,Part-6,Spine X-ray Signs,Rugger-jersey spine is seen in which conditions?,Secondary hyperparathyroidism / renal osteodystrophy.
+Radiology,Part-6,Spine X-ray Signs,Ivory vertebra is seen in which conditions?,"Paget's disease (blastic phase), blastic metastases (breast, prostate), Hodgkin lymphoma, and carcinoid syndrome."
+Radiology,Part-6,Spine X-ray Signs,"Codfish vertebra indicates which condition, its IOC and diagnostic cut-off?",Osteoporosis; IOC = DEXA; T-score <= -2.5 SD (compared to a young adult).
+Radiology,Part-6,Spine X-ray Signs,"Ankylosing spondylitis - patient profile, HLA, signs and extra-articular features?",Young male with inflammatory backache; HLA-B27 positive; signs = dagger sign / tram-track / bamboo spine; uveitis and bilateral heel pain.
+Radiology,Part-6,Spine X-ray Signs,Scoliosis - what is measured and which clinical test is used?,Cobb's angle is measured; Adam's forward bending test is used.
+Radiology,Part-6,PYQ - MSK,A knee X-ray showing a transverse lucency through the patella - diagnosis?,Patella fracture.
+Radiology,Part-6,PYQ - MSK,A 5-year-old boy with inability to pronate and supinate the forearm - diagnosis?,Radioulnar synostosis.
+Radiology,Part-6,PYQ - MSK,A 50-year-old male with diffuse back pain; cervical spine X-ray with flowing ossification - diagnosis?,DISH (diffuse idiopathic skeletal hyperostosis).
+Radiology,Part-6,PYQ - MSK,"A 70-year-old with a painful limp, no drug/trauma history; hip X-ray shows a crescent sign - diagnosis?",AVN (avascular necrosis).
+Radiology,Part-6,PYQ - MSK,A marked posterior knee ligament on MRI - which ligament?,PCL (posterior cruciate ligament).
+Radiology,Part-6,PYQ - MSK,A 40-year-old with progressive forward bending and increasing spinal stiffness; CT-spine shown - diagnosis?,Ankylosing spondylitis.
+Radiology,Part-7,PET / Dosimetry / Lead Apron,"On PET-CT, what do the yellow and white represent, and what tracer is used?","Yellow = PET signal, white = bone; tracer = 18-FDG (deoxyglucose), which emits a positron and is taken up by malignant tissue."
+Radiology,Part-7,PET / Dosimetry / Lead Apron,"Causes of a false-positive PET, and the physiological hotspots?",False positives = carcinoid and mucinous adenocarcinoma; physiological hotspots = brain and bladder.
+Radiology,Part-7,PET / Dosimetry / Lead Apron,"What is a TLD badge, what is it made of, where is it worn, and how often checked?",A thermoluminescent dosimeter - a personal dosimeter to check radiation exposure; made of LiF/CaSO4; worn below the lead apron at chest level; checked 3-monthly.
+Radiology,Part-7,PET / Dosimetry / Lead Apron,What thickness of lead apron is most commonly used and the minimum thickness?,Most commonly used = 0.5 mm; minimum = 0.25 mm.
+Radiology,Part-7,Radiotherapy Machines,How does a LINAC (linear accelerator) work?,It accelerates electrons and allows them to collide with a heavy metal target to produce high-energy X-rays.
+Radiology,Part-7,Radiotherapy Machines,What is the principle of brachytherapy and its uses?,"Remote afterloading; uses = prostate CA, CA cervix, eyelid."
+Radiology,Part-7,Radiotherapy Machines,"What is gamma knife therapy, what source does it use, and its uses?","Stereotactic radiosurgery - a targeted attack without damage to surrounding structures; uses Co-60; good for inoperable brain tumors - solitary mets, pituitary adenoma, vestibular schwannoma, refractory trigeminal neuralgia."
+Radiology,Part-7,Radiotherapy Machines,"What particle does a cyclotron produce, and what is the Bragg peak used for?","Cyclotron produces protons; the Bragg peak (protons) is used for deep-seated tumors (e.g. clival chordoma), while electrons are used for cutaneous T-cell lymphoma and intra-op RT."
+Radiology,Part-7,Radiosensitivity,"By Bergonie's law, which cells are most vs least radiosensitive?",Most sensitive = actively dividing cells; least sensitive = quiescent cells.
+Radiology,Part-7,Radiosensitivity,Most vs least radiosensitive organ?,Most = gonads (ovary > testis); least = vagina.
+Radiology,Part-7,Radiosensitivity,Most vs least radiosensitive blood cell?,Most = lymphocyte; least = platelet > RBC.
+Radiology,Part-7,Radiosensitivity,Most vs least radiosensitive cell cycle phase?,Most = G2-M; least = S phase.
+Radiology,Part-7,Radiosensitivity,Most vs least radiosensitive tissue?,Most = hematopoietic / bone marrow; least = CNS.
+Radiology,Part-7,Radiosensitivity,Most vs least radiosensitive structure of the eye?,Most = lens; least = sclera.
+Radiology,Part-7,Radiosensitivity,Most vs least radiosensitive tumor?,Most = Ewing's sarcoma; least = osteosarcoma.
+Radiology,Part-7,Radiosensitivity,Sequence and dose ranges of the acute radiation syndrome?,Hematopoietic (1-2 Gy) -> GI system (10-20 Gy) -> CVS-CNS (20-100 Gy).
+Radiology,Part-7,Radiosensitivity,State the inverse square law for radiation intensity.,Intensity is inversely proportional to the square of the distance (I proportional to 1/d^2).
+Radiology,Part-7,Radiosensitive vs Radioresistant Tumors,List the radiosensitive tumors.,"Wilm's tumor, Ewing's sarcoma, Lymphoma/Leukemia, Multiple myeloma, Seminoma. (Mnemonic: WELMS.)"
+Radiology,Part-7,Radiosensitive vs Radioresistant Tumors,List the radioresistant tumors.,"HCC/RCC, Osteosarcoma, Melanoma, Pancreatic CA. (Mnemonic: HOMP.)"
+Radiology,Part-7,Bone Scan,How does metastasis vs a superscan appear on a bone scan?,Metastasis = multiple discrete hot spots; superscan = diffuse increased skeletal uptake with reduced renal and soft-tissue activity.
+Radiology,Part-7,Bone Scan,Which malignancy classically shows cold spots on a bone scan?,Multiple myeloma.
+Radiology,Part-7,PYQ - RT/Nuclear Medicine,A Ga-68 PSMA scan is used to diagnose which condition?,Prostate cancer.
+Radiology,Part-7,PYQ - RT/Nuclear Medicine,A linear accelerator is used for the production of what?,X-rays.
+Radiology,Part-7,PYQ - RT/Nuclear Medicine,Which statement about radiotherapy is true (re: dose and distance)?,The dose of radiation at a point is inversely proportional to the square of its distance from the source.
+Radiology,Part-7,PYQ - RT/Nuclear Medicine,Why does a prostate cancer bone scan show a superscan appearance?,Increased uptake due to diffuse metastasis.
+Radiology,Part-7,PYQ - RT/Nuclear Medicine,"Radiotherapy given as 1.8-2 Gy daily, 5 days/week, over 6-8 weeks is which type of fractionation?",Conventional fractionation radiotherapy.
+Radiology,Part-7,PYQ - RT/Nuclear Medicine,Most sensitive investigation for parathyroid tumor imaging?,Tc-Sestamibi SPECT (single photon emission CT).

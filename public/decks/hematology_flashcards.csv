@@ -1,0 +1,726 @@
+subject,deck,topic,front,back
+Hematology,Part-1: RBC Basics & Development,RBC Indices,How is MCV (mean corpuscular volume) calculated?,MCV = PCV / RBC count.
+Hematology,Part-1: RBC Basics & Development,RBC Indices,How is MCH (mean corpuscular hemoglobin) calculated?,MCH = Hb / RBC count.
+Hematology,Part-1: RBC Basics & Development,RBC Indices,How is MCHC (mean corpuscular hemoglobin concentration) calculated?,MCHC = MCH / MCV.
+Hematology,Part-1: RBC Basics & Development,RBC Indices,How can hematocrit (Hct) be estimated from hemoglobin?,Hct = Hb x 3%.
+Hematology,Part-1: RBC Basics & Development,Peripheral Smear,At what angle is the spreader held when making a peripheral blood smear?,30-45 degrees.
+Hematology,Part-1: RBC Basics & Development,Peripheral Smear,What is the shape of a well-made peripheral smear and what are its three parts?,"Tongue-shaped; head, body, and tail."
+Hematology,Part-1: RBC Basics & Development,Peripheral Smear,"Which class of stain is used for peripheral smears, and give examples.","Romanowsky stains - e.g. Leishman, Giemsa, Wright, Jenner."
+Hematology,Part-1: RBC Basics & Development,Peripheral Smear,"In Romanowsky stains, which component is the basic (positively charged) dye and which is the acidic dye?",Basic = methylene blue; acidic = eosin Y.
+Hematology,Part-1: RBC Basics & Development,Hematopoiesis (Gestation),"Where does hematopoiesis occur in the 3rd week of gestation, and which hemoglobins are produced there?",Yolk sac; produces Portland Hb and Gower 1 & 2.
+Hematology,Part-1: RBC Basics & Development,Hematopoiesis (Gestation),"Where does hematopoiesis occur in the 3rd month of gestation, and which hemoglobin predominates?",Liver and spleen; HbF (alpha2 gamma2).
+Hematology,Part-1: RBC Basics & Development,Hematopoiesis (Gestation),What are the hematopoietic sites in the 4th month of gestation?,Liver + bone marrow.
+Hematology,Part-1: RBC Basics & Development,Hematopoiesis (Gestation),Which bones perform hematopoiesis up to 20 years of age?,Bone marrow of long AND flat bones.
+Hematology,Part-1: RBC Basics & Development,Hematopoiesis (Gestation),Which bones perform hematopoiesis after 20 years of age?,Bone marrow of flat bones only.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,What are 'nurse cells' in erythropoiesis?,Bone marrow macrophages that assist in RBC development.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,Which transcription factors drive RBC development?,GATA and FOG.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,What surface marker identifies the pluripotent hematopoietic stem cell?,CD34+.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,List the RBC maturation sequence from stem cell to mature red cell.,Pluripotent hematopoietic stem cell (CD34+) -> proerythroblast (pronormoblast) -> erythroblast (normoblast) -> reticulocyte -> erythrocyte.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,Which is the first cell in which hemoglobin can be visualised on electron microscopy?,Proerythroblast (pronormoblast).
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,List the erythroblast (normoblast) substages in order.,Basophilic erythroblast -> polychromatophilic erythroblast -> orthochromatic erythroblast.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,At which stage does hemoglobin synthesis begin?,Polychromatophilic erythroblast stage.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,Which is the first cell in which hemoglobin is visible on light microscopy?,Polychromatophilic erythroblast.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,At which step is the nucleus (and some organelles) lost?,When the orthochromatic erythroblast becomes a reticulocyte (in the marrow).
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,When are the remaining organelles lost?,When the reticulocyte becomes an erythrocyte (in the blood).
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,How long does a reticulocyte typically spend in marrow versus blood?,About 3 days in marrow and 1 day in blood.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,What is the lifespan of an erythrocyte?,About 120 days.
+Hematology,Part-1: RBC Basics & Development,RBC Maturation,What fraction of circulating RBCs are reticulocytes?,About 1%.
+Hematology,Part-1: RBC Basics & Development,Erythropoiesis Regulation,What is the earliest committed cell in erythropoiesis?,BFU-E (burst-forming unit - erythroid).
+Hematology,Part-1: RBC Basics & Development,Erythropoiesis Regulation,Which erythroid cell has the highest number of EPO receptors?,CFU-E (colony-forming unit - erythroid).
+Hematology,Part-1: RBC Basics & Development,Erythropoiesis Regulation,"What effect do EPO, GH, T3, cortisol and testosterone have on RBC production?",They increase RBC production.
+Hematology,Part-1: RBC Basics & Development,Erythropoiesis Regulation,What effect does estrogen have on RBC production?,It decreases RBC production.
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,What is a reticulocyte in relation to RBCs?,The immediate precursor of RBCs.
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,"Reticulocyte count is used to monitor which therapy, and when does it rise?",Iron therapy; it rises in 5-7 days.
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,What is the youngest RBC stage normally seen in peripheral blood?,The reticulocyte (1st in peripheral blood).
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,What type of stain demonstrates reticulocytes and what does it stain?,Supravital stain; it stains the RNA of the live cell.
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,Name two supravital stains used for reticulocytes.,Brilliant cresyl blue and new methylene blue.
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,Give the formula for the corrected reticulocyte count.,Corrected retic count = Retic% x (Patient Hb / Normal Hb).
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,Give the formula for the reticulocyte production index (RPI).,RPI = Corrected retic count / Maturation time.
+Hematology,Part-1: RBC Basics & Development,Reticulocytes,"In RPI, list the maturation (correction) times for PCV values of 45, 35, 25 and 15.",PCV 45 -> 1 day; 35 -> 1.5 days; 25 -> 2 days; 15 -> 2.5 days.
+Hematology,Part-1: RBC Basics & Development,Bone Marrow Sampling,Name the two bone marrow aspiration needles described.,Salah's needle (with a side flange) and Klima's needle.
+Hematology,Part-1: RBC Basics & Development,Bone Marrow Sampling,"What is the core bone marrow biopsy needle called, and its older name?",Core BM biopsy needle; the old name is Jamshidi needle.
+Hematology,Part-1: RBC Basics & Development,Bone Marrow Sampling,Preferred site for BMA/BMB in an adult?,Posterior superior iliac spine (PSIS).
+Hematology,Part-1: RBC Basics & Development,Bone Marrow Sampling,Preferred site for BMA/BMB in a child?,Tibia.
+Hematology,Part-1: RBC Basics & Development,Bone Marrow Sampling,Is a low platelet count a contraindication to BMA/BMB?,"No; if platelets < 20,000, transfuse first and then proceed."
+Hematology,Part-1: RBC Basics & Development,Anemia Classification,"Give the MCV cut-offs for microcytic, normocytic and macrocytic anemia.",Microcytic MCV < 80 fL; normocytic MCV 80-100 fL; macrocytic MCV > 100 fL.
+Hematology,Part-1: RBC Basics & Development,Anemia Classification,"Hemolytic anemia falls in which MCV category, and what is its reticulocyte index?",Normocytic; high reticulocyte index.
+Hematology,Part-1: RBC Basics & Development,Anemia Classification,Which two serum markers are raised in hemolytic anemia?,Increased serum LDH and increased serum bilirubin.
+Hematology,Part-1: RBC Basics & Development,Anemia Classification,"Name two normocytic, non-hemolytic anemias.",Early IDA and anemia of chronic disease (ACD).
+Hematology,Part-1: RBC Basics & Development,Anemia Classification,Hemolytic anemias are divided into which two broad categories?,Intrinsic and extrinsic.
+Hematology,Part-1: RBC Basics & Development,Intrinsic Hemolysis,Intrinsic hemolytic anemias due to Hb defects - name them.,"HbS, HbC, thalassemia."
+Hematology,Part-1: RBC Basics & Development,Intrinsic Hemolysis,Intrinsic hemolytic anemias due to membrane defects - name them.,"HS (hereditary spherocytosis), HE (hereditary elliptocytosis), PNH."
+Hematology,Part-1: RBC Basics & Development,Intrinsic Hemolysis,Which membrane defect is the only acquired cause of intrinsic hemolysis?,PNH.
+Hematology,Part-1: RBC Basics & Development,Intrinsic Hemolysis,Intrinsic hemolytic anemias due to enzyme defects - name them.,"G6PD deficiency, pyruvate kinase (PK) deficiency, hexokinase deficiency."
+Hematology,Part-1: RBC Basics & Development,Extrinsic Hemolysis,Name the extrinsic causes of hemolytic anemia.,"MAHA, macroangiopathic AHA, AIHA, malaria."
+Hematology,Part-1: RBC Basics & Development,Extrinsic Hemolysis,MAHA is associated with which three conditions?,"DIC, HUS, TTP."
+Hematology,Part-1: RBC Basics & Development,Megaloblastic Anemia,What are the causes/categories of megaloblastic anemia?,"B12 deficiency, B9 (folate) deficiency, B1 deficiency, orotic aciduria, and certain drugs."
+Hematology,Part-1: RBC Basics & Development,Megaloblastic Anemia,List the causes of B12 deficiency.,"Vegans, pernicious anemia, ileal resection."
+Hematology,Part-1: RBC Basics & Development,Megaloblastic Anemia,List the causes of B9 (folate) deficiency.,"Junk foods (poor diet), jejunal resection, celiac sprue."
+Hematology,Part-1: RBC Basics & Development,Megaloblastic Anemia,Which drugs cause megaloblastic anemia?,"Methotrexate, zidovudine, hydroxyurea."
+Hematology,Part-1: RBC Basics & Development,Megaloblastic Anemia,What is the bone marrow appearance in megaloblastic anemia?,"Large erythroid precursors with sieve-like, immature chromatin (megaloblasts)."
+Hematology,Part-1: RBC Basics & Development,Megaloblastic Anemia,Megaloblastic anemia may cause pancytopenia; what M:E change is seen in the marrow?,Reversal of the myeloid:erythroid (M:E) ratio.
+Hematology,Part-1: RBC Basics & Development,Pernicious Anemia,What type of hypersensitivity is pernicious anemia?,Type 2 hypersensitivity.
+Hematology,Part-1: RBC Basics & Development,Pernicious Anemia,Describe the type 1 (blocking) antibody in pernicious anemia.,It blocks binding of B12 to intrinsic factor (IF).
+Hematology,Part-1: RBC Basics & Development,Pernicious Anemia,Describe the type 2 (binding) antibody in pernicious anemia.,It blocks binding of the B12-IF complex to cubilin (its receptor).
+Hematology,Part-1: RBC Basics & Development,Pernicious Anemia,Describe the type 3 antibody in pernicious anemia.,Anti-parietal cell antibody.
+Hematology,Part-1: RBC Basics & Development,Pernicious Anemia,Gross finding of the stomach in pernicious anemia?,Loss of rugal folds.
+Hematology,Part-1: RBC Basics & Development,Pernicious Anemia,Light-microscopy finding in the gastric mucosa in pernicious anemia?,Mucosal lymphocytes and plasma cells.
+Hematology,Part-1: RBC Basics & Development,Pernicious Anemia,"By which routes is B12 given, and which route is avoided?",IM or deep SC; never IV.
+Hematology,Part-1: RBC Basics & Development,Schilling Test,What is the Schilling test used for?,To determine the cause of B12 deficiency by measuring urinary excretion of radioactive B12.
+Hematology,Part-1: RBC Basics & Development,Schilling Test,Schilling Stage 1: setup and interpretation.,"Radioactive oral B12 + unlabeled IM B12; high urinary *B12 = dietary B12 deficiency, low = proceed to stage 2."
+Hematology,Part-1: RBC Basics & Development,Schilling Test,Schilling Stage 2: setup and interpretation.,"Radioactive oral B12 + oral intrinsic factor; high *B12 = pernicious anemia, low = proceed to stage 3."
+Hematology,Part-1: RBC Basics & Development,Schilling Test,Schilling Stage 3: setup and interpretation.,"Radioactive oral B12 + oral antibiotics; high *B12 = small intestinal bacterial overgrowth, low = proceed to stage 4."
+Hematology,Part-1: RBC Basics & Development,Schilling Test,Schilling Stage 4: setup and interpretation.,"Radioactive oral B12 + pancreatic enzymes; high *B12 = pancreatic insufficiency, low = other causes (e.g. ileal resection)."
+Hematology,Part-1: RBC Basics & Development,Nonmegaloblastic Anemia,List the causes of nonmegaloblastic macrocytic anemia.,"Liver failure, chronic alcoholism, hypothyroidism, cytotoxic drugs, and hemolysis (reticulocytosis raising MCV)."
+Hematology,Part-1: RBC Basics & Development,Nonmegaloblastic Anemia,Why can hemolysis cause macrocytosis?,Reticulocytosis raises the MCV because reticulocytes are larger than mature RBCs.
+Hematology,Part-1: RBC Basics & Development,Hemolysis Site (IVH/EVH),Lab/urine features of intravascular hemolysis (IVH).,"Hemoglobinuria, hemosiderinuria, decreased haptoglobin."
+Hematology,Part-1: RBC Basics & Development,Hemolysis Site (IVH/EVH),Conditions causing predominantly intravascular hemolysis.,"PNH, MAHA, macroangiopathic AHA, malaria, cold hemolysin."
+Hematology,Part-1: RBC Basics & Development,Hemolysis Site (IVH/EVH),Clinical features of extravascular hemolysis (EVH).,"Jaundice, gallstones, hepatosplenomegaly (HSM)."
+Hematology,Part-1: RBC Basics & Development,Hemolysis Site (IVH/EVH),Conditions causing predominantly extravascular hemolysis.,"HS, HE, SCA, thalassemia, cold agglutinin."
+Hematology,Part-1: RBC Basics & Development,Hemolysis Site (IVH/EVH),Which conditions cause BOTH intra- and extravascular hemolysis?,G6PD deficiency and warm-antibody AIHA.
+Hematology,Part-1: RBC Basics & Development,Drug-Induced Hemolytic Anemia,Hapten model of drug-induced hemolytic anemia: example drug and mechanism.,Penicillin; IgG against the drug bound to the RBC causes hemolysis by complement/phagocytosis (an antigenic-drug mechanism).
+Hematology,Part-1: RBC Basics & Development,Drug-Induced Hemolytic Anemia,Immune-complex model of drug-induced hemolytic anemia: example drug.,Quinidine; drug-carrier-antibody-C3b complex binds C3b receptors -> hemolysis by complement (antigenic-drug mechanism).
+Hematology,Part-1: RBC Basics & Development,Drug-Induced Hemolytic Anemia,Autoimmune model of drug-induced hemolytic anemia: example drug and how it differs.,Alpha-methyldopa; antibody targets normal RBC antigens -> hemolysis by phagocytosis (a tolerance-breaking drug).
+Hematology,Part-1: RBC Basics & Development,Drug-Induced Hemolytic Anemia,How are the drug-induced hemolytic anemia mechanisms grouped?,Hapten and immune-complex models = antigenic drugs; autoimmune model = tolerance-breaking drug.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Membrane Defect Cells,"Elliptocyte: which membrane protein is defective, and which disease results?",Spectrin defect; leads to hereditary elliptocytosis (HE).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Membrane Defect Cells,What surface-area change defines a spherocyte?,Decreased surface area-to-volume ratio.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Membrane Defect Cells,Which membrane protein defect underlies the spherocyte?,Ankyrin defect.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Membrane Defect Cells,List the causes of spherocytes.,"AIHA (most common), HS, G6PD, burns, blood-transfusion reaction."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Membrane Defect Cells,Mushroom / pincer cells indicate a defect in which protein?,Band 3 defect.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Membrane Proteins,Which is the most abundant RBC membrane protein?,Glycophorin A.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Membrane Proteins,Which RBC membrane protein is NOT defective in HS?,Glycophorin A.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Membrane Proteins,Which protein maintains the biconcave shape of the RBC?,Spectrin (alpha and beta subunits).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Membrane Proteins,A defect in which RBC membrane protein is the most severe?,Spectrin.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,"In HS, give the order of defect frequency and what causes the autosomal-recessive form.",Ankyrin > Band 3; the autosomal-recessive form is due to a spectrin defect. (FLAG: the exact % in the source is hard to read - appears ~31-34%.)
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,What is the inheritance pattern of HS?,Autosomal dominant.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,What is the RBC lifespan in HS?,10-20 days.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,List the diagnostic lab findings in HS.,"Increased osmotic fragility, increased MCHC, increased RDW, normal MCV, normal MCH."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,What is the confirmatory test for HS?,EMA binding test (flow cytometry).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,What causes an aplastic crisis in HS?,Parvovirus B19 (affects the bone marrow).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,What triggers a haemolytic crisis in HS?,EBV.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Hereditary Spherocytosis,What is the management of HS?,Splenectomy.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Inclusions,Which RBC inclusions are grouped under the supravital-stain heading in these notes?,"Heinz bodies, Howell-Jolly bodies, Pappenheimer bodies, Cabot rings."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Inclusions,Heinz bodies: composition and associated condition?,Composition = denatured Hb; condition = G6PD deficiency.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Inclusions,Howell-Jolly bodies: composition (as written in the notes)?,RNA remnant. (FLAG: notes say 'RNA remnant'; standard teaching is a nuclear/DNA remnant.)
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Inclusions,Howell-Jolly bodies: associated conditions?,"Asplenia (SCA), thalassemia, megaloblastic anemia."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Inclusions,Pappenheimer bodies: composition and associated condition?,Composition = iron deposits; condition = sideroblastic anemia.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Inclusions,Cabot rings: composition and associated conditions?,Composition = microtubules; conditions = thalassemia and megaloblastic anemia.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),RBC Inclusions,Fine basophilic stippling is associated with which deficiency?,B12 deficiency.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Megaloblastic Findings,What is the significance of a macro-ovalocyte?,It is the earliest finding of B12 deficiency.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Megaloblastic Findings,Give the criteria for a hypersegmented neutrophil.,"Greater than or equal to 5% of neutrophils with 5 lobes, OR at least 1 neutrophil with 6 lobes."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,Bite cells (degmacytes) indicate which enzyme defect?,G6PD deficiency.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,What is the inheritance of G6PD deficiency?,X-linked recessive.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,"Which ethnic descent is associated with G6PD deficiency, and which form is most severe?",African/Mediterranean descent; the Mediterranean variant is the most severe form.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,What type(s) of hemolysis occur in G6PD deficiency?,Both intravascular and extravascular hemolysis (IVH + EVH).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,What malaria-related advantage does G6PD deficiency confer?,Protection against P. falciparum.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,Name the diagnostic tests for G6PD deficiency.,G6PD enzyme assay and the methemoglobin (MetHb) reduction test.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,"Why do bite cells in G6PD deficiency cause no HSM or gallstones, and which cells are affected?",Hemolysis is transient (so no HSM/gallstones); it affects the older RBCs.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,List the non-drug triggers of oxidative hemolysis in G6PD deficiency.,Chronic infections (e.g. pneumonia) and fava beans.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),G6PD Deficiency,List the drugs that precipitate hemolysis in G6PD deficiency.,"Menadione, primaquine/tafenoquine (> chloroquine), nalidixic acid, nitrofurantoin, isoniazid, sulfonamide, dapsone."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,What is the basic mechanism of sideroblastic anemia?,Excess iron due to defective heme synthesis.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,Which enzyme is deficient in the X-linked recessive form of sideroblastic anemia?,ALA synthase deficiency.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,How do isoniazid and B6 deficiency cause sideroblastic anemia?,They inhibit ALA synthase.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,Which enzymes does lead poisoning inhibit?,ALA dehydratase and ferrochelatase.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,How does alcohol cause sideroblastic anemia?,It acts as a mitochondrial toxin.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,What type of basophilic stippling is seen in sideroblastic anemia?,Coarse basophilic stippling.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,Define a ringed sideroblast and the stain used.,Perl's/Prussian blue stain; at least 5 iron perinuclear granules covering one-third of the nucleus.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sideroblastic Anemia,What is an important differential diagnosis of sideroblastic anemia?,MDS (myelodysplastic syndrome).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Drepanocytes are also called what?,Sickle cells (seen in SCA).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Give the order of disease severity by hemoglobin combination.,HbSS > HbSC > HbSA > HbSF.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,List the manifestations of a vaso-occlusive crisis.,"Stroke, acute chest syndrome, dactylitis, priapism, fish-mouth vertebrae."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,What causes an aplastic crisis in SCA?,Parvovirus.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,What triggers a haemolytic crisis in SCA?,EBV.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Name the four crises of sickle cell anemia.,"Vaso-occlusive, aplastic, haemolytic, and sequestration crisis."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Outline the management of acute chest syndrome.,"Supplemental O2, macrolides + cephalosporins, blood transfusion, incentive spirometry."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,What is the inheritance pattern of SCA?,Autosomal recessive.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Which ethnic descent is associated with SCA?,African and Mediterranean descent.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,What happens to the ESR and the spleen in SCA?,Low ESR; autosplenectomy.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Describe the properties of the sickle-cell polymer.,"Sticky, stiff, with decreased solubility."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,"Which factors increase sickling, and what index do they raise?","Acidosis, hypoxia, and dehydration; they increase MCHC."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,"Which factor decreases sickling, and what is the clinical consequence?",HbF; clinical features manifest only after 6 months of age.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,What is the screening test for SCA and how is it performed?,Sickling test - artificial hypoxia using 2% Na metabisulphite.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,What is the investigation of choice (IOC) for SCA?,HPLC.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Outline the management of SCA.,Hydration and hydroxyurea (raises HbF); HSCT is the treatment of choice.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Sickle Cell Anemia,Give the Hb composition of sickle-cell trait and its protective effect.,HbA 60% + HbS 40%; protective against P. falciparum.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,Codocytes are also known as what?,Target cells.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,List the causes of target cells (codocytes).,"Thalassemia, IDA, liver disease, HbC, asplenia."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,Dacrocytes are also known as what?,Teardrop cells.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,What causes teardrop cells (dacrocytes)?,"Myelophthisis - myelofibrosis, metastasis, or granulomatous disease."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,Schistocytes are also known as what?,Helmet cells.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,List the causes of schistocytes (helmet cells).,"Macroangiopathic AHA (prosthetic heart valves) and MAHA (DIC, HUS, TTP)."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,Echinocytes are also known as what?,Burr cells.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,List the causes of echinocytes (burr cells).,"Renal failure, uremia, burns, PK deficiency, storage artefact, premature infants after blood transfusion."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,Acanthocytes are also known as what?,Spur cells.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Poikilocytes,List the causes of acanthocytes (spur cells).,"Severe liver disease, abetalipoproteinemia, vitamin E deficiency, hyposplenism."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Rouleaux & Agglutination,List the causes of rouleaux formation.,"Multiple myeloma, autoimmune disease, early HIV, and diseases with raised ESR."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),Rouleaux & Agglutination,RBC agglutination on a smear is associated with what?,AIHA.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),AIHA,What hypersensitivity type and Coombs result characterize AIHA?,Type II hypersensitivity; direct Coombs positive.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),AIHA,"Warm AIHA: temperature, causes, antigen/antibody, and hemolysis type?",37 degrees; causes SLE/CLL/beta-lactams; Rh antigen with IgG antibody; both IVH and EVH.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),AIHA,What is Evan's syndrome?,Warm AIHA + ITP (associated with CLL).
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),AIHA,Cold AIHA: temperature and causes?,0-4 degrees; Mycoplasma/EBV.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),AIHA,"Cold agglutinin: target antigen, antibody class, and hemolysis type?",'I' antigen; IgM antibody; extravascular hemolysis.
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),AIHA,"Cold hemolysin: target antigen, antibody, and hemolysis type?","'P' antigen; Donath-Landsteiner (IgG) antibody; intravascular, biphasic hemolysis."
+Hematology,Part-2: RBC Morphology (Poikilocytes & Inclusions),AIHA,What do cold agglutinin and cold hemolysin have in common regarding complement?,Both are complement positive.
+Hematology,Part-3: Microcytic Anaemia,Plummer-Vinson Syndrome,What is the triad of Plummer-Vinson (Paterson-Brown-Kelly) syndrome?,"IDA, esophageal web, and atrophic glossitis."
+Hematology,Part-3: Microcytic Anaemia,Hepcidin,Which organ produces hepcidin?,The liver.
+Hematology,Part-3: Microcytic Anaemia,Hepcidin,"Hepcidin is regulated by which proteins, and what does dysfunction of each cause?",HFE and HJV (dysfunction -> hemochromatosis); TMPRSS6 (dysfunction -> iron-refractory IDA).
+Hematology,Part-3: Microcytic Anaemia,Hepcidin,"When hepcidin degrades ferroportin, what type of anemia results?",Microcytic hypochromic anemia.
+Hematology,Part-3: Microcytic Anaemia,Hepcidin,"When hepcidin degrades CFU-E, what type of anemia results?",Normocytic normochromic anemia.
+Hematology,Part-3: Microcytic Anaemia,IDA Diagnosis,What is the gold-standard test for IDA?,Bone marrow iron.
+Hematology,Part-3: Microcytic Anaemia,IDA Diagnosis,What is the most sensitive test for IDA?,The sTfR (soluble transferrin receptor)-to-log-ferritin ratio (> 1.5).
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,"IDA: give serum iron, TIBC/transferrin, ferritin, and % transferrin saturation.","Serum iron down, TIBC/transferrin up, ferritin down, % saturation markedly down."
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,What is the earliest iron-study change in IDA?,Decreased ferritin.
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,"ACD: give serum iron, TIBC, ferritin, and % transferrin saturation.","Serum iron down, TIBC down, ferritin up (due to inflammation), % saturation down."
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,Which cytokines are raised in anemia of chronic disease (ACD)?,IL-6 and IL-1.
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,"Sideroblastic anemia: give serum iron, TIBC, ferritin, and % transferrin saturation.","Serum iron up, TIBC down, ferritin up, % saturation markedly up."
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,What is the management of sideroblastic anemia (iron overload)?,Phlebotomy and iron (Fe) chelators.
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,Which protoporphyrin marker is raised in IDA?,Free erythrocyte protoporphyrin is increased.
+Hematology,Part-3: Microcytic Anaemia,Iron Studies,"How many Fe molecules does one transferrin bind, and what is the normal % transferrin saturation?",Each transferrin binds 2 Fe (ideal = 6 Fe); % transferrin saturation = serum iron/TIBC = 2/6 x 100 = ~33%.
+Hematology,Part-3: Microcytic Anaemia,IDA vs Thalassemia,Give the Mentzer index formula and how it distinguishes IDA from thalassemia minor.,"Mentzer index = MCV / RBC count; IDA > 13, thalassemia minor < 13."
+Hematology,Part-3: Microcytic Anaemia,IDA vs Thalassemia,Give the RDW values for IDA vs thalassemia minor.,IDA RDW > 14.5; thalassemia minor RDW 11.5 to 14.5.
+Hematology,Part-3: Microcytic Anaemia,IDA Stages,List the three stages of IDA.,1) Decreased iron storage; 2) iron-deficient erythropoiesis; 3) IDA (with peripheral-smear findings).
+Hematology,Part-3: Microcytic Anaemia,IDA Stages,Pencil cells on the smear are seen in which anemia?,IDA.
+Hematology,Part-3: Microcytic Anaemia,IDA Smear & Features,How is microcytosis defined on smear in IDA?,RBC smaller than a lymphocyte nucleus.
+Hematology,Part-3: Microcytic Anaemia,IDA Smear & Features,How is hypochromia defined on smear in IDA (and the normal RBC size)?,Central pallor greater than one-third of the cell; normal RBC = 7-8 micrometers.
+Hematology,Part-3: Microcytic Anaemia,IDA Smear & Features,"Besides micro/hypochromia, list other peripheral-smear findings in IDA.","Poikilocytosis, anisocytosis (raised RDW), and reactive thrombocytosis."
+Hematology,Part-3: Microcytic Anaemia,IDA Smear & Features,List the clinical features of IDA.,"Koilonychia, angular stomatitis, cheilitis, and pica."
+Hematology,Part-3: Microcytic Anaemia,Iron-Deficient vs Excess State,"In an iron-DEFICIENT state, what happens to iron uptake, transferrin-receptor synthesis, and transferrin-receptor mRNA?",All increase.
+Hematology,Part-3: Microcytic Anaemia,Iron-Deficient vs Excess State,"In an iron-DEFICIENT state, what happens to iron storage and ferritin synthesis?",Both decrease.
+Hematology,Part-3: Microcytic Anaemia,Iron-Deficient vs Excess State,"In an iron-EXCESS state, what happens to iron uptake, transferrin-receptor synthesis, and transferrin-receptor mRNA?",All decrease.
+Hematology,Part-3: Microcytic Anaemia,Iron-Deficient vs Excess State,"In an iron-EXCESS state, what happens to iron storage and ferritin synthesis?",Both increase.
+Hematology,Part-3: Microcytic Anaemia,Iron-Deficient vs Excess State,What happens to ferritin mRNA concentration in iron-deficient vs iron-excess states?,No change in either state.
+Hematology,Part-3: Microcytic Anaemia,Response to Iron Therapy,Response to iron therapy at 12-24 hours?,"Increased appetite, subjective improvement, decreased irritability, and replenishment of intracellular iron enzymes."
+Hematology,Part-3: Microcytic Anaemia,Response to Iron Therapy,"Response to iron therapy at 36-48 hours, and its significance?",Erythroid hyperplasia in the bone marrow - the earliest hematological response.
+Hematology,Part-3: Microcytic Anaemia,Response to Iron Therapy,Response to iron therapy at 48-72 hours?,Reticulocytosis.
+Hematology,Part-3: Microcytic Anaemia,Response to Iron Therapy,Response to iron therapy at 4-30 days?,Increase in hemoglobin level.
+Hematology,Part-3: Microcytic Anaemia,Response to Iron Therapy,Response to iron therapy at 1-3 months?,Repletion of stores (ferritin).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Osmotic Fragility,"What reagent does the NESTROFT use, and how is a normal result read?",0.3% NaCl; normally RBCs lyse so the solution clears and the line behind the tube is visible.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Osmotic Fragility,In which conditions is osmotic fragility DECREASED?,Thalassemia and SCA (sickle cell anemia / thalassemia major).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Osmotic Fragility,In which condition is osmotic fragility INCREASED (right-shifted curve)?,Hereditary spherocytosis.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,What is HPLC the gold standard for?,Diagnosis of hemoglobinopathies.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,What medium and pH are used for Hb electrophoresis?,Cellulose acetate at pH 8.4.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,Give the Hb migration order from cathode to anode.,"C, S, F, A (HbA migrates furthest toward the anode)."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,What does band 'A' represent on Hb electrophoresis?,"Normal hemoglobin beta chain (HbA, adult)."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,"Identify the conditions for bands AA, AF, AS, SS, AC, CC, SC.",AA = normal adult; AF = normal newborn; AS = sickle cell trait; SS = SCA; AC = HbC trait; CC = HbC disease; SC = HbS-C.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,Sickle cell trait (AS) carries an increased risk of which cancer?,Medullary renal cell carcinoma (RCC).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,What is the missense mutation in HbS?,Glu -> Valine.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,HPLC / Hb Electrophoresis,What is the missense mutation in HbC?,Glu -> Lysine (more basic).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,What gene is defective in PNH?,PIGA gene.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,"Which proteins are defective in PNH, and what is their normal role?","GPI-anchored proteins CD59, CD55 and C8-binding protein, which normally bind/inhibit complement."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,Give the alternate names of CD59 and CD55.,CD59 = MIRL; CD55 = DAF.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,What is the investigation of choice for PNH?,Flow cytometry (for CD55/CD59).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,Name two other tests for PNH besides flow cytometry.,Ham's test (acidified serum lysis) and the sucrose lysis test.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,Why is hemolysis worse at night in PNH?,Decreased pH at night (from CO2 retention) increases complement-mediated hemolysis.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,What type of hemolysis occurs in PNH?,"Intravascular, complement-mediated hemolysis."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,What is the most common cause of death in PNH?,Thrombosis - Budd-Chiari syndrome.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,What is the LAP score in PNH?,Low.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,PNH is associated with which marrow conditions?,"Aplastic anemia, leukemia (AML), and MDS."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,What drug treats PNH and what does it target?,Eculizumab - an anti-C5 (complement C5) inhibitor.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,PNH,"At what level is the defect in PNH, and what is the curative treatment?",Defect is at the stem-cell level; TOC = HSCT.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What are the two broad classes of hematopoietic agents?,Erythropoietic and granulopoietic.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,Name the EPO analogues and state which is longer-acting.,Epoetin alpha and darbepoietin (darbepoietin is longer-acting).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,Name the EPO receptor ('R') agonist.,Peginesatide.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,EPO is the drug of choice for anemia due to which causes?,"Anemia due to CRF, dialysis, zidovudine, cytotoxic drugs, and premature infants."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,List the side effects of EPO.,"HTN, iron deficiency, thrombosis, PRCA, and flu-like symptoms."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,How do G-CSF analogues compare with GM-CSF in potency and toxicity?,G-CSF is more potent and less toxic.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,"Name the G-CSF analogues, including the short- and long-acting forms.",Lenograstim and filgrastim (short-acting); long-acting derivatives are lipegfilgrastim and pegfilgrastim.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,Why must G-CSF be used cautiously in SCA?,It can trigger a sickle cell crisis (so it is contraindicated in SCA).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What are the uses of G-CSF?,"Neutropenia due to myelodysplasia, aplastic anemia, chemotherapy, and HIV."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What is the characteristic side effect of G-CSF?,Bone pain.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,Name the GM-CSF analogue and its potency/toxicity profile.,"Sargramostim; less potent, more toxic."
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What is the characteristic side effect of GM-CSF?,Capillary leak syndrome.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,Name the TPO agonists.,Romiplostim and eltrombopag.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What is eltrombopag used for?,Chronic ITP.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,List the side effects of TPO agonists.,Portal-vein thrombosis and AML.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,Name the newer TPO drugs and their use.,Avatrombopag and lusutrombopag - to prevent procedural bleeding in cirrhotic patients (e.g. dental extraction).
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What is oprelvekin and what is it used for?,An IL-11 analogue used for chemotherapy-induced thrombocytopenia.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What is the side effect of oprelvekin?,Fluid retention leading to CHF/edema.
+Hematology,Part-4: Hemolytic Anaemia Tests & Hematopoietic Agents,Hematopoietic Agents,What is the mechanism and use of plerixafor?,CXCR-4 antagonist; peripheral blood stem-cell mobilisation prior to autologous SCT in NHL and MM with inadequate response to G-CSF.
+Hematology,Part-5: Thalassemia,Thalassemia Overview,What is the effect of co-inheriting SCA with thalassemia?,Decreased severity of hemolytic anemia.
+Hematology,Part-5: Thalassemia,Thalassemia Overview,What is the screening test for thalassemia?,HPLC / Hb electrophoresis.
+Hematology,Part-5: Thalassemia,Thalassemia Overview,What is the confirmatory test for thalassemia?,Globin gene sequencing.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia Hb Levels,"In beta-thalassemia minor/trait, give HbA, HbA2 and HbF.","HbA <=90%, HbA2 >=4%, HbF up to 5%."
+Hematology,Part-5: Thalassemia,Beta-Thalassemia Hb Levels,"In beta-thalassemia intermedia, give HbA, HbA2 and HbF.","HbA <=50%, HbA2 >=4%, HbF up to 50%."
+Hematology,Part-5: Thalassemia,Beta-Thalassemia Hb Levels,"In beta-thalassemia major, give HbA, HbA2 and HbF.","HbA absent, HbA2 >=5%, HbF up to 95%."
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,What is the defect type and chromosome in alpha-thalassemia?,Deletion; chromosome 16 (2 pairs / 4 genes).
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,1 gene affected in alpha-thalassemia = ?,Alpha-thalassemia minima (asymptomatic).
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,2 genes affected in alpha-thalassemia = ? (give cis and trans genotypes),"Alpha-thalassemia minor (mild anemia); trans = (a-/a-), cis = (aa/--)."
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,Which alpha-thalassemia form (cis or trans) has higher transmission to offspring?,The cis form (aa/--) has higher transmission than trans.
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,3 genes affected in alpha-thalassemia = ?,Hemoglobin H disease (HbH; beta-4 tetramers; severe anemia).
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,4 genes affected in alpha-thalassemia = ?,Hemoglobin Barts (gamma-4; fetal hydrops -> IUFD).
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,What is the smear appearance in HbH disease?,Golf-ball appearance (beta-4 tetramers).
+Hematology,Part-5: Thalassemia,Alpha-Thalassemia,Why is alpha-thalassemia less severe than beta-thalassemia?,"Free beta and gamma chains are more soluble than alpha chains, so hemolysis is less severe."
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,What is the defect type and chromosome in beta-thalassemia?,Splicing defect; chromosome 11.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,What is the most common beta-thalassemia mutation in India?,IVS 1->5 G->C transition.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,List the other defects causing beta-thalassemia.,"Chain termination (beta-0), frameshift, transcription, and base-pair deletion."
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,Beta-thalassemia minor: genotype and Hb level?,beta/beta+ or beta/beta0; Hb > 8.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,Beta-thalassemia intermedia: genotype and Hb level?,beta+/beta+ or beta+/beta0; Hb 5-8.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,Beta-thalassemia major (Cooley anemia): genotype and Hb level?,beta0/beta0; Hb < 5.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,What is the transfusion status of beta-thalassemia major and its consequence?,"Transfusion dependent, leading to iron overload."
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,What is the IOC for iron overload in beta-thalassemia major?,Quantitative liver iron with T2 MRI.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,Beta-thalassemia major carries increased risk of which infection?,Yersinia enterocolitica.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,What skull X-ray finding is seen in beta-thalassemia major?,Crew-cut / hair-on-end appearance.
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,Describe the facies of beta-thalassemia major.,"Chipmunk facies - frontal bossing, flat nasal bridge, prominent cheek bones."
+Hematology,Part-5: Thalassemia,Beta-Thalassemia,What process causes the bony changes and facies in beta-thalassemia major?,Extramedullary hematopoiesis.
+Hematology,Part-6: WBCs (Granulopoiesis),WBC Marker,What common surface marker do WBCs express?,CD45+.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,Which myeloid stages are in the proliferation+maturation phase versus the only-maturation phase?,Proliferation + maturation: myeloblast -> promyelocyte -> myelocyte. Only maturation: metamyelocyte -> band form -> neutrophil.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,"Which myeloid cell shows Auer rods, and what disease are they associated with?",Myeloblast; Auer rods are seen in AML.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,"Which is the largest cell in the myeloid series, and what granules does it contain?",Promyelocyte; it contains primary (1 degree) granules.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,Which is the last myeloid stage capable of division?,Myelocyte.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,"What granules appear at the myelocyte stage, and what do they determine?",Specific granules; the lineage (N/B/E - neutrophil/basophil/eosinophil) is decided at this stage.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,"Give the nucleus shapes of the myelocyte, metamyelocyte, and band form.",Myelocyte = 'D' shape; metamyelocyte = 'G' shape; band form = 'U' shape.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,IL-5 promotes the development of which cell?,Eosinophil.
+Hematology,Part-6: WBCs (Granulopoiesis),Myeloid Maturation,IL-3 and IL-4 promote the development of which cell?,Basophil.
+Hematology,Part-6: WBCs (Granulopoiesis),Agranulocytosis,What is the most common cause of agranulocytosis?,Drug toxicity.
+Hematology,Part-6: WBCs (Granulopoiesis),Left Shift,Define a 'left shift'.,"Increased WBC production in a short span of time, where maturation cannot keep up with the speed (immature forms appear)."
+Hematology,Part-6: WBCs (Granulopoiesis),LAP Score,List the conditions with a LOW LAP score.,"CML, PNH, MDS, MM, HL, and obstructive jaundice."
+Hematology,Part-6: WBCs (Granulopoiesis),LAP Score,What is the main cause of a HIGH LAP score?,Leukemoid reaction.
+Hematology,Part-6: WBCs (Granulopoiesis),Leukemoid Reaction,List the causes of a leukemoid reaction.,"Acute infection, stress, pregnancy, asplenia (SCA), malignancy, aplastic anemia, acute hemolysis/severe haemorrhage, DKA, Down's syndrome, MPN except CML, and hypophosphatemia."
+Hematology,Part-6: WBCs (Granulopoiesis),Leukemoid Reaction,"What neutrophil changes does acute infection cause, and what are Dohle bodies?",Toxic granules and Dohle bodies (dilated ER); also seen in MDS.
+Hematology,Part-7: CD Markers & VEXAS,CD Markers,"Which CD markers identify T-cells, and which special stain is positive?","CD1, CD3, CD4, CD5, CD8; acid phosphatase positive."
+Hematology,Part-7: CD Markers & VEXAS,CD Markers,Which CD markers identify B-cells?,"CD10, CD19, CD20, CD21, CD23, CD79a."
+Hematology,Part-7: CD Markers & VEXAS,CD Markers,Which CD markers identify monocytes/macrophages?,"CD11c, CD13, CD14, CD15, CD33, CD64."
+Hematology,Part-7: CD Markers & VEXAS,CD Markers,Which CD markers identify NK-cells?,"CD16, CD56, CD94."
+Hematology,Part-7: CD Markers & VEXAS,CD Markers,Which CD marker identifies hematopoietic stem cells?,CD34.
+Hematology,Part-7: CD Markers & VEXAS,CD Markers,Which CD marker is the leukocyte common antigen?,CD45.
+Hematology,Part-7: CD Markers & VEXAS,CD Markers,CD30 is expressed by which cells?,"Activated B cells, T cells, monocytes, and Reed-Sternberg cells."
+Hematology,Part-7: CD Markers & VEXAS,ALL Immunophenotype,Early Pre-B ALL immunophenotype?,"TdT, DR, CD19, CD24."
+Hematology,Part-7: CD Markers & VEXAS,ALL Immunophenotype,Pre-B ALL (precursor/immature) immunophenotype?,"TdT, DR, CD10, CD19, CD20, CD24, cytoplasmic Ig (Cy Ig)."
+Hematology,Part-7: CD Markers & VEXAS,ALL Immunophenotype,Common ALL immunophenotype?,"CD19+, CD10+/CALLA+."
+Hematology,Part-7: CD Markers & VEXAS,ALL Immunophenotype,Mature B ALL (peripheral) immunophenotype?,"DR, CD19, CD20, CD24, surface Ig."
+Hematology,Part-7: CD Markers & VEXAS,ALL Immunophenotype,Pro-T ALL immunophenotype?,"CD3, CD7."
+Hematology,Part-7: CD Markers & VEXAS,ALL Immunophenotype,Pre-T ALL immunophenotype?,"TdT, CD2, CD3, CD4, CD5, CD7, CD8, CD34."
+Hematology,Part-7: CD Markers & VEXAS,ALL Immunophenotype,Mature T ALL immunophenotype?,"CD2, CD7, TdT."
+Hematology,Part-7: CD Markers & VEXAS,VEXAS Syndrome,What does the VEXAS acronym stand for?,"Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic."
+Hematology,Part-7: CD Markers & VEXAS,VEXAS Syndrome,What type of disorder is VEXAS?,An adult-onset inflammatory disorder.
+Hematology,Part-7: CD Markers & VEXAS,VEXAS Syndrome,What is the significance of VEXAS in terms of disease categories?,It is a bridge between rheumatologic and hematologic disorders.
+Hematology,Part-7: CD Markers & VEXAS,Peripheral B-cell Neoplasms,List the peripheral B-cell neoplasms.,"DLBCL, Burkitt lymphoma, follicular lymphoma, marginal zone lymphoma (splenic, nodal, extranodal), plasmacytoma/plasma cell myeloma, lymphoplasmacytic leukemia, CLL/SLL, B-cell prolymphocytic leukemia, hairy cell leukemia."
+Hematology,Part-7: CD Markers & VEXAS,Peripheral B-cell Neoplasms,Lymphoplasmacytic leukemia develops from which condition?,Waldenstrom.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MPN,List the MPNs in the WHO 2016 classification.,"CML, P-vera, JMML, PMF, CNL, CEL, ET, MPN-NOS."
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MPN,What WHO 2016 change was made to CML?,The accelerated phase was removed.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MPN,What WHO 2016 change was made to P-vera?,RBC mass was removed from the diagnostic criteria.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MPN,JMML Category I: what criterion was required?,Required absence of KMT2A.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MPN,JMML Category II: what change was made to the GM-CSF and STAT5 criteria?,GM-CSF hypersensitivity and STAT5 hyperphosphorylation were combined as one minor criterion.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MPN,JMML Category II: what was added as a minor criterion?,Thrombocytopenia with hypercellular BM.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MPN,JMML Category II: what cytogenetic change was made?,Elimination of monosomy 7 as a cytogenetic criterion.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MDS,List the MDS subtypes with a defining genetic abnormality.,Low blast with 5q deletion; low blast with SF3B1 mutation; biallelic TP53 inactivation.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MDS,List the morphologically defined MDS subtypes.,"MDS with low blasts, MDS-hypoplastic, MDS with increased blasts (IB1 & IB2), MDS-fibrosis."
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MDS,List the childhood MDN (myelodysplastic neoplasm) subtypes.,Childhood MDS with low blasts; childhood MDS with high blasts.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MDS/MPN,List the MDS/MPN entities.,"CMML (most common), MDS/MPN with neutrophilia, MDS/MPN with SF3B1 mutation and thrombocytosis, MDS/MPN-NOS."
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),MDS/MPN,What is the diagnostic monocyte criterion for CMML?,Greater than 0.5 x 10^9/L peripheral-smear monocytes.
+Hematology,Part-8: WHO Classification of Hematolymphoid Tumors (2016),Heavy Chain Diseases,Name the heavy chain diseases and their eponyms.,alpha-HCD = Seligmann's disease; gamma-HCD = Franklin's disease; mu-HCD.
+Hematology,Part-9: Pancytopenia,Pancytopenia Approach,Pancytopenia WITH hepatosplenomegaly and a hypercellular marrow points to what (and the exception)?,"Leukemia - except AML-M7, which gives a dry tap."
+Hematology,Part-9: Pancytopenia,Pancytopenia Approach,Pancytopenia with HSM and a dry tap points to what?,Myelophthisis.
+Hematology,Part-9: Pancytopenia,Pancytopenia Approach,List the causes of myelophthisis.,"Metastasis, hairy cell leukemia, granulomatous disease, and BM fibrosis."
+Hematology,Part-9: Pancytopenia,Pancytopenia Approach,List the smear findings of myelophthisis (leukoerythroblastosis).,"Dacrocytes (teardrop cells), nRBC, anemia, anisopoikilocytosis, blasts, polychromasia, and micromegakaryocytes."
+Hematology,Part-9: Pancytopenia,Pancytopenia Approach,Pancytopenia WITHOUT HSM and a hypercellular marrow points to what?,MDS.
+Hematology,Part-9: Pancytopenia,Pancytopenia Approach,Pancytopenia without HSM with a dry tap + BMB points to what?,Aplastic anemia.
+Hematology,Part-9: Pancytopenia,Pure Red Cell Aplasia,What is the normal bone marrow composition (fat vs cells)?,50% fat and 50% cells.
+Hematology,Part-9: Pancytopenia,Pure Red Cell Aplasia,What is the congenital cause of PRCA?,Diamond-Blackfan.
+Hematology,Part-9: Pancytopenia,Pure Red Cell Aplasia,What is the classic association of Diamond-Blackfan anemia?,PRCA + triphalangeal thumb.
+Hematology,Part-9: Pancytopenia,Pure Red Cell Aplasia,List the acquired causes of PRCA.,"Thymoma, large granular lymphocytic leukemia, and Parvovirus B19 (most common)."
+Hematology,Part-9: Pancytopenia,Hairy Cell Leukemia,What stain and mutation characterize hairy cell leukemia?,TRAP positive; BRAF V600E mutation.
+Hematology,Part-9: Pancytopenia,Hairy Cell Leukemia,List the markers of hairy cell leukemia.,"Annexin A1, CD11c, CD25, CD103."
+Hematology,Part-9: Pancytopenia,Hairy Cell Leukemia,"Which annexin is the HCL marker, versus the one seen in apoptosis?",Annexin A1 is the HCL marker (vs Annexin V seen in apoptosis).
+Hematology,Part-9: Pancytopenia,Hairy Cell Leukemia,"What type of splenomegaly occurs in HCL, and which pulp is involved?",Massive splenomegaly involving the red pulp (all other diseases involve white pulp).
+Hematology,Part-9: Pancytopenia,Hairy Cell Leukemia,"What is the DOC for HCL, and what infection risk does it carry?",Cladribine; increased risk of NTM (non-tuberculous mycobacteria) infections due to monocytopenia.
+Hematology,Part-9: Pancytopenia,Hairy Cell Leukemia,What is the treatment of refractory HCL?,Splenectomy / vemurafenib.
+Hematology,Part-9: Pancytopenia,Hairy Cell Leukemia,"What is the LM appearance of HCL, and what microscopy shows it best?",Fried-egg appearance; best seen with a phase-contrast microscope.
+Hematology,Part-9: Pancytopenia,MDS (clinical),What is the characteristic megakaryocyte in MDS?,Pawn-ball megakaryocyte.
+Hematology,Part-9: Pancytopenia,MDS (clinical),Describe the pseudo-Pelger-Huet anomaly and its cause.,A hyposegmented neutrophil due to a Lamin B receptor defect.
+Hematology,Part-9: Pancytopenia,MDS (clinical),Name the three dysplasias seen in MDS.,"Dyserythropoiesis, dysgranulopoiesis, and dysmegakaryopoiesis."
+Hematology,Part-9: Pancytopenia,MDS (clinical),What is the major risk of progression in MDS?,Increased risk of AML.
+Hematology,Part-9: Pancytopenia,MDS (clinical),Give the most common cytogenetic abnormality of primary MDS in children vs the elderly.,Monosomy 7 (most common in children); deletion 5q (most common in the elderly).
+Hematology,Part-9: Pancytopenia,MDS (clinical),What is the treatment for del(5q) MDS?,Lenalidomide.
+Hematology,Part-9: Pancytopenia,MDS (clinical),Secondary MDS is of what type?,Therapy-related.
+Hematology,Part-9: Pancytopenia,MDS (clinical),What is the TOC for MDS?,HSCT.
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,List the congenital causes of aplastic anemia.,"Fanconi's anemia (DNA repair defect), Diamond-Shwachman (BM failure + exocrine pancreas dysfunction), and dyskeratosis congenita (short telomeres)."
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,Distinguish Fanconi anemia from Fanconi syndrome.,Fanconi anemia = DNA repair defect (aplastic anemia); Fanconi syndrome = Type 2 RTA.
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,Give the triad of dyskeratosis congenita.,"Oral leukoplakia, nail dystrophy, and reticular skin pigmentation."
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,List the infectious causes of aplastic anemia.,"Non-A non-B hepatitis (most common), Hep B, Hep C, EBV, CMV, and Parvovirus B19."
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,List the drug causes of aplastic anemia.,"Cyclophosphamide, sulfonamides, and chloramphenicol."
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,List other acquired causes of aplastic anemia.,"Radiation, GVHD, PNH, toxins (benzene), and eosinophilic fasciitis."
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,What BM cellularity defines severe aplastic anemia?,Less than 25%.
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,Give the 2-of-3 peripheral criteria for severe aplastic anemia.,"Platelets < 20,000/uL, corrected retic < 1%, ANC < 500/uL."
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,What ANC defines very severe aplastic anemia?,ANC < 200/uL.
+Hematology,Part-9: Pancytopenia,Aplastic Anemia,What is the TOC for aplastic anemia (and alternative)?,HSCT (other: GM-CSF).
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Acute Leukemia (general),Acute leukemia: what features result from low Hb?,Pallor and fatigue.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Acute Leukemia (general),Acute leukemia: what features result from low platelets?,Petechiae and purpura.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Acute Leukemia (general),Acute leukemia: what results from low neutrophils?,Infections.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Acute Leukemia (general),"In a child, acute leukemia is which type, and what blast threshold?",ALL; >25% blasts.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Acute Leukemia (general),"In an adult, acute leukemia is which type, and what blast threshold?",AML; >20% blasts.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Acute Leukemia (general),Define aleukemic leukemia.,Peripheral-smear blasts < 20% but bone-marrow blasts > 20%.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Acute Leukemia (general),Define biphasic (biphenotypic) leukemia.,Both lymphoid and myeloid markers are positive.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia Risk Factors,List the common genetic risk factors for leukemia.,"ATM, Bloom syndrome, Fanconi syndrome, Down's syndrome, NF1."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Most common leukemia in children?,ALL.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Most common leukemia in Down's syndrome?,ALL.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Most common leukemia in Down's syndrome under 3 years?,AML-M7.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Most common leukemia in adults?,CLL.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Most common ACUTE leukemia in adults?,AML.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Leukemia most commonly associated with radiation?,AML.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Most common leukemia in the elderly?,CLL.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Most common leukemia in the West?,CLL.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Which leukemia is NOT associated with radiation?,CLL.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Leukemia One-liners,Which leukemia is associated with 13q deletion?,CLL.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CLL,What is the characteristic smear appearance of CLL?,Convent/school-girl appearance.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CLL,Which scoring systems are used in CLL?,Rai and Binet.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CLL,CLL can transform into what?,DLBCL (Richter syndrome) and prolymphocytic leukemia.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CML,What is the characteristic appearance of CML?,College-girl / garden-party appearance.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CML,What is the TOC for CML?,HSCT.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CML,What WHO change was made to CML?,The accelerated phase was omitted.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CML,List the bone-marrow findings in CML.,"Pseudo-Gaucher cells, sea-blue histiocytes, dwarf megakaryocytes, and M:E ratio raised to 15:1 (normal 3:1)."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CML,What is the IOC for CML?,FISH.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",CML,Give the cytogenetics and pathway of CML.,t(9;22)(q34;q11) -> BCR-ABL -> Philadelphia chromosome (210 kD) -> constitutive tyrosine kinase activation; treated with imatinib.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL FAB,Describe FAB L1 ALL and its prognosis.,"Small cells, scanty homogenous cytoplasm, round nucleus, no nucleoli; most common, best prognosis."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL FAB,Describe FAB L2 ALL.,"Large cells, moderate heterogenous cytoplasm, irregular nucleus, prominent nucleoli."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL FAB,Describe FAB L3 ALL and its prognosis.,"Large cells, abundant blue cytoplasm, round nucleus, prominent nucleoli; a.k.a. Burkitt-lymphoma-like; worst prognosis."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL WHO,"B-ALL: frequency, age, mutations, tissue/mediastinal involvement?",Most common; in children; LOF of PAX5/E2A/EBF; NO tissue or mediastinal involvement.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL WHO,"T-ALL: prognosis, age, mutation, tissue/mediastinum, special stain?",Worse prognosis; teenagers/adults; GOF of NOTCH1; tissue and mediastinal involvement; acid phosphatase positive.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Prognosis,List the good prognostic factors in ALL.,"Age 2-9 yrs, white, female, B-ALL/CD10+/early pre-B cell, L1, TLC < 20x10^9/L, hyperploidy (MC), trisomy 4 & 7, t(12;21)."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Prognosis,List the bad prognostic factors in ALL.,"Age <1 or >10 yrs/adults, black, male, T-ALL, L2/L3, TLC > 50x10^9/L, hypoploidy/pseudodiploidy, BCR-ABL fusion (190 kD), t(4;11)/MLL-AF4 fusion."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Prognosis,"Give the BCR-ABL fusion protein sizes in ALL, CML, and CNL.",ALL = 190 kD; CML = 210 kD; CNL = 230 kD.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Morphology,Describe the ALL lymphoblast.,"Hand-mirror cells; scanty cytoplasm; 1 nucleolus; PAS positive (dot-positive, c.f. AML-M6)."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Morphology,Which syndrome is a risk factor for ALL?,Li-Fraumeni syndrome.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Flow Cytometry,Pre-B and Pre-T ALL share which flow marker?,TdT positive.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Flow Cytometry,B-ALL flow cytometry markers?,"CD10, 19, 20, 21 positive."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Flow Cytometry,T-ALL flow cytometry markers?,"CD1, 2, 3, 5, 7, 8 positive."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Management,What is the TOC for ALL?,HSCT.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Management,What is the VAPD chemotherapy regimen for ALL?,"Vincristine, L-asparaginase, prednisolone, doxorubicin."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",ALL Management,What is used for CNS prophylaxis in ALL?,Intrathecal methotrexate.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Morphology,Describe the AML myeloblast and its stains.,"Abundant cytoplasm, 2-5 nucleoli, Phi bodies positive, MPO/SBB/NSE positive; Auer rods (lysosomes)."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Risk Factors,List the risk factors for AML.,"Radiation, P-vera, Kostmann syndrome (severe congenital neutropenia)."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,AML M0?,AML with minimal differentiation; MPO negative.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,AML M1?,AML without maturation; <10% mature cells.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,"AML M2 (features, cytogenetics, association)?",AML with maturation; most common subtype; t(8;21); associated with chloromas (MC site = orbit).
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,"AML M3 (name, prognosis, cytogenetics, pathway, association)?",Acute promyelocytic leukemia; best prognosis; t(15;17) -> PML-RARA -> decreased Vit A -> decreased promyelocyte-to-myelocyte conversion; associated with DIC.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,"AML M4 (name, cytogenetics, marker)?",Acute myelomonocytic leukemia; inv(16); increased serum muramidase/lysozyme.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,"AML M5 (name, features)?",Acute monoblastic and monocytic leukemia; leukemia cutis and gum involvement.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,"AML M6 (name, eponym, stain)?",Pure erythroid leukemia; a.k.a. Di Guglielmo disease; diffuse PAS positive (c.f. ALL).
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML FAB,"AML M7 (name, feature)?",Acute megakaryoblastic leukemia; dry tap.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",APL (M3),What is the management of APL (M3)?,ATRA + arsenic trioxide (As2O3).
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",APL (M3),APL differentiation syndrome: timing and mechanism?,Within 3 weeks of treatment initiation; adhesion of neoplastic cells to pulmonary vascular endothelium.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",APL (M3),List the features of APL differentiation syndrome.,"Fever, chest pain, dyspnea, fluid retention, pleural & pericardial effusion, hypoxemia, pulmonary infiltrates."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",APL (M3),Management of APL differentiation syndrome?,Steroids + stop ATRA.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Chloroma,Describe chloroma (myeloblastoma/granulocytic sarcoma).,"Green colour; MPO positive; LM = Anitschkov cells; CD43+, CD45+, CD117+."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Chloroma,The Faggot cell is associated with which leukemia?,APML (M3).
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Sweet Syndrome,"What is Sweet syndrome, and what is it associated with?","Febrile neutrophilic dermatosis; associated with AML (MC), IBD, SLE, GU malignancy, drugs (ATRA, G-CSF)."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",Sweet Syndrome,Give the triad of Sweet syndrome.,"Fever, neutrophilia, and edematous painful plaques (neutrophilic invasion)."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML WHO,AML with defining genetic abnormalities: what is the blast rule?,"Diagnosed with <20% blasts, except BCR-ABL1 and CEBPA which require >20% blasts."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML WHO,What is the second WHO category of AML?,AML defined by differentiation (similar to the FAB classification).
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Flow Cytometry,AML flow cytometry markers?,"CD13, 33, 117 positive."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Flow Cytometry,Markers for megakaryoblasts (AML-M7)?,"CD41, 61 positive."
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Flow Cytometry,What is the IOC in case of APML?,FISH.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Management,What is the AML induction regimen?,7+3 (cytarabine + daunorubicin).
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Management,AML consolidation is based on MRD - what is given for MRD negative vs positive?,MRD negative -> high-dose cytarabine; MRD positive -> HSCT.
+Hematology,"Part-10: Leukemia (Chronic, Acute, ALL, AML)",AML Management,Define minimal residual disease (MRD).,Less than 0.01% blasts in the bone marrow.
+Hematology,Part-11: Myeloproliferative Disorders,MPN Overview,What is the common pathophysiology of MPNs?,Activation of the growth-signalling pathway; panmyelosis.
+Hematology,Part-11: Myeloproliferative Disorders,MPN Overview,"What splenomegaly feature is seen in MPNs, and what is the exception?",Massive splenomegaly (dragging sensation in the abdomen) - except ET.
+Hematology,Part-11: Myeloproliferative Disorders,MPN Overview,What are the natural-history risks of MPNs?,Increased risk of transformation to AML; the spent phase leads to myelofibrosis.
+Hematology,Part-11: Myeloproliferative Disorders,MPN Overview,List the differential diagnoses of massive splenomegaly.,"Malaria, kala-azar, Gaucher's, hairy cell leukemia, CLL, lymphoma, sarcoidosis, AIHA."
+Hematology,Part-11: Myeloproliferative Disorders,MPN Comparison Table,"P-vera: RBC, WBC, platelets, JAK2?","RBC up-up, WBC up, platelets up, JAK2 +++. (P-vera is the most common MPN.)"
+Hematology,Part-11: Myeloproliferative Disorders,MPN Comparison Table,"ET: RBC, WBC, platelets, JAK2?","RBC normal, WBC normal, platelets up-up, JAK2 positive in 30-50% of cases."
+Hematology,Part-11: Myeloproliferative Disorders,MPN Comparison Table,"PMF: RBC, WBC, platelets?","RBC down, WBC down, platelets down."
+Hematology,Part-11: Myeloproliferative Disorders,MPN Comparison Table,"CML: RBC, WBC, platelets, JAK2?","RBC down, WBC up-up, platelets up, JAK2 negative."
+Hematology,Part-11: Myeloproliferative Disorders,MPN Comparison Table,Which JAK2-inhibitor drug can be used to manage MPNs?,Ruxolitinib.
+Hematology,Part-11: Myeloproliferative Disorders,MPN Comparison Table,"Erythromelalgia occurs in which MPNs, and by what mechanism?",P-vera and ET; due to increased platelets causing vasoconstriction.
+Hematology,Part-11: Myeloproliferative Disorders,Megakaryocyte Morphology,P-vera megakaryocyte morphology?,Hyperlobated with variable nuclear atypia.
+Hematology,Part-11: Myeloproliferative Disorders,Megakaryocyte Morphology,ET megakaryocyte morphology?,Hyperlobated with a staghorn nucleus.
+Hematology,Part-11: Myeloproliferative Disorders,Megakaryocyte Morphology,PMF megakaryocyte morphology?,Hyperlobated with a cloud-like nucleus.
+Hematology,Part-11: Myeloproliferative Disorders,Megakaryocyte Morphology,CML megakaryocyte morphology?,Hypolobated dwarf megakaryocyte with a large nucleus and very high N:C ratio.
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,List the major diagnostic criteria of P-vera.,1) Increased Hb (male 16.5/female 16) or increased Hct (male 49/female 48); 2) BM trilineage myeloproliferation with pleomorphic megakaryocytes; 3) JAK2 mutation positive.
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,What is the minor diagnostic criterion of P-vera?,Subnormal serum EPO level.
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,What are the consequences of increased RBCs in P-vera?,"Headache, TIA/stroke, MI, peptic ulcers, Budd-Chiari."
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,What does increased basophils/mast cells cause in P-vera?,Increased histamine -> aquagenic pruritus.
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,What is the TOC for P-vera?,Phlebotomy.
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,What is the new treatment for P-vera?,Ropeginterferon alpha-2b (SC).
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,List the causes of RELATIVE polycythemia (vs P-vera).,"Dehydration, Gaisbock syndrome, dengue haemorrhagic fever."
+Hematology,Part-11: Myeloproliferative Disorders,P-vera,List the causes of SECONDARY polycythemia (vs P-vera).,"Cyanotic heart disease, smokers/COPD, high-altitude residents, EPO-secreting tumors."
+Hematology,Part-11: Myeloproliferative Disorders,ET,How many criteria are required to diagnose ET?,4 out of 4.
+Hematology,Part-11: Myeloproliferative Disorders,ET,List the diagnostic criteria of ET.,1) Sustained platelet count > 450x10^9/L; 2) BM megakaryocytosis (enlarged mature) without increased WBC or RBC; 3) negative for P-vera/PMF/CML/MDS or any other myeloid neoplasm; 4) JAK2 V617F or MPL or calreticulin positive (or absence of those with no reactive thrombocytosis or IDA).
+Hematology,Part-11: Myeloproliferative Disorders,ET,What are the consequences of increased platelets in ET?,"Erythromelalgia, paresthesia, TIA."
+Hematology,Part-11: Myeloproliferative Disorders,ET,Outline the management of ET.,No thrombosis risk -> observation; risk present -> low-dose aspirin + cytoreduction (hydroxyurea/busulfan/IFN-alpha).
+Hematology,Part-11: Myeloproliferative Disorders,PMF,What is the diagnostic threshold for PMF?,3 major OR 2 major + 1 minor criteria.
+Hematology,Part-11: Myeloproliferative Disorders,PMF,List the major diagnostic criteria of PMF.,1) BM atypical megakaryocytosis with positive reticulin or collagen; 2) negative for P-vera/CML/MDS or other myeloid neoplasm; 3) JAK2 V617F or MPL or calreticulin positive (or absence of mutation -> rule out 2-degree fibrosis).
+Hematology,Part-11: Myeloproliferative Disorders,PMF,List the minor diagnostic criteria of PMF.,"Leukoerythroblastosis, increased serum LDH, anemia, palpable splenomegaly, leukocytosis > 11x10^9/L."
+Hematology,Part-11: Myeloproliferative Disorders,PMF,What drives the fibrosis in PMF?,PDGF released from the megakaryocytes.
+Hematology,Part-12: Hodgkin's Lymphoma,HL vs NHL,Describe the nodal pattern of Hodgkin's lymphoma.,"Single group of LNs, axial LNs, contiguous spread."
+Hematology,Part-12: Hodgkin's Lymphoma,HL vs NHL,Which sites are NOT involved in HL (but are in NHL)?,"Mesenteric nodes, Waldeyer's ring, and extranodal sites."
+Hematology,Part-12: Hodgkin's Lymphoma,HL vs NHL,What is the age distribution of HL?,Bimodal (15-20 years and elderly).
+Hematology,Part-12: Hodgkin's Lymphoma,HL vs NHL,Describe the nodal pattern of NHL.,"Multiple, peripheral LNs, non-contiguous spread; mesenteric/Waldeyer/extranodal involved; elderly."
+Hematology,Part-12: Hodgkin's Lymphoma,HL General,What is the IOC for Hodgkin's lymphoma?,Biopsy and histopathology.
+Hematology,Part-12: Hodgkin's Lymphoma,HL General,What does the ABVD regimen for HL consist of?,"Adriamycin/anthracycline (dauno > doxo), Bleomycin, Vinblastine, Dacarbazine."
+Hematology,Part-12: Hodgkin's Lymphoma,HL General,What is the most common LN site in HL?,Cervical.
+Hematology,Part-12: Hodgkin's Lymphoma,RS Cells,Give the markers of typical Reed-Sternberg cells.,"CD15+, CD30+, EBV LMP+ (most specific marker = PAX5)."
+Hematology,Part-12: Hodgkin's Lymphoma,RS Cells,Give the chromosome and pathway of REL in HL.,REL on chromosome 2p -> NF-kB -> B-cell proliferation.
+Hematology,Part-12: Hodgkin's Lymphoma,HL Subtypes,"Lymphocyte predominant HL: cell, markers, prognosis?","Popcorn cell (lymphohistiocytic variant); EMA+, CD20+, CD45+, BCL6+, CD15-, CD30-, EBV LMP-; best prognosis."
+Hematology,Part-12: Hodgkin's Lymphoma,HL Subtypes,"Nodular sclerosis HL: cell, features, frequency, prognosis?",Lacunar cell; collagen nodules + mediastinal involvement + uncommon EBV; most common in the world; good prognosis; M=F.
+Hematology,Part-12: Hodgkin's Lymphoma,HL Subtypes,"Mixed cellularity HL: cell, features, frequency?","Classical RS (owl's eye); mixed background, max association with EBV/HIV/B-symptoms, bimodal age; most common in India."
+Hematology,Part-12: Hodgkin's Lymphoma,HL Subtypes,Lymphocyte rich HL: cell?,Mononuclear RS (background lymphocyte).
+Hematology,Part-12: Hodgkin's Lymphoma,HL Subtypes,"Lymphocyte depleted HL: cell, host, prognosis?",Pleomorphic/mummified RS; immunocompromised host; worst prognosis.
+Hematology,Part-12: Hodgkin's Lymphoma,HL Staging,What staging system is used for HL?,Cotswold / Modified Ann-Arbor staging.
+Hematology,Part-12: Hodgkin's Lymphoma,HL Staging,"What do the suffixes A, B, and X mean in HL staging?",A = B symptoms absent; B = B symptoms present; X = >10 cm (bulky disease).
+Hematology,Part-12: Hodgkin's Lymphoma,HL Staging,What is the IOC for HL staging?,PET-CT.
+Hematology,Part-12: Hodgkin's Lymphoma,HL Staging,Give Ann-Arbor stages I-IV.,"I = single LN region; II = 2 or more regions same side of diaphragm; III = both sides of diaphragm (IIIs = spleen, IIIE = local/extranodal tissue); IV = disseminated extranodal involvement."
+Hematology,Part-12: Hodgkin's Lymphoma,HL Clinical,List the clinical features of HL.,"Pel-Ebstein fever (waxing-waning), B symptoms, painless rubbery LNs."
+Hematology,Part-12: Hodgkin's Lymphoma,HL Clinical,"What is the sex predilection of HL, and the exception?","Male > female, except nodular sclerosis (M=F)."
+Hematology,Part-12: Hodgkin's Lymphoma,HL Clinical,List the paraneoplastic syndromes of HL.,"Subacute cerebellar degeneration, minimal change disease, cholangitis, vanishing bile duct syndrome, pain on alcohol ingestion."
+Hematology,Part-12: Hodgkin's Lymphoma,HL Prognosis,"In HL prognosis, what matters more - stage or type?",Stage >> type.
+Hematology,Part-12: Hodgkin's Lymphoma,HL Prognosis,List the poor prognostic factors in HL.,"Age >45, Hb <10.5, WBC >15,000, serum albumin <4 g/dL, stage IV, absolute lymphocyte count <600/mm^3 (or <8% of leukocytes)."
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Translocations,Chromosome 8 (c-myc): which lymphoma and which translocations?,"Burkitt's lymphoma; t(8;14), t(8;22), t(2;8). (Note: t(8;21) is AML-M2, not Burkitt.)"
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Translocations,Chromosome 11 codes for which gene?,Cyclin-D1.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Translocations,Chromosome 14 codes for which gene?,IgH.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Translocations,Chromosome 18 codes for which gene?,Bcl-2.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Translocations,t(11;18) is associated with which lymphoma?,Marginal zone lymphoma (MALToma).
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Translocations,t(11;14) is associated with which lymphoma?,Mantle cell lymphoma.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Translocations,t(14;18) is associated with which lymphoma?,Follicular lymphoma.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Prognosis,List the components of the International Prognostic Index (IPI).,"Age, serum LDH, Ann-Arbor stage, extranodal involvement, performance status."
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Prognosis,NHL grade tends to be what in adults vs children?,Usually low grade in adults; high grade in children.
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell Origin,Naive B cells give rise to which neoplasms?,CLL/SLL (and precursor B cells -> B-ALL).
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell Origin,Mantle zone (naive B cells) gives rise to which lymphoma?,Mantle cell lymphoma.
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell Origin,Germinal center gives rise to which lymphomas ('everything else')?,"Follicular lymphoma, DLBCL, Burkitt."
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell Origin,Marginal zone memory B cell gives rise to which lymphoma?,"Marginal zone lymphoma (also DLBCL, CLL/SLL)."
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell Origin,Plasma B cell (post-germinal center) gives rise to what?,Multiple myeloma (MM).
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell Origin,From which cell does Hodgkin's lymphoma arise?,Post-germinal center B-cell (also CLL/SLL).
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Associations,H. pylori is associated with which lymphoma?,Extranodal marginal zone lymphoma.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Associations,Gluten-sensitive enteropathy is associated with which lymphoma?,Intestinal T-cell lymphomas.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Associations,Breast implants are associated with which lymphoma?,Anaplastic large cell lymphoma.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Associations,Hepatitis C is associated with which lymphoma?,Lymphoplasmacytic lymphoma.
+Hematology,Part-13: Non-Hodgkin Lymphoma,NHL Associations,HIV is associated with which lymphoma?,DLBCL.
+Hematology,Part-13: Non-Hodgkin Lymphoma,St Jude Staging,"The St Jude staging system is used for what, and who described it?",Pediatric NHL; described by Murphy.
+Hematology,Part-13: Non-Hodgkin Lymphoma,St Jude Staging,What defines St Jude stage IV?,Initial CNS or bone marrow involvement.
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell NHL Tree,What marker confirms a B-cell?,CD19/20+.
+Hematology,Part-13: Non-Hodgkin Lymphoma,B-cell NHL Tree,Which lymphomas fall under the CD10+/BCL6+ branch?,DLBCL and Burkitt lymphoma.
+Hematology,Part-13: Non-Hodgkin Lymphoma,DLBCL,List the key facts of DLBCL.,Diagnosis of exclusion; MC NHL; MC aggressive; MC extranodal; EBV+; can be bcl-2/myc/HAT+ (double/triple hit); poor prognosis; surface Ig+.
+Hematology,Part-13: Non-Hodgkin Lymphoma,DLBCL,Describe the LN histology of DLBCL.,Cells 4-5 times the size of a lymphocyte; sheets of pleomorphic lymphoid cells; complete effacement of LN architecture.
+Hematology,Part-13: Non-Hodgkin Lymphoma,DLBCL,Name the variants of DLBCL.,Primary effusion lymphoma and immunodeficiency-associated DLBCL.
+Hematology,Part-13: Non-Hodgkin Lymphoma,Burkitt Lymphoma,What markers and Ki67 characterize Burkitt lymphoma?,C-myc+; Ki67 100%.
+Hematology,Part-13: Non-Hodgkin Lymphoma,Burkitt Lymphoma,Describe the LN histology of Burkitt lymphoma.,Starry-sky pattern (due to histiocytes/macrophages).
+Hematology,Part-13: Non-Hodgkin Lymphoma,Burkitt Lymphoma,Name the clinical types of Burkitt lymphoma.,"African/endemic (jaw, mandible; EBV-associated), sporadic (ileocecal), HIV-associated (anywhere)."
+Hematology,Part-13: Non-Hodgkin Lymphoma,Burkitt Lymphoma,Describe the behavior and key complication of Burkitt lymphoma.,Aggressive but chemosensitive; most common cause of tumor lysis syndrome.
+Hematology,Part-13: Non-Hodgkin Lymphoma,Burkitt Lymphoma,What is the BM finding in Burkitt lymphoma?,Vacuolated cytoplasm (Oil Red O positive).
+Hematology,Part-13: Non-Hodgkin Lymphoma,Follicular Lymphoma,Describe follicular lymphoma (CD10+/BCL2+ branch).,Best prognosis; centrocytes + centroblasts; can transform into DLBCL.
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,The CD5+ branch splits into which two lymphomas?,CLL/SLL (CD23+) and mantle cell lymphoma (CD23-).
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,CLL/SLL: markers and deletions?,"CD5+, CD23+, CD200+; deletions at 13q/11q/17p."
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,CLL/SLL: smear appearance and characteristic cells?,Convent-girl appearance; smudge/basket/parachute cells (due to loss of vimentin).
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,CLL/SLL: pathophysiology via BTK?,BTK mutation -> increased BTK -> increased B cells -> increased IgGs -> AIHA and thrombocytopenia.
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,CLL/SLL: diagnostic criteria?,Absolute lymphocytosis > 5000/mm^3; BM > 30% lymphocytes.
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,CLL/SLL: pathognomonic LN finding?,Proliferation centers (small lymphoid cells + activated lymphoid cells).
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,CLL/SLL: good prognostic markers?,Trisomy 12q and deletion 13q.
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,CLL/SLL: poor prognostic markers?,"Deletion 11q/17p, NOTCH1 mutation, ZAP-70 positive, lack of somatic hypermutation."
+Hematology,Part-13: Non-Hodgkin Lymphoma,CLL/SLL & Mantle,Mantle cell lymphoma: markers and cells?,"CD5+, CD23-, Cyclin D1+, SOX11+; cleaved/buttock cells; lymphomatoid polyposis; poor prognosis."
+Hematology,Part-13: Non-Hodgkin Lymphoma,Marginal Zone L,Marginal zone lymphoma: markers?,"CD5-, CD23-, CD10-, CD43+."
+Hematology,Part-13: Non-Hodgkin Lymphoma,Marginal Zone L,Marginal zone lymphoma: inflammatory associations and MC site?,"Sjogren's, H. pylori, Hashimoto's; MC site = stomach."
+Hematology,Part-13: Non-Hodgkin Lymphoma,T-cell Lymphomas,What marker identifies T-cell lymphomas?,CD3+.
+Hematology,Part-13: Non-Hodgkin Lymphoma,T-cell Lymphomas,Cutaneous T-cell lymphoma: cell and origin?,Sezary cell (cerebriform nuclei); arises from mycosis fungoides.
+Hematology,Part-13: Non-Hodgkin Lymphoma,T-cell Lymphomas,"Adult T-cell leukemia: cell, virus, gene?",Flower/clover-leaf cell; HTLV-1; Tax gene.
+Hematology,Part-13: Non-Hodgkin Lymphoma,T-cell Lymphomas,Anaplastic large cell lymphoma: cell and gene?,Doughnut/hallmark cell; ALK gene (chromosome 2p).
+Hematology,Part-13: Non-Hodgkin Lymphoma,T-cell Lymphomas,Extranodal NK/T-cell lymphoma: key features?,Destructive nasopharyngeal mass; associated with EBV; highly aggressive; radiosensitive but chemoresistant.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,What two requirements must be met to diagnose MM?,1) Clonal BM plasma cells >=10% OR biopsy-proven bony/extramedullary plasmacytoma; AND 2) CRAB feature or a defining (SLiM) biomarker.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,Most common site of extramedullary plasmacytoma?,Upper respiratory tract.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,CRAB - what does C stand for?,Increased calcium (>11.5 mg/dL) -> nephrocalcinosis.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,CRAB - what does R stand for?,Renal insufficiency (creatinine >2 mg/dL or creatinine clearance <40 mL/min).
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,CRAB - what does A stand for?,Anemia (Hb <10 g/dL or 2 g/dL below normal).
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,"CRAB - what does B stand for, and the MC site?",Bone lesions (>=1 osteolytic lesion on skeletal X-ray/whole-body MRI/whole-body FDG PET-CT); MC site = vertebrae.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,MM defining biomarkers (SLiM) - what is S?,Greater than or equal to 60% clonal plasma cells in the BM.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,SLiM - what is Li?,Involved/uninvolved free light chain ratio >=100 (involved FLC >=100 mg/L).
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Diagnosis,SLiM - what is M?,MRI with more than one focal marrow lesion.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Investigations,MM skull X-ray finding?,Punched-out / raindrop lesions.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Investigations,MM peripheral smear finding (and why)?,Rouleaux (due to increased Ig and fibrinogen).
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Investigations,MM serum electrophoresis finding?,"M-spike (M-protein) in the gamma region, >3 g/dL."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Investigations,What is the normal kappa:lambda ratio?,60:40.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Cells,MM IHC markers?,Cyclin D1 and D3.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Cells,MM bone marrow finding?,Sheets of plasma cells.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Cells,Describe the MM plasma cell (features not seen on PS).,"Oval with eccentric nucleus, clockface/cartwheel chromatin, perinuclear hof/halo (Golgi zone)."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Cells,What are Mulberry/Mott cells?,Plasma cells with Igs forming grape-like clusters.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Cells,What are flame cells?,Plasma cells with Igs appearing like a flame.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Cells,Russell body - location?,Cytoplasmic.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Cells,Dutcher body - location (and other association)?,Nuclear (also seen in Waldenstrom).
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,MM most common translocation?,14q.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,MM good-prognosis cytogenetics?,Deletion 13q and hyperdiploidy.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,Give the MM cytokine pathway.,Increased IL-6 -> increased plasma cells -> Igs -> positive MiP1-alpha.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,What is the effect of MiP1-alpha on bone?,Increased osteoclast activity and decreased osteoblast activity.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,MM age of presentation?,60-70 years.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,MM A:G ratio?,Reversed.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,MM most common cause of death?,Infection.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Genetics/Epidemiology,MM bad prognostic marker?,Beta-2 microglobulin.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Flow & Mx,Normal plasma cell flow markers?,"CD19+, CD45+, CD38+, CD138+."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Flow & Mx,MM flow markers?,"CD19-, CD45-, CD38+, CD138+, Syndecan-1+."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Flow & Mx,Outline the management of MM.,"Chemotherapy (lenalidomide + bortezomib + dexamethasone) followed by autologous HSCT; if ineligible, continue chemotherapy."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Amyloid/Ig,Monoclonal complications of MM?,AL amyloidosis (-> pinch purpura) and Bence-Jones proteinuria.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Amyloid/Ig,Give the MM immunoglobulin frequency order.,IgG > IgA > IgM > IgD > IgE.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Amyloid/Ig,Which MM Ig types cause hyperviscosity?,IgG3 and IgA.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Amyloid/Ig,Features of IgD myeloma?,"Renal failure (decreased EPO), poor prognosis, no M-spike."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,MM Amyloid/Ig,Describe the behavior of Bence-Jones proteins.,"Precipitate at 40-60 C, disappear on boiling, and reappear on cooling (normal proteins precipitate at 100 C)."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,Other Plasma Cell Disorders,MGUS (most common) criteria?,"BM <10%, serum M-protein <3 g/dL, NO CRAB or SLIM."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,Other Plasma Cell Disorders,Smoldering myeloma (asymptomatic) criteria?,"BM >10%, serum M-protein >3 g/dL, but NO CRAB."
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,Other Plasma Cell Disorders,Plasma cell leukemia criterion?,More than 20% plasma cells on peripheral smear.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,Other Plasma Cell Disorders,Features of Waldenstrom's macroglobulinemia?,Increased IgM -> hyperviscosity syndrome; MYD88 mutation; associated with lymphoplasmacytic lymphoma; no decreased Ca2+/lytic lesions/plasmacytomas.
+Hematology,Part-14: Multiple Myeloma & Plasma Cell Disorders,Other Plasma Cell Disorders,Name two other plasma cell disorders (eponymous syndromes).,POEMS syndrome and TEMPI syndrome.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Granules,List the contents of platelet alpha-granules.,"P-selectin, PDGF, PF4, TGF-beta, fibrinogen, factor 5, vWF."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Granules,Which disorders result from alpha-granule deficiency?,Grey platelet syndrome and Quebec platelet syndrome.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Granules,List the contents of platelet dense (delta) granules.,"ADP, Ca2+, serotonin, epinephrine."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Granules,Which disorder results from dense-granule deficiency?,Hermansky-Pudlak syndrome.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,Step 1 (Injury): what happens?,Endothelial damage -> transient vasoconstriction via the neural stimulation reflex and endothelin (released from damaged cells).
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,"Step 2 (Exposure): what binds, and where does vWF come from?",vWF binds exposed collagen; vWF comes from Weibel-Palade bodies of endothelial cells and alpha-granules of platelets.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,Step 3 (Adhesion): how do platelets bind?,"Platelets bind vWF via the GpIb receptor at the site of injury, then undergo a conformational change."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,"During adhesion, what do platelets release?",ADP and Ca2+ (necessary for the coagulation cascade) and TXA2.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,Describe the platelet shape change on activation.,Round/disc-like -> sea-urchin-like (spikes/protrusions) with increased surface area.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,What creates the negative charge that activates the coagulation cascade?,Phosphatidylserine moving to the outer surface.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,Step 4 (Activation): describe the pathway.,ADP binds the P2Y12 receptor -> induces GpIIb/IIIa expression -> rapid irreversible aggregation.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,Step 5 (Aggregation): what links platelets?,Fibrinogen binds GpIIb/IIIa receptors and links platelets.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,List the pro-aggregation factors.,TXA2 (from platelets) and decreased blood flow.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Platelet Plug Steps,List the anti-aggregation factors.,PGI2 and NO (from endothelial cells) and increased blood flow.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Receptor Deficiencies,GpIb deficiency causes which disorder?,Bernard-Soulier syndrome.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Receptor Deficiencies,GpIIb/IIIa deficiency causes which disorder?,Glanzmann thrombasthenia.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Receptor Deficiencies,Give the CD numbers of GpIIb and GpIIIa.,GpIIb = CD41; GpIIIa = CD61.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Receptor Deficiencies,Antibodies against GpIIb/IIIa cause what?,ITP.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Receptor Deficiencies,vWF deficiency causes which disorder?,Von Willebrand disease.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Antiplatelet Targets,What does aspirin inhibit?,COX (reducing TXA2).
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Antiplatelet Targets,What do clopidogrel/prasugrel/ticagrelor/ticlopidine target?,The ADP (P2Y12) receptor.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Antiplatelet Targets,What do abciximab/eptifibatide/tirofiban target?,GpIIb/IIIa.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Endothelium,What are the contents of a Weibel-Palade body?,"vWF + P-selectin (also thromboplastin, tPA, PGI2)."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Bleeding Algorithm,Describe a platelet-type bleeding presentation.,"Petechiae, purpura, increased bleeding time (normal BT 2-9 min)."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Bleeding Algorithm,Which drugs cause drug-induced thrombocytopenia?,"Vancomycin, quinine, rifampin."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Bleeding Algorithm,Normal platelet count + abnormal ristocetin aggregation indicates?,Bernard-Soulier syndrome (giant platelets).
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Bleeding Algorithm,Normal platelet count + abnormal ADP/collagen aggregation indicates?,Glanzmann thrombasthenia.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Bleeding Algorithm,Reduced platelets + immature platelet >6% indicates?,ITP.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Bleeding Algorithm,Reduced platelets + immature platelet <6% indicates?,Aplastic anemia.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,ITP,ITP: Coombs result and hypersensitivity type?,Coombs positive; Type II hypersensitivity.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,ITP,Features of acute ITP?,"<6 months, without preceding viral infection, in children, self-limiting, TPC markedly decreased, F=M."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,ITP,Features of chronic ITP?,"More than 6 months, in adolescents/adults, TPC decreased, F:M = 3:1."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,ITP,Management of ITP?,"Steroids, IVIG, immunosuppressants, eltrombopag, romiplostim, fostamatinib."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,ITP,ITP and the spleen?,No splenomegaly (but splenectomy resolves the thrombocytopenia).
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,ITP,Causes of secondary ITP?,"HIV, Hep C, SLE, CLL, H. pylori."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,TTP/HUS,What is the mechanism of TTP/HUS?,ADAMTS13 mutation -> accumulation of HMW vWF multimers -> platelet activation -> thrombosis.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,TTP/HUS,What is the congenital form of TTP called?,Upshaw-Shulman syndrome.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,TTP/HUS,Give the pentad of TTP.,"MAHA, thrombocytopenia, renal failure, neurological abnormality, fever."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,TTP/HUS,What causes typical HUS?,E. coli O157:H7.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,TTP/HUS,What causes atypical HUS?,"Complement defect (Factor H, I) or CD46 defect."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,TTP/HUS,Give the triad of HUS.,"Thrombocytopenia, MAHA, renal failure."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,Describe a coagulation-type bleeding presentation and the normal PT/aPTT.,"Ecchymosis, hemarthrosis, increased clotting time; normal PT 11-15s, normal aPTT 30-35s."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,PT raised (aPTT normal): causes and why?,"Factor VII deficiency, early Vit K deficiency, early warfarin - because VII has the shortest half-life among factors 2, 7, 9, 10."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,aPTT raised (PT normal) in an adult: causes?,"APLA and acquired hemophilia (factor inhibitor, h/o repeated transfusions; detected by the Bethesda assay)."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,aPTT raised in a child: causes by factor and sex?,"Male -> Hemophilia A (VIII, XLR) and Hemophilia B/Christmas disease (IX, XLR); Female -> Hemophilia C (XI, AR)."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,Parahaemophilia is a deficiency of which factor?,Factor V.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,Both PT and aPTT normal: which deficiency?,Factor XIII deficiency.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,Why can hemophilia manifest in females?,Due to unfavorable lyonization.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Coagulation Disorders,Both PT and aPTT raised: causes?,"DIC, factor X deficiency, afibrinogenemia, late Vit K deficiency."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Hemophilia Management,"Hemophilia A, mild (VIII 6-50% of normal): management?",Desmopressin.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Hemophilia Management,"Hemophilia A, severe (VIII <1%): management?",Recombinant VIII concentrate / cryoprecipitate (FFP is deficient in VIII); 1 unit raises VIII by 2%.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,Hemophilia Management,Hemophilia B: management?,Recombinant factor / FFP (cryoprecipitate is deficient in IX); 1 unit raises IX by 1%.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,DIC,What is the alternate name for DIC?,Consumption coagulopathy.
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,DIC,List the lab findings in DIC.,"Decreased TPC; increased BT, CT, PT, aPTT; schistocytes on PS; increased FDP; increased D-dimer (most specific)."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,DIC,List the causes of DIC.,"Septic abortion, eclampsia, severe toxemia, burns, APML, colon/rectum/pancreas cancers."
+Hematology,Part-15: Platelet Plug & Bleeding/Clotting Disorders,DIC,What is Kasabach-Merritt syndrome?,Giant hemangioma + MAHA + DIC.
+Hematology,Part-16: Coagulation Cascade,Clotting Factors,Name clotting factors I-V.,I = Fibrinogen; II = Prothrombin; III = Tissue thromboplastin; IV = Calcium ions; V = Labile factor/Proaccelerin.
+Hematology,Part-16: Coagulation Cascade,Clotting Factors,Name clotting factors VII-XIII.,VII = Stable factor/Proconvertin; VIII = Antihemophilic factor A; IX = Christmas factor/PTC; X = Stuart-Prower factor; XI = Plasma thromboplastin antecedent (PTA); XII = Hageman factor; XIII = Fibrin-stabilising factor/Laki-Lorand factor.
+Hematology,Part-16: Coagulation Cascade,Clotting Factors,"Where are clotting factors produced, and what are the exceptions?",All in the liver except VIII (endothelial cells) and XIII (bone marrow).
+Hematology,Part-16: Coagulation Cascade,Cascade,"The intrinsic pathway is measured by which test, and what activates it for testing?",aPTT; activated with kaolin for testing.
+Hematology,Part-16: Coagulation Cascade,Cascade,"The extrinsic pathway is measured by which test, and what activates it for testing?",PT; activated with Ca2+/brain extract (tissue factor) for testing.
+Hematology,Part-16: Coagulation Cascade,Cascade,"What does the kinin cascade produce, and what are bradykinin's effects?","Kallikrein -> bradykinin -> increased vasodilation, permeability, and pain."
+Hematology,Part-16: Coagulation Cascade,Cascade,Name the regulatory anticoagulant proteins.,Proteins C and S.
+Hematology,Part-16: Coagulation Cascade,Cascade,Which factors do Proteins C and S inhibit?,Factors V and VIII.
+Hematology,Part-16: Coagulation Cascade,Cascade,"What activates Protein C, and where is it found?",Thrombomodulin (found throughout the circulation except cerebral).
+Hematology,Part-16: Coagulation Cascade,Cascade,Name the anticoagulants shown in the cascade.,"Heparin, LMWH, and direct thrombin inhibitors (argatroban, bivalirudin, dabigatran)."
+Hematology,Part-16: Coagulation Cascade,Fibrinolysis,Name the thrombolytics.,"Alteplase, reteplase, streptokinase, tenecteplase."
+Hematology,Part-16: Coagulation Cascade,Fibrinolysis,Name the antifibrinolytics.,Aminocaproic acid and tranexamic acid.
+Hematology,Part-16: Coagulation Cascade,Fibrinolysis,What does tPA convert?,Plasminogen -> plasmin.
+Hematology,Part-16: Coagulation Cascade,Fibrinolysis,What does plasmin produce?,Fibrin degradation products (e.g. D-dimer).
+Hematology,Part-16: Coagulation Cascade,Fibrinolysis,Name the regulators of fibrinolysis/anticoagulation.,"PAI, alpha-2 antiplasmin, TAFI."
+Hematology,Part-16: Coagulation Cascade,Protein C Deficiency,Protein C deficiency increases the risk of what?,"DVT, purpura fulminans (severe DIC), and warfarin-induced skin necrosis."
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,vWD: alternate name and epidemiological significance?,Pseudohemophilia; it is the most common inherited bleeding disorder.
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,List the sources of vWF.,"Weibel-Palade bodies, endothelium, megakaryocytes, liver."
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,vWF function 1 (adhesion) and the resulting defect?,"Platelet adhesion via GpIb -> a bleeding defect (increased BT, normal TPC)."
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,vWF function 2 (carrier of VIII) and the resulting defect?,"Carrier of factor VIII (raises its half-life from 2.4h to 12h) -> a clotting defect (increased CT, increased aPTT, normal PT, decreased VIII assay)."
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,vWD: RIPA and ReCoF findings?,"Per the notes, RIPA (ristocetin-induced aggregation) is marked increased and ReCoF (ristocetin cofactor assay) is decreased. (FLAG: standard teaching usually shows decreased RIPA except in type 2B.)"
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,"vWD Type 1: inheritance, defect, frequency, and Mx?",AD; partial deficiency (most common); treated with desmopressin.
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,"vWD Type 3: inheritance, defect, and Mx?",AR; complete absence; treated with Factor VIII infusions.
+Hematology,Part-16: Coagulation Cascade,von Willebrand Disease,"vWD Type 2 represents what kind of defect, and list its subtypes.","Qualitative defects; 2A (AD) adhesion defect, 2B (AD) thrombocytopenia, 2M (AD) adhesion defect, 2N (AR) called autosomal hemophilia."
+Hematology,Part-16: Coagulation Cascade,HHT (Osler-Weber-Rendu),"Osler-Weber-Rendu: alternate name, inheritance, and defect?",Hereditary haemorrhagic telangiectasia; autosomal dominant; defective TGF-beta signalling.
+Hematology,Part-16: Coagulation Cascade,HHT (Osler-Weber-Rendu),List the Curacao criteria for HHT.,"Epistaxis (spontaneous recurrent nosebleeds), family history (first-degree relative with HHT), telangiectasias (lips/oral cavity/fingers/nose), visceral lesions (GI telangiectasia, pulmonary/hepatic/cerebral/spinal AVM)."
+Hematology,Part-16: Coagulation Cascade,HHT (Osler-Weber-Rendu),Give the diagnostic thresholds for HHT.,Definite if 3 criteria present; possible/suspected if 2; unlikely if fewer than 2.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Which antiplatelet drugs are 'hit and run' (act longer than their half-life due to irreversible binding)?,"Aspirin, irreversible P2Y12 receptor blockers, ADP inhibitors, and PPIs."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Name the classes of antiplatelet drugs.,"Cox inhibitors, P2Y12 receptor blockers, GP IIb/IIIa inhibitors, phosphodiesterase inhibitors, and protease-activated receptor (PAR) inhibitor."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Aspirin: class and dose?,Cox inhibitor; 50-325 mg OD.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,List the uses of aspirin.,"2-degree prophylaxis of ACS (UA, MI) and ischemic stroke; treatment of ACS, Kawasaki disease, essential thrombocythemia, APLA."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,What is the main side effect of aspirin?,Bleeding.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Name the irreversible P2Y12 blockers.,"Ticlopidine, clopidogrel, prasugrel."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Ticlopidine: side effects (why is it not used)?,"Nausea/vomiting/diarrhea, agranulocytosis, TTP-HUS (so it is not used)."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Clopidogrel: activation and key interaction?,Activated by CYP2C19 (so contraindicated with omeprazole); used for 2-degree prophylaxis of ACS/stroke and treatment of ACS.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Prasugrel: properties and contraindication?,"Most potent, fastest-acting; used for PCI in STEMI; contraindicated in stroke/TIA (increased risk of IC bleed)."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Name the reversible P2Y12 blockers.,Ticagrelor and cangrelor (adenosine analogues).
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Ticagrelor: properties and use?,"Non-competitive, long-acting, oral; 2-degree prophylaxis of ACS and stroke."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Cangrelor: properties and use?,"Competitive, short-acting, IV; PCI in STEMI."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,GP IIb/IIIa monoclonal antibody: name and properties?,Abciximab (also inhibits vitronectin); shortest half-life but longest-acting (max affinity); IV/intracoronary.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,GP IIb/IIIa synthetic molecules: names and properties?,Eptifibatide and tirofiban; longest half-life but shortest-acting (min affinity).
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,Name the phosphodiesterase inhibitors and their use.,Dipyridamole and cilostazol; used as vasodilators.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antiplatelets,"PAR inhibitor: name, use, and contraindication?",Vorapaxar; 2-degree prophylaxis of ACS; contraindicated in stroke/TIA (increased risk of IC hemorrhage).
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Parenteral indirect anticoagulants: mechanism?,Activate AT-III; bind to and inhibit factors IIa and Xa.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,UFH: monitoring?,aPTT monitoring.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,List the uses of UFH.,"STEMI/UA, cardioembolic stroke, pulmonary embolism, catheter-induced thrombosis, cancer-induced thrombosis, patient on anticoagulant requiring thrombolysis."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,LMWH: examples and action ratio?,"Enoxaparin, dalteparin, tinzaparin; Xa > IIa."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,LMWH/Fondaparinux: contraindication and HIT note?,Contraindicated in renal failure (except UFH); does not cause HIT.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,What is the antidote for heparin?,Protamine sulfate (chemical antagonism).
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,List the side effects of heparin.,"Alopecia, haemorrhage, hyperkalemia, osteoporosis, HIT."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,List the contraindications of heparin.,"Thrombocytopenia, endocarditis, alcoholics, cirrhosis, severe HTN, eye surgery, neuro surgery, renal failure (except UFH)."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Name the parenteral direct thrombin inhibitors.,"Hirudin (natural/leech), lepirudin & desirudin (semi-synthetic), bivalirudin & argatroban (synthetic)."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Name the parenteral direct factor Xa inhibitor.,Otamixaban.
+Hematology,Part-17: Anti-platelets & Anticoagulants,HIT,"What is the DOC for HIT, and its renal caveat?",Direct thrombin inhibitors (argatroban is DOC); contraindicated in renal failure except argatroban (hepatic excretion).
+Hematology,Part-17: Anti-platelets & Anticoagulants,HIT,"HIT Type 1: timing, mechanism, course?",<5 days after treatment; due to platelet aggregation; self-limiting (most common).
+Hematology,Part-17: Anti-platelets & Anticoagulants,HIT,"HIT Type 2: timing, mechanism, consequence?",5-14 days after treatment; due to PF4 antibodies -> arterial and venous thrombosis; needs treatment.
+Hematology,Part-17: Anti-platelets & Anticoagulants,HIT,What is the IOC for HIT?,Serotonin release assay.
+Hematology,Part-17: Anti-platelets & Anticoagulants,HIT,Outline the management of HIT.,"Argatroban (DOC), shift to fondaparinux (4 weeks to 3 months); when TPC >150,000 start warfarin or a DOAC (warfarin is C/I in active HIT, given only after resolution)."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Name the oral indirect anticoagulant.,Warfarin (vitamin K antagonist).
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,What are the reversal agents for warfarin?,PTC > FFP + Vit-K.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,"Warfarin target INR (general, surgery, mechanical valves)?",2-3 (1.4 in case of surgery; mechanical valves 2.5-3.5).
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Warfarin high-INR management?,"INR >3 but <10 -> stop, restart after INR normal; >10 & asymptomatic -> stop + oral Vit K; symptomatic -> stop + PTC (>FFP) + IV Vit K."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Warfarin DOC indications?,Prophylaxis of thrombosis in A.fib with mechanical valve/renal failure/severe MS/patient on P-glycoprotein; APLA; splanchnic vein thrombosis.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,List the side effects of warfarin.,"Bleeding, skin necrosis (first 5 days), alopecia, warfarin embryopathy, bluish discoloration of feet."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Oral direct anticoagulants (DOACs): DOC indication?,Prophylaxis of thrombosis in non-valvular A.fib.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Oral direct thrombin inhibitor and its antidote?,Dabigatran; antidote = idarucizumab.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,Oral direct factor Xa inhibitors and their antidote?,"Apixaban, edoxaban, rivaroxaban; antidote = andexanet alpha."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Anticoagulants,What is the universal antidote for all direct anticoagulants?,Ciraparantag.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Fibrinolytics,Streptokinase: mechanism and drawbacks?,Binds plasminogen and exposes the tPA binding site; breaks fibrin in both clot and plasma -> increased bleeding risk; high dose required; neutralised by anti-streptococcal antibodies.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Fibrinolytics,Recombinant tPA agents and their key property?,"Alteplase, duteplase, reteplase, tenecteplase; clot-specific."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Fibrinolytics,List the uses of fibrinolytics.,"STEMI, massive pulmonary embolism, peripheral thrombosis (direct site injection)."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Fibrinolytics,List the contraindications of fibrinolytics.,"NSTEMI/UA, brain tumor/aneurysm, recent surgery/trauma, aortic dissection, h/o IC haemorrhage."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antifibrinolytics,Name the antifibrinolytics.,EACA (epsilon-aminocaproic acid) and tranexamic acid.
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antifibrinolytics,List the uses of antifibrinolytics.,"Thrombolytic-induced bleeding, preventing procedural bleeding in hemophiliacs, upper GI/surgical/trauma bleed, menorrhagia."
+Hematology,Part-17: Anti-platelets & Anticoagulants,Antifibrinolytics,List the contraindications of antifibrinolytics.,"GU bleed, hypotension, myopathy."
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Vessel Types,Windkessel vessels: examples and function?,Aorta and large arteries (conductance vessels); maintain BP via elastic recoil (Windkessel effect) from abundant elastic fibres.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Vessel Types,Resistance vessels: which vessels and features?,Arterioles; maximum wall thickness-to-lumen ratio; regulate blood flow (along with pre-capillary sphincters).
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Vessel Types,Exchange vessels: which vessels and features?,Capillaries (microcirculation); about 5% of blood volume; no smooth muscle; single layer of endothelium with BM; continuous/fenestrated/sinusoidal types.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Vessel Types,Capacitance vessels: which vessels and key feature?,Venules and veins; they hold the maximum blood volume (~54%).
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Vessel Types,Shunt vessels: which vessels and features?,AV anastomoses; capillaries with no exchange; thick muscular walls with rich innervation; in skin/fingertips/ear lobes; for temperature regulation.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Vessel Types,"What is vasomotion, and how is it regulated?",Intermittent contraction of arterioles and pre-capillary sphincters causing intermittent blood flow; mainly regulated by tissue O2.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Elastic Fibres,Elastic fibres consist of which proteins?,Elastin and fibrillin.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Elastic Fibres,An elastin defect causes which condition?,Supravalvular AS -> Williams syndrome.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Elastic Fibres,A fibrillin defect causes which condition?,Aortic root dilation -> Marfan syndrome.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Vessel Min/Max,Which vessel has the maximum diameter?,Vena cava.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Vessel Min/Max,Which vessel has the maximum wall thickness?,Aorta.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Vessel Min/Max,Which vessel has the maximum cross-sectional area?,Capillaries.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Vessel Min/Max,Which vessel has the maximum blood-flow velocity?,Aorta.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Vessel Min/Max,Which vessel has the minimum blood-flow velocity?,Capillaries.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Vessel Min/Max,Which vessel has the maximum BP?,Aorta.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Vessel Min/Max,Which vessel has the minimum BP?,Vena cava.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Artery Wall Layers,Name the three tunics of an artery.,"Tunica intima, tunica media, tunica externa."
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Artery Wall Layers,What is the distinguishing feature of an elastic artery?,Internal + external elastic laminae (very high elastin).
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Artery Wall Layers,What is the distinguishing feature of an arteriole?,Very high smooth muscle (in the tunica media).
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Cell Counting,State Thoma's L rule.,Cells touching the L-shaped (left and bottom) lines are NOT counted; cells touching the top-and-right lines ARE counted.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Cell Counting,What is the depth of the Neubauer chamber?,0.1 mm.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Cell Counting,RBC pipette (also used for platelets): markings and bead?,"Markings 0.5, 1, 101; red bead."
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Blood Cell Counting,WBC pipette: markings and bead?,"Markings 0.5, 1, 11; white bead."
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,RBC Count,RBC diluting fluid and its components?,"Hayem's fluid - NaCl (isotonic), Na2SO4 (anticoagulant), HgCl2 (antiseptic/antifungal)."
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,RBC Count,RBC dilution factor?,(101-1)/0.5 = 200.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,RBC Count,RBC: area and volume of 1 small box?,Area = (1/5 x 1/4)^2 = 1/400 mm^2; volume = 1/400 x 1/10 = 1/4000 mm^3.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,RBC Count,RBC: total boxes and total volume?,5 x 16 = 80 boxes; total volume = 80 x 1/4000 = 1/50 mm^3.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,RBC Count,RBC count formula?,"(R x 200)/(1/50) = R x 10,000/mm^3."
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Platelet Count,Platelet diluting fluids and their actions?,Rees-Ecker (Na citrate + sucrose + brilliant cresyl blue) OR Brecher-Cronkite (ammonium oxalate -> lyse RBCs -> phase-contrast microscopy).
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Platelet Count,Platelet dilution factor?,(101-1)/0.5 = 200.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Platelet Count,Platelet: volume of 1 large box and total volume (both chamber sides)?,Vol of 1 large box = 1x1x1/10 = 1/10 mm^3; both sides counted -> 2 x 1/10 = 2/10 mm^3.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,Platelet Count,Platelet count formula?,(P x 200)/(2/10) = P x 1000/mm^3.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,WBC Count,WBC diluting fluid and its components?,Turk's fluid - glacial acetic acid (to lyse RBCs) and gentian violet (stain).
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,WBC Count,WBC dilution factor?,(11-1)/0.5 = 20.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,WBC Count,WBC: area and volume of 1 large box?,Area = 1x1 = 1 mm^2; volume = 1 x 1/10 = 1/10 mm^3.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,WBC Count,WBC: total boxes and total volume?,4 boxes; total volume = 4 x 1/10 = 4/10 mm^3.
+Hematology,Part-18: Blood Vessels & Blood Cell Counting,WBC Count,WBC count formula?,(W x 20)/(4/10) = W x 50/mm^3.

@@ -1,0 +1,259 @@
+subject,deck,topic,front,back
+Rheumatology,Part-1,Autoantibody Associations,Which autoantibody is the most sensitive for SLE and is used as the entry criterion?,ANA (antinuclear antibody)
+Rheumatology,Part-1,Autoantibody Associations,What ANA titre is used as the SLE entry threshold?,>1:80
+Rheumatology,Part-1,Autoantibody Associations,"Which two SLE autoantibodies correlate with disease activity/flares, and which one correlates better?",Anti-C1q and Anti-dsDNA; Anti-C1q correlates better (Anti-C1q > Anti-dsDNA)
+Rheumatology,Part-1,Autoantibody Associations,Anti-histone antibody is the classic marker of which condition?,Drug-induced lupus (mnemonic for the offending drugs: SHIP)
+Rheumatology,Part-1,Autoantibody Associations,Which autoantibody is the most specific for SLE?,"Anti-Sm (mnemonic: ""Sm -> Sp"", i.e. Sm = Specific)"
+Rheumatology,Part-1,Autoantibody Associations,Antineuronal antibody / anti-glutamate receptor antibody is associated with which SLE manifestation?,CNS lupus
+Rheumatology,Part-1,Autoantibody Associations,Anti-ribosomal P antibody is associated with which SLE manifestation?,Psychiatric manifestations of SLE
+Rheumatology,Part-1,Autoantibody Associations,Anti-U1 RNP antibody is the marker of which disorder?,Mixed connective tissue disease (MCTD)
+Rheumatology,Part-1,Autoantibody Associations,Anti-Ro/SS-A antibody carries an increased risk of which neonatal complication?,Congenital heart block (increased risk)
+Rheumatology,Part-1,Autoantibody Associations,Which two antibodies are associated with Sjogren's syndrome?,Anti-Ro/SS-A and Anti-La/SS-B
+Rheumatology,Part-1,Autoantibody Associations,Anti-Jo1 (anti-synthetase) antibody is associated with which syndrome?,Antisynthetase syndrome
+Rheumatology,Part-1,Autoantibody Associations,Which skin sign is shown associated with antisynthetase syndrome / Anti-Jo1?,Mechanic's hands
+Rheumatology,Part-1,Autoantibody Associations,"Anti-Mi2 antibody is associated with which condition, and what is its prognostic significance?",Dermatomyositis (good prognosis)
+Rheumatology,Part-1,Autoantibody Associations,Which antibodies are markers of DIFFUSE scleroderma?,Anti-topoisomerase 1 / Anti-Scl-70 / Anti-RNA polymerase III
+Rheumatology,Part-1,Autoantibody Associations,Anti-centromere antibody is the marker of which form of scleroderma?,Limited scleroderma (CREST)
+Rheumatology,Part-1,Autoantibody Associations,p-ANCA is associated with which conditions?,"MPA, EGPA (Churg-Strauss), and ulcerative colitis"
+Rheumatology,Part-1,Autoantibody Associations,c-ANCA is associated with which condition?,GPA (Wegener's granulomatosis)
+Rheumatology,Part-1,Autoantibody Associations,"Rheumatoid factor (RF) is an antibody of which class, directed against what?",IgM directed against the Fc portion of IgG
+Rheumatology,Part-1,Autoantibody Associations,Which antibody is the most specific for rheumatoid arthritis?,Anti-CCP
+Rheumatology,Part-1,Autoantibody Associations,Anti-endothelial cell antibody is associated with which condition?,Kawasaki disease
+Rheumatology,Part-1,Autoantibody Associations,Anti-alpha-enolase antibody is associated with which condition?,Behcet's disease
+Rheumatology,Part-1,ANCA,"In ANCA, what does the 'p' pattern denote and which is its target antigen?",p = perinuclear staining; antigen = MPO (myeloperoxidase)
+Rheumatology,Part-1,ANCA,"In ANCA, what does the 'c' pattern denote and which is its target antigen?",c = cytoplasmic staining; antigen = PR3 (proteinase-3)
+Rheumatology,Part-1,ANA Fluorescence Patterns,ANA immunofluorescence patterns are read from staining of what?,The pattern within a single cell (its nucleus)
+Rheumatology,Part-1,ANA Fluorescence Patterns,Which antibodies produce a HOMOGENEOUS ANA pattern?,Anti-dsDNA and Anti-histone
+Rheumatology,Part-1,ANA Fluorescence Patterns,Which antibody produces a PERIPHERAL (rim) ANA pattern?,Anti-Sm
+Rheumatology,Part-1,ANA Fluorescence Patterns,Which antibody produces a CENTROMERE ANA pattern?,Anti-centromere
+Rheumatology,Part-1,ANA Fluorescence Patterns,Which antibodies produce a NUCLEOLAR ANA pattern?,Anti-topoisomerase / Anti-Scl-70
+Rheumatology,Part-1,ANA Fluorescence Patterns,Which antibodies produce a SPECKLED ANA pattern?,"Anti-Ro, Anti-La, Anti-Jo1, and Anti-U1 RNP"
+Rheumatology,Part-1,ANA Fluorescence Patterns,"On immunofluorescence of granulocytes, how do c-ANCA and p-ANCA differ?",c-ANCA = cytoplasmic staining; p-ANCA = perinuclear staining
+Rheumatology,Part-1,ANA Fluorescence Patterns,What are the named ANA immunofluorescence patterns?,"Speckled (fine and coarse), Homogeneous, Mixed, Nucleolar, Centromere, Peripheral (plus Negative)"
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,What is the entry criterion for the EULAR/ACR SLE classification?,A positive ANA
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,What total score classifies a patient as SLE under the EULAR/ACR criteria?,>=10 points
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Constitutional domain - points for fever?,2
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Cutaneous domain - points for non-scarring alopecia?,2
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Cutaneous domain - points for oral ulcers?,2
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Cutaneous domain - points for subacute cutaneous OR discoid lupus?,4
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Cutaneous domain - points for acute cutaneous lupus?,6
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Arthritis domain - points for synovitis/tenderness in at least 2 joints?,6
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,What is the (non-erosive) arthropathy of SLE called?,Jaccoud's arthropathy (non-erosive)
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Neurologic domain - points for delirium?,2
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Neurologic domain - points for psychosis?,3
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Neurologic domain - points for seizure?,5
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Serositis domain - points for pleural or pericardial effusion?,5
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Serositis domain - points for acute pericarditis?,6
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Hematologic domain - points for leukopenia?,3
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Hematologic domain - points for thrombocytopenia?,4
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Hematologic domain - points for autoimmune hemolysis?,4
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,"The autoimmune haemolytic anaemia of SLE is of what type, with what direct Coombs result?",IgG 'warm' AIHA; direct Coombs test (DCT) positive
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Renal domain - points for proteinuria >0.5 g/24 hr?,4
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Renal domain - points for Class II or V lupus nephritis?,8
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Renal domain - points for Class III or IV lupus nephritis?,10
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Complement domain - points for low C3 OR low C4?,3
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Complement domain - points for low C3 AND low C4?,4
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Highly specific antibodies domain - points for anti-dsDNA antibody?,6
+Rheumatology,Part-2,EULAR/ACR SLE Criteria,Highly specific antibodies domain - points for anti-Sm antibody?,6
+Rheumatology,Part-2,Antiphospholipid Antibodies,"Antiphospholipid antibody domain - how many points, and what qualifies?","2 points; anticardiolipin IgG >40 GPL, OR anti-B2GP1 IgG >40 units, OR lupus anticoagulant"
+Rheumatology,Part-2,Antiphospholipid Antibodies,A false-positive VDRL/RPR in SLE is caused by which antibody?,Anti-cardiolipin antibody
+Rheumatology,Part-2,Antiphospholipid Antibodies,A prolonged PTT that is NOT corrected by adding normal platelet-free plasma indicates what?,Lupus anticoagulant
+Rheumatology,Part-2,Lupus Nephritis,First-line treatment for severe SLE / lupus nephritis?,Steroids + MMF or cyclophosphamide
+Rheumatology,Part-2,Lupus Nephritis,Which characteristic glomerular light-microscopy lesion is seen in lupus nephritis?,Wire-loop lesions
+Rheumatology,Part-2,Lupus Nephritis,"What is the ""full house"" immunofluorescence pattern of lupus nephritis?","Positivity for IgG, IgM, IgA, C3, and C1q (all immunoreactants)"
+Rheumatology,Part-2,Lupus Nephritis,Lupus nephritis Class I - name and defining feature?,Minimal mesangial LN; immune complex deposits detectable only by immunofluorescence
+Rheumatology,Part-2,Lupus Nephritis,Lupus nephritis Class II - name and defining feature?,Mesangial proliferative LN; mesangial hypercellularity/matrix expansion with deposits on light microscopy
+Rheumatology,Part-2,Lupus Nephritis,Lupus nephritis Class III - name and defining glomerular involvement?,Focal LN; endo/extracapillary glomerulonephritis involving <50% of glomeruli
+Rheumatology,Part-2,Lupus Nephritis,What lesion subtypes can Class III lupus nephritis manifest?,"Active (A), chronic inactive (C), or active+chronic (A/C) lesions"
+Rheumatology,Part-2,Lupus Nephritis,Lupus nephritis Class IV - name and defining glomerular involvement?,Diffuse LN; endo/extracapillary glomerulonephritis involving >=50% of glomeruli
+Rheumatology,Part-2,Lupus Nephritis,Which lupus nephritis class is the most common and most severe?,Class IV (diffuse LN)
+Rheumatology,Part-2,Lupus Nephritis,Class IV lupus nephritis is subdivided into which two patterns?,Diffuse segmental (IV-S) and diffuse global (IV-G)
+Rheumatology,Part-2,Lupus Nephritis,Lupus nephritis Class V - name and defining feature?,Membranous LN; global/segmental subepithelial immune deposits (can coexist with class III/IV)
+Rheumatology,Part-2,Lupus Nephritis,Lupus nephritis Class VI - name and defining feature?,Advanced sclerosis LN; terminal prognosis with >=90% of glomeruli globally sclerosed
+Rheumatology,Part-3,Sarcoidosis - Imaging & Signs,What are the chest X-ray findings of sarcoidosis?,Bilateral hilar adenopathy (with right paratracheal adenopathy)
+Rheumatology,Part-3,Sarcoidosis - Imaging & Signs,"What is the Garland / Lambda sign, and on which scan is it seen?",Bilateral hilar + right paratracheal uptake forming a lambda shape on Gallium scan
+Rheumatology,Part-3,Sarcoidosis - Imaging & Signs,"What is the Panda sign, and on which scan is it seen?",Bilateral parotid + lacrimal gland uptake (panda-face) on Gallium scan
+Rheumatology,Part-3,Sarcoidosis - Imaging & Signs,Name the two characteristic skin manifestations of sarcoidosis shown.,Erythema nodosum (EN) and lupus pernio
+Rheumatology,Part-3,Sarcoidosis - Histology,What is the characteristic histology of sarcoidosis?,Non-caseating granulomas
+Rheumatology,Part-3,Sarcoidosis - Histology,Which two cytoplasmic inclusion bodies are seen in sarcoid granulomas?,Schaumann bodies and asteroid bodies
+Rheumatology,Part-3,Sarcoidosis - Scadding Staging,Scadding Stage 0?,Normal chest X-ray
+Rheumatology,Part-3,Sarcoidosis - Scadding Staging,Scadding Stage 1?,Bilateral hilar adenopathy with normal lung parenchyma
+Rheumatology,Part-3,Sarcoidosis - Scadding Staging,Scadding Stage 2?,Hilar adenopathy with pulmonary infiltration
+Rheumatology,Part-3,Sarcoidosis - Scadding Staging,Scadding Stage 3?,Pulmonary infiltration without hilar adenopathy
+Rheumatology,Part-3,Sarcoidosis - Scadding Staging,Scadding Stage 4?,Pulmonary fibrosis
+Rheumatology,Part-3,Sarcoidosis - Labs,What happens to serum ACE in sarcoidosis?,Raised (increased)
+Rheumatology,Part-3,Sarcoidosis - Labs,Why is serum calcium raised in sarcoidosis?,"Granulomas have 1-alpha-hydroxylase activity -> increased 1,25-OH vitamin D -> hypercalcemia"
+Rheumatology,Part-3,Sarcoidosis - Labs,What happens to the peripheral lymphocyte count in sarcoidosis?,Lymphopenia
+Rheumatology,Part-3,Sarcoidosis - Labs,What is the BAL CD4:CD8 ratio in sarcoidosis?,3.5-5 : 1 (elevated)
+Rheumatology,Part-3,Sarcoidosis - Labs,Which (now historical) skin test was used to diagnose sarcoidosis?,Kveim test
+Rheumatology,Part-3,Sarcoidosis - Syndromes,What does Lofgren syndrome consist of?,Hilar lymphadenopathy + erythema nodosum
+Rheumatology,Part-3,Sarcoidosis - Syndromes,What does Heerfordt syndrome (uveoparotid fever) consist of?,Uveoparotid fever + 7th cranial nerve (facial) palsy
+Rheumatology,Part-3,Sarcoidosis - Differentials,Antibody status distinguishing HIV vs Sjogren's vs sarcoidosis (salivary involvement)?,HIV = lack of antibodies; Sjogren's = autoantibodies present; Sarcoidosis = lack of autoantibodies
+Rheumatology,Part-3,Sarcoidosis - Differentials,Salivary gland infiltrate in HIV vs Sjogren's vs sarcoidosis?,HIV = CD8+ lymphoid infiltrate (BLEL); Sjogren's = CD4+ lymphoid infiltrate; Sarcoidosis = granulomas
+Rheumatology,Part-3,Sarcoidosis - Differentials,HLA associations: HIV salivary disease vs Sjogren's vs sarcoidosis?,HIV = HLA-DR5; Sjogren's = HLA-DR3 and DRw52; Sarcoidosis = unknown
+Rheumatology,Part-3,Sarcoidosis - Differentials,What does BLEL stand for (HIV salivary involvement)?,Benign lymphoepithelial lesion
+Rheumatology,Part-3,Sarcoidosis - Differentials,Sialosis (a salivary differential) is classically seen in which patients?,Alcoholics
+Rheumatology,Part-3,Sarcoidosis - Differentials,Serologic test for HIV in HIV infection vs Sjogren's vs sarcoidosis (salivary differential)?,HIV = positive serologic test; Sjogren's and sarcoidosis = negative serologic test for HIV
+Rheumatology,Part-4,Scleroderma - Overview,"On this slide, what do the red vs blue label colours signify?",Red = diffuse scleroderma features; Blue = limited scleroderma (CREST) features
+Rheumatology,Part-4,Scleroderma - Overview,What does the CREST acronym stand for (limited scleroderma)?,"Calcinosis, Raynaud's, Esophageal dysmotility, Sclerodactyly, Telangiectasia"
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Oral manifestations of systemic sclerosis?,"Xerostomia, reduced oral aperture, mucocutaneous telangiectasia"
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Upper GI manifestations of systemic sclerosis?,"GERD, GAVE (watermelon stomach), Barrett's esophagus, gastroparesis"
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Lower GI manifestations of systemic sclerosis?,"Hypomotility, bacterial overgrowth, pseudo-obstruction"
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Musculoskeletal manifestations of systemic sclerosis?,"Joint contractures, tendon friction rubs, myositis"
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Pulmonary manifestations of systemic sclerosis?,Interstitial lung disease and pulmonary artery hypertension
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Cardiac manifestations of systemic sclerosis?,"Pericarditis, diastolic dysfunction, cardiomyopathy, arrhythmia"
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Skin manifestations of systemic sclerosis?,"Induration, calcinosis cutis, telangiectasia, hyperpigmentation, xerosis"
+Rheumatology,Part-4,Scleroderma - Organ Involvement,Vascular manifestations of systemic sclerosis?,Raynaud's phenomenon and digital ischemic ulcers
+Rheumatology,Part-4,Scleroderma - Renal Crisis,What are the features of scleroderma renal crisis?,Malignant hypertension and a flea-bitten kidney
+Rheumatology,Part-4,Scleroderma - Renal Crisis,What is the treatment of scleroderma renal crisis?,ACE inhibitors
+Rheumatology,Part-4,Scleroderma - Raynaud's,Describe the three-colour sequence of Raynaud's phenomenon and what each represents.,White = vasoconstriction -> Blue = cyanosis -> Red = vasodilation
+Rheumatology,Part-4,Scleroderma - Raynaud's,What is a key differential for the digital changes of Raynaud's?,Frost bite
+Rheumatology,Part-4,Scleroderma - Investigations,The three classic CREST photographs shown are of which signs?,"Calcinosis cutis, sclerodactyly, and telangiectasia"
+Rheumatology,Part-4,Scleroderma - Investigations,What nail fold capillaroscopy patterns are described in scleroderma?,"Normal, early, active, and late patterns"
+Rheumatology,Part-4,Scleroderma - Investigations,What X-ray finding (distal phalangeal/tuft resorption) is seen in scleroderma?,Acro-osteolysis
+Rheumatology,Part-4,Scleroderma - Investigations,Anti-fibrillarin / Anti-U3 RNP antibody - significance in scleroderma?,"Prognostic marker; associated with increased RPGN, PAH, and ILD"
+Rheumatology,Part-5,RA - Systemic Manifestations,Neurologic manifestation of RA and its underlying cause?,Cervical myelopathy (due to atlanto-axial dislocation/subluxation)
+Rheumatology,Part-5,RA - Systemic Manifestations,Ocular manifestations of RA?,"Keratoconjunctivitis sicca, episcleritis, scleritis (and scleromalacia perforans)"
+Rheumatology,Part-5,RA - Systemic Manifestations,"In juvenile idiopathic arthritis (JIA), what is the characteristic ocular complication and in which age group?",Uveitis (most common; in those <16 years)
+Rheumatology,Part-5,RA - Systemic Manifestations,Oral manifestations of RA?,Xerostomia and periodontitis
+Rheumatology,Part-5,RA - Systemic Manifestations,Hematologic manifestations of RA?,"Anemia of chronic disease, neutropenia, splenomegaly, Felty's syndrome, large granular lymphocyte leukemia, lymphoma"
+Rheumatology,Part-5,RA - Systemic Manifestations,Pulmonary manifestations of RA?,"Pleural effusions, pulmonary nodules, interstitial lung disease, pulmonary vasculitis, organizing pneumonia"
+Rheumatology,Part-5,RA - Systemic Manifestations,Cardiac manifestations of RA?,"Pericarditis, ischemic heart disease, myocarditis, cardiomyopathy, arrhythmia, mitral regurgitation"
+Rheumatology,Part-5,RA - Systemic Manifestations,Renal manifestations of RA?,Membranous nephropathy and secondary amyloidosis
+Rheumatology,Part-5,RA - Systemic Manifestations,GI manifestation of RA?,Vasculitis
+Rheumatology,Part-5,RA - Systemic Manifestations,Skeletal manifestation of RA?,Osteoporosis
+Rheumatology,Part-5,RA - Systemic Manifestations,Endocrine manifestation of RA?,Hypoandrogenism
+Rheumatology,Part-5,RA - Systemic Manifestations,Skin manifestations of RA (and the most common)?,"Rheumatoid nodules (most common), purpura, pyoderma gangrenosum"
+Rheumatology,Part-5,RA - Felty's Syndrome,What is the triad of Felty's syndrome?,Neutropenia + splenomegaly + rheumatoid arthritis
+Rheumatology,Part-5,RA - Treatment,What is the RA treatment escalation ladder?,NSAIDs -> conventional DMARDs -> biological DMARDs (step up if inadequate)
+Rheumatology,Part-5,RA - Treatment,DOC among conventional DMARDs for RA?,Methotrexate (given with folinic acid); also leflunomide
+Rheumatology,Part-5,RA - Treatment,DOC for RA in pregnancy?,Hydroxychloroquine (HCQ)
+Rheumatology,Part-5,RA - Treatment,Toxicities of hydroxychloroquine (HCQ)?,Irreversible retinal damage and cardiotoxicity
+Rheumatology,Part-5,RA - Treatment,Toxicity and contraindication of sulfasalazine?,Male infertility; contraindicated in G6PD deficiency
+Rheumatology,Part-5,RA - Biologicals,"Before starting TNF-alpha inhibitors, what must be ruled out and by which tests?",TB exposure - Mantoux/PPD test and Quantiferon Gold (best)
+Rheumatology,Part-5,RA - Biologicals,Name the TNF-alpha inhibitors used in RA.,"Adalimumab, certolizumab, etanercept, infliximab, golimumab"
+Rheumatology,Part-5,RA - Biologicals,Which TNF-alpha inhibitor is a fusion protein?,Etanercept
+Rheumatology,Part-5,RA - Biologicals,IL-1R antagonist used in RA?,Anakinra
+Rheumatology,Part-5,RA - Biologicals,IL-6 inhibitors used in RA?,Tocilizumab and sarilizumab
+Rheumatology,Part-5,RA - Biologicals,"B-cell depletor (anti-CD20) used in RA, and what must be screened for first?",Rituximab; rule out Hepatitis B
+Rheumatology,Part-5,RA - Biologicals,Co-stimulation inhibitor (anti-CTLA4) used in RA?,Abatacept
+Rheumatology,Part-5,RA - Biologicals,JAK inhibitors used in RA?,"Tofacitinib, baricitinib, upadacitinib"
+Rheumatology,Part-5,Ankylosing Spondylitis,Treatment approach for ankylosing spondylitis?,NSAIDs -> biologicals (no role for conventional DMARDs)
+Rheumatology,Part-6,Septic Arthritis,Most common cause of septic arthritis?,Staphylococcus aureus
+Rheumatology,Part-6,Synovial Fluid Analysis,Synovial fluid appearance in Normal/OA vs inflammatory (RA)/septic arthritis?,Normal and OA = clear; inflammatory (RA) and septic = turbid
+Rheumatology,Part-6,Synovial Fluid Analysis,"Synovial fluid viscosity (stringing) in OA, inflammatory, and septic arthritis?",Decreased in all three (normal in normal fluid)
+Rheumatology,Part-6,Synovial Fluid Analysis,"Synovial fluid WBC counts - Normal, OA, inflammatory (RA), septic?","Normal <200; OA 200-5000; inflammatory (RA) 5,000-50,000; septic >50,000"
+Rheumatology,Part-6,Synovial Fluid Analysis,"Synovial fluid PMN % - Normal, OA, inflammatory, septic?",Normal <25%; OA <25%; inflammatory 25-50%; septic >50%
+Rheumatology,Part-6,Acute Gout Treatment,"DOC for acute gout, and which analgesics are avoided?",NSAIDs; avoid aspirin and paracetamol (PCM)
+Rheumatology,Part-6,Acute Gout Treatment,Colchicine in gout - mechanism and key side effects?,Inhibits microtubules -> blocks neutrophil chemotaxis; S/E: hepatotoxicity and diarrhoea
+Rheumatology,Part-6,Chronic Gout,DOC for chronic gout?,Allopurinol
+Rheumatology,Part-6,Chronic Gout,Which HLA allele predicts allopurinol hypersensitivity?,HLA-B*5801
+Rheumatology,Part-6,Chronic Gout,"Allopurinol must be avoided with which drugs, and why?","6-mercaptopurine and azathioprine (they are metabolised by xanthine oxidase, which allopurinol inhibits)"
+Rheumatology,Part-6,Urate Pathway & Drugs,Which enzyme converts hypoxanthine -> xanthine -> uric acid?,Xanthine oxidase
+Rheumatology,Part-6,Urate Pathway & Drugs,Which drugs inhibit xanthine oxidase?,Allopurinol and febuxostat
+Rheumatology,Part-6,Urate Pathway & Drugs,Which drugs are uricase agents (convert uric acid to allantoin)?,Rasburicase and pegloticase
+Rheumatology,Part-6,Urate Pathway & Drugs,Key side effect of the uricase drugs (rasburicase/pegloticase)?,Tumor lysis syndrome
+Rheumatology,Part-6,Urate Pathway & Drugs,Uricosuric drugs (reduce tubular reabsorption of urate)?,"Probenecid, sulfinpyrazone, benzbromarone, lesinurad"
+Rheumatology,Part-6,Urate Pathway & Drugs,Which agents block urate tubular secretion (raising uric acid)?,Diuretics and low-dose salicylates
+Rheumatology,Part-6,Urate Pathway & Drugs,Drugs/causes of hyperuricemia?,"Diuretics, low-dose aspirin, niacin, ATT (pyrazinamide & ethambutol), cyclosporine"
+Rheumatology,Part-6,Crystal Microscopy,How are crystals identified in gout/pseudogout?,Synovial aspirate examined under polarizing microscopy
+Rheumatology,Part-6,Crystal Microscopy,Gout (uric acid) crystals - shape and birefringence?,Needle-shaped with negative birefringence
+Rheumatology,Part-6,Crystal Microscopy,Pseudogout (CPPD) crystals - shape and birefringence?,Rhomboid-shaped with positive birefringence
+Rheumatology,Part-6,Gout vs Pseudogout,"Gout - crystal, most common joint, and X-ray signs?",Uric acid; MC at 1st MTP joint; rat-bite erosions and Martel's sign
+Rheumatology,Part-6,Gout vs Pseudogout,"Pseudogout - crystal, most common joint, and X-ray sign?",CPPD; MC at knee; calcification of menisci (chondrocalcinosis)
+Rheumatology,Part-6,Gout vs Pseudogout,Hook-shaped metacarpals on X-ray suggest which disease?,Hemochromatosis
+Rheumatology,Part-6,Gonococcal Arthritis,"Triad of polyarthralgia + tenosynovitis + dermatitis (small joints, pustules) suggests?",Disseminated gonorrhea (gonococcal arthritis)
+Rheumatology,Part-6,Urate Pathway & Drugs,Which agents block urate tubular REABSORPTION (uricosuric effect)?,Probenecid and high-dose salicylates
+Rheumatology,Part-7,Inflammatory vs Non-inflammatory,Features of inflammatory joint pain?,"Pain, swelling, improves with activity, morning stiffness >1 hour"
+Rheumatology,Part-7,Inflammatory vs Non-inflammatory,Features of non-inflammatory joint pain?,"Pain after weight bearing, improves with rest"
+Rheumatology,Part-7,Rheumatoid Arthritis (X-ray),HLA association of rheumatoid arthritis?,HLA-DR4
+Rheumatology,Part-7,Rheumatoid Arthritis (X-ray),Most common joint involved in rheumatoid arthritis?,MCP joints
+Rheumatology,Part-7,Rheumatoid Arthritis (X-ray),Which joints are spared in rheumatoid arthritis?,DIP and 1st CMC joints
+Rheumatology,Part-7,Rheumatoid Arthritis (X-ray),Joint space reduction pattern in rheumatoid arthritis?,Symmetrical
+Rheumatology,Part-7,Rheumatoid Arthritis (X-ray),What is the hallmark (proliferative tissue) of rheumatoid arthritis?,Pannus
+Rheumatology,Part-7,Rheumatoid Arthritis (X-ray),Other key X-ray features of rheumatoid arthritis?,Osteopenia and erosions
+Rheumatology,Part-7,Rheumatoid Arthritis (X-ray),The sea-gull (gull-wing) sign is seen in which condition?,Erosive osteoarthritis (at the DIP joints)
+Rheumatology,Part-7,Osteoarthritis,Joints commonly involved in osteoarthritis?,"Hip, knee, DIP, PIP, 1st CMC"
+Rheumatology,Part-7,Osteoarthritis,Which joint is characteristically spared in osteoarthritis?,MCP
+Rheumatology,Part-7,Osteoarthritis,Joint space reduction pattern in osteoarthritis?,Asymmetric
+Rheumatology,Part-7,Osteoarthritis,X-ray features of osteoarthritis?,"Osteophytes, subchondral sclerosis, subchondral cysts"
+Rheumatology,Part-7,Psoriatic Arthritis,Most commonly involved joints in psoriatic arthritis?,DIP and PIP joints
+Rheumatology,Part-7,Psoriatic Arthritis,Most common pattern of psoriatic arthritis?,Oligoarthritic
+Rheumatology,Part-7,Psoriatic Arthritis,Characteristic radiological/clinical features of psoriatic arthritis?,"Pencil-in-cup deformity, telescoping of digits, arthritis mutilans"
+Rheumatology,Part-7,Psoriatic Arthritis,Other features of psoriatic arthritis (skin and bone density)?,Skin and nail changes; no osteopenia (normal bone density)
+Rheumatology,Part-7,Jaccoud's Arthropathy,Features of Jaccoud's arthropathy (seen in SLE)?,"No erosions, but deformity is present"
+Rheumatology,Part-7,Charcot's Joint,What are the '5 Ds' of Charcot's (neuropathic) joint?,"Disorganisation, Density, Destruction, Debris, Distension"
+Rheumatology,Part-7,Charcot's Joint,Underlying causes of Charcot's joint?,Diabetes / neuropathy (with loss of sensation)
+Rheumatology,Part-7,Charcot's Joint,Classic clinical paradox of Charcot's joint?,"Looks bad, doesn't feel bad (due to loss of sensation)"
+Rheumatology,Part-7,Hemophilic Arthropathy,"In which patients is hemophilic arthropathy seen, and which joint is involved?",Children; the knee
+Rheumatology,Part-7,Hemophilic Arthropathy,Knee X-ray features of hemophilic arthropathy?,Squared patella and intercondylar notch widening
+Rheumatology,Part-7,Hemophilic Arthropathy,What soft-tissue lesion (from recurrent haematomas) is seen in hemophilic arthropathy?,Pseudotumor
+Rheumatology,Part-8,Chapel-Hill Classification,Which vasculitides are granulomatous (Chapel-Hill)?,"GCA, Takayasu, GPA, EGPA"
+Rheumatology,Part-8,Chapel-Hill Classification,Which vasculitides are immune-complex mediated (type III hypersensitivity)?,"HSP, SLE, PAN (Hep B), cryoglobulinemia (Hep C)"
+Rheumatology,Part-8,Chapel-Hill Classification,Which immune-complex vasculitis is associated with Hepatitis B?,PAN (polyarteritis nodosa)
+Rheumatology,Part-8,Chapel-Hill Classification,Which immune-complex vasculitis is associated with Hepatitis C?,Cryoglobulinemia
+Rheumatology,Part-8,Chapel-Hill Classification,What histology type characterizes immune-complex (small-vessel) vasculitis?,Leukocytoclastic vasculitis
+Rheumatology,Part-8,ANCA-Associated Vasculitis,Which vasculitis is associated with c-ANCA?,Wegener's granulomatosis (GPA)
+Rheumatology,Part-8,ANCA-Associated Vasculitis,Which vasculitides are associated with p-ANCA?,MPA and Churg-Strauss (EGPA)
+Rheumatology,Part-8,Giant Cell (Temporal) Arteritis,Classic clinical profile of giant cell (temporal) arteritis?,">50 yr, jaw claudication, PMR (polymyalgia rheumatica)"
+Rheumatology,Part-8,Giant Cell (Temporal) Arteritis,Most commonly involved artery in GCA?,Superficial temporal artery
+Rheumatology,Part-8,Giant Cell (Temporal) Arteritis,Next step in management of suspected GCA?,Start steroids
+Rheumatology,Part-8,Giant Cell (Temporal) Arteritis,Gold-standard investigation for GCA?,Biopsy (>1 cm segment)
+Rheumatology,Part-8,Takayasu Arteritis,Classic clinical profile of Takayasu arteritis?,"<40 yr, BP difference between upper limbs, RAS / MI"
+Rheumatology,Part-8,Takayasu Arteritis,Most commonly involved artery in Takayasu arteritis?,Subclavian artery
+Rheumatology,Part-8,Takayasu Arteritis,Takayasu arteritis is also known as?,Aortic arch syndrome (pulseless disease)
+Rheumatology,Part-8,Buerger's Disease (TAO),Classic clinical profile of Buerger's disease (thromboangiitis obliterans)?,"<35 yr, smoker, severe limb pain"
+Rheumatology,Part-8,Buerger's Disease (TAO),Which three structures are involved together in Buerger's disease?,"Artery, vein, and nerve (A/V/N)"
+Rheumatology,Part-8,Buerger's Disease (TAO),Characteristic angiographic finding in Buerger's disease?,Corkscrew collaterals
+Rheumatology,Part-8,Buerger's Disease (TAO),Characteristic histology and arteries involved in Buerger's disease?,Neutrophilic microabscess in the thrombus; tibial/radial arteries involved
+Rheumatology,Part-8,Polyarteritis Nodosa (PAN),PAN is associated with which viral infection (and in what proportion)?,Hepatitis B (~30%)
+Rheumatology,Part-8,Polyarteritis Nodosa (PAN),Key clinical feature of PAN?,Hypertension
+Rheumatology,Part-8,Polyarteritis Nodosa (PAN),Which two structures are NOT involved in PAN?,Pulmonary arteries and glomeruli
+Rheumatology,Part-8,Polyarteritis Nodosa (PAN),Characteristic histology of PAN?,Fibrinoid necrosis
+Rheumatology,Part-8,GPA (Wegener's),"What does WG/GPA stand for, and what are its ANCA and immune patterns?","Wegener's granulomatosis (= GPA); c-ANCA positive, pauci-immune"
+Rheumatology,Part-8,GPA (Wegener's),Classic triad of GPA?,Upper respiratory tract + lower respiratory tract + kidney
+Rheumatology,Part-8,GPA (Wegener's),Respiratory features of GPA?,URT involvement with cavitatory lung lesions; hemoptysis
+Rheumatology,Part-8,GPA (Wegener's),Renal feature of GPA?,Hematuria with crescentic RPGN
+Rheumatology,Part-8,GPA (Wegener's),Biopsy findings in GPA?,Granulomas (in respiratory tract) and crescents (in kidney)
+Rheumatology,Part-8,Microscopic Polyangiitis (MPA),Characteristic CT finding in MPA?,Bilateral ground-glass opacities
+Rheumatology,Part-8,Microscopic Polyangiitis (MPA),Key pulmonary feature of MPA?,Pulmonary (pulmo-alveolar) hemorrhage
+Rheumatology,Part-8,Microscopic Polyangiitis (MPA),Two differentials for pulmo-alveolar hemorrhage?,MPA and Goodpasture's syndrome
+Rheumatology,Part-8,Microscopic Polyangiitis (MPA),Classic feature combination of MPA?,Hemoptysis + hematuria
+Rheumatology,Part-8,Henoch-Schonlein Purpura (HSP),Mandatory criterion for HSP?,Purpura or petechiae with lower-limb predominance
+Rheumatology,Part-8,Henoch-Schonlein Purpura (HSP),"Besides purpura, what are the four additional HSP criteria (need at least 1)?",(1) acute diffuse abdominal pain; (2) leukocytoclastic vasculitis or proliferative GN with IgA deposits; (3) acute arthritis/arthralgia; (4) renal involvement (proteinuria/haematuria)
+Rheumatology,Part-8,Henoch-Schonlein Purpura (HSP),The acute abdominal pain in HSP can lead to which GI complications?,"GI bleed from submucosal hematoma, leading to intussusception"
+Rheumatology,Part-8,Henoch-Schonlein Purpura (HSP),Which immunoglobulin predominates in HSP tissue deposits?,IgA
+Rheumatology,Part-8,Henoch-Schonlein Purpura (HSP),DOC for HSP?,Steroids
+Rheumatology,Part-8,Behcet's Disease,Classic mucocutaneous and ocular features of Behcet's disease?,Oral and genital ulcers + uveitis
+Rheumatology,Part-8,Behcet's Disease,Which bedside test is positive in Behcet's disease?,Pathergy test
+Rheumatology,Part-8,Behcet's Disease,HLA association of Behcet's disease?,HLA-B51
+Rheumatology,Part-8,Behcet's Disease,Antibody and biopsy finding in Behcet's disease?,Anti-alpha-enolase antibody; biopsy shows neutrophils
+Rheumatology,Part-9,Myopathy Lab Differentiation,"In PMR - what are the ESR, CK, and clinical features?","ESR raised, CK normal; shoulder & hip pain, morning stiffness, age >50 yrs (linked to GCA)"
+Rheumatology,Part-9,Myopathy Lab Differentiation,"In inflammatory myopathy - what are the ESR, CK, and clinical features?","ESR raised, CK raised; proximal pain and weakness"
+Rheumatology,Part-9,Myopathy Lab Differentiation,"In steroid myopathy - what are the ESR, CK, and clinical features?","ESR normal, CK normal; proximal weakness with NO pain"
+Rheumatology,Part-9,Myopathy Lab Differentiation,"In statin myopathy - what are the ESR, CK, and clinical features?","ESR normal, CK raised; pain with NO weakness"
+Rheumatology,Part-9,Myopathy Lab Differentiation,"In hypothyroid myopathy - what are the ESR, CK, and clinical features?","ESR normal, CK raised; proximal pain and weakness with delayed reflexes"
+Rheumatology,Part-9,Myopathy Lab Differentiation,Which myopathy presents with weakness but NO pain?,Steroid myopathy
+Rheumatology,Part-9,Myopathy Lab Differentiation,Which myopathy presents with pain but NO weakness?,Statin myopathy
+Rheumatology,Part-9,Inflammatory Myopathy Histology,Histology of dermatomyositis?,"Perimysial, perivascular inflammation (CD4) + perifascicular atrophy"
+Rheumatology,Part-9,Inflammatory Myopathy Histology,Histology of polymyositis?,"Endomysial, perivascular inflammation (CD8)"
+Rheumatology,Part-9,Inflammatory Myopathy Histology,Histology of inclusion body myositis?,"Endomysial, perivascular inflammation (CD8) + rimmed vacuoles"
+Rheumatology,Part-9,Inflammatory Myopathy Histology,Which inflammatory myopathy characteristically involves distal muscles?,Inclusion body myositis
+Rheumatology,Part-9,Inflammatory Myopathy Histology,Which immune cell predominates in dermatomyositis vs polymyositis/IBM?,CD4 in dermatomyositis; CD8 in polymyositis and inclusion body myositis
+Rheumatology,Part-9,Mitochondrial Myopathy,"What do 'red ragged fibres' indicate, and in which disease are they seen?",Mitochondrial accumulation; seen in MERRF (with encephalopathy)
+Rheumatology,Part-9,Inflammatory Myopathy Histology,What is the characteristic cellular finding in polymyositis?,Invasion of (non-necrotic) muscle fibers by inflammatory CD8+ cells
+Rheumatology,Part-10,Fibromyalgia,Core clinical features of fibromyalgia?,"Fatigue, sleep dysfunction, tension headache"
+Rheumatology,Part-10,Fibromyalgia,ESR in fibromyalgia?,Normal
+Rheumatology,Part-10,Fibromyalgia,Tender point criterion for fibromyalgia?,>11 of 18 tender points
+Rheumatology,Part-10,Fibromyalgia,Treatment of choice (TOC) for fibromyalgia?,Behavioral therapy + SSRI
+Rheumatology,Part-10,Fibromyalgia,What are the 9 paired tender-point sites (18 total) in fibromyalgia?,Occiput (suboccipital muscle insertions); low cervical (anterior intertransverse spaces C5-C7); trapezius (midpoint of upper border); supraspinatus (above medial border of scapular spine); second rib (second costochondral junctions); lateral epicondyle (2 cm distal to epicondyles); gluteal (upper outer quadrant of buttocks); greater trochanter (posterior to trochanteric prominence); knee (medial fat pad proximal to joint line)
+Rheumatology,Part-10,Relapsing Polychondritis,Which structures/cartilages are affected in relapsing polychondritis?,"Ear and nasal cartilage (auricular chondritis, saddle nose); affects elastic and hyaline cartilage"
+Rheumatology,Part-10,IgG4-Related Disease,IgG4-related disease classically presents as which condition?,Autoimmune pancreatitis
+Rheumatology,Part-10,IgG4-Related Disease,Characteristic CT appearance of autoimmune pancreatitis?,Sausage-shaped pancreas
+Rheumatology,Part-10,IgG4-Related Disease,What fibrosis pattern is characteristic of IgG4-RD histology?,Storiform (basketweave) fibrosis
+Rheumatology,Part-10,IgG4-Related Disease,What does the HISORT mnemonic stand for (autoimmune pancreatitis criteria)?,"Histology, Imaging, Serology, Other organ involvement, Response to steroids"
+Rheumatology,Part-10,IgG4-Related Disease,HISORT - the Histology criteria (at least one of)?,"(1) Periductal lymphoplasmacytic infiltrate, obliterative phlebitis, storiform fibrosis; (2) lymphoplasmacytic infiltrate, storiform fibrosis, abundant IgG4+ cells (>=10/HPF)"
+Rheumatology,Part-10,IgG4-Related Disease,HISORT - typical imaging of the pancreas?,"Diffusely enlarged gland with delayed (rim) enhancement; diffusely irregular, attenuated main pancreatic duct"
+Rheumatology,Part-10,IgG4-Related Disease,HISORT - serology criterion (with normal range)?,Elevated serum IgG4 (normal: 8-140 mg/dL)
+Rheumatology,Part-10,IgG4-Related Disease,HISORT - examples of other organ involvement?,"Hilar/intrahepatic and distal biliary strictures, parotid/lacrimal gland involvement, mediastinal lymphadenopathy, retroperitoneal fibrosis"
+Rheumatology,Part-10,IgG4-Related Disease,HISORT - response criterion?,Resolution or marked improvement of pancreatic/extrapancreatic manifestations with steroid therapy

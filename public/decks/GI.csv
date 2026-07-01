@@ -1,0 +1,423 @@
+subject,deck,topic,front,back
+Integrated GI / HPB,Part-1,Electrical Activity,What does BER stand for in GI motility?,Basal Electrical Rhythm.
+Integrated GI / HPB,Part-1,Electrical Activity,What is the role of the basal electrical rhythm (BER)?,It is the underlying slow-wave rhythm that regulates GI movement.
+Integrated GI / HPB,Part-1,Electrical Activity,What do spike potentials do?,They regulate (trigger) GI muscle movement/contraction.
+Integrated GI / HPB,Part-1,Electrical Activity,What is the pacemaker of the GI tract?,Interstitial Cells of Cajal.
+Integrated GI / HPB,Part-1,Electrical Activity,How does acetylcholine affect GI spike activity?,It increases spike potentials (more contraction).
+Integrated GI / HPB,Part-1,Electrical Activity,How does epinephrine affect peristalsis?,It decreases peristalsis.
+Integrated GI / HPB,Part-1,Electrical Activity,"On a combined electrical-mechanical recording, what makes a contraction stronger versus weaker?","The number of spike potentials riding on the BER: more spikes give a stronger contraction, fewer give a weaker one."
+Integrated GI / HPB,Part-1,BER Values,What is the BER (slow-wave frequency) of the stomach?,4 /min.
+Integrated GI / HPB,Part-1,BER Values,What is the BER of the duodenum?,12 /min (the maximum).
+Integrated GI / HPB,Part-1,BER Values,What is the BER of the jejunum?,11 /min.
+Integrated GI / HPB,Part-1,BER Values,What is the BER of the ileum?,8 /min.
+Integrated GI / HPB,Part-1,BER Values,What is the BER of the cecum?,2 /min (the minimum).
+Integrated GI / HPB,Part-1,BER Values,What is the BER of the sigmoid colon?,6 /min.
+Integrated GI / HPB,Part-1,BER Values,"Which GI segment has the highest BER, and what is its value?","Duodenum, 12 /min."
+Integrated GI / HPB,Part-1,BER Values,"Which GI segment has the lowest BER, and what is its value?","Cecum, 2 /min."
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,"In the fed state, what two mechanical motility patterns occur?",Segmentation and peristalsis.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,Which neurotransmitter contracts GI smooth muscle?,Acetylcholine.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,Which two mediators relax GI smooth muscle?,VIP and NO (nitric oxide).
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,Loss of the VIP/NO relaxation pathway is linked to which esophageal disorder?,Achalasia.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,Which motility pattern dominates the hunger/fasting state?,MMC (Migratory Motor Complexes).
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,What does MMC stand for?,Migratory Motor Complexes.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,What is the functional nickname of the MMC?,The gut's housekeeping movement.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,At what speed does the MMC travel?,5 cm/min.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,How long after the last meal does the MMC begin?,About 90 min after the last meal.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,Which hormone drives the MMC?,Motilin.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,Which drug class acts as motilin agonists and is prokinetic?,Macrolides.
+Integrated GI / HPB,Part-1,Mechanical Motility & MMC,What are the three phases of the MMC?,"Phase I, Phase II, and Phase III."
+Integrated GI / HPB,Part-2,Enterogastric Reflex,Is the enterogastric reflex excitatory or inhibitory?,Inhibitory - it inhibits gastric emptying/secretion.
+Integrated GI / HPB,Part-2,Enterogastric Reflex,Which three hormones mediate the enterogastric reflex?,"CCK, secretin, and Peptide YY."
+Integrated GI / HPB,Part-2,Enterogastric Reflex,What is the potency order of macronutrients in triggering the enterogastric reflex?,Fat > protein > carbohydrate.
+Integrated GI / HPB,Part-2,Enterogastric Reflex,"Besides nutrients, which two luminal properties trigger the enterogastric reflex?",Acidity and osmolarity.
+Integrated GI / HPB,Part-2,Gastrocolic Reflex,Is the gastrocolic reflex excitatory or inhibitory?,Excitatory.
+Integrated GI / HPB,Part-2,Gastrocolic Reflex,What does the gastrocolic reflex cause?,Sigmoid colon contraction.
+Integrated GI / HPB,Part-2,Gastrocolic Reflex,In whom is the gastrocolic reflex especially prominent?,Babies/infants (positive in babies).
+Integrated GI / HPB,Part-2,Gastro-ileal Reflex,Is the gastro-ileal reflex excitatory or inhibitory?,Excitatory.
+Integrated GI / HPB,Part-2,Gastro-ileal Reflex,What does the gastro-ileal reflex cause?,Relaxation of the ileocecal (IC) valve.
+Integrated GI / HPB,Part-3,Gastrin,What is the source of gastrin?,G cells (in the antrum and duodenum).
+Integrated GI / HPB,Part-3,Gastrin,What are the two main actions of gastrin?,Increases gastric acid secretion and increases gastric motility.
+Integrated GI / HPB,Part-3,Gastrin,What stimulates gastrin release?,"Stomach distention, amino acids, and vagal stimulation (via GRP)."
+Integrated GI / HPB,Part-3,Gastrin,What inhibits gastrin release?,pH < 1.5 (negative feedback).
+Integrated GI / HPB,Part-3,Gastrin,Which conditions raise gastrin levels?,"Chronic PPI use, chronic atrophic gastritis, and Zollinger-Ellison syndrome."
+Integrated GI / HPB,Part-3,Gastrin,Gastrin increases acid by acting on which gastric cells?,Parietal cells.
+Integrated GI / HPB,Part-3,Cholecystokinin (CCK),What is the source of cholecystokinin (CCK)?,I cells (antrum and small intestine).
+Integrated GI / HPB,Part-3,Cholecystokinin (CCK),What are the four actions of CCK?,"Increases pancreatic secretion, increases gallbladder contraction, decreases gastric emptying, and increases sphincter of Oddi relaxation."
+Integrated GI / HPB,Part-3,Cholecystokinin (CCK),What stimulates CCK release?,Fatty acids and amino acids.
+Integrated GI / HPB,Part-3,Cholecystokinin (CCK),By what pathway does CCK stimulate pancreatic secretion?,Via neural muscarinic pathways.
+Integrated GI / HPB,Part-3,Secretin,What is the source of secretin?,S cells of the duodenum.
+Integrated GI / HPB,Part-3,Secretin,What are the three actions of secretin?,"Increases pancreatic HCO3- secretion, decreases gastric acid secretion, and increases bile secretion."
+Integrated GI / HPB,Part-3,Secretin,What stimulates secretin release?,Acid and fatty acids in the duodenal lumen.
+Integrated GI / HPB,Part-3,Secretin,What is the purpose of the HCO3- driven by secretin?,It neutralizes gastric acid in the duodenum so pancreatic enzymes can function.
+Integrated GI / HPB,Part-3,Somatostatin,What is the source of somatostatin?,D cells (and pancreatic islets).
+Integrated GI / HPB,Part-3,Somatostatin,What are the actions of somatostatin?,"It decreases everything: gastric acid + pepsinogen secretion, pancreatic + small-intestine fluid secretion, gallbladder contraction, and insulin + glucagon release."
+Integrated GI / HPB,Part-3,Somatostatin,What stimulates somatostatin release?,Acid.
+Integrated GI / HPB,Part-3,Somatostatin,What inhibits somatostatin release?,Vagal stimulation.
+Integrated GI / HPB,Part-3,Somatostatin,"Which somatostatin analog is used clinically, and for what?","Octreotide - for acromegaly, carcinoid syndrome, VIPoma, and variceal bleeding."
+Integrated GI / HPB,Part-3,Somatostatin,What is a notable side effect of octreotide?,Gallstones (from gallbladder stasis).
+Integrated GI / HPB,Part-3,GIP,What are the two full names of GIP?,Glucose-dependent insulinotropic peptide = gastric inhibitory peptide.
+Integrated GI / HPB,Part-3,GIP,To which functional class of GI hormones does GIP belong?,The incretins.
+Integrated GI / HPB,Part-3,GIP,What is the source of GIP?,K cells (duodenum and jejunum).
+Integrated GI / HPB,Part-3,GIP,What are the exocrine and endocrine actions of GIP?,Exocrine: decreases gastric H+ secretion. Endocrine: increases insulin release.
+Integrated GI / HPB,Part-3,GIP,What stimulates GIP release?,"Fatty acids, amino acids, and oral glucose."
+Integrated GI / HPB,Part-3,GIP,Why does oral glucose raise insulin more than an equivalent IV glucose load?,Oral glucose triggers GIP (incretin) secretion - the incretin effect.
+Integrated GI / HPB,Part-3,VIP,What is the source of VIP?,"Parasympathetic ganglia in sphincters, the gallbladder, and the small intestine."
+Integrated GI / HPB,Part-3,VIP,What are the actions of VIP?,Increases intestinal water and electrolyte secretion; increases relaxation of intestinal smooth muscle and sphincters.
+Integrated GI / HPB,Part-3,VIP,What stimulates and what inhibits VIP release?,Stimulated by distention and vagal stimulation; inhibited by adrenergic input.
+Integrated GI / HPB,Part-3,VIP,A VIPoma causes which syndrome?,"WDHA syndrome: Watery Diarrhea, Hypokalemia, Achlorhydria."
+Integrated GI / HPB,Part-3,Ghrelin,What is the source of ghrelin?,The stomach.
+Integrated GI / HPB,Part-3,Ghrelin,What is the action of ghrelin?,Increases appetite (the 'growling stomach' hormone).
+Integrated GI / HPB,Part-3,Ghrelin,How is ghrelin regulated by fasting and food?,Increased in the fasting state; decreased by food.
+Integrated GI / HPB,Part-3,Ghrelin,What happens to ghrelin in Prader-Willi syndrome?,It is increased.
+Integrated GI / HPB,Part-3,Ghrelin,What happens to ghrelin after gastric bypass surgery?,It is decreased.
+Integrated GI / HPB,Part-3,Gastric Cell Secretions,Which gastric cells secrete histamine?,ECL (enterochromaffin-like) cells.
+Integrated GI / HPB,Part-3,Gastric Cell Secretions,What do gastric mucus cells secrete?,Mucus plus trefoil peptide.
+Integrated GI / HPB,Part-3,Gastric Cell Secretions,Which gastric cells secrete HCl and intrinsic factor?,Parietal cells.
+Integrated GI / HPB,Part-3,Gastric Cell Secretions,Which gastric cells secrete pepsinogen?,Chief cells.
+Integrated GI / HPB,Part-3,Gastric Cell Secretions,Where is the vitamin B12-intrinsic factor complex absorbed?,The terminal ileum.
+Integrated GI / HPB,Part-3,GI Secretion Volumes & pH,What is the total daily volume of GI secretions?,About 7 L/day.
+Integrated GI / HPB,Part-3,GI Secretion Volumes & pH,Which organ produces the maximum secretory volume?,The stomach.
+Integrated GI / HPB,Part-3,GI Secretion Volumes & pH,"Which GI secretion is the most alkaline, and why?","Duodenum (Brunner's glands), pH around 8."
+Integrated GI / HPB,Part-3,GI Secretion Volumes & pH,Which GI secretion is the most acidic?,"Stomach, pH 1.5."
+Integrated GI / HPB,Part-3,GI Secretion Volumes & pH,Which GI site has the maximum potassium concentration?,The colon.
+Integrated GI / HPB,Part-3,GI Secretion Volumes & pH,Which GI secretion has the maximum total potassium amount?,Saliva.
+Integrated GI / HPB,Part-3,Electrolytes vs Flow Rate,"In saliva, how do Na, HCO3, and Cl change as flow rate rises?",All three increase with increasing flow rate.
+Integrated GI / HPB,Part-3,Electrolytes vs Flow Rate,"In pancreatic secretion, how does Na concentration change with flow rate?",It stays constant.
+Integrated GI / HPB,Part-3,Electrolytes vs Flow Rate,"In pancreatic secretion, how do HCO3 and Cl behave with flow rate?",HCO3 rises at high flow rate; Cl rises at low flow rate.
+Integrated GI / HPB,Part-3,Electrolytes vs Flow Rate,"In gastric secretion, how do H+ and Cl change with secretory rate?","H+ and Cl rise (Cl is highest), while K and Na stay low."
+Integrated GI / HPB,Part-3,Schilling Test,"What does the Schilling test measure, and how?","Absorption of radiolabeled B12, measured by its excretion into urine."
+Integrated GI / HPB,Part-3,Schilling Test,What is the setup of Schilling stage 1?,Oral radioactive B12 plus IM unlabeled B12 (the IM dose loads all receptors so absorbed labeled B12 spills into urine).
+Integrated GI / HPB,Part-3,Schilling Test,Schilling stage 1: >10% radio-B12 in urine indicates what?,"Normal absorption, pointing to dietary deficiency (e.g., vegans)."
+Integrated GI / HPB,Part-3,Schilling Test,"Schilling stage 2: what is added, and what does correction indicate?",Intrinsic factor is added; correction indicates pernicious anemia.
+Integrated GI / HPB,Part-3,Schilling Test,"Schilling stage 3: what is added, and what does correction indicate?","Antibiotics are added; correction indicates SIBO / bacterial overgrowth (BOGS) (e.g., from strictures, DM)."
+Integrated GI / HPB,Part-3,Schilling Test,"Schilling stage 4: what is added, and what does correction indicate?",Pancreatic enzymes are added; correction indicates pancreatitis.
+Integrated GI / HPB,Part-3,Schilling Test,"Schilling test: if B12 is still not absorbed after all stages, where is the defect and what causes it?","An ileal mucosal defect - e.g., coeliac disease/tropical sprue, or D. latum (fish tapeworm)."
+Integrated GI / HPB,Part-3,GIP,Which two hormones are the incretins?,GIP and GLP-1.
+Integrated GI / HPB,Part-3,Pancreatic Secretions,How is trypsinogen activated to trypsin?,By enterokinase (in the duodenum).
+Integrated GI / HPB,Part-3,Pancreatic Secretions,What enzymes are contained in pancreatic zymogen granules?,"Trypsinogen, elastase, chymotrypsinogen, and carboxypeptidase."
+Integrated GI / HPB,Part-3,Pancreatic Secretions,"Which pancreatic cells secrete enzymes, and which secrete bicarbonate?","Acinar cells secrete the enzymes (amylase, lipase); duct cells secrete HCO3-."
+Integrated GI / HPB,Part-3,Pancreatic Secretions,CCK acts on which receptor on pancreatic acinar cells?,The CCK-1 receptor.
+Integrated GI / HPB,Part-4,H. pylori Therapy,What three drugs make up first-line H. pylori triple therapy?,Clarithromycin + Amoxicillin + PPI (mnemonic: CAP).
+Integrated GI / HPB,Part-4,H. pylori Therapy,What is added to make quadruple H. pylori therapy?,Bismuth.
+Integrated GI / HPB,Part-4,H2 Blockers,Name the H2-receptor blockers.,"Cimetidine, famotidine, nizatidine."
+Integrated GI / HPB,Part-4,H2 Blockers,What are the distinctive adverse effects of cimetidine?,"Inhibits CYP enzymes, causes gynaecomastia, and raises creatinine."
+Integrated GI / HPB,Part-4,Antacids,What is the main clinical advantage of antacids?,Immediate relief.
+Integrated GI / HPB,Part-4,Antacids,What is the effect of aluminium hydroxide on the bowels?,Constipation.
+Integrated GI / HPB,Part-4,Antacids,What is the effect of magnesium hydroxide on the bowels?,Diarrhea (makes you go).
+Integrated GI / HPB,Part-4,Antacids,Which antacid causes milk-alkali syndrome?,Calcium carbonate (CaCO3).
+Integrated GI / HPB,Part-4,PPIs,Name the proton pump inhibitors (PPIs).,"Omeprazole, lansoprazole, pantoprazole."
+Integrated GI / HPB,Part-4,PPIs,Which PPI is the drug of choice?,Pantoprazole.
+Integrated GI / HPB,Part-4,PPIs,Which two-word phrase describes the irreversible action of PPIs?,'Hit and run.'
+Integrated GI / HPB,Part-4,PPIs,When should PPIs be taken relative to meals?,30 minutes before a meal.
+Integrated GI / HPB,Part-4,PPIs,List the side effects of PPIs.,"C. difficile infection, AIN, pneumonia, B12 deficiency, and increased fracture risk."
+Integrated GI / HPB,Part-4,PPIs,"What does the PPI side effect 'AIN' stand for, and what lab clue accompanies it?","Allergic interstitial nephritis, with eosinophilia."
+Integrated GI / HPB,Part-4,PPIs,"Which PPI interacts with clopidogrel, and via which enzyme?","Omeprazole, via CYP2C19."
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,"Which three receptors on the parietal cell stimulate acid secretion, and their ligands?","M3 (acetylcholine), CCK-B (gastrin), and H2 (histamine)."
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,"Acetylcholine acts on which parietal cell receptor, coupled to which G protein and second messenger?","M3 receptor, via Gq, raising IP3/Ca2+."
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,Which drug blocks the M3 receptor on parietal cells?,Atropine.
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,Gastrin acts on which parietal cell receptor?,The CCK-B receptor (Gq-coupled).
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,Histamine acts on which parietal cell receptor and second messenger?,"The H2 receptor, via Gs, raising cAMP."
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,"Which cells release the histamine that stimulates parietal cells, and what triggers them?","ECL cells, stimulated by gastrin."
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,Somatostatin inhibits the parietal cell via which G protein?,Gi (inhibitory).
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,What is the final common effector pump for gastric acid secretion?,The H+/K+ ATPase (proton pump).
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,How do antacids and PPIs differ in mechanism?,Antacids neutralize secreted H+; PPIs block the H+/K+ ATPase.
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,What is the 'alkaline tide'?,"A rise in blood pH after gastric acid secretion (e.g., after meals or vomiting)."
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,Which enzyme generates H+ and HCO3- inside the parietal cell?,Carbonic anhydrase (CO2 + H2O to H2CO3 to H+ + HCO3-).
+Integrated GI / HPB,Part-4,Parietal Cell Physiology,The vagus stimulates gastrin release from G cells via which peptide?,GRP (gastrin-releasing peptide).
+Integrated GI / HPB,Part-4,Mucosal Protection,What is the role of prostaglandins in the stomach?,Mucosal protection.
+Integrated GI / HPB,Part-4,Mucosal Protection,How do NSAIDs predispose to peptic ulcer?,"They inhibit prostaglandins, removing mucosal protection."
+Integrated GI / HPB,Part-4,Mucosal Protection,"Which prostaglandin analog is used as a mucosal protectant, and what type is it?","Misoprostol, a PGE1 analog."
+Integrated GI / HPB,Part-4,Mucosal Protection,What is the drug of choice for preventing NSAID-induced ulcers?,A PPI.
+Integrated GI / HPB,Part-4,Mucosal Protection,"Which two agents are ulceroprotective by increasing mucus, and what stool sign do they cause?",Sucralfate and bismuth; they cause black-coloured stools.
+Integrated GI / HPB,Part-4,H2 Blockers,Which name ending is shared by the H2 blockers?,"They end in -tidine (cimetidine, famotidine, nizatidine)."
+Integrated GI / HPB,Part-5,Constipation Drugs,Give an example of a bulk-forming laxative.,Methylcellulose.
+Integrated GI / HPB,Part-5,Constipation Drugs,Give examples of osmotic laxatives.,Lactulose and PEG (polyethylene glycol).
+Integrated GI / HPB,Part-5,Constipation Drugs,What is the first-line drug class for IBS-C?,"Osmotic laxatives (lactulose, PEG)."
+Integrated GI / HPB,Part-5,Constipation Drugs,"Which osmotic laxative is used for hepatic encephalopathy, and how does it work?","Lactulose - it generates lactic acid (H+) that converts NH3 to NH4+, trapping ammonia."
+Integrated GI / HPB,Part-5,Constipation Drugs,Give examples of stimulant laxatives.,Senna and bisacodyl.
+Integrated GI / HPB,Part-5,Constipation Drugs,Chronic use of stimulant laxatives causes which colonic finding?,Melanosis coli.
+Integrated GI / HPB,Part-5,Constipation Drugs,Which laxative is a chloride channel activator?,Lubiprostone.
+Integrated GI / HPB,Part-5,Constipation Drugs,"Which laxatives are guanylate cyclase agonists, and what do they activate?",Linaclotide and plecanatide (they activate CFTR).
+Integrated GI / HPB,Part-5,Constipation Drugs,Which laxative is a 5-HT4 agonist?,Prucalopride.
+Integrated GI / HPB,Part-5,Constipation Drugs,"Which laxative is an NHE3 inhibitor, and how does it work?","Tenapanor - it blocks the Na+/H+ exchanger, increasing Na+ and water excretion into the gut."
+Integrated GI / HPB,Part-5,Constipation Drugs,For what condition are peripheral opioid inhibitors used?,Post-operative ileus (opioids reduce motility).
+Integrated GI / HPB,Part-5,Constipation Drugs,Name the peripheral opioid inhibitors.,"Alvimopan, naloxegol, methylnaltrexone."
+Integrated GI / HPB,Part-5,Diarrhea Drugs,"Which mu-opioid agonist is an antidiarrheal, and an indication?",Loperamide (used in IBS-D).
+Integrated GI / HPB,Part-5,Diarrhea Drugs,Why is diphenoxylate always combined with atropine?,"The atropine's unpleasant anticholinergic effects (dry mouth, reduced sweating) deter misuse."
+Integrated GI / HPB,Part-5,Diarrhea Drugs,Which antidiarrheal is an enkephalinase inhibitor?,Racecadotril.
+Integrated GI / HPB,Part-5,Diarrhea Drugs,Which 5-HT3 antagonist is used for diarrhea?,Alosetron.
+Integrated GI / HPB,Part-5,IBS / Rome IV,Rome IV: how frequent must the abdominal pain be?,At least 1 day per week on average over the last 3 months.
+Integrated GI / HPB,Part-5,IBS / Rome IV,"Rome IV: the pain must be associated with how many, and which, features?","Two or more of: onset related to defecation, a change in stool frequency, or a change in stool form."
+Integrated GI / HPB,Part-5,IBS / Rome IV,Rome IV: what is the required duration and onset timing?,"Criteria met for the last 3 months, with symptom onset at least 6 months earlier."
+Integrated GI / HPB,Part-5,IBS / Rome IV,Which feature is a red flag that argues against IBS?,Blood in the stool (IBS should have no blood).
+Integrated GI / HPB,Part-5,IBS / Rome IV,IBS-D corresponds to which Bristol stool types?,Bristol type 5 or 6.
+Integrated GI / HPB,Part-5,IBS / Rome IV,IBS-C corresponds to which Bristol stool types?,Bristol type 1 or 2.
+Integrated GI / HPB,Part-5,IBS / Rome IV,IBS-M corresponds to which Bristol stool types?,Mixed - Bristol types 1-2 and 5-6.
+Integrated GI / HPB,Part-5,Diet,"Which diet is advised in IBS, and why?","A low-FODMAP diet (FODMAPs produce acidic chyme, so they are avoided)."
+Integrated GI / HPB,Part-6,5-HT3 Blockers,Which 5-HT3 blocker has the shortest duration of action?,Ondansetron.
+Integrated GI / HPB,Part-6,5-HT3 Blockers,Which 5-HT3 blocker has the longest duration and is the most potent?,Palonosetron.
+Integrated GI / HPB,Part-6,5-HT3 Blockers,5-HT3 blockers are the drug of choice for which emetic settings?,"Post-operative, post-chemotherapy, post-radiotherapy, and pregnancy."
+Integrated GI / HPB,Part-6,5-HT3 Blockers,Which antiemetic covers the early phase of cisplatin-induced vomiting?,Ondansetron (a 5-HT3 blocker).
+Integrated GI / HPB,Part-6,5-HT3 Blockers,What are the side effects of 5-HT3 blockers?,"Headache, QT prolongation, and constipation."
+Integrated GI / HPB,Part-6,NK1 Inhibitors,Aprepitant belongs to which antiemetic class?,NK1 / substance P inhibitor.
+Integrated GI / HPB,Part-6,NK1 Inhibitors,Aprepitant is the drug of choice for which phase of cisplatin-induced vomiting?,The late-onset phase.
+Integrated GI / HPB,Part-6,Cannabinoids,Name the CB1 (cannabinoid) agonist antiemetics.,Dronabinol and nabilone.
+Integrated GI / HPB,Part-6,Cannabinoids,What are the side effects of cannabinoid antiemetics?,Red eyes and decreased blood pressure.
+Integrated GI / HPB,Part-6,D2 Blockers,"Does metoclopramide cross the blood-brain barrier, and what are the consequences?",Yes - causing EPS (extrapyramidal symptoms) and raised prolactin.
+Integrated GI / HPB,Part-6,D2 Blockers,Through which pathways does metoclopramide cause EPS and hyperprolactinemia?,Nigrostriatal pathway (EPS) and tuberoinfundibular pathway (raised prolactin).
+Integrated GI / HPB,Part-6,D2 Blockers,"Besides D2 blockade, what additional action does metoclopramide have, and what is it used for?",It is a 5-HT4 agonist (prokinetic); used in gastroparesis.
+Integrated GI / HPB,Part-6,D2 Blockers,"Does domperidone cross the blood-brain barrier, and is it preferred?","No, it does not cross the BBB; it is more preferred."
+Integrated GI / HPB,Part-6,Sickness Treatments,What is the treatment for morning sickness?,Doxylamine plus vitamin B6 (pyridoxine).
+Integrated GI / HPB,Part-6,Sickness Treatments,"What is the treatment for sea sickness, and what drug class is it?",Meclizine (an antihistamine).
+Integrated GI / HPB,Part-6,Sickness Treatments,What is the treatment for motion sickness?,Hyoscine (scopolamine).
+Integrated GI / HPB,Part-6,Sickness Treatments,What is the treatment for mountain sickness?,Acetazolamide.
+Integrated GI / HPB,Part-6,Sickness Treatments,How does acetazolamide help in mountain sickness?,It causes a metabolic acidosis that counteracts the respiratory alkalosis from high-altitude hyperventilation (CO2 washout).
+Integrated GI / HPB,Part-7,SAAG,How is the SAAG (serum-ascites albumin gradient) calculated?,Serum albumin minus ascites albumin.
+Integrated GI / HPB,Part-7,SAAG,A SAAG of 1.1 g/dL or more indicates what?,Portal hypertension.
+Integrated GI / HPB,Part-7,SAAG,A SAAG below 1.1 g/dL indicates what?,It excludes portal hypertension.
+Integrated GI / HPB,Part-7,SAAG,Portal-hypertensive ascites (SAAG >=1.1) with ascitic protein >=2.5 g/dL - causes?,"Restrictive cardiomyopathy, constrictive pericarditis, or Budd-Chiari syndrome."
+Integrated GI / HPB,Part-7,SAAG,Portal-hypertensive ascites (SAAG >=1.1) with ascitic protein <2.5 g/dL - causes?,Cirrhosis or late-stage Budd-Chiari syndrome.
+Integrated GI / HPB,Part-7,SAAG,Non-portal-hypertensive ascites (SAAG <1.1) with frothy urine - cause?,Nephrotic syndrome.
+Integrated GI / HPB,Part-7,SAAG,Non-portal-hypertensive ascites (SAAG <1.1) with fever and weight loss - cause?,Tuberculosis.
+Integrated GI / HPB,Part-7,SAAG,Non-portal-hypertensive ascites (SAAG <1.1) with weight loss in the elderly - cause?,Malignancy.
+Integrated GI / HPB,Part-7,SAAG,Non-portal-hypertensive ascites (SAAG <1.1) with acute pain - cause?,Pancreatitis.
+Integrated GI / HPB,Part-7,Ascites Volume Thresholds,What is the minimum ascites volume detectable on ultrasound?,50-100 mL.
+Integrated GI / HPB,Part-7,Ascites Volume Thresholds,What is the minimum ascites volume needed to elicit shifting dullness?,500 mL.
+Integrated GI / HPB,Part-7,Ascites Volume Thresholds,What is the minimum ascites volume needed to elicit a fluid thrill?,1500 mL.
+Integrated GI / HPB,Part-7,Ascites Management,"How is mild ascites (USG-detected, no clinical features) managed?",Salt restriction.
+Integrated GI / HPB,Part-7,Ascites Management,How is moderate ascites (clinical distension) managed?,Diuretics - loop and potassium-sparing diuretics.
+Integrated GI / HPB,Part-7,Ascites Management,How is severe ascites (respiratory distress) managed?,High-volume paracentesis (about 2.5 L) plus albumin infusion.
+Integrated GI / HPB,Part-7,Ascites Management,"Why is albumin given with high-volume paracentesis, and at what dose?",To avoid fluid shift; 6-8 g albumin per litre of fluid removed.
+Integrated GI / HPB,Part-7,Spontaneous Bacterial Peritonitis,What clinical scenario suggests spontaneous bacterial peritonitis (SBP)?,An ascites patient who develops fever.
+Integrated GI / HPB,Part-7,Spontaneous Bacterial Peritonitis,What ascitic fluid criterion diagnoses SBP?,Ascitic WBC greater than 250/mm3.
+Integrated GI / HPB,Part-7,Spontaneous Bacterial Peritonitis,What is the most common organism causing SBP?,"Gram-negative bacilli, most commonly E. coli."
+Integrated GI / HPB,Part-7,Spontaneous Bacterial Peritonitis,What is the drug of choice for SBP?,Ceftriaxone or cefotaxime.
+Integrated GI / HPB,Part-8,Acute Diarrhea (toxin <6h),Acute diarrhea within 6 hours is caused by what mechanism?,A preformed toxin (early type).
+Integrated GI / HPB,Part-8,Acute Diarrhea (toxin <6h),Which organism causes emetic diarrhea after Chinese food?,Bacillus cereus.
+Integrated GI / HPB,Part-8,Acute Diarrhea (toxin <6h),Which organism causes diarrhea after dairy?,Staphylococcus aureus.
+Integrated GI / HPB,Part-8,Acute Diarrhea (>6h),"What organism causes traveler's diarrhea, and via which toxins?","ETEC, via LT/ST toxins that raise cAMP."
+Integrated GI / HPB,Part-8,Acute Diarrhea (>6h),Which organism causes rice-water stool diarrhea?,Vibrio cholerae.
+Integrated GI / HPB,Part-8,Acute Diarrhea (>6h),"Which organism causes diarrhea after shellfish, and what phenomenon is associated?",Vibrio parahaemolyticus (Kanagawa phenomenon).
+Integrated GI / HPB,Part-8,Acute Diarrhea (>6h),Which organism causes diarrhea from camping / with malabsorption?,Giardia.
+Integrated GI / HPB,Part-8,Acute Diarrhea (>6h),Which organism causes diarrhea with acute right iliac fossa pain?,Yersinia enterocolitica.
+Integrated GI / HPB,Part-8,Acute Diarrhea (>6h),Which organism causes diarrhea after antibiotic use?,Clostridium difficile.
+Integrated GI / HPB,Part-8,Bloody Diarrhea,Bloody diarrhea from poultry and eggs - organism?,Salmonella.
+Integrated GI / HPB,Part-8,Bloody Diarrhea,Bloody diarrhea with severe dehydration - organism?,Shigella.
+Integrated GI / HPB,Part-8,Bloody Diarrhea,Bloody diarrhea associated with GBS and Reiter syndrome - organism?,Campylobacter.
+Integrated GI / HPB,Part-8,Bloody Diarrhea,Bloody diarrhea causing uremia/anemia - organism and syndrome?,"EHEC (O157:H7), causing HUS."
+Integrated GI / HPB,Part-8,Bloody Diarrhea,Bloody diarrhea with flask-shaped ulcers - cause?,"Amebiasis (Entamoeba histolytica), which phagocytoses RBCs."
+Integrated GI / HPB,Part-8,Bloody Diarrhea,Bloody diarrhea with longitudinal ulcers - cause?,Typhoid.
+Integrated GI / HPB,Part-8,Bloody Diarrhea,Bloody diarrhea with transverse ulcers - cause?,Tuberculosis.
+Integrated GI / HPB,Part-8,Chronic Diarrhea,What is the stool osmotic gap formula?,290 - 2 x (stool Na + stool K).
+Integrated GI / HPB,Part-8,Chronic Diarrhea,An osmotic gap below 50 indicates which type of diarrhea?,Secretory.
+Integrated GI / HPB,Part-8,Chronic Diarrhea,What are the causes of secretory diarrhea (low osmotic gap)?,ZES (gastrinoma) and carcinoid.
+Integrated GI / HPB,Part-8,Chronic Diarrhea,Carcinoid causes secretory diarrhea via excess of what mediator?,Serotonin (5-HT).
+Integrated GI / HPB,Part-8,Chronic Diarrhea,"An osmotic gap above 50 indicates which type of diarrhea, and how does it respond to fasting?",Osmotic diarrhea; it resolves on fasting.
+Integrated GI / HPB,Part-8,Chronic Diarrhea,A positive hydrogen breath test indicates what?,Lactose intolerance.
+Integrated GI / HPB,Part-8,Malabsorption Workup,What does stool fat greater than 7% signify?,Steatorrhea (greasy stools) - malabsorption.
+Integrated GI / HPB,Part-8,Malabsorption Workup,The D-xylose test assesses absorption of what?,Carbohydrate (intestinal mucosal absorption).
+Integrated GI / HPB,Part-8,Malabsorption Workup,"Malabsorption with a normal D-xylose test points to which cause, and what test confirms it?","A pancreatic cause - confirmed by fecal elastase (e.g., pancreatitis, with protein and fat malabsorption but normal carb absorption)."
+Integrated GI / HPB,Part-8,Malabsorption Workup,Malabsorption with an abnormal D-xylose test that normalizes after rifaximin indicates what?,SIBO / bacterial overgrowth (BOGS).
+Integrated GI / HPB,Part-8,Malabsorption Workup,"Malabsorption with an abnormal D-xylose test that stays abnormal after rifaximin indicates what, and the next step?",A mucosal defect - proceed to biopsy.
+Integrated GI / HPB,Part-8,Coeliac Disease,What are the HLA associations of coeliac disease?,HLA-DQ2 and HLA-DQ8.
+Integrated GI / HPB,Part-8,Coeliac Disease,Which dietary protein triggers the hypersensitivity in coeliac disease?,Alpha-gliadin.
+Integrated GI / HPB,Part-8,Coeliac Disease,What is the best serological test for coeliac disease?,Anti-tissue transglutaminase (anti-TTG).
+Integrated GI / HPB,Part-8,Coeliac Disease,What system is used for histological staging of coeliac disease?,Marsh staging.
+Integrated GI / HPB,Part-8,Coeliac Disease,What are the histological features of coeliac disease?,"Villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes (T-cells)."
+Integrated GI / HPB,Part-8,Coeliac Disease,Coeliac disease carries an increased risk of which malignancy?,T-cell lymphoma.
+Integrated GI / HPB,Part-8,Coeliac Disease,What is the best biopsy site for coeliac disease?,The duodenum.
+Integrated GI / HPB,Part-8,Coeliac Disease,Which skin condition is associated with coeliac disease?,Dermatitis herpetiformis.
+Integrated GI / HPB,Part-8,Coeliac Disease,"Which foods must be avoided in coeliac disease, and which are allowed?","Avoid Barley, Rye, Oat, Wheat (mnemonic: BROW); rice and maize are allowed."
+Integrated GI / HPB,Part-8,Whipple Disease & Intestinal TB,Which organism causes Whipple's disease?,Tropheryma whipplei.
+Integrated GI / HPB,Part-8,Whipple Disease & Intestinal TB,What is the characteristic histology of Whipple's disease?,"PAS-positive, diastase-resistant foamy macrophages."
+Integrated GI / HPB,Part-8,Whipple Disease & Intestinal TB,What are the systemic features of Whipple's disease?,"Cardiac, Arthritis, and Neuro involvement (mnemonic: PAS CAN / foamy whipped cream)."
+Integrated GI / HPB,Part-8,Whipple Disease & Intestinal TB,Which stain is positive in intestinal tuberculosis?,AFB (acid-fast bacilli) positive.
+Integrated GI / HPB,Part-8,Coeliac Disease,Which two clinical features are linked with coeliac disease in the notes?,Iron-deficiency anemia (IDA) and short stature.
+Integrated GI / HPB,Part-9,Non-neoplastic Polyps,What are the three categories of non-neoplastic polyps?,"Hyperplastic, inflammatory, and hamartomatous."
+Integrated GI / HPB,Part-9,Non-neoplastic Polyps,Where are the serrations located in a hyperplastic polyp?,In the upper part only.
+Integrated GI / HPB,Part-9,Non-neoplastic Polyps,How does a sessile serrated adenoma differ from a hyperplastic polyp histologically?,"Its serrations extend the whole crypt length, not just the upper part."
+Integrated GI / HPB,Part-9,Non-neoplastic Polyps,What is the clinical presentation of an inflammatory polyp?,Rectal bleeding and mucus discharge.
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,What histologic pattern is characteristic of hamartomatous polyps?,An arborising (tree-like) pattern.
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,A 4-year-old with rectal bleeding and a polyp showing many cystic spaces - diagnosis and gene?,Juvenile polyp; SMAD4 gene.
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,An 11-year-old with intussusception (polyp as lead point) and mucocutaneous pigmentation - diagnosis and gene?,Peutz-Jeghers syndrome; STK11 gene.
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,Peutz-Jeghers syndrome carries the maximum risk of which cancer?,Pancreatic cancer.
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,Cowden syndrome - gene and characteristic skin lesion?,PTEN gene (chromosome 10); trichilemmoma around hair follicles.
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,Cowden syndrome increases the risk of which cancers?,"Breast, Endometrial, and Thyroid (mnemonic: BET)."
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,Cronkhite-Canada syndrome - inheritance and associated feature?,Non-inherited; associated with ectodermal dysplasia.
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,Which neurocutaneous syndrome is included among the hamartomatous polyp syndromes?,Tuberous sclerosis (TSC).
+Integrated GI / HPB,Part-9,Hamartomatous Polyps,What are the features of Bannayan-Ruvalcaba-Riley syndrome?,Mental retardation plus polyps.
+Integrated GI / HPB,Part-9,Neoplastic Polyps,What are the two types of neoplastic (adenomatous) polyps?,Tubular and villous.
+Integrated GI / HPB,Part-9,Neoplastic Polyps,Which adenoma type has the higher malignant potential?,Villous.
+Integrated GI / HPB,Part-9,Neoplastic Polyps,What is the most important prognostic factor for an adenomatous polyp?,Size.
+Integrated GI / HPB,Part-9,Neoplastic Polyps,Which classification grades the depth of malignant invasion in adenomas?,Haggitt classification.
+Integrated GI / HPB,Part-9,Neoplastic Polyps,What range of levels does the Haggitt classification use?,Levels 0 to 4.
+Integrated GI / HPB,Part-10,Adenoma-Carcinoma Sequence,What is the order of gene mutations in the adenoma-carcinoma sequence?,APC then K-RAS then TP53 (mnemonic: AK 53).
+Integrated GI / HPB,Part-10,Adenoma-Carcinoma Sequence,APC mutation: chromosome locus and partner protein?,5q21; it acts with beta-catenin.
+Integrated GI / HPB,Part-10,Adenoma-Carcinoma Sequence,Which early lesion does APC mutation produce?,Tubular adenoma (the first step).
+Integrated GI / HPB,Part-10,Adenoma-Carcinoma Sequence,What is the chromosome locus of the K-RAS mutation?,12p12.
+Integrated GI / HPB,Part-10,Adenoma-Carcinoma Sequence,"TP53 mutation locus, plus the associated loss of heterozygosity (LOH)?","17p13, with LOH at 18q21 (SMAD 2 and 4)."
+Integrated GI / HPB,Part-10,Adenoma-Carcinoma Sequence,"In the adenoma-CA sequence, what do chromosome numbers 5, 12, and 17 correspond to?","APC (5), K-RAS (12), and TP53 (17); note 5 + 12 = 17."
+Integrated GI / HPB,Part-10,DNA Repair Genes,Which mismatch-repair genes are mutated in HNPCC?,"MLH1 and MSH2 (also MSH6, PMS1, PMS2)."
+Integrated GI / HPB,Part-10,DNA Repair Genes,Mismatch-repair defects lead to mutations in which downstream genes?,"TGFBR2, BAX, and BRAF (also TCF4, IGF2R, others)."
+Integrated GI / HPB,Part-10,DNA Repair Genes,HNPCC adenomas are typically what morphology?,Sessile adenomas.
+Integrated GI / HPB,Part-10,DNA Repair Genes,The MUTYH gene belongs to which DNA repair pathway?,Base excision repair.
+Integrated GI / HPB,Part-10,FAP vs MAP,The polyposis form linked to the APC gene is called what?,FAP (familial adenomatous polyposis).
+Integrated GI / HPB,Part-10,FAP vs MAP,The polyposis form linked to the MUTYH gene is called what?,MAP (MUTYH-associated polyposis).
+Integrated GI / HPB,Part-10,FAP vs MAP,FAP surveillance: when does it start and how often?,"Annual colonoscopy from age 10-12, every 1-2 years until surgery."
+Integrated GI / HPB,Part-10,FAP vs MAP,What is the surgical treatment of FAP?,Total proctocolectomy with ileal pouch-anal anastomosis (IPAA).
+Integrated GI / HPB,Part-10,FAP vs MAP,MAP surveillance: when does it start and how?,"Chromo-endoscopy from age 20-25, every 1-2 years."
+Integrated GI / HPB,Part-10,FAP & Variants,"FAP: inheritance, polyp number, and age of onset?",Autosomal dominant; more than 100 polyps; earlier age.
+Integrated GI / HPB,Part-10,FAP & Variants,FAP: risk of colon cancer and most common location?,100% risk of colon cancer; left colon most common.
+Integrated GI / HPB,Part-10,FAP & Variants,What are the features of Gardner syndrome?,"Osteomas, sebaceous cysts, fibromas, and CHRPE (congenital hypertrophy of retinal pigment epithelium)."
+Integrated GI / HPB,Part-10,FAP & Variants,What are the features of Turcot syndrome?,Brain tumors - medulloblastoma / glioblastoma (Turban-Brain).
+Integrated GI / HPB,Part-10,MAP Features,"MAP: inheritance, polyp number, and age of onset?",Autosomal recessive; fewer than 100 polyps; later.
+Integrated GI / HPB,Part-10,MAP Features,MAP is associated with which extra-colonic tumors?,"Duodenal adenomas, and ovarian and bladder cancers."
+Integrated GI / HPB,Part-10,HNPCC / Lynch,What gene defect underlies HNPCC (Lynch syndrome)?,A mismatch-repair gene mutation.
+Integrated GI / HPB,Part-10,HNPCC / Lynch,Amsterdam II criteria: how many relatives with an HNPCC-associated cancer are required?,At least three.
+Integrated GI / HPB,Part-10,HNPCC / Lynch,Which cancers count as HNPCC-associated under Amsterdam II?,"Colorectal, endometrial, small bowel, ureter, or renal pelvis cancer."
+Integrated GI / HPB,Part-10,HNPCC / Lynch,Amsterdam II: what is the relationship requirement among the three relatives?,One must be a first-degree relative of the other two.
+Integrated GI / HPB,Part-10,HNPCC / Lynch,Amsterdam II: generation and age requirements?,"At least two successive generations affected, and at least one diagnosed before age 50."
+Integrated GI / HPB,Part-10,HNPCC / Lynch,"HNPCC (Lynch): inheritance, colon cancer risk, and colon location?",Autosomal dominant; 80% risk of colon cancer; right colon.
+Integrated GI / HPB,Part-10,BRAF Mutation,Which tumors are associated with BRAF mutation?,"Melanoma, colon adenocarcinoma, papillary thyroid carcinoma, hairy cell leukemia, and Langerhans cell histiocytosis."
+Integrated GI / HPB,Part-10,BRAF Mutation,Which BRAF inhibitors are used?,Dabrafenib and vemurafenib.
+Integrated GI / HPB,Part-10,BRAF Mutation,Which BRAF mutation subtype is the relevant one?,V600E.
+Integrated GI / HPB,Part-10,Adenoma-Carcinoma Sequence,"After TP53, what is involved in the late adenoma-carcinoma sequence?",Telomerase and other cancer genes.
+Integrated GI / HPB,Part-11,UC vs Crohn's,Wall layer involved in UC versus Crohn's disease?,UC = mucosa/superficial; Crohn's = transmural.
+Integrated GI / HPB,Part-11,UC vs Crohn's,Most common site of UC versus Crohn's disease?,UC starts in the rectum; Crohn's most commonly affects the terminal ileum.
+Integrated GI / HPB,Part-11,UC vs Crohn's,"Are strictures, fistulae, and abscesses features of UC or Crohn's?",Crohn's (present); absent in UC.
+Integrated GI / HPB,Part-11,UC vs Crohn's,Lesion distribution in UC versus Crohn's?,UC is continuous; Crohn's has skip lesions.
+Integrated GI / HPB,Part-11,UC vs Crohn's,Antibody associated with UC versus Crohn's?,UC = p-ANCA; Crohn's = ASCA (anti-Saccharomyces cerevisiae).
+Integrated GI / HPB,Part-11,UC vs Crohn's,Characteristic histology of UC versus Crohn's?,UC = crypt abscess; Crohn's = non-caseating granuloma.
+Integrated GI / HPB,Part-11,UC vs Crohn's,Earliest imaging finding in UC versus Crohn's?,UC = mucosal granularity; Crohn's = aphthous ulcers.
+Integrated GI / HPB,Part-11,IBD Extra-intestinal & Markers,List the shared extra-intestinal manifestations of IBD.,"Rash (pyoderma gangrenosum, erythema nodosum), eye inflammation (episcleritis, uveitis), oral aphthous stomatitis, peripheral arthritis, and ankylosing spondylitis."
+Integrated GI / HPB,Part-11,IBD Extra-intestinal & Markers,Which hepatobiliary condition is specifically associated with UC?,Primary sclerosing cholangitis (PSC).
+Integrated GI / HPB,Part-11,IBD Extra-intestinal & Markers,Which renal stones are specifically associated with Crohn's disease?,Calcium oxalate stones.
+Integrated GI / HPB,Part-11,IBD Extra-intestinal & Markers,Which two fecal markers indicate IBD activity?,Fecal lactoferrin and fecal calprotectin (raised inflammatory markers).
+Integrated GI / HPB,Part-11,IBD Extra-intestinal & Markers,Which two factors are protective against UC?,Smoking and childhood appendectomy.
+Integrated GI / HPB,Part-11,IBD Extra-intestinal & Markers,Colon cancer risk in IBD is increased more in which type?,Ulcerative colitis.
+Integrated GI / HPB,Part-11,IBD Management,What is the medical management ladder for UC?,"Sulfasalazine (5-ASA), then steroids, then biologicals."
+Integrated GI / HPB,Part-11,IBD Management,What is the medical management ladder for Crohn's disease?,"Steroids, then biologicals."
+Integrated GI / HPB,Part-11,IBD Management,How does the role of surgery differ between UC and Crohn's?,"Surgery can be curative/resolving in UC, but is not preferred in Crohn's because of skip lesions."
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,'Lead pipe colon' on barium is seen in which IBD?,Ulcerative colitis.
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,Pseudopolyps are a feature of which IBD?,Ulcerative colitis.
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,A crypt abscess on histology indicates which IBD?,Ulcerative colitis.
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,'String sign of Kantor' (ileum) is seen in which IBD?,Crohn's disease.
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,The 'comb sign' (vasa recta proliferation) is seen in which IBD?,Crohn's disease.
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,'Cobblestone appearance' is seen in which IBD?,Crohn's disease.
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,'Creeping fat' is seen in which IBD?,Crohn's disease.
+Integrated GI / HPB,Part-11,IBD Imaging & Histology,Non-caseating granulomas throughout the wall (transmural) indicate which IBD?,Crohn's disease.
+Integrated GI / HPB,Part-12,Liver Zones,"Which liver zone receives the freshest oxygenated blood, and what injures it?",Zone 1 (periportal) - injured by viral hepatitis and cocaine.
+Integrated GI / HPB,Part-12,Liver Zones,Which liver zone is affected by yellow fever?,Zone 2.
+Integrated GI / HPB,Part-12,Liver Zones,Which liver zone is most vulnerable to hypoxia/congestion and toxic metabolites?,Zone 3 (centrilobular).
+Integrated GI / HPB,Part-12,Liver Zones,Which toxins/drugs damage zone 3 of the liver?,"Alcohol, rifampicin, and paracetamol (PCM)."
+Integrated GI / HPB,Part-12,Liver Zones,What three structures make up the portal triad?,"Portal vein, common bile duct, and hepatic artery."
+Integrated GI / HPB,Part-12,Nutmeg Liver & Space of Disse,What causes a 'nutmeg liver'?,CHF causing backflow with centrilobular (zone 3) congestion and periportal sparing.
+Integrated GI / HPB,Part-12,Nutmeg Liver & Space of Disse,"Where is the space of Disse, and which cells reside there?",Between hepatocytes and sinusoids; it contains Ito (stellate) cells.
+Integrated GI / HPB,Part-12,Nutmeg Liver & Space of Disse,What is the normal function of Ito/stellate cells?,They store vitamin A.
+Integrated GI / HPB,Part-12,Nutmeg Liver & Space of Disse,"In cirrhosis, what do stellate cells produce?",Bridging fibrosis (collagen types 1 and 3).
+Integrated GI / HPB,Part-12,Signs of Cirrhosis,Which cirrhosis signs are caused by raised estrogen?,"Spider angiomas, palmar erythema, testicular atrophy, and gynecomastia."
+Integrated GI / HPB,Part-12,Signs of Cirrhosis,Which integumentary signs of cirrhosis result from reduced clotting factors?,Purpura and petechiae.
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,"Portal hypertension causes which varices, and what bleeding pattern?","Esophageal and gastric varices, causing hematemesis/melena."
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,Name the vascular signs of portal hypertension.,"Caput medusae, anorectal varices, ascites, and spontaneous bacterial peritonitis."
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,What are the hematologic effects of cirrhosis/portal hypertension?,"Thrombocytopenia, anemia, coagulation disorders, and splenomegaly."
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,Which neurologic features occur in cirrhosis?,Hepatic encephalopathy (raised NH3) and asterixis (flapping tremor).
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,What is the renal complication of cirrhosis?,Hepatorenal syndrome.
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,What are the metabolic derangements in cirrhosis?,Hyperbilirubinemia and hyponatremia.
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,What are the cardiovascular features of cirrhosis?,Cardiomyopathy and peripheral edema.
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,"Which GI symptoms occur in cirrhosis, including a characteristic breath odor?","Anorexia, nausea/vomiting, dull abdominal pain, and fetor hepaticus."
+Integrated GI / HPB,Part-12,Hepatic Encephalopathy,What is the earliest symptom of hepatic encephalopathy?,An altered sleep-wake cycle.
+Integrated GI / HPB,Part-12,Hepatic Encephalopathy,What is the most specific sign of hepatic encephalopathy?,Asterixis.
+Integrated GI / HPB,Part-12,Hepatic Encephalopathy,What is the EEG finding in hepatic encephalopathy?,Triphasic waves.
+Integrated GI / HPB,Part-12,Hepatic Encephalopathy,What staging system is used for hepatic encephalopathy?,West Haven criteria.
+Integrated GI / HPB,Part-12,Hepatic Encephalopathy,"What is the management of hepatic encephalopathy, and the mechanisms?",Rifaximin (reduces ammonia-producing bacteria) plus lactulose (converts NH3 to NH4+).
+Integrated GI / HPB,Part-12,HPS & HRS,What are the clinical features of hepatopulmonary syndrome?,Platypnea and orthodeoxia (position-related breathlessness).
+Integrated GI / HPB,Part-12,HPS & HRS,What are the diagnostic features of hepatorenal syndrome?,AKI with FeNa below 1% and no signs of shock (a pre-renal picture).
+Integrated GI / HPB,Part-12,HPS & HRS,What is the drug of choice for hepatorenal syndrome?,Terlipressin (with albumin).
+Integrated GI / HPB,Part-12,Signs of Cirrhosis,Which integumentary sign of cirrhosis reflects raised bilirubin?,Jaundice.
+Integrated GI / HPB,Part-12,Portal Hypertension Effects,Which reproductive manifestations occur in cirrhosis?,"Testicular atrophy, gynecomastia, and amenorrhea."
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What is the AST:ALT pattern in alcoholic hepatitis?,"AST > ALT, ratio greater than 2:1, with AST below 400."
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,Which inclusion bodies are seen in alcoholic hepatitis?,Mallory-Denk bodies.
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What are Mallory-Denk bodies composed of?,Cytokeratin 8/18 (intermediate filaments).
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What is the Lille index used for?,Monitoring response to steroids in alcoholic hepatitis.
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What type of steatosis is seen in alcoholic hepatitis?,Macrovesicular steatosis.
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What does Maddrey's discriminant function (DF) determine?,Whether steroids are indicated in alcoholic hepatitis.
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What is the formula for Maddrey's discriminant function?,4.6 x (prothrombin time - control PT) + serum bilirubin.
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,Maddrey's DF: what cut-off separates non-severe from severe disease?,"32 (below 32 non-severe, above 32 severe)."
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What is the short-term mortality of alcoholic hepatitis by severity?,About 10% (non-severe) versus 30-60% (severe).
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,When are corticosteroids given in alcoholic hepatitis (by DF)?,"Only in severe disease (DF above 32), not in non-severe."
+Integrated GI / HPB,Part-13,Viral Hepatitis Histology,What is the AST:ALT pattern in viral hepatitis?,ALT > AST.
+Integrated GI / HPB,Part-13,Viral Hepatitis Histology,Which apoptotic bodies are seen in viral hepatitis (especially Hep C)?,"Councilman bodies (apoptotic, zone 1)."
+Integrated GI / HPB,Part-13,Viral Hepatitis Histology,What are the histologic features of viral hepatitis?,Portal tract expansion and macrovesicular steatosis.
+Integrated GI / HPB,Part-13,Autoimmune Hepatitis,What is the typical patient profile for autoimmune hepatitis?,A young female with recurrent hepatitis.
+Integrated GI / HPB,Part-13,Autoimmune Hepatitis,Which antibodies define type 1 autoimmune hepatitis?,ANA and SMA.
+Integrated GI / HPB,Part-13,Autoimmune Hepatitis,Which antibodies define type 2 autoimmune hepatitis?,"LKM-1, SLA, and LC."
+Integrated GI / HPB,Part-13,Autoimmune Hepatitis,What is the characteristic histology of autoimmune hepatitis?,Interface hepatitis and emperipolesis (one cell engulfing another).
+Integrated GI / HPB,Part-13,Hepatitis B Histology,"What is the histologic hallmark of hepatitis B, and the stain used?",Ground-glass hepatocytes; Orcein/Shikata stain.
+Integrated GI / HPB,Part-13,NASH,"NASH is characterized by what, plus which clinical association?",Macrovesicular steatosis with obesity.
+Integrated GI / HPB,Part-13,NASH,Which vitamin is approved for NASH?,Vitamin E.
+Integrated GI / HPB,Part-13,NASH,Name the drugs used in NASH besides vitamin E.,"Metformin, liraglutide, pioglitazone, saroglitazar, and lanifibranor."
+Integrated GI / HPB,Part-13,NASH,Which receptor does pioglitazone act on in NASH?,PPAR-gamma (increasing insulin sensitivity).
+Integrated GI / HPB,Part-13,NASH,Which receptors does saroglitazar act on?,PPAR-alpha and PPAR-gamma.
+Integrated GI / HPB,Part-13,NASH,Which receptors does lanifibranor act on?,Pan-PPAR (all PPARs).
+Integrated GI / HPB,Part-13,PBC,What are the characteristic duct lesion and antibody in primary biliary cholangitis?,Florid duct lesions; anti-mitochondrial antibody.
+Integrated GI / HPB,Part-13,PBC,What are the clinical features of primary biliary cholangitis?,"Pruritus, osteopenia, and xanthelasma."
+Integrated GI / HPB,Part-13,PSC,"Which IBD is associated with primary sclerosing cholangitis, and what added risk?",Ulcerative colitis; increased colon cancer risk.
+Integrated GI / HPB,Part-13,PSC,What is the characteristic histology of primary sclerosing cholangitis?,Onion-skin periductal fibrosis.
+Integrated GI / HPB,Part-13,PSC,What is the characteristic MRCP finding in PSC?,A 'beaded' appearance.
+Integrated GI / HPB,Part-13,PSC,PSC is premalignant for which cancer?,Cholangiocarcinoma.
+Integrated GI / HPB,Part-13,Alcoholic Hepatitis,What are the alternative names for AST and ALT?,AST = SGOT; ALT = SGPT.
+Integrated GI / HPB,Part-14,Wilson's Disease,Wilson's disease: gene and chromosome?,ATP7B on chromosome 13.
+Integrated GI / HPB,Part-14,Wilson's Disease,What is the ceruloplasmin level in Wilson's disease?,Decreased (impaired copper transport).
+Integrated GI / HPB,Part-14,Wilson's Disease,What is the urine copper in Wilson's disease?,Increased.
+Integrated GI / HPB,Part-14,Wilson's Disease,Which renal tubular defect occurs in Wilson's disease?,Type 2 RTA.
+Integrated GI / HPB,Part-14,Wilson's Disease,KF rings represent copper deposition where?,In Descemet's membrane of the cornea.
+Integrated GI / HPB,Part-14,Wilson's Disease,What proportion of Wilson's patients with neurologic involvement have KF rings?,About 90%.
+Integrated GI / HPB,Part-14,Wilson's Disease,What proportion of Wilson's patients with hepatic involvement have KF rings?,About 50%.
+Integrated GI / HPB,Part-14,Wilson's Disease,What is the treatment of choice for Wilson's disease?,Zinc and/or D-penicillamine.
+Integrated GI / HPB,Part-14,Wilson's Disease,What is the role of D-penicillamine in Wilson's disease?,It is a copper-sequestering chelator.
+Integrated GI / HPB,Part-14,Wilson's Disease,Which drug is used in Wilson's disease with hepatic decompensation?,Trientine.
+Integrated GI / HPB,Part-14,Wilson's Disease,Which special stains demonstrate copper?,Rhodanine and rubeanic acid.
+Integrated GI / HPB,Part-14,Hemochromatosis,Hemochromatosis: gene and chromosome?,HFE on chromosome 6.
+Integrated GI / HPB,Part-14,Hemochromatosis,"What is the role of hepcidin, and what happens to it in hemochromatosis?","Hepcidin is a negative regulator of iron absorption; it is decreased, so iron absorption rises markedly."
+Integrated GI / HPB,Part-14,Hemochromatosis,"Which organs are affected in hemochromatosis, giving which classic picture?","Liver (cirrhosis), pancreas (diabetes), pituitary, and skin (bronze) - 'bronze diabetes'."
+Integrated GI / HPB,Part-14,Hemochromatosis,Which cardiomyopathies occur in hemochromatosis?,Restrictive and dilated cardiomyopathy (RCM/DCM).
+Integrated GI / HPB,Part-14,Hemochromatosis,Which musculoskeletal findings occur in hemochromatosis?,Hook-shaped metacarpals and pseudogout.
+Integrated GI / HPB,Part-14,Hemochromatosis,Which imaging and stain are used for hemochromatosis?,MRI; Perls Prussian Blue stain.
+Integrated GI / HPB,Part-14,Hemochromatosis,What is the treatment of hemochromatosis?,Phlebotomy and iron chelation (desferrioxamine).
+Integrated GI / HPB,Part-14,Alpha-1 Antitrypsin Deficiency,What is the histologic finding in alpha-1 antitrypsin deficiency?,"PAS-positive, diastase-resistant globules."
+Integrated GI / HPB,Part-14,Alpha-1 Antitrypsin Deficiency,What do the dense bodies on EM in A1AT deficiency represent?,Aggregation of misfolded proteins.
+Integrated GI / HPB,Part-14,Alpha-1 Antitrypsin Deficiency,What two organ diseases result from A1AT deficiency?,Panlobular (lower-lobe) emphysema and cirrhosis.
+Integrated GI / HPB,Part-14,Alpha-1 Antitrypsin Deficiency,A1AT deficiency: chromosome and inheritance pattern?,Chromosome 14; co-dominant.
+Integrated GI / HPB,Part-14,Alpha-1 Antitrypsin Deficiency,"In A1AT deficiency, what do the M and Z alleles represent?",M = normal subtype; Z = disease allele (ZZ = disease).
+Integrated GI / HPB,Part-15,Hepatitis Chronicity & Clinical,What is the risk of chronicity for HBV?,1-90% (varies with HBeAg status and age).
+Integrated GI / HPB,Part-15,Hepatitis Chronicity & Clinical,What is the risk of chronicity for HCV?,85%.
+Integrated GI / HPB,Part-15,Hepatitis Chronicity & Clinical,What is the risk of chronicity for Hep A and Hep E?,0% (both are feco-oral).
+Integrated GI / HPB,Part-15,Hepatitis Chronicity & Clinical,"Which is the most common cause of acute hepatitis, and its danger in pregnancy?",Hepatitis E; about 20% mortality in pregnancy.
+Integrated GI / HPB,Part-15,HBV/HCV Management,"When is HBV treated, and with what drugs?","When HBV DNA is greater than 2000 IU/ml - tenofovir, entecavir, or IFN-alpha (interferon for 12 weeks)."
+Integrated GI / HPB,Part-15,HBV/HCV Management,Which DAA is highlighted for HCV?,Velpatasvir.
+Integrated GI / HPB,Part-15,DAA Classes,DAAs ending in '-previr' inhibit which HCV target?,"NS3/4A protease (e.g., telaprevir, boceprevir, simeprevir)."
+Integrated GI / HPB,Part-15,DAA Classes,DAAs ending in '-asvir' inhibit which HCV target?,"NS5A replication complex (e.g., daclatasvir, ledipasvir, velpatasvir)."
+Integrated GI / HPB,Part-15,DAA Classes,DAAs ending in '-buvir' inhibit which HCV target?,"NS5B polymerase (e.g., sofosbuvir)."
+Integrated GI / HPB,Part-15,DAA Classes,Which NS5B polymerase inhibitor is the nucleoside inhibitor?,Sofosbuvir.
+Integrated GI / HPB,Part-15,DAA Classes,Name the HCV non-specific antivirals.,(Peg)interferon and ribavirin.
+Integrated GI / HPB,Part-15,HBV Serology Markers,"What is the first antigen to appear in HBV infection, and its other name?",HBsAg (the Australian antigen).
+Integrated GI / HPB,Part-15,HBV Serology Markers,"During the window period, which is the only detectable HBV marker?",Total anti-HBc (IgM).
+Integrated GI / HPB,Part-15,HBV Serology Markers,Which HBV marker persists lifelong?,Total anti-HBc.
+Integrated GI / HPB,Part-15,HBV Serology Markers,"Which HBV antibody indicates immunity (vaccine or recovery), and what may happen to it?",Anti-HBs; it may disappear after a few years.
+Integrated GI / HPB,Part-15,HBV Serology Markers,What does HBsAg indicate?,Active HBV infection.
+Integrated GI / HPB,Part-15,HBV Serology Markers,What does anti-HBs indicate?,Immunity.
+Integrated GI / HPB,Part-15,HBV Serology Markers,What do anti-HBc IgM versus IgG distinguish?,IgM = acute; IgG = chronic or past infection.
+Integrated GI / HPB,Part-15,HBV Serology Markers,What does HBeAg indicate?,High infectivity.
+Integrated GI / HPB,Part-15,HBV Serology Markers,What does anti-HBe indicate?,Low infectivity.
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of acute hepatitis B?,"HBsAg+, anti-HBc IgM, HBeAg+ (high infectivity)."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of chronic hepatitis B?,"HBsAg+, anti-HBc IgG, HBeAg+ (raised infectivity)."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of an inactive HBV carrier?,"HBsAg+, anti-HBc IgG, HBeAg-, anti-HBe+, ALT normal, HBV DNA <2000."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,"What is the serology of an HBV precore mutant, and its defect?","HBsAg+, anti-HBc IgG, HBeAg-, anti-HBe+, but ALT raised and HBV DNA >2000 - it cannot produce HBeAg."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,How is HBV-HDV co-infection identified serologically?,"An acute pattern: HBsAg+, anti-HBc IgM, HBeAg+, anti-HDV+."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,How is HBV-HDV superinfection identified serologically?,"A chronic pattern: HBsAg+, anti-HBc IgG, anti-HDV+."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of the window period?,"HBsAg-, anti-HBs-, anti-HBc IgM only."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of recovery from HBV?,"HBsAg-, anti-HBs+, anti-HBc IgG, anti-HBe+."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of remote past HBV infection?,"HBsAg-, anti-HBc IgG, anti-HBe +/-."
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of HBV vaccination?,Anti-HBs+ only (anti-HBc negative).
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of recovered hepatitis C?,Anti-HCV+ (HCV RNA negative).
+Integrated GI / HPB,Part-15,HBV/HCV Serology Interpretation,What is the serology of active hepatitis C infection?,Anti-HCV+ and HCV RNA+.
