@@ -1,4 +1,4 @@
-import { fsrs, createEmptyCard, Rating, State, type Card, type Grade as FsrsGrade } from 'ts-fsrs';
+import { fsrs, createEmptyCard, Rating, State, generatorParameters, type Card, type Grade as FsrsGrade } from 'ts-fsrs';
 
 export type Grade = 'again' | 'hard' | 'good' | 'easy';
 
@@ -16,15 +16,25 @@ export type Review = {
 const DAY = 86_400_000;
 
 // One scheduler for the whole app. 90% target retention is the recommended
-// board-prep default; fuzz spreads reviews so they don't clump on one day;
-// short-term steps preserve the old "Again -> ~10 min" feel. Default FSRS-6
-// weights, no optimizer (out of scope — see spec).
+// board-prep default; fuzz spreads reviews so they don't clump on one day.
+// New-card feel (tuned 2026-06-30): a single 30-minute learning step, so
+// Again -> ~30m and Hard -> ~45m (both stay "in learning"); Good and Easy
+// graduate immediately. We nudge the FSRS-6 initial-stability weights for the
+// first Good/Easy (w[2]/w[3]) so those first graduated intervals land near
+// 3 days / 6 days at the 90% target. Only w[2]/w[3] are overridden — every
+// other weight (and thus all mature-card growth) stays at the FSRS-6 default,
+// so existing cards' future scheduling is unchanged. No optimizer.
+const w = [...generatorParameters().w];
+w[2] = 3.4; // initial stability after a first "Good" -> ~3 days
+w[3] = 6.2; // initial stability after a first "Easy" -> ~6 days
+
 const scheduler = fsrs({
   request_retention: 0.9,
   enable_fuzz: true,
   enable_short_term: true,
-  learning_steps: ['1m', '10m'],
-  relearning_steps: ['10m'],
+  learning_steps: ['30m'],
+  relearning_steps: ['30m'],
+  w,
 });
 
 const RATING: Record<Grade, Rating> = {

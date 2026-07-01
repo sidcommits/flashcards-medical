@@ -42,12 +42,23 @@ describe('FSRS scheduling', () => {
     expect(typeof r.difficulty).toBe('number');
   });
 
-  it('schedules a Learning-state card across grades without regressing', () => {
-    const inLearning = schedule(newReview(), 'good');
-    expect(inLearning.state).toBe(1); // State.Learning
-    const next = schedule(inLearning, 'good');
-    expect(next.reps).toBeGreaterThan(inLearning.reps);
+  it('graduates a new card on Good and keeps progressing without regressing', () => {
+    // Single 30m learning step: a first "Good" graduates straight to Review.
+    const graduated = schedule(newReview(), 'good');
+    expect(graduated.state).toBe(2); // State.Review
+    const next = schedule(graduated, 'good');
+    expect(next.reps).toBeGreaterThan(graduated.reps);
     expect(next.stability).toBeGreaterThan(0);
+  });
+
+  it('new-card feel: Again/Hard stay in minutes, Good/Easy graduate to days', () => {
+    // Tuned 2026-06-30: ~30m / ~45m / ~3d / ~6d. Assert the unit (robust to fuzz),
+    // not exact values.
+    const r = newReview();
+    expect(previewInterval(r, 'again')).toMatch(/m$/);
+    expect(previewInterval(r, 'hard')).toMatch(/m$/);
+    expect(previewInterval(r, 'good')).toMatch(/d$/);
+    expect(previewInterval(r, 'easy')).toMatch(/d$/);
   });
 
   it('orders intervals easy >= good >= hard for a mature card', () => {
