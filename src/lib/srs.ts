@@ -34,6 +34,12 @@ const scheduler = fsrs({
   enable_short_term: true,
   learning_steps: ['30m'],
   relearning_steps: ['30m'],
+  // Exam-cram ceiling: cap mature-card intervals at 15 days so no card
+  // disappears for months before the exam. Only affects graduated (Review-state)
+  // cards — learning steps (Again 30m, Hard 45m) and the first Good/Easy (3d/6d)
+  // are untouched. Note: any card whose Hard/Good/Easy interval exceeds the cap
+  // clamps to it, so the three grades converge to ~15d once a card is well-known.
+  maximum_interval: 15,
   w,
 });
 
