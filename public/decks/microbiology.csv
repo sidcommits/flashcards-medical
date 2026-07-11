@@ -1,0 +1,582 @@
+subject,deck,topic,front,back
+Microbiology,Part-1,Microscopy,"What are the four main objective lens magnifications on a light microscope, and what is each used for?","4x = scanner; 10x = low power; 40x = high power; 100x = oil immersion."
+Microbiology,Part-1,Microscopy,What produces the image in a dark-field microscope?,"Reflected light (instead of transmitted light)."
+Microbiology,Part-1,Microscopy,What type of light does a standard light microscope use to form an image?,Transmitted light.
+Microbiology,Part-1,Microscopy,What fixative is used for light microscopy?,10% NBF (neutral buffered formalin).
+Microbiology,Part-1,Microscopy,What type of slide is used in light microscopy?,A glass slide.
+Microbiology,Part-1,Microscopy,What is the resolution of a light microscope?,0.2 mm.
+Microbiology,Part-1,Microscopy,What is the standard ocular magnification used in light microscopy?,10x (ocular lens).
+Microbiology,Part-1,Microscopy,"What is the maximum magnification achievable with a light microscope, and which lens provides it?","1000x, provided by the objective lens."
+Microbiology,Part-1,Microscopy,What fixative is used for electron microscopy?,2.5% glutaraldehyde.
+Microbiology,Part-1,Microscopy,"What type of grid is used in electron microscopy, and under what condition?","A copper grid, used under vacuum."
+Microbiology,Part-1,Microscopy,What is the resolution of an electron microscope?,0.2 nm.
+Microbiology,Part-1,Microscopy,Which type of electron microscopy is used to visualize internal structures?,Transmission electron microscopy (TEM).
+Microbiology,Part-1,Microscopy,Which type of electron microscopy provides a 3D image of a specimen?,Scanning electron microscopy (SEM).
+Microbiology,Part-1,Staining,"In the Gram stain, what are the primary stain, mordant, decolorizer, and counterstain (in order)?","Primary = crystal violet; Mordant = iodine; Decolorizer = acetone/alcohol; Counterstain = safranin red."
+Microbiology,Part-1,Staining,"In the Ziehl-Neelsen (acid-fast) stain, what are the primary stain, mordant, decolorizer, and counterstain?","Primary = carbol fuchsin; Mordant = heat; Decolorizer = acid (H2SO4); Counterstain = methylene blue. Mnemonic: ""CHAM"" - come in and stain."
+Microbiology,Part-1,Staining,What concentration of H2SO4 decolorizer is used for acid-fast staining of Mycobacterium tuberculosis?,20% H2SO4.
+Microbiology,Part-1,Staining,"What concentration of H2SO4 is used for acid-fast staining of Leprosy, Cryptosporidium, and Isospora?",5% H2SO4.
+Microbiology,Part-1,Staining,What concentration of H2SO4 is used for acid-fast staining of Nocardia and Legionella?,1% H2SO4.
+Microbiology,Part-1,Staining,What concentration of H2SO4 is used for acid-fast staining of bacterial spores and the head of sperm?,0.5% H2SO4.
+Microbiology,Part-1,Staining,"What modification of acid-fast staining is used for coccidian parasites, and what is the abbreviation used in the notes?","""COLD"" - the Kinyoun modification (a cold acid-fast stain), used for coccidian parasites."
+Microbiology,Part-1,Staining,"Which three cocci are the exceptions to the rule that ""all cocci are gram positive"" (i.e., are gram negative)?","Moraxella, Neisseria, and Veillonella (mnemonic: MNV)."
+Microbiology,Part-1,Cell Wall & Virulence,What structure is common to both gram-positive and gram-negative bacteria and mediates locomotion?,"The flagellum, which bears the H antigen and is stained using the Leifson-Ryu stain."
+Microbiology,Part-1,Cell Wall & Virulence,What structure is common to both gram-positive and gram-negative bacteria and acts as a virulence factor for attachment?,The pilus.
+Microbiology,Part-1,Cell Wall & Virulence,What cell wall component is unique to gram-positive bacteria?,Lipoteichoic acid.
+Microbiology,Part-1,Cell Wall & Virulence,What cell wall components are unique to gram-negative bacteria?,"The outer membrane (containing endotoxin/LPS and porins) and a wide periplasmic space containing beta-lactamase."
+Microbiology,Part-1,Cell Wall & Virulence,"Besides typical gram-negative bacteria, which gram-positive organism and which spiral bacterial group can also have endoflagella?",Listeria and spirochetes.
+Microbiology,Part-1,Cell Wall & Virulence,What cell wall feature do gram-positive bacteria have in thick amount that structurally distinguishes them?,Peptidoglycan (Gram+ → peptidoglycan+).
+Microbiology,Part-1,Cell Wall & Virulence,What cell wall component is unique to bacteria and not found in any other organism?,Diaminopimelic acid.
+Microbiology,Part-1,Endotoxin,"What are the key properties of endotoxin regarding antigenicity, toxicity, vaccine availability, heat stability, and release?","Low antigenicity and toxicity; no toxoid/vaccine available; heat stable; released by bacterial lysis."
+Microbiology,Part-1,Endotoxin,"What test is used to detect endotoxin, and what does its abbreviation stand for?",Limulus Amebocyte Lysate (LAL) test - detects endotoxin.
+Microbiology,Part-1,Endotoxin,"In the endotoxin structure, what do the letters O, C, and A stand for, and which is most important?","O = O antigen; C = core polysaccharide; A = Lipid A, which is the most important/toxic component."
+Microbiology,Part-2,Toxin Mechanisms,What are the two functional domains of an A-B exotoxin?,"A = action domain (e.g., ADP-ribosylation); B = binding domain."
+Microbiology,Part-2,Toxin Mechanisms,What is the general biochemical mechanism by which many A-B exotoxins act?,ADP-ribosylation.
+Microbiology,Part-2,Protein Synthesis Inhibitors,Which two toxins inhibit protein synthesis by ADP-ribosylating elongation factor 2 (EF-2)?,Diphtheria toxin and Pseudomonas exotoxin A.
+Microbiology,Part-2,Protein Synthesis Inhibitors,Which toxins inhibit protein synthesis by acting on the 60S ribosomal subunit?,Shigella toxin and Shiga-like toxin (produced by EHEC).
+Microbiology,Part-2,Protein Synthesis Inhibitors,What is another name for the Shiga-like toxin produced by EHEC?,Verotoxin (VT/SLT).
+Microbiology,Part-2,Protein Synthesis Inhibitors,Which E. coli serotype is classically associated with Shiga-like/verotoxin production?,E. coli O157:H7.
+Microbiology,Part-2,Protein Synthesis Inhibitors,What is E. coli O157:H7 the most common cause (MCC) of?,Hemolytic Uremic Syndrome (HUS).
+Microbiology,Part-2,Protein Synthesis Inhibitors,What triad of features characterizes the clinical picture of Shiga-toxin-producing organisms?,"Hemolytic anemia, uremia, and dysentery."
+Microbiology,Part-2,cAMP Toxins,"Which toxin raises cAMP via the GM1 ganglioside receptor, and what abbreviation is used for this mechanism in cholera?",Cholera toxin; referred to as COT = ZOT.
+Microbiology,Part-2,cAMP Toxins,Which toxin raises cAMP levels in Bacillus anthracis infection?,Anthrax (edema) toxin.
+Microbiology,Part-2,cAMP Toxins,"Which E. coli toxin increases cAMP, and what type of diarrhea does it cause?",ETEC heat-labile toxin (LT) increases cAMP and causes Traveller's diarrhea.
+Microbiology,Part-2,cAMP Toxins,Which organism's toxin raises cAMP and causes an inspiratory whoop with apnea in babies?,Bordetella pertussis toxin - causes pertussis (whooping cough) with inspiratory whoop and apnea in infants.
+Microbiology,Part-2,cGMP Toxins,"Which toxin acts via cGMP elevation, and which organism produces it?",ETEC heat-stable toxin (ST) increases cGMP.
+Microbiology,Part-2,NT Release Toxins,"Which toxin inhibits acetylcholine (Ach) release via SNARE protein cleavage, and what type of paralysis results?","Botulinum toxin inhibits Ach release, causing flaccid, descending paralysis - classically seen as a ""floppy baby""."
+Microbiology,Part-2,NT Release Toxins,"Which toxin/substance inhibits GABA/glycine release via SNARE cleavage, and what type of paralysis results?","Tetanus toxin (and strychnine) inhibit GABA/glycine release, causing spastic paralysis."
+Microbiology,Part-2,NT Release Toxins,Do tetanus toxin and strychnine act pre-synaptically or post-synaptically (in contrast to botulinum toxin)?,Post-synaptically (versus botulinum toxin which acts pre-synaptically).
+Microbiology,Part-2,NT Release Toxins,Which envenomations act similarly by affecting neurotransmitter release and causing paralysis?,Snake bites - cobra and krait.
+Microbiology,Part-2,Superantigens,What clinical syndrome is caused by superantigen toxins?,Toxic shock syndrome.
+Microbiology,Part-2,Superantigens,"Which superantigen toxin is produced by S. pyogenes, and what is it called?",Pyrogenic exotoxin (SPE - streptococcal pyrogenic exotoxin).
+Microbiology,Part-2,Superantigens,Which superantigen toxin is produced by S. aureus?,Enterotoxin F.
+Microbiology,Part-2,Superantigens,What retained object has classically been associated with toxic shock syndrome from S. aureus?,Nasal gauze/tampon.
+Microbiology,Part-2,Diphtheria Diagnostics,"What test assesses immune susceptibility to diphtheria, and under what medium condition is diphtheria toxin produced?","The Schick test checks immune susceptibility; diphtheria toxin (DT) is produced only in an iron-depleted medium."
+Microbiology,Part-2,Diphtheria Diagnostics,What test detects diphtheria toxin production in vitro?,Elek's gel precipitation (ppt) test.
+Microbiology,Part-2,Lysogenic Phage Toxins,"What are the two mechanisms of horizontal gene transfer mentioned for toxin genes, and which one involves bacteriophages?","Conjugation (via plasmid) and transduction (via bacteriophages); lysogenic phage-coded toxins are transferred via transduction."
+Microbiology,Part-2,Lysogenic Phage Toxins,"Which toxins are coded by lysogenic bacteriophages, matching organism to letter (A, B, C, D, S)?","A = Group A streptococcal toxin (S. pyogenes); B = Botulinum toxin; C = Cholera toxin; D = Diphtheria toxin; S = Shiga-like toxin."
+Microbiology,Part-2,Botulism Sources,"In botulism from canned food, is the toxin preformed or produced in vivo?",Preformed toxin.
+Microbiology,Part-2,Botulism Sources,"In infant and wound botulism, is it spores or preformed toxin that is the source, and what food is classically implicated in infant botulism?","Spores (not preformed toxin) are the source; honey is the classic food implicated in infant botulism."
+Microbiology,Part-3,GPC/GPB Classification,"At the top level, how are gram-positive bacteria (purple/blue on Gram stain) divided morphologically?","Into Bacilli, Cocci, and Branching filaments."
+Microbiology,Part-3,GPC/GPB Classification,"Gram-positive bacilli are divided into aerobic and anaerobic groups - which genus represents each, and what is the key spore difference?","Aerobic = Bacillus (non-bulging spores); Anaerobic = Clostridium (bulging spores)."
+Microbiology,Part-3,GPC/GPB Classification,What enzyme test differentiates gram-positive cocci into two major genera?,The catalase test.
+Microbiology,Part-3,GPC/GPB Classification,Which gram-positive cocci genus is catalase-negative and grows in pairs or chains?,Streptococcus.
+Microbiology,Part-3,GPC/GPB Classification,Which gram-positive cocci genus is catalase-positive and grows in clusters?,Staphylococcus.
+Microbiology,Part-3,Streptococcus Classification,What test differentiates Streptococcus species after catalase testing?,Hemolysis pattern on blood agar.
+Microbiology,Part-3,Streptococcus Classification,"What is alpha hemolysis, and what two tests further differentiate alpha-hemolytic streptococci?","Partial hemolysis with a green color; further differentiated by optochin sensitivity and bile solubility."
+Microbiology,Part-3,Streptococcus Classification,Which alpha-hemolytic Streptococcus is optochin-sensitive and bile-soluble?,Streptococcus pneumoniae.
+Microbiology,Part-3,Streptococcus Classification,"Which alpha-hemolytic streptococci are optochin-resistant (the viridans group), and which specific species are included?","Streptococcus viridans group - includes S. mutans, S. mitis, and S. sanguis."
+Microbiology,Part-3,Streptococcus Classification,"What is beta hemolysis, and what two tests/features further differentiate beta-hemolytic streptococci?","Complete, clear hemolysis; further differentiated by bacitracin sensitivity and PYR status, using Lancefield grouping."
+Microbiology,Part-3,Streptococcus Classification,"Which beta-hemolytic Streptococcus is bacitracin-sensitive, and what Lancefield group and virulence factor does it have?",Streptococcus pyogenes - Lancefield Group A - possesses M protein as a virulence factor.
+Microbiology,Part-3,Streptococcus Classification,"Which beta-hemolytic Streptococcus is bacitracin-resistant, and what Lancefield group is it?",Streptococcus agalactiae - Lancefield Group B.
+Microbiology,Part-3,Streptococcus Classification,"What is gamma hemolysis, and what two features characterize its further differentiation?","No hemolysis; the organism grows in bile and is further differentiated by growth in 6.5% NaCl and PYR status."
+Microbiology,Part-3,Streptococcus Classification,Which gamma-hemolytic organism is PYR-positive and grows in 6.5% NaCl?,Enterococcus.
+Microbiology,Part-3,Streptococcus Classification,"Which gamma-hemolytic organisms are PYR-negative, and what malignancy are they classically associated with?",Streptococcus bovis/gallolyticus - associated with carcinoma of the colon.
+Microbiology,Part-3,Streptococcus Classification,What medium helps identify Enterococcus and S. bovis/gallolyticus?,Bile esculin agar.
+Microbiology,Part-3,Staphylococcus Classification,What test differentiates Staphylococcus species after catalase testing?,The coagulase test.
+Microbiology,Part-3,Staphylococcus Classification,Which Staphylococcus species is coagulase-positive?,Staphylococcus aureus.
+Microbiology,Part-3,Staphylococcus Classification,"What group name is given to coagulase-negative staphylococci, and what test further differentiates them?",CONS (coagulase-negative staphylococci); further differentiated by novobiocin sensitivity.
+Microbiology,Part-3,Staphylococcus Classification,"Which CONS species is novobiocin-sensitive, and what is it clinically known for?","Staphylococcus epidermidis - a skin commensal, associated with prosthetic device infections."
+Microbiology,Part-3,Staphylococcus Classification,"Which CONS species is novobiocin-resistant, and what is its clinical significance?","Staphylococcus saprophyticus - the second most common cause of UTI, particularly in sexually active females."
+Microbiology,Part-3,Staphylococcus Classification,What mnemonic helps recall novobiocin sensitivity among CONS species?,"""NO-GO"" - S. saprophyticus is novobiocin-resistant (NO), S. epidermidis is novobiocin-sensitive (GO)."
+Microbiology,Part-3,Branching Filamentous GPB,"Branching filamentous gram-positive bacteria are divided by oxygen requirement and acid-fastness into which two genera?","Nocardia (aerobic, AFB-positive) and Actinomyces (anaerobic, AFB-negative)."
+Microbiology,Part-3,Branching Filamentous GPB,What are the key clinical features of Nocardia infection?,"It mimics tuberculosis and occurs in immunocompromised patients, particularly renal transplant patients."
+Microbiology,Part-3,Branching Filamentous GPB,What is the first-line treatment for Nocardia infection?,TMP-SMX (trimethoprim-sulfamethoxazole).
+Microbiology,Part-3,Branching Filamentous GPB,What are the classic morphological/clinical features of Actinomyces infection?,"Yellow ""sulfur"" granules, a cotton-ball colony appearance, association with PID, chronic osteomyelitis of the mandible, and a ""molar tooth"" appearance."
+Microbiology,Part-3,Branching Filamentous GPB,What is the first-line treatment for Actinomyces infection?,Penicillin.
+Microbiology,Part-3,Bacillus,What unusual type of capsule does Bacillus anthracis have?,A polypeptide capsule.
+Microbiology,Part-3,Bacillus,What are the M'Fadyean test and ""Medusa head"" associated with?,Bacillus anthracis (M'Fadyean test stains the capsule; Medusa head describes colony morphology).
+Microbiology,Part-3,Bacillus,What bioterrorism category is Bacillus anthracis classified as?,Category A bioterrorism agent.
+Microbiology,Part-3,Bacillus,What test is used for the ring precipitation reaction in anthrax diagnosis?,Ascoli test.
+Microbiology,Part-3,Bacillus,"What is PLET medium selective for, and what are the classic clinical forms of the disease it diagnoses?","PLET is selective for Bacillus anthracis; clinical forms include cutaneous (eschar), pulmonary (mediastinal widening), and GI (hemorrhagic) anthrax."
+Microbiology,Part-3,Bacillus,"What is MYPA medium selective for, and what illness is this organism associated with?","MYPA is selective for Bacillus cereus, associated with Chinese food poisoning - with both an early-onset emetic form and a late-onset diarrheal form."
+Microbiology,Part-3,Bacillus,"What culture technique produces an ""inverted fir tree"" appearance, and for which organism?","Stab culture, used for Bacillus anthracis."
+Microbiology,Part-3,Listeria,"What are the two classic microbiological features used to identify Listeria, and what type of motility does it show?",Cold enrichment and tumbling motility.
+Microbiology,Part-3,Listeria,Tumbling motility is a key differentiating test for Listeria against which other organism?,Yersinia.
+Microbiology,Part-3,Listeria,What selective medium is used to culture Listeria?,PALCAM agar.
+Microbiology,Part-3,Listeria,"How does Listeria move within and between cells using actin, and what is this feature called?","It polymerizes actin to form ""rocket tails"" (jet-propulsion via actin)."
+Microbiology,Part-3,Listeria,What toxin does Listeria produce?,An endotoxin (Listeriolysin O).
+Microbiology,Part-3,Listeria,What test is associated with Listeria virulence testing?,The Anton test.
+Microbiology,Part-3,Listeria,Which two age groups are classically most susceptible to Listeria meningitis?,Infants and the elderly.
+Microbiology,Part-3,Listeria,What is the empirical antibiotic regimen for suspected Listeria meningitis?,Vancomycin (gram-positive coverage) plus Ceftriaxone (gram-negative coverage).
+Microbiology,Part-3,Listeria,What is the drug of choice (DOC) for confirmed Listeria infection?,Ampicillin.
+Microbiology,Part-3,Mycobacterium TB,What culture media/systems are used to grow Mycobacterium tuberculosis?,"Lowenstein-Jensen (LJ) medium, Middlebrook medium, and MGIT (Mycobacteria Growth Indicator Tube)."
+Microbiology,Part-3,Mycobacterium TB,"What virulence factors are associated with M. tuberculosis, and which one can be tested in urine?","Cord factor and LAM (lipoarabinomannan); LAM can be detected via a urine test."
+Microbiology,Part-3,Mycobacterium TB,What mechanism does M. tuberculosis use to survive within macrophages?,It inhibits phagolysosome fusion.
+Microbiology,Part-3,Mycobacterium TB,What fluorescent stain is used to detect Mycobacterium tuberculosis?,Auramine-rhodamine stain.
+Microbiology,Part-3,Mycobacterium TB,What concentration of NaOH is used to concentrate/decontaminate sputum samples for TB testing?,4% NaOH.
+Microbiology,Part-3,Corynebacterium diphtheriae,What characteristic morphological arrangement does Corynebacterium diphtheriae show on microscopy?,"A ""Chinese letter"" pattern arrangement."
+Microbiology,Part-3,Corynebacterium diphtheriae,What culture media are used to grow Corynebacterium diphtheriae?,"Potassium tellurite agar, Loeffler's serum slope, and McLeod's medium."
+Microbiology,Part-4,Catalase-Positive Organisms,"What mnemonic lists the catalase-positive organisms, and what does each letter represent?","""SPACE"" - S = Staphylococcus aureus & Serratia (pigment); P = Pseudomonas (pigment); A = Aspergillus; C = Cryptococcus & Candida; E = Enterobacter."
+Microbiology,Part-4,Catalase-Positive Organisms,"What enzyme defect underlies Chronic Granulomatous Disease (CGD), and what is the functional consequence?","NADPH oxidase deficiency, resulting in no respiratory burst mechanism."
+Microbiology,Part-4,Catalase-Positive Organisms,What is the investigation of choice (IOC) for diagnosing Chronic Granulomatous Disease?,NBT (nitroblue tetrazolium) test or DHR (dihydrorhodamine) test.
+Microbiology,Part-4,Catalase-Positive Organisms,What immunodeficiency syndrome (with a phagocyte defect predisposing to catalase-positive organism infections) is referenced alongside CGD?,Job's syndrome (hyper-IgE syndrome).
+Microbiology,Part-4,Streptococcus pneumoniae,What colony morphology and diplococcus shape describe S. pneumoniae?,"""Carrom coin""/draughtsman colonies; lanceolate (flame-shaped) diplococci."
+Microbiology,Part-4,Streptococcus pneumoniae,What test uses antiserum to cause visible capsular swelling for identifying S. pneumoniae?,Quellung reaction.
+Microbiology,Part-4,Streptococcus pneumoniae,What type of capsule does S. pneumoniae have?,A polysaccharide capsule (against which a vaccine is available).
+Microbiology,Part-4,Streptococcus pneumoniae,"What mnemonic lists the three classic encapsulated organisms, and what does it stand for?","""SHiN"" - S. pneumoniae, H. influenzae, N. meningitidis."
+Microbiology,Part-4,Streptococcus agalactiae,What body site is S. agalactiae classically associated with heavy colonization of?,The vagina.
+Microbiology,Part-4,Streptococcus agalactiae,What is S. agalactiae (Group B Strep) the most common cause (MCC) of?,Early-onset neonatal sepsis.
+Microbiology,Part-4,Streptococcus agalactiae,"What test is used to identify S. agalactiae, and what two findings does it show?","The CAMP test; it shows hippurate hydrolysis positivity and produces a red pigment/enhanced hemolysis on Islam (Isham) media."
+Microbiology,Part-4,Streptococcus agalactiae,What organism is identified using the ""reverse CAMP test""?,Clostridium perfringens.
+Microbiology,Part-4,Corynebacterium diphtheriae Stains,"What mnemonic (""ALBERT PLAN"") lists the stains used for Corynebacterium diphtheriae?","Albert stain, Ponder, Neisser, and Loeffler's methylene blue stain."
+Microbiology,Part-4,Corynebacterium diphtheriae Stains,What are the granules seen within C. diphtheriae on staining called (list all names used)?,"Metachromatic granules, volutin granules, or Babes-Ernst granules."
+Microbiology,Part-4,Corynebacterium diphtheriae Stains,"What reagents are used in the staining sequence for the diphtheria pseudomembrane, and what happens if the membrane is removed?","Toluidine blue, iodine, and malachite green; the pseudomembrane bleeds on removal."
+Microbiology,Part-4,Corynebacterium diphtheriae Stains,What clinical sign describes marked neck swelling seen in severe diphtheria?,"""Bull's neck""."
+Microbiology,Part-4,Vaccination & Immune Evasion,Which vaccines are recommended in patients undergoing splenectomy?,"Pneumovax (23-valent, for age >2 years); Prevnar (13-valent, for age <2 years); Meningococcal vaccine covering serogroups A, C, Y, W (not serogroup B)."
+Microbiology,Part-4,Vaccination & Immune Evasion,What classic experiment demonstrated bacterial transformation?,Griffith's experiment.
+Microbiology,Part-4,Vaccination & Immune Evasion,What enzyme allows some encapsulated bacteria to evade the mucosal immune barrier?,IgA protease.
+Microbiology,Part-4,Serratia marcescens,"What red-pigmented organism is associated with ""red diaper syndrome"" and can mimic hemoptysis?","Serratia marcescens - causes red diaper syndrome and pseudo-hemoptysis due to its red pigment (prodigiosin)."
+Microbiology,Part-5,Modified Duke Criteria 2023,"What are the two types of ""major"" blood culture criteria in the Modified Duke Criteria (2023)?","(i) Typical IE-causing organisms isolated from two or more separate blood culture sets; (ii) organisms that occasionally/rarely cause IE isolated from three or more separate blood culture sets."
+Microbiology,Part-5,Modified Duke Criteria 2023,What sampling protocol is recommended for blood cultures in suspected IE (minimum samples/timing/site)?,"A minimum of 3 samples, drawn at least 30 minutes apart, from different sites."
+Microbiology,Part-5,Modified Duke Criteria 2023,"What are the three ""positive laboratory test"" major criteria (2023 Duke criteria) related to specific organisms?","(i) Positive PCR/nucleic acid test for Coxiella burnetii, Bartonella species, or Tropheryma whipplei from blood; (ii) Coxiella burnetii antiphase I IgG antibody titer >1:800, or isolation from a single blood culture; (iii) Indirect immunofluorescence assay (IFA) for IgM/IgG to Bartonella henselae or Bartonella quintana with IgG titer >1:800."
+Microbiology,Part-5,Modified Duke Criteria 2023,What echocardiography/cardiac CT findings qualify as a major imaging criterion for IE?,"Vegetation, valvular/leaflet perforation or aneurysm, abscess, pseudoaneurysm, intracardiac fistula, significant new valvular regurgitation compared to prior imaging, or new partial prosthetic valve dehiscence."
+Microbiology,Part-5,Modified Duke Criteria 2023,Is worsening of a pre-existing valvular regurgitation sufficient to meet the imaging major criterion for IE?,"No - worsening or changing of pre-existing regurgitation is not sufficient; a significant NEW regurgitation is required."
+Microbiology,Part-5,Modified Duke Criteria 2023,What nuclear imaging major criterion can be used for IE diagnosis in the 2023 Duke criteria?,"[18F]FDG PET/CT imaging showing abnormal metabolic activity involving a native or prosthetic valve, an ascending aortic graft, or intracardiac device leads/prosthetic material."
+Microbiology,Part-5,Modified Duke Criteria 2023,What are the three classic minor criteria (peripheral stigmata) of infective endocarditis mentioned in the notes?,"Osler nodes, Janeway lesions, and Roth spots."
+Microbiology,Part-5,Modified Duke Criteria 2023,Are Osler nodes an immune or a vascular phenomenon?,Immune phenomenon.
+Microbiology,Part-5,Modified Duke Criteria 2023,Are Janeway lesions an immune or a vascular phenomenon?,Vascular phenomenon.
+Microbiology,Part-5,Modified Duke Criteria 2023,Are Roth spots an immune or a vascular phenomenon?,Immune phenomenon.
+Microbiology,Part-5,IE Valve & Etiology,"Which heart valve is most commonly (MC) affected in infective endocarditis overall, and which valve is most commonly affected in IV drug users (IVDU)?",Mitral valve is most commonly affected overall; the tricuspid valve is most commonly affected in IVDU.
+Microbiology,Part-5,IE Valve & Etiology,"What is the most common cause (MCC) of IE in IV drug users, hospital-acquired cases, and acute presentations?",Staphylococcus aureus.
+Microbiology,Part-5,IE Valve & Etiology,"What is the most common cause of community-acquired IE, particularly with a history of dental procedures?",Streptococcus viridans.
+Microbiology,Part-5,IE Valve & Etiology,What is the most common cause of prosthetic valve IE occurring less than 1 year after valve placement?,Coagulase-negative Staphylococcus (CONS) - specifically S. epidermidis.
+Microbiology,Part-5,IE Valve & Etiology,What is the most common cause of IE associated with carcinoma of the colon?,Streptococcus bovis.
+Microbiology,Part-5,Endocardial Lesion Types,What type of valvular lesion is characteristic of Rheumatic Heart Disease (RHD)?,Fibrous and warty vegetations.
+Microbiology,Part-5,Endocardial Lesion Types,What type of valvular lesion is characteristic of infective endocarditis (IE)?,A ring abscess-type vegetation.
+Microbiology,Part-5,Endocardial Lesion Types,What is Non-Bacterial Thrombotic Endocarditis (NBTE)/Marantic endocarditis classically associated with?,"Paraneoplastic states, such as adenocarcinoma."
+Microbiology,Part-5,Endocardial Lesion Types,Where are the vegetations located in Libman-Sacks endocarditis (associated with SLE)?,On the undersurface of the valve leaflets.
+Microbiology,Part-6,Clostridium perfringens / Gas Gangrene,What are the classic clinical/imaging signs of gas gangrene caused by Clostridium perfringens?,"Hemorrhagic bullae, crepitus, and air/gas visible in tissue on imaging."
+Microbiology,Part-6,Clostridium perfringens / Gas Gangrene,"What toxin does Clostridium perfringens produce to cause gas gangrene, and what is its enzymatic activity?","Alpha toxin, which has zinc-dependent phospholipase (lecithinase) activity."
+Microbiology,Part-6,Clostridium perfringens / Gas Gangrene,What test detects lecithinase (alpha toxin) activity of Clostridium perfringens on an egg-yolk medium with antitoxin comparison?,"The Nagler test - shows a positive (opaque/egg) reaction on the side without anti-alpha antitoxin, compared to no reaction on the side with antitoxin."
+Microbiology,Part-6,Clostridium perfringens / Gas Gangrene,What organism is compared alongside C. perfringens on the Nagler test plate?,Clostridium sporogenes.
+Microbiology,Part-6,Clostridium perfringens / Gas Gangrene,What are the classic laboratory tests used to identify Clostridium perfringens?,"Target hemolysis, reverse CAMP test, stormy clot reaction, and RCMB (Robertson's cooked meat broth)."
+Microbiology,Part-6,Clostridioides difficile,What clinical scenario classically precedes Clostridioides difficile infection?,A history of antibiotic usage followed by diarrhea.
+Microbiology,Part-6,Clostridioides difficile,What condition does C. difficile classically cause in the colon?,Pseudomembranous colitis.
+Microbiology,Part-6,Clostridioides difficile,What imaging sign on CT is associated with pseudomembranous colitis?,The accordion sign.
+Microbiology,Part-6,Clostridioides difficile,What histological sign is associated with pseudomembranous colitis?,The volcano sign.
+Microbiology,Part-6,Clostridioides difficile,What are Toxin A and Toxin B of C. difficile called functionally?,Toxin A is an enterotoxin; Toxin B is cytotoxic.
+Microbiology,Part-6,Clostridioides difficile,"What is the investigation of choice (IOC) for C. difficile infection, and which method is more sensitive?",Toxin demonstration; PCR is more sensitive than ELISA (PCR >> ELISA).
+Microbiology,Part-6,Clostridioides difficile,What is the drug of choice (DOC) for treating C. difficile infection?,Oral vancomycin or fidaxomycin.
+Microbiology,Part-6,Clostridioides difficile,What newer monoclonal antibody drug is used for C. difficile infection?,Bezlotoxumab.
+Microbiology,Part-6,Clostridium Spore Location & Staining,What is the most common (MC) spore location among Clostridium species?,Subterminal spore location.
+Microbiology,Part-6,Clostridium Spore Location & Staining,"Which Clostridium species has a terminal spore giving a ""tennis racquet"" appearance?",Clostridium tertium.
+Microbiology,Part-6,Clostridium Spore Location & Staining,"Which Clostridium species has a terminal spore giving a ""drumstick"" appearance?",Clostridium tetani.
+Microbiology,Part-6,Clostridium Spore Location & Staining,What stains are used to visualize Clostridium spores?,Schaeffer or Ashby spore stains.
+Microbiology,Part-6,Clostridium Exceptions,"Which Clostridium species are exceptions to the rule ""all Clostridium are non-capsulated"" (i.e., they ARE capsulated)?",Clostridium perfringens and Clostridium butyricum.
+Microbiology,Part-6,Clostridium Exceptions,"Which Clostridium species/strain are exceptions to the rule ""all Clostridium are motile"" (i.e., they are non-motile)?",Clostridium perfringens and Clostridium tetani (VI serotype/strain).
+Microbiology,Part-7,Reactive Syndromes,What three features characterize Reiter's syndrome (reactive arthritis)?,"Conjunctivitis, urethritis, and arthritis."
+Microbiology,Part-7,Reactive Syndromes,What skin condition is denoted by ""Ritter"" disease (distinct from Reiter syndrome)?,Staphylococcal Scalded Skin Syndrome (SSSS).
+Microbiology,Part-7,Neisseria Transport & Culture,What transport medium is used for Neisseria species?,Stuart-Amies medium.
+Microbiology,Part-7,Neisseria Transport & Culture,"What culture medium is used to grow Neisseria species, and what are its three selective components?","Thayer-Martin medium; it contains vancomycin (inhibits gram-positive cocci), colistin (inhibits gram-negative bacilli), and nystatin (inhibits fungi)."
+Microbiology,Part-7,N. gonorrhoeae vs N. meningitidis,What biochemical test differentiates Neisseria gonorrhoeae from Neisseria meningitidis?,Maltose utilization test.
+Microbiology,Part-7,N. gonorrhoeae vs N. meningitidis,"Does Neisseria gonorrhoeae utilize maltose, and what is its characteristic microscopic appearance?",No; it appears as intracellular gram-negative diplococci (within neutrophils).
+Microbiology,Part-7,N. gonorrhoeae vs N. meningitidis,"What is the treatment regimen for Neisseria gonorrhoeae infection, and why is a second drug added?",Cefixime plus azithromycin - the azithromycin covers possible co-infection with Chlamydia.
+Microbiology,Part-7,N. gonorrhoeae vs N. meningitidis,"Does Neisseria meningitidis utilize maltose, and what is a classic clinical presentation?",Yes; classic presentation includes a petechial rash with shock.
+Microbiology,Part-7,N. gonorrhoeae vs N. meningitidis,What syndrome involving adrenal hemorrhage is associated with fulminant N. meningitidis infection?,Waterhouse-Friderichsen syndrome.
+Microbiology,Part-7,GNB Bacilli - Lactose Fermentation,What medium is used to test lactose fermentation among gram-negative bacilli?,MacConkey agar.
+Microbiology,Part-7,GNB Bacilli - Lactose Fermentation,"Among non-lactose-fermenting gram-negative bacilli, what test further divides them, and what are the two resulting groups?","The H2S production test; H2S-negative organisms include Shigella and Yersinia, while H2S-positive organisms include Salmonella and Proteus."
+Microbiology,Part-7,GNB Bacilli - Lactose Fermentation,"Which Yersinia species causes bubonic plague, and what is its vector?","Yersinia pestis, transmitted by the rat flea."
+Microbiology,Part-7,GNB Bacilli - Lactose Fermentation,"Which Yersinia species causes enterocolitis, and what condition can it mimic clinically?","Yersinia enterocolitica - can mimic appendicitis, presenting with right iliac fossa (RIF) pain."
+Microbiology,Part-7,GNB Bacilli - Lactose Fermentation,"Among lactose-fermenting gram-negative bacilli, what test further divides them, and what are the fast vs slow fermenter groups?","The oxidase test; fast lactose fermenters include E. coli, Klebsiella, and Enterobacter, while slow fermenters include Serratia and Citrobacter."
+Microbiology,Part-7,GNB Bacilli - Lactose Fermentation,"Among non-lactose-fermenting, oxidase-positive gram-negative bacilli, which two genera are included, and what disease is one of them classically associated with?","Pseudomonas and Burkholderia; Burkholderia is classically associated with cystic fibrosis (CF)."
+Microbiology,Part-7,Coccobacilli,Which five organisms are classified as gram-negative coccobacilli in this classification scheme?,"Haemophilus influenzae, Bordetella pertussis, Pasteurella, Brucella, and Francisella tularensis."
+Microbiology,Part-7,Comma-Shaped GNB,What overall biochemical property characterizes the comma-shaped gram-negative bacteria in this classification?,They are oxidase-positive.
+Microbiology,Part-7,Comma-Shaped GNB,"Which comma-shaped organism grows at 42 degrees C, and on what selective medium is it cultured?","Campylobacter, cultured on Skirrow medium."
+Microbiology,Part-7,Comma-Shaped GNB,What two clinical syndromes are associated with Campylobacter infection (as noted)?,Guillain-Barre syndrome (GBS) and Reiter's syndrome.
+Microbiology,Part-7,Comma-Shaped GNB,Which comma-shaped organism grows in alkaline media?,Vibrio species.
+Microbiology,Part-7,Comma-Shaped GNB,"Which comma-shaped organism is urease-producing, and what rapid test detects this?",Helicobacter pylori; detected using the CLO test (Campylobacter-Like Organism test).
+Microbiology,Part-8,Pseudomonas Clinical Associations,What skin lesion is classically caused by Pseudomonas in immunocompromised patients?,Ecthyma gangrenosum.
+Microbiology,Part-8,Pseudomonas Clinical Associations,How does Ecthyma gangrenosum (Pseudomonas) differ from Ecthyma contagiosum?,Ecthyma contagiosum is caused by Parapoxvirus and is a zoonotic disease - distinct from the Pseudomonas-associated ecthyma gangrenosum.
+Microbiology,Part-8,Pseudomonas Clinical Associations,What predisposing factor and clinical sign characterize malignant otitis externa caused by Pseudomonas?,Diabetes mellitus (DM) predisposes; pus discharge is seen.
+Microbiology,Part-8,Pseudomonas Clinical Associations,What three other clinical conditions is Pseudomonas classically associated with (besides otitis externa)?,"Burns, cystic fibrosis (CF), and hot tub folliculitis."
+Microbiology,Part-8,Pseudomonas Clinical Associations,What organism causes keratitis associated with contact lens misuse?,Acanthamoeba.
+Microbiology,Part-8,Pseudomonas Clinical Associations,"In cases of nail puncture wound or IV drug abuse leading to acute osteomyelitis, what is the classic causative organism?",Pseudomonas.
+Microbiology,Part-8,Pseudomonas Clinical Associations,"What is the overall most common cause (MCC) of osteomyelitis, and what is the most common cause in sickle cell disease patients?",Staphylococcus aureus overall; Salmonella in sickle cell disease patients.
+Microbiology,Part-8,E. coli Pathotypes,What is the mechanism and clinical presentation of Enteropathogenic E. coli (EPEC)?,"It is pathogenic via pili attachment causing an ""effacement"" lesion, and it causes pediatric diarrhea."
+Microbiology,Part-8,E. coli Pathotypes,"What are the two toxins of Enterotoxigenic E. coli (ETEC), their cellular targets, and the resulting illness?",Heat-labile toxin (LT) increases cAMP and heat-stable toxin (ST) increases cGMP; both cause Traveller's diarrhea.
+Microbiology,Part-8,E. coli Pathotypes,"What test identifies Enteroinvasive E. coli (EIEC), and what type of illness does it cause?",The Sereny test; EIEC is invasive and causes dysentery.
+Microbiology,Part-8,E. coli Pathotypes,"What toxins does Enterohemorrhagic E. coli (EHEC) produce, what ribosomal subunit do they inhibit, which serotype is classic, and what complication can result?",SLT/VLT (Shiga-like toxin/verotoxin) which inhibit the 60S ribosomal subunit; the classic serotype is O157:H7; it can cause Hemolytic Uremic Syndrome (HUS).
+Microbiology,Part-8,E. coli Pathotypes,"What is the mechanism and clinical course of Enteroaggregative E. coli (EAEC) infection, and what characteristic appearance does it show on Hep-2 cell culture?","It is aggregative, causing persistent diarrhea, and shows a ""stacked brick"" appearance on Hep-2 cells."
+Microbiology,Part-8,E. coli O157:H7 Identification,"What special medium is used to screen for E. coli O157:H7, and what is the key biochemical finding?",Sorbitol-MacConkey agar; E. coli O157:H7 fails to ferment sorbitol (appears colorless/non-fermenting) unlike most other E. coli strains.
+Microbiology,Part-8,IMViC Biochemical Panel,"What are the results of the Indole, Methyl Red, Voges-Proskauer (VP), and Citrate tests for E. coli?","Indole positive, Methyl Red positive, VP negative, Citrate negative (I+ M+ V- C-)."
+Microbiology,Part-8,IMViC Biochemical Panel,"What are the results of the Indole, Methyl Red, Voges-Proskauer (VP), and Citrate tests for Klebsiella?","Indole negative, Methyl Red negative, VP positive, Citrate positive (I- M- V+ C+)."
+Microbiology,Part-8,Typhoid Fever,"What classic vital sign finding is associated with typhoid fever relative to the degree of fever, and what skin finding may be seen?","Fever with relative bradycardia, and Rose spots on the skin."
+Microbiology,Part-8,Typhoid Fever,"What mnemonic describes the sequential detection methods for typhoid fever by week of illness, and what does each part represent?","""BASU"" - Blood culture (1st week), Antigen/Widal's test (2nd week), Stool culture (3rd week), Urine culture (4th week)."
+Microbiology,Part-9,Mycoplasma,What special stain is used for Mycoplasma?,Diene staining.
+Microbiology,Part-9,Mycoplasma,What is the classic colony appearance of Mycoplasma on culture?,"""Fried egg"" appearance."
+Microbiology,Part-9,Mycoplasma,What culture media are used to grow Mycoplasma?,Eaton agar and PPLO (pleuropneumonia-like organism) agar.
+Microbiology,Part-9,Mycoplasma,What clinical syndrome is Mycoplasma pneumoniae classically known to cause?,"""Walking pneumonia"" (atypical pneumonia)."
+Microbiology,Part-9,Mycoplasma,"What antibody class do cold agglutinins belong to, and besides Mycoplasma, what other infection classically produces them?",IgM; also seen in EBV infection.
+Microbiology,Part-9,Mycoplasma,What nicknames describe Mycoplasma due to its lack of a cell wall?,"""Joker"" and ""Mollicute"" - both referring to its lack of a cell wall."
+Microbiology,Part-9,Mycoplasma,Why are beta-lactam antibiotics and vancomycin ineffective against Mycoplasma?,"Because Mycoplasma has no cell wall, and these drugs target cell wall synthesis."
+Microbiology,Part-9,Mycoplasma,What is the drug of choice (DOC) for treating Mycoplasma infection?,Macrolides.
+Microbiology,Part-9,Proteus - Diene Phenomenon,"What is the ""Diene phenomenon"" associated with, and which organism shows it?",Proteus species - a demarcation line forms where swarming colonies of genetically distinct Proteus strains meet.
+Microbiology,Part-9,Proteus - Diene Phenomenon,What key biochemical feature of Proteus predisposes to a specific type of urinary stone?,"Urease production, predisposing to staghorn/struvite calculi."
+Microbiology,Part-9,Proteus - Diene Phenomenon,What type of motility does Proteus classically show on culture plates?,Swarming motility.
+Microbiology,Part-9,Proteus - Diene Phenomenon,What agar concentration inhibits the swarming motility of Proteus?,6% agar.
+Microbiology,Part-9,Proteus - Diene Phenomenon,"Besides Proteus, which two other organisms are grouped together as showing swarming/Diene-related growth patterns in the notes?",Clostridium and Bacillus cereus.
+Microbiology,Part-9,Haemophilus Satellitism & Chocolate Agar,"What test demonstrates the growth-factor dependency of Haemophilus influenzae on Staphylococcus aureus, and what does a positive result look like?",The satellitism test; a positive result shows enhanced H. influenzae growth near the S. aureus streak on blood agar.
+Microbiology,Part-9,Haemophilus Satellitism & Chocolate Agar,"What two growth factors does Haemophilus influenzae require, and what are their alternate names?",Factor X (hematin) and Factor V (NAD).
+Microbiology,Part-9,Haemophilus Satellitism & Chocolate Agar,How is chocolate agar prepared and what temperature is blood heated to?,"Blood agar is heated to greater than 70 degrees C, which releases Factor V and Factor X to support Haemophilus growth."
+Microbiology,Part-10,Treponema Characteristics,"What type of motility does Treponema show, and what shape are its coils?",Corkscrew motility with tight coils.
+Microbiology,Part-10,Treponema Characteristics,"What stain is used to visualize Treponema, and in what specimen types (tissue/fluid)?",Levaditi-Fontana silver impregnation stain; used on tissue and fluid (CSF).
+Microbiology,Part-10,Treponema Characteristics,"What microscopy technique is used to directly visualize live Treponema, and what type of light does it use?","Dark-field microscopy, which uses reflected light."
+Microbiology,Part-10,Lyme Disease,"What organism causes Lyme disease, what is its vector, and what skin lesion is characteristic?","Borrelia burgdorferi, transmitted by Ixodes (hard tick); the characteristic skin lesion is erythema migrans."
+Microbiology,Part-10,Lyme Disease,"What is the drug of choice for Lyme disease/Borrelia infections, and what is used for complicated disease?",Doxycycline is the DOC; ceftriaxone is used for complicated disease.
+Microbiology,Part-10,Relapsing Fever & Borrelia Motility,"What organism causes relapsing fever, and what motility type and coil shape does Borrelia show?","Borrelia recurrentis causes relapsing fever; Borrelia shows lashing motility with loose coils."
+Microbiology,Part-10,Relapsing Fever & Borrelia Motility,What are the vectors for epidemic versus endemic relapsing fever?,Epidemic relapsing fever is transmitted by the louse; endemic relapsing fever is transmitted by the soft tick.
+Microbiology,Part-10,Leptospirosis,What is the characteristic shape of Leptospira?,A spirochete with hooked/curved ends (undulating shape).
+Microbiology,Part-10,Leptospirosis,"What is Weil's disease, and what are its classic epidemiological/clinical features?","Icterohemorrhagic fever caused by Leptospira; classic reservoir is rats (transmitted via urine), associated with rice/paddy fields, and shows ""Dinger's ring"" on urinalysis."
+Microbiology,Part-10,Leptospirosis,What culture medium is used to grow Leptospira?,EMJH medium.
+Microbiology,Part-10,Leptospirosis,What does ""MAT"" stand for in Leptospirosis serologic testing?,Microscopic Agglutination Test.
+Microbiology,Part-10,Agglutination Test Mnemonics,"What does ""CAT"" stand for, and in which two infections is this test classically positive?",Cold Agglutination Test; positive in EBV and Mycoplasma infections.
+Microbiology,Part-10,Agglutination Test Mnemonics,"What does ""SAT"" stand for, and for which zoonotic organism is it used?",Standard Agglutination Test; used for Brucella (a zoonotic organism).
+Microbiology,Part-10,Brucella,What culture medium is used for Brucella?,Castaneda's biphasic agar.
+Microbiology,Part-10,Brucella,What screening test is used for Brucella?,Rose Bengal test.
+Microbiology,Part-10,Bartonella Species,"Which Bartonella species causes Oroya fever/Carrion's disease, and what is its vector?","Bartonella bacilliformis, transmitted by the sandfly."
+Microbiology,Part-10,Bartonella Species,"Which Bartonella species causes cat scratch disease, and what characteristic histologic finding and complications are associated with it?","Bartonella henselae; shows stellate granuloma on histology, and can cause peliosis hepatis and bacillary angiomatosis (especially in HIV/AIDS)."
+Microbiology,Part-10,Bartonella Species,"Which Bartonella species causes trench fever, and what is its vector?","Bartonella quintana, transmitted by the louse."
+Microbiology,Part-10,Syphilis Stages,What is the treatment of choice for syphilis?,Penicillin.
+Microbiology,Part-10,Syphilis Stages,What is the characteristic lesion and lymph node finding of primary syphilis?,"A painless, hard chancre, with shotty, rubbery regional lymphadenopathy."
+Microbiology,Part-10,Syphilis Stages,What are the characteristic skin/mucosal findings of secondary syphilis?,Snail-track ulcers and moth-eaten alopecia.
+Microbiology,Part-10,Syphilis Stages,What is the characteristic lesion of tertiary syphilis?,Gumma - a nodulo-ulcerative lesion.
+Microbiology,Part-10,Syphilis Stages,"What cardiovascular complication occurs in tertiary syphilis, and what are its pathological features?","Aortic dissection/aneurysm due to cystic medial necrosis, producing a ""tree bark"" appearance of the aorta."
+Microbiology,Part-10,Syphilis Stages,"What neurological complication occurs in tertiary syphilis, and what spinal cord finding and symptom characterize it?","Neurosyphilis, involving the dorsal columns, causing lancinating (shooting) pain."
+Microbiology,Part-10,Syphilis Stages,What is the Argyll Robertson pupil finding in neurosyphilis?,"The accommodation reflex is present, but the light reflex is absent."
+Microbiology,Part-10,Syphilis Differentials & Clues,"What mnemonic (""CARS"") lists diseases causing palm and sole involvement, and what does it stand for?","""CARS"" - Coxsackievirus A16 (hand-foot-mouth disease/herpangina), RMSF (Rocky Mountain Spotted Fever), and Secondary Syphilis."
+Microbiology,Part-10,Syphilis Differentials & Clues,What nickname is given to syphilis due to its diverse clinical presentations mimicking other diseases?,"""The Great Imitator""."
+Microbiology,Part-10,Syphilis Differentials & Clues,What two skin features are notably absent in the syphilitic rash (helping distinguish it from other rashes)?,It is non-vesiculobullous and non-pruritic.
+Microbiology,Part-10,Syphilis Differentials & Clues,"What specific lymph node is characteristically enlarged in secondary syphilis, and what eponymous sign describes finding it?","The epitrochlear lymph node; detecting it is referred to as the ""Sailor's handshake"" sign."
+Microbiology,Part-10,Syphilis Differentials & Clues,"What is Condyloma Lata, and with which disease/location is it associated?",A mucocutaneous junction lesion associated with secondary syphilis.
+Microbiology,Part-10,Syphilis Differentials & Clues,"What is Condyloma Acuminata, and what virus causes it?","Genital warts, caused by HPV types 6 and 11."
+Microbiology,Part-10,Syphilis Serologic Tests,What is the most specific test for syphilis?,FTA-ABS (Fluorescent Treponemal Antibody Absorption test).
+Microbiology,Part-10,Syphilis Serologic Tests,What is the best test to monitor treatment response in syphilis?,VDRL (Venereal Disease Research Laboratory test).
+Microbiology,Part-10,Syphilis Serologic Tests,How is congenital syphilis diagnosed using VDRL titers?,"The baby's VDRL titer is compared to the mother's; a titer four times (4x) higher than the mother's suggests congenital syphilis."
+Microbiology,Part-11,Culture Media - Organism Associations,What organism is identified using Mannitol salt agar and Ludlam's medium?,Staphylococcus aureus.
+Microbiology,Part-11,Culture Media - Organism Associations,What organism is identified using Pike's medium and Crystal violet blood agar?,Streptococcus pyogenes.
+Microbiology,Part-11,Culture Media - Organism Associations,What organism is identified using Bile esculin medium?,Enterococcus.
+Microbiology,Part-11,Culture Media - Organism Associations,"What organism is cultured on Bordet-Gengou or Regan-Lowe media, and what colony descriptions are used for it?","Bordetella pertussis; described as ""bisected pearl"" or ""aluminium paint"" colonies."
+Microbiology,Part-11,Culture Media - Organism Associations,"What organism is cultured on BCYE (Buffered Charcoal Yeast Extract) medium, and what does its colony appearance look like?","Legionella; colonies show a charcoal, ground-glass appearance."
+Microbiology,Part-11,Culture Media - Organism Associations,What three clinical features are classically associated with Legionella infection (as noted with BCYE)?,"Water-borne transmission, relative bradycardia, and hyponatremia."
+Microbiology,Part-11,Culture Media - Organism Associations,"What is CLED agar used for, and how does its selectivity compare to EMB agar?","CLED is better for culturing urine in suspected UTI (e.g., E. coli); it is less selective than EMB, allowing growth of gram-positive cocci and Candida as well."
+Microbiology,Part-11,Culture Media - Organism Associations,"What organism is cultured on Ashdown's medium, and what disease and bioterrorism classification is it linked to?","Burkholderia pseudomallei, the cause of melioidosis; it is a recognized bioterrorism agent."
+Microbiology,Part-11,Culture Media - Organism Associations,What media are used to culture Salmonella and Shigella?,"Selenite F broth, Tetrathionate broth, and DCA (Deoxycholate Citrate Agar)."
+Microbiology,Part-11,Culture Media - Organism Associations,What organism is cultured using Cetrimide agar?,Pseudomonas.
+Microbiology,Part-11,Culture Media - Organism Associations,What organism is cultured using Cefoxitin agar?,Clostridioides difficile.
+Microbiology,Part-11,Bacterial Motility Patterns,What type of motility is characteristic of Listeria?,Tumbling motility.
+Microbiology,Part-11,Bacterial Motility Patterns,What type of motility is characteristic of Vibrio?,Darting motility.
+Microbiology,Part-11,Bacterial Motility Patterns,"What type of motility is characteristic of Proteus, and which other organisms also show this pattern?","Swarming motility; also seen in Vibrio parahemolyticus, Clostridium tetani, Bacillus cereus, and Serratia."
+Microbiology,Part-11,Bacterial Motility Patterns,What type of motility is characteristic of Treponema?,Corkscrew motility.
+Microbiology,Part-11,Bacterial Motility Patterns,What type of motility is characteristic of Borrelia?,Lashing motility.
+Microbiology,Part-11,Bacterial Motility Patterns,"What type of motility is characteristic of Giardia, and what clinical feature does Giardia cause?","""Falling leaf"" motility; Giardia causes malabsorption."
+Microbiology,Part-11,Bacterial Motility Patterns,What test for Giardia is also referred to as the ""String test""?,The Enterotest.
+Microbiology,Part-11,Bacterial Motility Patterns,What type of motility is characteristic of Trichomonas?,Quivering/twitching motility.
+Microbiology,Part-11,Urine Culture (KASS Criteria),"What is the KASS criteria colony count cutoff for significant bacteriuria, and for which organism is it classically applied?","10^5 CFU/mL, classically applied to E. coli."
+Microbiology,Part-11,Urine Culture (KASS Criteria),What are the three exceptions where a lower colony count can still be considered significant bacteriuria per KASS criteria?,"Suprapubic aspirate samples, gram-positive organisms/Candida, and use of antibiotics."
+Microbiology,Part-11,Antibiotic Susceptibility Testing,What medium and test method are used for qualitative antibiotic susceptibility testing (disk diffusion)?,Muller-Hinton agar with the Kirby-Bauer disk diffusion test.
+Microbiology,Part-11,Antibiotic Susceptibility Testing,"What does MIC stand for, and what quantitative test method is used to determine it?",Minimum Inhibitory Concentration; determined using the E-test (Epsilometer test).
+Microbiology,Part-12,Rickettsia General Features,"What are Rickettsiae, in terms of their intracellular life cycle and Gram staining ability?",They are obligate intracellular organisms and do not stain well with Gram stain.
+Microbiology,Part-12,Rickettsia General Features,"What serologic test is used to diagnose Rickettsial infections, and what principle does it use?",The Weil-Felix test - based on heterophile agglutination (cross-reaction with Proteus OX antigens).
+Microbiology,Part-12,Typhus Group Rickettsiae,"Which organism causes epidemic typhus, what is its vector, what recrudescent form is named after Brill-Zinser, and what is its Weil-Felix reaction?",Rickettsia prowazekii; vector is the louse; the recrudescent form is Brill-Zinser disease; Weil-Felix reaction is OX-19 positive.
+Microbiology,Part-12,Typhus Group Rickettsiae,"Which organism causes endemic (murine) typhus, what is its vector, what test is it associated with, and what is its Weil-Felix reaction?","Rickettsia typhi; vector is the flea (mnemonic ""FLENT"" - Flea-Endemic typhus); associated with the Neil-Mooser reaction; Weil-Felix reaction is OX-19 positive."
+Microbiology,Part-12,Spotted Fever Group Rickettsiae,"Which organism causes Rocky Mountain Spotted Fever (RMSF), what is its vector, what is its characteristic rash distribution, and what is its Weil-Felix reaction?",Rickettsia rickettsii; vector is the hard tick; rash classically involves palms and soles; Weil-Felix reaction is OX-19 and OX-2 positive.
+Microbiology,Part-12,Spotted Fever Group Rickettsiae,"Which organism causes Indian tick typhus, and what is its vector and Weil-Felix reaction?",Rickettsia conorii; vector is the hard tick; Weil-Felix reaction is OX-19 and OX-2 positive.
+Microbiology,Part-12,Spotted Fever Group Rickettsiae,"Which organism causes African tick typhus, and what is its vector and Weil-Felix reaction?",Rickettsia africae; vector is the hard tick; Weil-Felix reaction is OX-19 and OX-2 positive.
+Microbiology,Part-12,Ehrlichia & Anaplasma,"What cell type does Ehrlichia infect, and what is its vector?",Monocytes; transmitted by the hard tick.
+Microbiology,Part-12,Ehrlichia & Anaplasma,"What cell type does Anaplasma infect, and what is its vector?",Granulocytes; transmitted by the hard tick.
+Microbiology,Part-12,Mite-Borne Rickettsiae,"Which organism causes Rickettsialpox, and what is its vector?",Rickettsia akari; vector is the mite.
+Microbiology,Part-12,Mite-Borne Rickettsiae,"Which organism causes scrub typhus, what is its vector, and what is its Weil-Felix reaction?",Rickettsia tsutsugamushi (Orientia tsutsugamushi); vector is the mite; Weil-Felix reaction is OX-K positive.
+Microbiology,Part-12,Coxiella burnetii (Q Fever),"Which organism causes Q fever, and what is its characteristic mode of transmission?","Coxiella burnetii; transmitted mainly via inhalation (aerosol), associated with soft ticks."
+Microbiology,Part-12,Coxiella burnetii (Q Fever),What are the key laboratory features of Coxiella burnetii regarding Giemsa staining and pasteurization resistance?,It does not stain with Giemsa stain and is NOT killed by pasteurization.
+Microbiology,Part-12,Coxiella burnetii (Q Fever),"Coxiella burnetii is the only rickettsial organism positive on what type of test relevant to endocarditis, and what granuloma type is associated with it?","It is the only one that can give a positive blood culture in infective endocarditis (IE); associated with a ""donut granuloma"" on histology."
+Microbiology,Part-12,Eschar Differential,What three conditions classically present with an eschar (black necrotic skin lesion at the bite/inoculation site)?,"Scrub typhus, cutaneous anthrax, and spider bite."
+Microbiology,Part-12,Entomology - Vectors,"What diseases are transmitted by fleas, and what index measures flea infestation?",Endemic typhus and bubonic plague (via rat flea); the Cheopsis index measures rat flea infestation.
+Microbiology,Part-12,Entomology - Vectors,What three diseases are transmitted by the louse?,"Epidemic typhus, epidemic relapsing fever, and trench fever."
+Microbiology,Part-12,Entomology - Vectors,What two diseases are transmitted by the soft tick?,Endemic relapsing fever and Q fever.
+Microbiology,Part-12,Entomology - Vectors,What diseases are transmitted by the hard tick (list all mentioned)?,"Lyme disease, RMSF, CCHF (Crimean-Congo Hemorrhagic Fever, seen in Gujarat), KFD (Kyasanur Forest Disease, seen in Karnataka), Babesiosis, Anaplasmosis, and Ehrlichiosis."
+Microbiology,Part-12,Entomology - Vectors,"What two diseases are transmitted by mites, and what special mode of transmission do mites use across generations?",Scrub typhus and Rickettsialpox; mites use transovarian transmission.
+Microbiology,Part-12,Entomology - Vectors,What two parasitic diseases are transmitted via Cyclops (a copepod ingested in water)?,Guinea worm (Dracunculus medinensis) and Diphyllobothrium latum (fish tapeworm).
+Microbiology,Part-13,NVBDCP Overview,"What diseases are covered under India's NVBDCP (National Vector Borne Disease Control Programme), as listed in the notes?","Malaria, dengue, chikungunya, Japanese encephalitis (JE), filariasis, and sandfly-transmitted disease (kala-azar)."
+Microbiology,Part-13,Mosquito ID - Anopheles,"What type of water does Anopheles breed in, and what is its typical flight range?",Clean water; flight range up to 5 km.
+Microbiology,Part-13,Mosquito ID - Anopheles,"Describe the egg-laying pattern, larval position, and adult resting position of Anopheles.","Single eggs; larva rests parallel to the water surface; adult rests at an angle to the surface."
+Microbiology,Part-13,Mosquito ID - Anopheles,What distinctive wing feature does Anopheles have?,Spotted wings.
+Microbiology,Part-13,Mosquito ID - Anopheles,"Which disease does Anopheles transmit, and which sex of mosquito is the vector?",Malaria; transmitted by the female Anopheles mosquito.
+Microbiology,Part-13,Mosquito ID - Aedes,"What type of water does Aedes (""tiger"" mosquito) breed in, and what is its typical flight range?",Artificial water collections; flight range about 100 m (the shortest range among these mosquitoes).
+Microbiology,Part-13,Mosquito ID - Aedes,"Describe the egg-laying pattern, body markings, and resting position of Aedes.","Single eggs; stripes on the body and legs; adult rests parallel to the surface; larva may have a siphon tube."
+Microbiology,Part-13,Mosquito ID - Aedes,Which diseases does Aedes transmit?,"Dengue, Chikungunya, Yellow Fever, Zika, and Rift Valley fever."
+Microbiology,Part-13,Mosquito ID - Culex,"What type of water does Culex breed in, and what is its typical flight range?",Dirty water; flight range up to 10 km (the longest range among these mosquitoes).
+Microbiology,Part-13,Mosquito ID - Culex,Describe the resting position and larval feature of Culex.,Adult rests in a ""hunchback"" position; larva has a siphon tube.
+Microbiology,Part-13,Mosquito ID - Culex,Which diseases does Culex transmit?,"Wuchereria bancrofti (filariasis), Japanese encephalitis (JE), and West Nile virus."
+Microbiology,Part-13,Mosquito ID - Mansonia,What plant is Mansonia mosquito breeding classically associated with?,Pistia (water lettuce) plant.
+Microbiology,Part-13,Mosquito ID - Mansonia,Which disease does Mansonia transmit?,Brugia malayi (filariasis).
+Microbiology,Part-13,Breteau Index,"What is the Breteau Index used to measure, and how is it calculated?",It measures dengue vector (Aedes) density; calculated as the number of positive containers divided by the number of houses examined.
+Microbiology,Part-13,Kala-Azar,"What clinical presentation is classic for kala-azar, and in which Indian states is it endemic?",Pyrexia of unknown origin (PUO) with hepatosplenomegaly (HSM); endemic in Bihar and Jharkhand.
+Microbiology,Part-13,Kala-Azar,What antigen-based rapid test is used to diagnose kala-azar?,The rK39 antigen test.
+Microbiology,Part-13,Kala-Azar,What older biochemical test is used in kala-azar diagnosis?,Napier's aldehyde test.
+Microbiology,Part-13,Kala-Azar,What morphological features are used to identify Leishmania amastigotes microscopically?,The kinetoplast and the amastigote form itself.
+Microbiology,Part-13,Kala-Azar,What are Leishmania amastigotes seen in bone marrow smears with Giemsa stain called?,LD (Leishman-Donovan) bodies.
+Microbiology,Part-13,Kala-Azar,What delayed-type hypersensitivity skin test is used for kala-azar?,Montenegro test.
+Microbiology,Part-13,Kala-Azar,What culture medium is used to grow Leishmania?,NNN (Novy-MacNeal-Nicolle) medium.
+Microbiology,Part-13,Kala-Azar,"What is the drug of choice for kala-azar, and what alternative oral drug is also used?",Liposomal Amphotericin B is the DOC; Miltefosine is an alternative.
+Microbiology,Part-13,Malaria Diagnostics,What special stain is used for peripheral blood smear examination in malaria as per NVBDCP guidelines?,JSB (Jaswant Singh Bhattacharya) stain.
+Microbiology,Part-13,Malaria Diagnostics,What is the purpose of a thin smear versus a thick smear in malaria diagnosis?,Thin smear is used for species identification; thick smear is used to screen for the presence/absence of parasites.
+Microbiology,Part-13,Malaria Diagnostics,What fluorescent stain can be used for malaria parasite detection?,Acridine orange.
+Microbiology,Part-13,Malaria Diagnostics,"In malaria microscopy service planning per NVBDCP guidelines, one microscope center is meant to serve how large a population?",1 per 25000 population.
+Microbiology,Part-13,Malaria Diagnostics,"What is considered the most important measure of malaria control, and what value indicates high risk?",API (Annual Parasite Incidence); a value greater than 2 indicates a high-risk area.
+Microbiology,Part-13,Malaria Diagnostics,What index is the best indicator of operational efficiency in a malaria control program?,ABER (Annual Blood Examination Rate).
+Microbiology,Part-13,Malaria Diagnostics,What index is best used to monitor malaria transmission during an outbreak?,SPR (Slide Positivity Rate).
+Microbiology,Part-13,Malaria Diagnostics,What red blood cell antigen's absence confers protection against malaria (specifically P. vivax)?,Absence of the Duffy antigen.
+Microbiology,Part-13,Malaria Treatment,"For P. vivax and P. ovale infections, what causes relapses, and what is the treatment regimen?","Liver hypnozoites/schizonts cause relapses; treatment is Chloroquine plus Primaquine (0.25 mg/kg) for 14 days."
+Microbiology,Part-13,Malaria Treatment,"For P. falciparum and P. malariae infections, what is the first-line treatment regimen?",ACT (Artemisinin Combination Therapy) - Artesunate plus SP (sulfadoxine-pyrimethamine).
+Microbiology,Part-13,Malaria Treatment,"In the North-Eastern states of India, what alternative ACT regimen is used for P. falciparum/P. malariae?",Artemether plus Lumefantrine.
+Microbiology,Part-13,Malaria Treatment,What is the treatment for severe malaria?,IV Quinine or IV/IM Artesunate.
+Microbiology,Part-13,Malaria Treatment,What is the name of the licensed malaria vaccine mentioned?,"Mosquirix (RTS,S/AS01)."
+Microbiology,Part-13,Malaria Treatment,What is the treatment regimen for mixed malaria infection?,"ACT-PQ: Artesunate for 3 days, plus SP on day 1, plus Primaquine for 14 days."
+Microbiology,Part-13,Malaria Treatment,"Is Primaquine safe in pregnancy, and what antimalarials are used in each trimester and for prophylaxis?","Primaquine is contraindicated in pregnancy; Quinine is used in the 1st trimester, Artesunate in the 2nd/3rd trimester, and Chloroquine is used for prophylaxis."
+Microbiology,Part-13,Malaria Transmission & Stages,Which parasite stage is transmitted via a mosquito bite?,Sporozoites.
+Microbiology,Part-13,Malaria Transmission & Stages,Which parasite stage is transmitted via blood transfusion?,Trophozoites.
+Microbiology,Part-13,Malaria Transmission & Stages,Which parasite stage is transmitted via placental transfer (congenital malaria)?,Merozoites.
+Microbiology,Part-13,Malaria RDT,"In an immunochromatographic malaria rapid diagnostic test, what do the pan-species marker and the P. falciparum-specific marker detect respectively?",LDH/Aldolase is the pan-species marker; HRP2 is specific for P. falciparum.
+Microbiology,Part-13,Malaria Parasite Morphology,Which Plasmodium species show classic trophozoite and schizont forms without other unique special forms in this differentiation scheme?,P. vivax and P. ovale.
+Microbiology,Part-13,Malaria Parasite Morphology,Which Plasmodium species shows ""accole"" (appliqué) forms on peripheral smear?,Plasmodium falciparum.
+Microbiology,Part-13,Malaria Parasite Morphology,Which Plasmodium species produces a characteristic banana-shaped gametocyte?,Plasmodium falciparum.
+Microbiology,Part-13,Malaria Parasite Morphology,Which Plasmodium species produces a characteristic band-form trophozoite?,Plasmodium malariae.
+Microbiology,Part-13,Malaria Parasite Morphology,What organism (not malaria) also produces ring forms and a ""Maltese cross"" appearance - an important malaria differential?,Babesia (babesiosis).
+Microbiology,Part-13,Malaria Parasite Morphology,What are the named RBC surface dots/clefts associated with each Plasmodium species?,Schuffner's dots - P. vivax; James's dots - P. ovale; Maurer's clefts - P. falciparum; Ziemann's dots - P. malariae.
+Microbiology,Part-13,Dengue Classification,What are the diagnostic criteria for uncomplicated Dengue Fever (DF)?,"Fever of 2-7 days plus two or more of: headache, retro-orbital pain, myalgia, arthralgia - with or without leukopenia and thrombocytopenia, and no evidence of plasma leakage."
+Microbiology,Part-13,Dengue Classification,What additional findings define Dengue Hemorrhagic Fever Grade I (DHF I)?,"The DF criteria plus a positive tourniquet test and evidence of plasma leakage, with platelet count less than 100000/cu.mm and Hct rise more than 20% over baseline."
+Microbiology,Part-13,Dengue Classification,How is the tourniquet test performed and interpreted?,"A blood pressure cuff is inflated to the mean of systolic and diastolic pressure for 5 minutes; a positive test shows more than 10 petechiae."
+Microbiology,Part-13,Dengue Classification,What additional findings define DHF Grade II?,"DHF I criteria plus spontaneous bleeding (black tarry stools, epistaxis, gum bleeds) and abdominal pain."
+Microbiology,Part-13,Dengue Classification,What additional findings define DHF Grade III (Dengue Shock Syndrome)?,"DHF II criteria plus circulatory failure - weak rapid pulse, narrow pulse pressure less than 20 mmHg, hypotension, cold clammy skin, and restlessness."
+Microbiology,Part-13,Dengue Classification,What additional findings define DHF Grade IV (Dengue Shock Syndrome)?,Profound shock with undetectable blood pressure or pulse.
+Microbiology,Part-13,Dengue Diagnosis & Management,What tests are used to diagnose dengue within the first 5 days of illness?,"NS1 antigen (ELISA), virus isolation, and RT-PCR."
+Microbiology,Part-13,Dengue Diagnosis & Management,What test is used to diagnose dengue after 5 days of illness?,IgM antibody testing.
+Microbiology,Part-13,Dengue Diagnosis & Management,What liver enzyme finding is considered a danger sign in dengue?,AST/ALT levels greater than 1000.
+Microbiology,Part-13,Dengue Diagnosis & Management,What is the management approach for dengue regarding fluids and platelet transfusion?,IV crystalloids for fluid management; platelet transfusion if platelet count is less than 10000 or if there is active bleeding.
+Microbiology,Part-13,Integrated Vector Control,"What are the two chemical anti-larval measures mentioned, and what type of poison is each?",Paris green (a stomach poison) and Temephos/Abate (a contact poison).
+Microbiology,Part-13,Integrated Vector Control,What are the two biological anti-larval control measures mentioned?,Gambusia/Guppy fish and Bacillus thuringiensis.
+Microbiology,Part-13,Integrated Vector Control,What is the difference between ""space spray"" and ""residual spray"" regarding the API level at which each is used?,Space spray is used for LOW API areas; residual spray is used for HIGH API areas.
+Microbiology,Part-13,Integrated Vector Control,What insecticides are used for space spraying?,"Malathion, Cyphenothrin, and Pyrethrum."
+Microbiology,Part-13,Integrated Vector Control,What insecticides are used for residual spraying and how many rounds of each are done?,"DDT (2 rounds), Malathion (3 rounds), and Deltamethrin (2 rounds)."
+Microbiology,Part-13,Integrated Vector Control,"What insecticide is used for personal protection nets, and what are the two net types with their durations of effectiveness?","Deltamethrin; ITBN (Insecticide-Treated Bed Net) lasts about 6 months, while LLIN (Long-Lasting Insecticidal Net) lasts about 3 years."
+Microbiology,Part-13,Integrated Vector Control,What are the mesh size and hole density specifications for insecticide-treated nets?,Mesh size of 0.0475 inch and greater than 150 holes per square inch.
+Microbiology,Part-14,Fungal Classification,"What are the four morphological categories of fungi described, and which type of colony ""can be wiped off""?","Yeast, Yeast-like, Mold, and Dimorphic; yeast-like colonies (e.g. Candida) can be wiped off."
+Microbiology,Part-14,Fungal Classification,"What negative stain is used to visualize the capsule of Cryptococcus, and what agglutination test detects its antigen?",India ink negative stain; Latex agglutination test detects capsular antigen.
+Microbiology,Part-14,Fungal Classification,What is the classic macroscopic colony appearance of Candida?,Curdy/cottage cheese appearance.
+Microbiology,Part-14,Fungal Classification,What germ tube formation phenomenon is used to identify Candida albicans?,The Reynolds-Braude phenomenon.
+Microbiology,Part-14,Fungal Classification,What special structures does Candida albicans form on cornmeal agar that aid identification?,Chlamydospores.
+Microbiology,Part-14,Fungal Classification,"What chromogenic medium differentiates Candida species by colony color, and which species is noted as azole-resistant?",CHROMagar; Candida krusei is noted as resistant to azoles.
+Microbiology,Part-14,Fungal Classification,What hyphal morphology characterizes Aspergillus?,"Acute-angled, septate hyphae."
+Microbiology,Part-14,Fungal Classification,What hyphal morphology characterizes Mucormycosis?,"Aseptate, broad hyphae with obtuse-angle branching."
+Microbiology,Part-14,Fungal Classification,What temperature-dependent morphologic change defines dimorphic fungi?,They grow as a mold at cold temperature (in culture) and as a yeast at body/warm temperature (in tissue/histopathology).
+Microbiology,Part-14,Fungal Classification,"What mnemonic (""HSBC Bank"") lists the endemic/systemic dimorphic fungi, and what does each letter represent?","Histoplasma, Sporotrichosis, Blastomyces, Coccidiomycosis, Paracoccidiomycosis, and Penicillium/Talaromyces marneffii."
+Microbiology,Part-14,Fungal Classification,What environmental/epidemiologic exposures are risk factors for Histoplasma infection?,"HIV/AIDS, caves, and bird droppings."
+Microbiology,Part-14,Fungal Classification,What histopathology stain highlights the capsule of Cryptococcus?,Mucicarmine stain.
+Microbiology,Part-14,Fungal Classification,"What culture medium tests for phenol oxidase/laccase enzyme activity of Cryptococcus neoformans, and what visible change occurs?",Bird seed (Niger seed) agar; Cryptococcus neoformans turns brown/black due to phenol oxidase/laccase activity.
+Microbiology,Part-14,Fungal Classification,"What serologic assay is the investigation of choice for invasive aspergillosis, and in which three organisms can it give a false negative?","Beta-glucan/Galactomannan assay; false negative can occur in Blastomyces, Mucor, and Cryptococcus (mnemonic ""BMC"")."
+Microbiology,Part-14,Endemic/Systemic Mycoses,What are the characteristic microscopic findings of Histoplasma capsulatum?,"Tuberculate macroconidia; the organism is seen as intracellular yeasts (within macrophages)."
+Microbiology,Part-14,Endemic/Systemic Mycoses,What geographic/eponymous names are associated with histoplasmosis?,"Ohio/Mississippi river valleys, also called ""Darling's disease""."
+Microbiology,Part-14,Endemic/Systemic Mycoses,"What clinical feature makes histoplasmosis mimic another disease, and is it transmitted person-to-person?",It mimics tuberculosis (TB); it is NOT transmitted person-to-person.
+Microbiology,Part-14,Endemic/Systemic Mycoses,What type of budding characterizes Blastomyces on microscopy?,Broad-based budding.
+Microbiology,Part-14,Endemic/Systemic Mycoses,What geographic/eponymous names are associated with blastomycosis?,"Chicago, North American, or Gilchrist disease."
+Microbiology,Part-14,Endemic/Systemic Mycoses,What microscopic structures characterize Coccidioides immitis?,"A sporangium containing endospores, and barrel-shaped arthrospores."
+Microbiology,Part-14,Endemic/Systemic Mycoses,What geographic/eponymous names are associated with coccidioidomycosis?,"California, Valley fever, or Desert rheumatism."
+Microbiology,Part-14,Endemic/Systemic Mycoses,What characteristic microscopic appearance is described for Paracoccidioides brasiliensis?,"A ""Mickey Mouse"" or ""Captain's wheel"" appearance (multiple budding yeasts around a central cell)."
+Microbiology,Part-14,Endemic/Systemic Mycoses,What is the eponymous/geographic name for paracoccidioidomycosis?,South American disease.
+Microbiology,Part-14,Endemic/Systemic Mycoses,What characteristic microscopic appearance is described for Talaromyces (Penicillium) marneffei on lactophenol cotton blue stain?,A ""broom brush"" appearance.
+Microbiology,Part-14,Endemic/Systemic Mycoses,What animal reservoir is associated with Talaromyces marneffei infection?,Bamboo bats.
+Microbiology,Part-14,Endemic/Systemic Mycoses,What distinctive pigment does Talaromyces marneffei produce on culture?,A red pigment.
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,"What occupational exposure is classically associated with sporotrichosis, and what is its alternate name?","Rose gardening (thorn-prick injury); also called ""rose gardener's disease""."
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,What type of skin lesions and spread pattern characterize sporotrichosis?,"Nodular, ulcerative lesions that spread along lymphatic channels (lymphangitic spread), following a linear subcutaneous pattern from a thorn-prick injury site."
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,"What histopathological structure is seen in sporotrichosis, described as a ""rosette of conidia""?",The asteroid body.
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,What treatment is noted in the source material for the lymphangitic/linear lesion presentation associated with sporotrichosis?,Amoxicillin-clavulanate (as explicitly stated in the notes).
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,"What is Mycetoma (Madura foot), and what clinical sign characterizes it?",A chronic infection presenting with chronic discharging sinuses from the foot.
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,What color of grains distinguishes Eumycetoma (""Madura foot"") from Actinomycetoma?,Black grains indicate Madura foot (fungal Eumycetoma); pale grains indicate Actinomyces (Actinomycetoma).
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,What bacterial organism can mimic mycetoma clinically in a condition called Botryomycosis?,Staphylococcus aureus.
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,What is the classic history and skin appearance in Chromoblastomycosis?,"History of walking barefoot, with warty skin lesions."
+Microbiology,Part-14,Cutaneous/Subcutaneous Mycoses,What histopathological structures (three names) are seen in chromoblastomycosis?,"Copper penny bodies, Medlar bodies, or sclerotic bodies."
+Microbiology,Part-15,Cestode Skin Tests,What skin test/lab technique is used for hydatid cyst disease (Echinococcus)?,Casoni test / Arc5 electrophoresis.
+Microbiology,Part-15,Cestode Skin Tests,What skin test is used for Kala-azar (Leishmaniasis)?,Montenegro test.
+Microbiology,Part-15,Cestode Skin Tests,"What skin test is used for Trichinella infection, and what feature of the larva does it relate to?",Bachmann test; relates to the encysted muscle larva (Trichinella is viviparous with muscle-encysted larvae).
+Microbiology,Part-15,Cestode Skin Tests,What skin test is used for Schistosomiasis?,Fairley test.
+Microbiology,Part-15,Cestode Skin Tests,What skin test is used for Toxoplasmosis?,Frenkel test.
+Microbiology,Part-15,Cestode Skin Tests,What skin test is used for Onchocerciasis?,Mazzotti test.
+Microbiology,Part-15,Cestode Skin Tests,What skin test is used for Strongyloidiasis?,Fullborne test.
+Microbiology,Part-15,Taenia Species,What are the intermediate hosts for Taenia solium and Taenia saginata respectively?,Pig for T. solium; cattle for T. saginata.
+Microbiology,Part-15,Taenia Species,"Which Taenia species can cause neurocysticercosis (NCC) in humans, and why?","Taenia solium, because humans can act as an accidental intermediate host, allowing larval cysts to form in tissues including the brain."
+Microbiology,Part-15,Other Cestodes,"What is Hymenolepis nana commonly called, and what is unique about its life cycle regarding an intermediate host?","The dwarf tapeworm; it does not require an intermediate host (it can complete autoinfection directly in humans)."
+Microbiology,Part-15,Other Cestodes,"What is the intermediate host for Hymenolepis diminuta, and what is its common name?",The rat is the intermediate host; it is called the rat tapeworm.
+Microbiology,Part-15,Other Cestodes,What is the intermediate host sequence for Diphyllobothrium latum (fish tapeworm)?,"Cyclops (copepod) is the first intermediate host, followed by fish as the second intermediate host."
+Microbiology,Part-15,Other Cestodes,"Where does Diphyllobothrium latum reside in the human intestine, and what deficiency does it cause?",It resides in the ileum and causes vitamin B12 deficiency.
+Microbiology,Part-15,Other Cestodes,"Which helminth egg is an exception to the rule ""operculated eggs are characteristic of trematodes""?",Diphyllobothrium latum - a cestode that also has an operculated egg.
+Microbiology,Part-15,Trematode General Features,What is the infective form for most trematode infections acquired via ingestion?,Metacercaria.
+Microbiology,Part-15,Trematode General Features,What is the mode of transmission for most trematodes versus Schistosoma?,Most trematodes transmit via the fecal-oral route (ingesting metacercariae); Schistosoma transmits via skin penetration by cercariae.
+Microbiology,Part-15,Trematode General Features,"Are most trematodes hermaphroditic or of separate sexes, and how does Schistosoma differ?",Most trematodes are hermaphroditic; Schistosoma has separate sexes (male and female worms).
+Microbiology,Part-15,Trematode General Features,What type of eggs do most trematodes have and how do Schistosoma eggs differ?,Most trematodes have operculated eggs; Schistosoma eggs have a spine instead of an operculum.
+Microbiology,Part-15,Trematode General Features,What is the definitive host for the trematodes discussed and what is the primary intermediate host for all of them?,Man is the definitive host; the snail is the primary intermediate host.
+Microbiology,Part-15,Trematode General Features,What is the second intermediate host for Paragonimus (lung fluke)?,Crab or crayfish.
+Microbiology,Part-15,Trematode General Features,"What is the second intermediate host for Opisthorchis/Clonorchis (liver flukes), and what malignancy are they associated with?",Fish; associated with cholangiocarcinoma.
+Microbiology,Part-15,Trematode General Features,What is the source of infection for Fasciola (liver fluke)?,"Fresh aquatic vegetation, where metacercariae encyst."
+Microbiology,Part-15,Schistosoma Differentiation,"What type of egg spine does Schistosoma mansoni have, and which venous plexus does it inhabit?",A lateral spine; it inhabits the inferior mesenteric venous plexus.
+Microbiology,Part-15,Schistosoma Differentiation,"What type of egg spine does Schistosoma japonicum have, and which venous plexus does it inhabit?",An absent/minimal terminal spine; it inhabits the superior mesenteric venous plexus.
+Microbiology,Part-15,Schistosoma Differentiation,"What type of egg spine does Schistosoma hematobium have, which venous plexus does it inhabit, and what malignancy is it associated with?",A terminal spine; it inhabits the vesical venous plexus; associated with squamous cell carcinoma of the bladder.
+Microbiology,Part-15,Schistosoma Differentiation,What acute and chronic hepatic complications are associated with S. mansoni and S. japonicum infection?,"Portal hypertension, with acute Katayama fever and chronic Symmers' pipe-stem fibrosis of the liver."
+Microbiology,Part-16,Nematode Eggs & Clinical Features,"What is the common name for Enterobius vermicularis, and what clinical symptom and two diagnostic tests are associated with it?",Pinworm; causes perianal pruritis; diagnosed via NIH swab or the Scotch tape test.
+Microbiology,Part-16,Nematode Eggs & Clinical Features,"What is the common name for Trichuris trichiura, and what complication and associated clinical sign are noted?","Whipworm; can cause rectal prolapse, with a ""coconut cake"" appearance of the rectum."
+Microbiology,Part-16,Nematode Eggs & Clinical Features,"What index is used to quantify hookworm egg counts, and what anemia does hookworm infection classically cause?",Chandler's index; iron deficiency anemia (IDA).
+Microbiology,Part-16,Nematode Eggs & Clinical Features,"What is the diagnostic larval form of Strongyloides seen in stool, and what unique reproductive method does the female worm use?","Rhabditiform larva; parthenogenesis (reproduction without a male, ""one sex is enough"")."
+Microbiology,Part-16,Nematode Eggs & Clinical Features,"What test is associated with diagnosing Strongyloides, and what type of egg-laying does the female show?",Fullborne test; the female is ovo-viviparous.
+Microbiology,Part-16,Nematode Eggs & Clinical Features,"What is the infective larval form of Strongyloides, and what is notable about its size among nematodes?",The filariform larva is infective; Strongyloides is the smallest nematode worm.
+Microbiology,Part-16,Nematode Eggs & Clinical Features,What structural feature distinguishes Balantidium coli (shown alongside nematode eggs) microscopically?,It has cilia (it is a ciliated protozoan).
+Microbiology,Part-16,Nematode Eggs & Clinical Features,"Which nematode is the longest worm, and which sex is larger?",Ascaris lumbricoides; the female is larger than the male.
+Microbiology,Part-16,Ova Bile Staining & Floating Patterns,Which parasite ova/organisms are classically described as ""non-bile-stained""?,"Necator americanus, Enterobius vermicularis, Hymenolepis nana, and Ancylostoma duodenale."
+Microbiology,Part-16,Ova Bile Staining & Floating Patterns,Which parasite ova/larvae classically ""don't float"" on standard flotation techniques?,"Strongyloides larvae, unfertilized Ascaris eggs, intestinal tapeworm (Taenia) eggs, and Tinea, as noted."
+Microbiology,Part-16,Ova Bile Staining & Floating Patterns,Which organisms are classically associated with autoinfection in the human host?,"Cryptosporidium, Hymenolepis nana, Enterobius vermicularis, Strongyloides, and Tinea (Taenia), as noted."
+Microbiology,Part-16,Formalin Sedimentation Technique,"In the formalin-ether sedimentation concentration technique, what do the four layers (top to bottom) consist of?","(A) ether layer on top, (B) debris layer, (C) formalin layer, and (D) the ova/eggs sediment at the bottom."
+Microbiology,Part-16,Antiparasitic Drugs of Choice,What is the drug of choice (DOC) for cestode and trematode infections in general?,Praziquantel.
+Microbiology,Part-16,Antiparasitic Drugs of Choice,What is the specific drug of choice for liver fluke (Fasciola) infection?,Triclabendazole.
+Microbiology,Part-16,Antiparasitic Drugs of Choice,What is the drug of choice for hydatid disease and other nematode infections?,Albendazole.
+Microbiology,Part-16,Antiparasitic Drugs of Choice,What is the drug of choice for filariasis?,DEC (diethylcarbamazine).
+Microbiology,Part-16,Antiparasitic Drugs of Choice,What is the drug of choice for Onchocerciasis and Strongyloidiasis?,Ivermectin.
+Microbiology,Part-16,Cryptosporidium/Cyclospora/Cystoisospora,"What common clinical association is shared by Cryptosporidium, Cyclospora, and Cystoisospora infections?",They classically cause diarrhea in HIV/AIDS patients.
+Microbiology,Part-16,Cryptosporidium/Cyclospora/Cystoisospora,"What size and morphology characterize Cryptosporidium oocysts, and what tissue structure do they attach to?","4-8 micrometers, smaller, rounded, and vacuolated; they attach to the intestinal brush border."
+Microbiology,Part-16,Cryptosporidium/Cyclospora/Cystoisospora,What is the drug of choice for Cryptosporidium infection?,Nitazoxanide.
+Microbiology,Part-16,Cryptosporidium/Cyclospora/Cystoisospora,What size and special microscopic feature characterize Cyclospora oocysts?,8-10 micrometers; they show auto-fluorescence.
+Microbiology,Part-16,Cryptosporidium/Cyclospora/Cystoisospora,What is the drug of choice for Cyclospora infection?,TMP-SMX.
+Microbiology,Part-16,Cryptosporidium/Cyclospora/Cystoisospora,What size and shape characterize Cystoisospora belli oocysts (also noting a special microscopic feature)?,"20-30 by 10-15 micrometers, oval-shaped (the largest of the three), and they show auto-fluorescence."
+Microbiology,Part-16,Cryptosporidium/Cyclospora/Cystoisospora,What is the drug of choice for Cystoisospora belli infection?,TMP-SMX.
+Microbiology,Part-16,Filariasis Microfilariae ID,Which five microfilarial species are differentiated in the labeled diagram (A through E)?,A = Wuchereria bancrofti; B = Brugia malayi; C = Loa loa; D = Onchocerca volvulus; E = Mansonella perstans.
+Microbiology,Part-16,Filariasis Microfilariae ID,"Which microfilariae are sheathed, per the mnemonic ""LBW""?","Loa loa, Brugia malayi, and Wuchereria bancrofti."
+Microbiology,Part-16,Filariasis Diagnosis & Treatment,"What is the investigation of choice for filariasis, and during what time window should blood be collected?",Blood smear examination; blood should be collected between 10pm and 2am (due to nocturnal periodicity).
+Microbiology,Part-16,Filariasis Diagnosis & Treatment,What provocative test can be used to detect filarial microfilariae outside the nocturnal window?,DEC provocation test.
+Microbiology,Part-16,Filariasis Diagnosis & Treatment,What concentration techniques are used to detect microfilariae in blood?,Membrane filtration or the Knott method (using 2% formalin).
+Microbiology,Part-16,Filariasis Diagnosis & Treatment,What is the combination drug regimen for filariasis treatment?,DEC plus Albendazole plus Ivermectin.
+Microbiology,Part-16,Filariasis Diagnosis & Treatment,How frequently is mass drug administration (MDA) for filariasis conducted?,Biannually.
+Microbiology,Part-16,Filariasis Diagnosis & Treatment,What survey is used to assess whether filariasis transmission has been interrupted in an area?,Transmission Assessment Survey (TAS).
+Microbiology,Part-16,Trypanosomiasis,"What disease does Trypanosoma cruzi cause, what is its vector, and what culture medium is used?",Chagas disease (American trypanosomiasis); vector is the Reduviid bug; cultured on NNN medium.
+Microbiology,Part-16,Trypanosomiasis,What eponymous ocular sign and what GI complications are associated with Chagas disease?,Romana sign (periorbital swelling at the vector bite site); GI complications include mega-esophagus and mega-colon.
+Microbiology,Part-16,Trypanosomiasis,"What disease does Trypanosoma brucei cause, and what is its vector?",African trypanosomiasis (sleeping sickness); vector is the Tsetse fly.
+Microbiology,Part-16,Toxoplasmosis,"In HIV/AIDS patients, Toxoplasma gondii is the most common cause of what type of infection?",Intracranial (CNS) infection.
+Microbiology,Part-16,Toxoplasmosis,What is the infective form of Toxoplasma acquired via ingestion of cat feces?,Oocyst.
+Microbiology,Part-16,Toxoplasmosis,What is the infective form of Toxoplasma acquired via ingestion of undercooked meat?,Bradyzoite.
+Microbiology,Part-16,Toxoplasmosis,What form of Toxoplasma is transmitted vertically (transplacentally) to the fetus?,Tachyzoite.
+Microbiology,Part-16,Toxoplasmosis,What two serologic tests are used to diagnose Toxoplasmosis?,The Frenkel test and the Sabin-Feldman (dye) test.
+Microbiology,Part-17,DNA Virus Classification,"What are the two broad genome types used to classify DNA viruses, and what envelope subdivisions exist under each?",Double-stranded DNA (dsDNA) and single-stranded DNA (ssDNA); both are further divided into enveloped and non-enveloped viruses.
+Microbiology,Part-17,DNA Virus Classification,"Which DNA virus family is the smallest, and is it enveloped or non-enveloped?",Parvovirus - the smallest DNA virus; it is non-enveloped (ssDNA).
+Microbiology,Part-17,DNA Virus Classification,"Which DNA virus replicates through an RNA intermediate, despite having a DNA genome?",Hepatitis B virus.
+Microbiology,Part-17,DNA Virus Classification,"Which DNA virus family is the largest, shows complex symmetry, replicates in the cytoplasm (an exception among DNA viruses), and has a brick-shaped appearance?",Poxvirus.
+Microbiology,Part-17,DNA Virus Classification,"Which DNA virus family shows a ""spaceship""-like appearance on electron microscopy, and which members belong to it?","Herpesviruses - including HSV, VZV, CMV, EBV, and HHV-6."
+Microbiology,Part-17,DNA Virus Classification,"Which DNA virus family is commonly used as a vector for vaccines (e.g., Covishield)?",Adenovirus.
+Microbiology,Part-17,DNA Virus Classification,"What are the two genera within the Papovavirus family, and which specific viruses/diseases are associated with each?","Papillomavirus (HPV) and Polyomavirus (including BK virus, associated with renal transplant patients, and JC virus, associated with decoy cells and Progressive Multifocal Leukoencephalopathy (PML), plus SV-40)."
+Microbiology,Part-17,RNA Virus Classification,"What is the general genome type of RNA viruses, and which virus is the exception with a double-stranded genome?",Most RNA viruses are single-stranded (ssRNA); Rotavirus is the exception with a double-stranded RNA (dsRNA) genome.
+Microbiology,Part-17,RNA Virus Classification,"What is the characteristic morphological appearance of Rotavirus, and what is the investigation of choice for its diagnosis?",A wheel-shaped appearance; antigen detection in stool is the investigation of choice.
+Microbiology,Part-17,RNA Virus Classification,Which viruses belong to the Picornavirus family (non-enveloped ssRNA viruses)?,"Poliovirus, Echovirus, Rhinovirus, Coxsackievirus, and Hepatitis A virus."
+Microbiology,Part-17,RNA Virus Classification,"Which RNA virus is the exception to the rule that RNA virus genomes exist as a single copy, having two copies instead?","Retrovirus (e.g., HIV, HTLV) - has two copies of its RNA genome (diploid)."
+Microbiology,Part-17,RNA Virus Classification,"Which RNA viruses are exceptions to the rule that RNA virus genomes are unsegmented (i.e., have segmented genomes)?","Bunyavirus (3 segments), Orthomyxovirus/Influenza virus, and Arenavirus (2 segments)."
+Microbiology,Part-17,RNA Virus Classification,"Where do most RNA viruses replicate (cytoplasm or nucleus), and which viruses are exceptions?",Most RNA viruses replicate in the cytoplasm; Retrovirus (via reverse transcription into the nucleus) and Influenza virus (which replicates in the nucleus) are exceptions.
+Microbiology,Part-18,Poxvirus/Molluscum Inclusion Bodies,"What are the inclusion bodies seen in Molluscum contagiosum called, and what stain is used to visualize them?",Henderson-Paterson (H-P) bodies; stained using Lendrum's Phloxine Tartrazine stain.
+Microbiology,Part-18,Poxvirus/Molluscum Inclusion Bodies,What is the classic clinical appearance of Molluscum contagiosum lesions?,Dome-shaped papules with central umbilication.
+Microbiology,Part-18,Poxvirus/Molluscum Inclusion Bodies,What inclusion bodies are associated with Vaccinia virus?,Guarnieri bodies.
+Microbiology,Part-18,Poxvirus/Molluscum Inclusion Bodies,What inclusion bodies are associated with Variola (smallpox) virus?,Paschen bodies.
+Microbiology,Part-18,Poxvirus/Molluscum Inclusion Bodies,What inclusion bodies are associated with Fowlpox virus?,Bollinger bodies.
+Microbiology,Part-18,Rabies Inclusion Bodies,"What are the inclusion bodies of rabies called, what shape is the rabies virus, what stain is used, and where are they found?",Negri bodies; the virus is bullet-shaped; Seller's stain is used; found in Purkinje cells and the hippocampus.
+Microbiology,Part-18,Cowdry Inclusion Bodies,"What does the Cowdry type A inclusion body mnemonic ""HAY"" stand for?",HSV and Yellow Fever (YF) viruses.
+Microbiology,Part-18,Cowdry Inclusion Bodies,What are the specific named inclusion bodies for HSV and Yellow Fever under the Cowdry type A category?,Lipschutz bodies for HSV; Torres bodies for Yellow Fever (associated with the 17D vaccine strain).
+Microbiology,Part-18,Cowdry Inclusion Bodies,"What does the Cowdry type B inclusion body mnemonic ""BAP"" stand for?",Adenovirus and Polio virus.
+Microbiology,Part-18,HPV & Pap Smear,What cytologic finding on Pap smear is characteristic of HPV infection?,Koilocytes.
+Microbiology,Part-18,Measles Inclusion Bodies,What multinucleated giant cells are characteristic of measles infection?,Warthin-Finkeldey giant cells.
+Microbiology,Part-18,CMV Inclusion Bodies,"What is the name and staining characteristic of the CMV inclusion body, and what cell type is used to culture CMV?","""Owl's eye"" inclusion, which is basophilic; CMV is cultured in human fibroblast cell lines."
+Microbiology,Part-18,CMV Inclusion Bodies,"What other pathological ""owl eye""-appearing cell (unrelated to CMV) is noted for comparison, and what is its staining characteristic?","Reed-Sternberg (R-S) cells, seen in Hodgkin lymphoma; their prominent nucleoli appear eosinophilic (in contrast to CMV's basophilic owl's eye inclusion)."
+Microbiology,Part-19,Classic Childhood Exanthems,"What is the ""First Disease,"" and what is its most common cause of death?",Measles (Rubeola); most common cause of death is pneumonia.
+Microbiology,Part-19,Classic Childhood Exanthems,"What delayed neurological complication can occur after measles, and what does it cause?","Subacute Sclerosing Panencephalitis (SSPE), which causes a decline in IQ."
+Microbiology,Part-19,Classic Childhood Exanthems,"In disaster/outbreak settings, why can measles vaccination still be protective even after exposure?",Because the incubation period conferred by vaccine-induced immunity is shorter than that of the natural disease incubation period.
+Microbiology,Part-19,Classic Childhood Exanthems,"What is the ""Second Disease,"" and what organism causes it?","Scarlet Fever, caused by Streptococcus pyogenes."
+Microbiology,Part-19,Classic Childhood Exanthems,"What is the ""Third Disease""?",Rubella.
+Microbiology,Part-19,Classic Childhood Exanthems,"What is the ""Fourth Disease,"" and what is its current status?",Duke's Disease - crossed out/no longer considered a distinct recognized entity.
+Microbiology,Part-19,Classic Childhood Exanthems,"What is the ""Fifth Disease,"" what virus causes it, and what associated dermatologic syndrome is noted?",Erythema Infectiosum caused by Parvovirus B19; associated with Papulo-pruritic Glove and Stocking Syndrome (PPGS).
+Microbiology,Part-19,Classic Childhood Exanthems,"What is the ""Sixth Disease,"" what virus causes it, and what is its alternate name?","Roseola Infantum, caused by HHV-6; also called Exanthem Subitum."
+Microbiology,Part-19,Exanthem Mucosal Signs,What oral mucosal lesion is characteristic of measles?,Koplik spots.
+Microbiology,Part-19,Exanthem Mucosal Signs,What oral/soft palate lesion is characteristic of Rubella?,Forscheimer spots.
+Microbiology,Part-19,Exanthem Mucosal Signs,What oral lesion is characteristic of Roseola Infantum (HHV-6)?,Nagayama spots.
+Microbiology,Part-19,Scarlet Fever Features,What are the key clinical features of Scarlet Fever (skin and tongue findings)?,"A desquamative, sandpaper-textured rash, Pastia's lines (in skin creases), and a strawberry tongue."
+Microbiology,Part-19,Erythema Infectiosum / Parvovirus B19,What is the classic facial rash appearance of Erythema Infectiosum (Fifth Disease)?,""Slapped cheek"" appearance."
+Microbiology,Part-19,Erythema Infectiosum / Parvovirus B19,"What cell surface antigen does Parvovirus B19 bind to, and what hematologic complication can result?",The P antigen on red blood cell precursors; can cause Pure Red Cell Aplasia which may worsen to aplastic anemia.
+Microbiology,Part-19,Erythema Infectiosum / Parvovirus B19,"What is Parvovirus B19 the most common cause (MCC) of, regarding fetal complications?",Non-immune hydrops fetalis.
+Microbiology,Part-19,Kawasaki Disease,"What does the mnemonic ""CRASH and BURN"" stand for in Kawasaki disease diagnosis?",C = Conjunctivitis; R = Rash; A = Adenopathy; S = Strawberry tongue; H = Hands swelling; BURN = fever lasting more than 5 days.
+Microbiology,Part-19,Kawasaki Disease,What type of conjunctivitis is seen in Kawasaki disease?,"Bilateral, non-exudative conjunctivitis."
+Microbiology,Part-19,Kawasaki Disease,What size cutoff for cervical lymphadenopathy is used in Kawasaki disease diagnostic criteria?,Greater than 1.5 cm.
+Microbiology,Part-19,Kawasaki Disease,"What is the most threatening complication of Kawasaki disease, and what serious event can it lead to?","Coronary artery aneurysm, which can lead to myocardial infarction (MI)."
+Microbiology,Part-19,Kawasaki Disease,What is the most common (MC) complication of Kawasaki disease?,Myocarditis.
+Microbiology,Part-19,Kawasaki Disease,What is the treatment for Kawasaki disease?,IVIG (intravenous immunoglobulin) plus Aspirin.
+Microbiology,Part-19,Kawasaki Disease,Why is Aspirin use in Kawasaki disease an exception to the usual avoidance of aspirin in children?,"Aspirin is normally avoided in children due to Reye syndrome risk, but it is still used in Kawasaki disease as the benefit outweighs this risk."
+Microbiology,Part-19,Kawasaki Disease,"What is Reye syndrome, and what is its key hepatic pathological finding?","A condition causing acute liver failure, characterized by microvesicular steatosis."
+Microbiology,Part-20,EBV / Infectious Mononucleosis,What clinical triad suggests EBV infection (infectious mononucleosis)?,"Fever, cervical lymphadenopathy, and hepatosplenomegaly (HSM)."
+Microbiology,Part-20,EBV / Infectious Mononucleosis,What is the common name for EBV infectious mononucleosis reflecting its mode of transmission?,"""Kissing disease""."
+Microbiology,Part-20,EBV / Infectious Mononucleosis,Why should patients with infectious mononucleosis avoid contact sports?,Due to the risk of splenic rupture.
+Microbiology,Part-20,EBV / Infectious Mononucleosis,"What is the descriptive term for the atypical lymphocytes seen in EBV infection, referring to their cytoplasmic appearance?","""Ballerina skirt"" appearance (these atypical lymphocytes are CD8 T cells, also called Downey cells)."
+Microbiology,Part-20,EBV / Infectious Mononucleosis,What cell surface receptor does EBV bind to enter B cells?,CD21.
+Microbiology,Part-20,EBV / Infectious Mononucleosis,"What test detects heterophile antibodies in EBV infection, and what is its rapid slide-test version called?",Paul-Bunnell test; the rapid version is the Monospot test.
+Microbiology,Part-20,EBV / Infectious Mononucleosis,"In the heterophile antibody test, what type of red blood cells are used, and what antibody causes agglutination?",Sheep or horse red blood cells; the patient's IgM antibodies against viral antigens cause agglutination via cross-reactivity.
+Microbiology,Part-20,EBV / Infectious Mononucleosis,What malignancies are associated with EBV infection (list all mentioned)?,"Burkitt lymphoma, Diffuse Large B-Cell Lymphoma (DLBCL), Nasopharyngeal carcinoma, Hodgkin Lymphoma (mixed cellularity type), gastric carcinoma, and Oral Hairy Leukoplakia (OHL)."
+Microbiology,Part-20,VZV Reactivation,"What condition results from reactivation of latent VZV in elderly patients, presenting with vesicles along dermatomes?",Shingles (Herpes zoster).
+Microbiology,Part-20,VZV Reactivation,"What is a common complication of Herpes zoster, and what drug is used to treat it?",Post-herpetic neuralgia; treated with Pregabalin.
+Microbiology,Part-20,VZV Reactivation,What syndrome results from VZV reactivation affecting the facial/geniculate ganglion?,"Ramsay Hunt syndrome (Herpes zoster oticus), causing vesicles in the ear and Bell's palsy."
+Microbiology,Part-20,Antigenic Variation,"What mechanism of antigenic variation involves genome reassortment between two viral strains, and what type of outbreak does it cause?",Antigenic shift (via reassortment); causes sudden pandemics.
+Microbiology,Part-20,Antigenic Variation,"What mechanism of antigenic variation involves gradual accumulation of point mutations, and what type of outbreak does it cause?",Antigenic drift (via point mutation); causes gradual epidemics.
+Microbiology,Part-20,Zoonotic Virus Cycles,"What is the natural transmission cycle of Japanese Encephalitis (JE) virus, and what role do pigs and humans play?","The natural cycle involves water fowl (reservoir) and Culex mosquitoes; pigs act as amplifying hosts (and should be vaccinated); humans are dead-end hosts."
+Microbiology,Part-20,Zoonotic Virus Cycles,What is the transmission cycle of Nipah virus?,"Fruit bats contaminate palm tree sap/fruit, which may be consumed by pigs or humans; pigs can also transmit the virus to humans."
+Microbiology,Part-20,Zoonotic Virus Cycles,"What is the transmission cycle of Ebola virus, and which animals are primarily affected?","Bats are the reservoir, transmitting to gorillas/other primates, which then transmit to humans; Ebola primarily affects primates."
+Microbiology,Part-20,Virus Receptors,What receptor does CMV use to enter host cells?,Integrins (via heparan sulfate).
+Microbiology,Part-20,Virus Receptors,What receptor does EBV use to enter host cells?,CD21.
+Microbiology,Part-20,Virus Receptors,What receptor does Parvovirus B19 use to enter host cells?,P antigen on red blood cells.
+Microbiology,Part-20,Virus Receptors,What receptor does the Rabies virus use to enter host cells?,Nicotinic acetylcholine receptor (AChR).
+Microbiology,Part-20,Virus Receptors,What receptor does Rhinovirus use to enter host cells?,ICAM-1.
+Microbiology,Part-20,Virus Receptors,What receptor does SARS-CoV-2 use to enter host cells?,ACE2.
+Microbiology,Part-21,Bacterial Growth Curve,What are the four phases of the bacterial growth curve in order?,"Lag phase, Log (exponential growth) phase, Stationary phase, and Death (logarithmic decline) phase."
+Microbiology,Part-21,Bacterial Growth Curve,"During the lag phase, what happens to bacterial cell number and size?","Cell number does not increase significantly, while cell size increases."
+Microbiology,Part-21,Bacterial Growth Curve,"During which phase of bacterial growth is metabolic activity maximal, and are bacteria most susceptible to antibiotics?",The log (exponential growth) phase.
+Microbiology,Part-21,Bacterial Growth Curve,"During the stationary phase, what two bacterial products are classically formed?",Exotoxins and spores.
+Microbiology,Part-21,Hand Hygiene Mnemonic,"What does the hand hygiene mnemonic ""SUMANK"" represent, step by step?","S = Sidha (straight, palm to palm); U = Ulta (reverse, back of hands); M = Mutthi (fist/interlaced fingers); A = Angootha (thumb); N = Nakhun (nails); K = Kalai (wrist) - the sequential steps of proper handwashing technique."
+Microbiology,Part-21,Agglutination - Lattice Theory,"What is the ""prozone"" phenomenon in agglutination reactions, and what causes it?",A zone of no visible aggregation caused by excess antibody relative to antigen; dilution is needed to see a reaction.
+Microbiology,Part-21,Agglutination - Lattice Theory,"What is the ""equivalence zone"" in agglutination reactions?","The zone where antibody and antigen are present in a proper ratio, resulting in visible aggregation."
+Microbiology,Part-21,Agglutination - Lattice Theory,"What is the ""postzone"" phenomenon in agglutination reactions, and what causes it?",A zone of no visible aggregation caused by excess antigen relative to antibody.
+Microbiology,Part-21,Agglutination - Lattice Theory,What theory explains the prozone-equivalence-postzone phenomenon in antigen-antibody reactions?,The Lattice theory.
+Microbiology,Part-21,ELISA Reagents,What is the standard well format used for ELISA plates?,A 96-well plate.
+Microbiology,Part-21,ELISA Reagents,"What enzyme is commonly used in ELISA, and what substrate does it act on?",Horseradish peroxidase (HRP); it acts on hydrogen peroxide (H2O2) as substrate.
+Microbiology,Part-21,ELISA Reagents,What chromogen is used in ELISA to produce a visible color change?,Tetramethylbenzidine (TMB).
+Microbiology,Part-21,ELISA Types,"What does Direct ELISA detect, and how is it performed?",It detects antigen (Ag); a primary antibody-enzyme conjugate binds directly to the antigen coated on the well.
+Microbiology,Part-21,ELISA Types,"What does Indirect ELISA detect, and how is it performed?",It detects antibody (Ab); it uses a secondary antibody-enzyme conjugate that binds to the primary antibody bound to the antigen-coated well.
+Microbiology,Part-21,ELISA Types,"What does Sandwich ELISA detect, and how is it performed?","It detects antigen (Ag); it uses a capture antibody-coated well, to which the antigen binds, followed by a secondary enzyme-conjugated antibody."
+Microbiology,Part-21,ELISA Types,"How does the signal intensity relate to the amount of antigen-antibody complex in Direct, Indirect, and Sandwich ELISA?",Intensity is directly proportional to the amount of antigen-antibody complex formed.
+Microbiology,Part-21,ELISA Types,"How does Competitive ELISA work, and how does its signal intensity relate to antigen amount?","Known amounts of labeled antigen compete with the sample antigen for a fixed amount of antibody; signal intensity is inversely proportional to the amount of antigen present in the sample."
+Microbiology,Part-21,Radial Immunodiffusion,What test is used for single diffusion in a single dimension (tube format)?,Oudin test.
+Microbiology,Part-21,Radial Immunodiffusion,What test is used for single diffusion in a double dimension (slide/gel format)?,Mancini test (radial immunodiffusion).
+Microbiology,Part-21,Radial Immunodiffusion,What test is used for double diffusion in a single dimension (tube format)?,Oakley-Fulthorpe test.
+Microbiology,Part-21,Radial Immunodiffusion,What test is used for double diffusion in a double dimension (slide/gel format)?,Ouchterlony double diffusion test.
+Microbiology,Part-21,Biosafety Levels,"What characterizes BSL-1 organisms, and what are examples?","Microbes not known to consistently cause disease in immunocompetent adults, with minimal hazard to lab personnel; examples include skin bacteria and yeast."
+Microbiology,Part-21,Biosafety Levels,"What characterizes BSL-2 organisms, and what are examples?","Microbes posing a moderate potential hazard to personnel and the environment; examples include herpes simplex virus, common cold viruses (RSV, rhinovirus), and Salmonella; molecular COVID-19 testing is performed at this level."
+Microbiology,Part-21,Biosafety Levels,"What characterizes BSL-3 organisms, and what are examples?","Indigenous or exotic microbes that may cause serious or potentially lethal disease via inhalation; examples include tuberculosis, SARS-CoV-2, highly pathogenic avian influenza, and plague (Yersinia pestis); COVID-19 viral culture requires this level."
+Microbiology,Part-21,Biosafety Levels,"What characterizes BSL-4 organisms, and what are examples?",Exotic agents posing a high risk of aerosol-transmitted life-threatening disease with no available vaccines or treatments; examples include Ebola virus and smallpox virus.
+Microbiology,Part-21,Bioterrorism Agent Categories,Which agents are classified as Category A bioterrorism agents?,"Smallpox, Anthrax, Botulism, Plague, Tularemia, and viral hemorrhagic fevers (Yellow fever, KFD, Ebola, Marburg, Lassa)."
+Microbiology,Part-21,Bioterrorism Agent Categories,Which agents are classified as Category B bioterrorism agents?,"Brucella, Clostridium perfringens (epsilon toxin), Salmonella, Shigella, E. coli O157:H7, Staphylococcus enterotoxin B, Vibrio cholerae, Q fever, Typhus fever, psittacosis, glanders, and Melioidosis."
+Microbiology,Part-21,Bioterrorism Agent Categories,Which agents are classified as Category C bioterrorism agents?,"Emerging infections such as Nipah virus, Hantavirus, and SARS coronavirus."
+Microbiology,Part-22,Hot Air Oven,What are the standard temperature and time parameters for hot air oven sterilization?,160 degrees C for 2 hours.
+Microbiology,Part-22,Hot Air Oven,What types of items are sterilized using a hot air oven?,"Oily substances, glassware, and paraffin wax."
+Microbiology,Part-22,Autoclave,"What are the standard temperature, time, and pressure parameters for autoclave sterilization?",121 degrees C for 15 minutes at 15 psi.
+Microbiology,Part-22,Autoclave,What items are sterilized using an autoclave?,"Surgical instruments (except sharps), sterile drapes, sutures (except catgut), and culture media (except LJ/LSS media)."
+Microbiology,Part-22,Autoclave,"What alternative heat-based method is used to sterilize LJ (Lowenstein-Jensen) and LSS media instead of autoclaving?",Inspissation.
+Microbiology,Part-22,Radiation Sterilization,"What type of radiation is used for sterilization, and what items are sterilized this way?","Gamma rays; used for chromic catgut and disposable items such as syringes and Foley's catheters."
+Microbiology,Part-22,Aldehyde Sterilization,"What aldehyde-based chemical sterilant is used for scopes, and what is its concentration and trade name?",Glutaraldehyde 2% (trade name Cidex).
+Microbiology,Part-22,Plasma Sterilization,"What sterilization method uses hydrogen peroxide plasma, what is its trade name, and what items are sterilized this way?","H2O2 plasma sterilization (trade name ""Sterrad""); used for urethroscopes and arthroscopes."
+Microbiology,Part-22,ETO Sterilization,"What gas is used for ETO sterilization, and what equipment is classically sterilized using this method?",Ethylene oxide gas; used for cardio-pulmonary bypass machines.
+Microbiology,Part-22,Disinfectants for Blood Spills,"What four disinfectants are used for blood spills, and what key limitation do they share?","Hypochlorite 5%, alcohol, phenol, and formaldehyde; all are non-sporicidal."
+Microbiology,Part-22,Biological Indicators,What biological indicator organism is used to validate hot air oven sterilization?,Bacillus subtilis.
+Microbiology,Part-22,Biological Indicators,What biological indicator organism is used to validate autoclave (and plasma) sterilization?,Bacillus stearothermophilus.
+Microbiology,Part-22,Biological Indicators,What biological indicator organism is used to validate radiation (IR) sterilization?,Bacillus pumilis.
+Microbiology,Part-22,Biological Indicators,What biological indicator organism is used to validate ETO (ethylene oxide) sterilization?,Bacillus globigii.
+Microbiology,Part-22,Milk Pasteurization,Is pasteurization a sporicidal process?,"No, pasteurization is non-sporicidal."
+Microbiology,Part-22,Milk Pasteurization,What are the temperature and time parameters for the Holder (VAT) method of pasteurization?,63 degrees C for 30 minutes.
+Microbiology,Part-22,Milk Pasteurization,What are the temperature and time parameters for the Flash (HTST) method of pasteurization?,72 degrees C for 15 seconds.
+Microbiology,Part-22,Milk Pasteurization,What are the temperature and time parameters for the UHT (Ultra High Temperature) method of pasteurization?,125 degrees C for 3 seconds.
+Microbiology,Part-22,Milk Pasteurization,What three tests are used to verify the adequacy of milk pasteurization?,"Coliform test, standard plate count, and phosphatase test."
