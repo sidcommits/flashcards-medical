@@ -649,3 +649,241 @@ Forensic Medicine & Toxicology,Part-29 (Marrow) Odour–Toxin Table,Odour–toxi
 Forensic Medicine & Toxicology,Part-29 (Marrow) Odour–Toxin Table,Odour–toxin,Marrow: which toxin has a fruity odour?,Ethyl alcohol.
 Forensic Medicine & Toxicology,Part-29 (Marrow) Odour–Toxin Table,Odour–toxin,Marrow: which toxin smells of rotten eggs?,Hydrogen sulphide.
 Forensic Medicine & Toxicology,Part-29 (Marrow) Odour–Toxin Table,Odour–toxin,Marrow: which toxin smells of kerosene?,Organophosphorus.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Contusion,Which tissue layer does a contusion/bruise involve?,Subcutaneous fat (bruise = skin; contusion = solid organ).
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,NAI,"Which fracture pattern, besides fractures of different ages, indicates non-accidental injury?",Bucket-handle (metaphyseal corner) fracture.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Laceration types,What is an avulsion laceration?,A laceration produced by tangential force causing flaying of the skin.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Laceration types,What is a closed degloving injury called?,Morel-Lavallée lesion.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Wound tails,What is the tail shape of a laceration? (changed),Swallow tail.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Clots,"Which clot takes the shape of the vessels it forms in, and is it antemortem or postmortem?",A postmortem clot takes the shape of the vessels.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Lightning,List all the names for the skin marks of lightning injury.,"Lichtenberg flowers, filigree burns, keraunographic marks, and arborisation flower."
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Electrical injury,Which skin condition is maximally resistant to electrical current?,Dry skin.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Electrical injury,What are bone pearls in electrical injury?,Molten calcium phosphate (CaPO4) in bone.
+Forensic Medicine & Toxicology,Part-30 (coreBTR) Injuries,Harakiri,What is the mechanism of death in Harakiri (Seppuku)? (changed),Vasovagal syncope.
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",Skull fractures,Which skull fracture involves separation along a suture line?,Sutural diastasis fracture.
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",Skull fractures,What causes a ring fracture of the skull?,"A fall from height, or a heavy object landing on the head."
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",Skull fractures,Which skull fracture carries the maximum injury risk?,The depressed / signature fracture.
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",Skull fractures,Name the six skull fracture types listed in coreBTR.,"Linear/fissured (MC), depressed/signature, ping-pong/pond, sutural diastasis, ring, and hinge/motorcyclist."
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",Bullet–skull,"In a keyhole fracture, which table of the skull is involved?",The outer table (bullet striking tangentially).
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",RTA,Sparrow's feet marks are seen in which type of injury? (changed),Road traffic accident (RTA) — from windscreen glass fragments.
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",RTA,Describe the mechanism of whiplash injury. (changed),"Impact causes hyperextension first, followed by hyperflexion of the cervical spine."
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",RTA,Name the two types of aortic tear in an RTA.,Intimal tears and ladder-rung tears.
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",Blast,What is Marshall's triad in secondary blast injury?,"Abrasion, contusion, and laceration."
+Forensic Medicine & Toxicology,"Part-31 (coreBTR) Skull Fractures, RTA & Blast",Blast,Give the mnemonic for the organs affected in primary blast injury.,"T-L-C: Tympanic membrane, Lung, Colon."
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Burns,"What is a crow's foot in burns, and what does it indicate?",Unburnt wrinkle lines at the eye angles — a sign of antemortem burns.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Heat haematoma,"Besides the honeycomb EDH, what other brain finding occurs with a heat haematoma?",Brain infarct.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,AM vs PM burns,Is cherry-red blood a feature of antemortem or postmortem burns?,Antemortem.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,AM vs PM burns,Is soot in the airway a feature of antemortem or postmortem burns?,Antemortem.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,AM vs PM burns,Is a line of redness a feature of antemortem or postmortem burns?,Antemortem.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,AM vs PM burns,Are vital signs present in antemortem or postmortem burns?,Antemortem.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,AM vs PM burns,A blister containing fluid indicates antemortem or postmortem burns?,Antemortem.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,AM vs PM burns,A blister containing gas indicates antemortem or postmortem burns?,Postmortem.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,AM vs PM burns,Is a congested organ a feature of antemortem or postmortem burns?,Antemortem.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Burns,What is a Molotov's cocktail?,An incendiary weapon.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Heat stroke,State the core temperature criterion for heat stroke. (changed),"Core temperature above 104°F, with a heat stressor and organ dysfunction."
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Heat stroke,Give the vital-sign and pupil changes in heat stroke.,"Heart rate raised, blood pressure lowered, and pupils miotic."
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Hypothermia,Which hypostasis colour is seen in hypothermia?,Bright pink hypostasis.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Hypothermia,Which pancreatic finding is seen in hypothermia?,Fatty necrosis of the pancreas.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Hypothermia,List the classic features of hypothermia.,"Paradoxical undressing, hide-and-die phenomenon, bright pink hypostasis, fatty necrosis of the pancreas, and Wishnewsky ulcer."
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Burn types,Above what temperature do wet/moist burns (scalds) occur?,Above 65°C.
+Forensic Medicine & Toxicology,Part-32 (coreBTR) Thermal Injuries,Burn types,What is the blister status in chemical burns? (changed),Blisters are absent — chemical burns show ulcers with no blisters and distinct colouration.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Torture,Name the torture method in which the victim is bound with wrists and ankles tied together behind the back. (changed),Hog tying.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Torture,What is Chepuwa torture?,"A torture method listed in coreBTR alongside Telefono, Bastinado, wet submarine, hog tying, parrot perch and saw horse."
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Declarations,Declaration of Lisbon deals with what?,Patients' rights.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Declarations,Declaration of Washington deals with what?,Biological weapons.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Declarations,Declaration of Hawaii deals with what?,The mentally ill.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Ballistics zones,Name the three divisions of ballistics and what each corresponds to. (changed),"Internal ballistics (proximal, within the gun), external ballistics (intermediate, in flight), and terminal ballistics (at the target)."
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Shotgun,What is the effect of choking in a shotgun? (changed),It increases the range (by reducing pellet dispersion).
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Firearms,What is a paradoxical gun?,A gun with a smooth bore that has terminal rifling.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Bullet–skull,Inner table bevelling of the skull indicates which wound?,The entry wound.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Bullet–skull,Outer table bevelling of the skull indicates which wound?,The exit wound.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Bullet types,Which bullet produces no entry-wound changes?,A ricochet bullet.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Bullet types,"What is a souvenir bullet, and what does it cause?","A bullet with no exit wound that remains in the body, causing greatly raised lead (Pb) levels."
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Range of fire,What is the distance for a close-range shotgun wound? (changed),Less than 1 metre.
+Forensic Medicine & Toxicology,"Part-33 (coreBTR) Torture, Declarations & Ballistics",Range of fire,What are the shotgun findings at distant range (>4 m)?,"No primary wound, with complete dispersion of pellets."
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,What is Prinsloo's Gordon artefact?,Neck haemorrhage that is a postmortem artefact (not a true vital reaction).
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,"What is an undertaker's fracture, and at which level?",A postmortem artefactual fracture at C6-C7.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,What is the pattern of lividity in hanging?,Glove-and-stocking distribution.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,How much weight is needed to obstruct the internal jugular vein?,2 kg.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,How much weight is needed to obstruct the common carotid artery?,5 kg.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,How much weight is needed to obstruct the trachea?,15 kg.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,How much weight is needed to obstruct the vertebral artery?,30 kg.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,Differentiate complete from partial hanging.,Complete hanging = the full body weight acts as the constricting force; partial hanging = only the weight of the head acts as the constricting force.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,Differentiate typical from atypical hanging.,In typical hanging the knot lies at the occiput; any other knot position is atypical.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hanging,What is Amussat's sign?,A transverse tear of the intima of the carotid artery in hanging.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Hyoid,State the order of frequency of hyoid fracture sites in coreBTR.,MS > H > LS. (The abbreviations are not expanded in the notes — please verify against the original.)
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Strangulation,"In a chokehold, what is compressed and what is the mechanism of death?","The trachea is compressed, causing asphyxia."
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Strangulation,"In a carotid hold, what is compressed and what is the mechanism of death?","The carotid arteries are compressed, causing syncope."
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Drowning,What is the cause of death in fresh-water drowning? (changed),Ventricular fibrillation.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Drowning,State the positive criterion for Gettler's test. (changed),Chloride in the left ventricle differs by more than 25% from the right ventricle.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Drowning,In which three situations is cadaveric spasm seen?,"Drowning, suicidal gunshot, and electrocution."
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Drowning,What is emphysema aquosum?,"Waterlogged, ballooned lungs seen in drowning."
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Drowning,What is cutis anserinus?,Gooseflesh — a skin change seen in drowning.
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Drowning,What is the use of washerwoman's hands?,To estimate the time since death (time of immersion).
+Forensic Medicine & Toxicology,Part-34 (coreBTR) Asphyxia,Drowning,Which type of organism is detected in the diatom test?,Unicellular algae with silica shells.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Order,State the order of autopsy in a newborn. (changed),"Cranium, then abdomen, then thorax."
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Order,Why is the cranium opened first in a poisoning case?,To detect the smell of the poison.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Techniques,Which autopsy technique is the most common?,The Virchow technique (head → thorax → abdomen).
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Techniques,In which situations is the Rokitansky (in-situ) technique preferred?,Infections such as COVID and HIV.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Types of autopsy,What is a pathological autopsy performed for?,Academic reasons.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Types of autopsy,What is a medico-legal autopsy performed on?,The orders of an investigating officer (IO).
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Types of autopsy,What is virtopsy?,A virtual autopsy using CT or 3D X-rays.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Types of autopsy,What is a psychological autopsy performed for?,Suicides.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Types of autopsy,What is an obscure autopsy?,One where the clinical examination is negative but a diagnosis is reached on microscopy.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Types of autopsy,"What is a negative autopsy, and how common is it?",No cause of death is found even after microscopy; about 5% of cases.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Incisions,The inverted Y incision is used in whom? (changed),Children.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Incisions,"When is the X incision used, and what is its purpose?","In custodial deaths, to expose the deeper tissues."
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Preservation,What preservative is used for a urine sample? (changed),"Sodium fluoride, or thymol."
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Preservation,Along which curvature is the stomach incised at autopsy?,The greater curvature.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Preservation,Which vial is used for a DNA analysis blood sample?,An EDTA vial (blood; not nail).
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Death tests,"Diaphanous test, Magnus's test and Icard's test assess what?",Circulation (tests to confirm death).
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Death tests,Winslow's test assesses what?,Respiration.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Medicolegal,After how long may an unclaimed body be used for organ transplantation?,48 hours.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Medicolegal,For how long is the body of an RTA victim kept as per the police manual?,72 hours.
+Forensic Medicine & Toxicology,Part-35 (coreBTR) Autopsy,Suspended animation,List the causes of suspended animation (A–F).,Anaesthesia; Babies and Barbiturates; Cholera and Concussion; Drowning; Electrocution; Frozen (hypothermia).
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Rigor mortis,State the full sequence of Nysten's rule. (changed),Craniocaudal and proximal to distal: eyelids → neck → jaw → face → thorax → upper limbs → abdomen → lower limbs.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Algor mortis,Where is body temperature best measured after death?,The sub-hepatic space (preferred over the rectum).
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,PM lividity,When does postmortem lividity become fixed?,At 8 hours.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,PM lividity,In which two situations is postmortem lividity absent?,Flowing water and shock.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,PM lividity,Brown lividity indicates which poisons? (changed),Aniline and nitrates.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,PM lividity,Bluish-green lividity indicates which poison?,Hydrogen sulphide (H2S).
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Putrefaction,"What is the first external change of putrefaction, and where?",A greenish discolouration beginning in the right iliac fossa.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Putrefaction,Which pigments cause the green colour of putrefaction?,Sulfhaemoglobin and sulfmethaemoglobin.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Putrefaction,"When does putrefaction start, and when does it peak?",Starts at 24 hours and peaks at 36–72 hours.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Putrefaction,What is marbling?,"A branching, discoloured venous pattern on the skin in putrefaction."
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Putrefaction,When do the sphincters relax after death?,At 2–3 days.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Putrefaction,"When do larval maggots appear, and what field studies them?",At 24–72 hours; studied in forensic entomology.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Adipocere,State the time frame for adipocere formation. (changed),3 weeks to 3 months.
+Forensic Medicine & Toxicology,Part-36 (coreBTR) Thanatology,Adipocere,Which structure is notably preserved in adipocere?,The face (facial preservation).
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Evidence,"What are subpoena, summons and duces tecum?",Legal documents compelling a witness to attend court (duces tecum also requires producing documents).
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Courts,State the maximum fine a 1st class Magistrate can impose. (changed),"50,000 rupees (with up to 3 years imprisonment)."
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Courts,State the maximum fine a 2nd class Magistrate can impose. (changed),"10,000 rupees (with up to 1 year imprisonment)."
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Courts,"Which courts can award life imprisonment or death, with no upper limit on fine?","Supreme Court, High Court, Sessions Court, Additional Court, and Fast Track Court."
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Consent,"What is the minimum age of consent for MTP, PV/PR examination, surgery or transplant?",18 years or above.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Consent,Define therapeutic privilege. (changed),The doctor withholds information from the patient (for the patient's benefit).
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Consent,Define extended consent. (changed),Further treatment carried out with prior consent.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,POCSO,What makes a sexual assault 'aggravated' under POCSO? (changed),"When committed by a person in authority, with weapons, or in custodial settings."
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,POCSO,"Which BNS section covers kidnapping, and up to what age?",BNS 137 — a person under 18 years of age.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Negligence,What is the Good Samaritan doctrine?,"If the intent was good, there is no negligence."
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Negligence,What is respondeat superior (vicarious liability)?,Seniors/HODs are held responsible for the acts of interns and junior doctors.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Negligence,What is the outcome of professional misconduct before the State Medical Council?,Erasure of the doctor's name from the register.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Burden of proof,Who bears the burden of proof in criminal negligence?,The prosecution (the state).
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Burden of proof,Who bears the burden of proof in res ipsa loquitur?,The doctor (the defendant).
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Burden of proof,Who bears the burden of proof in civil negligence?,The patient (the plaintiff).
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Burden of proof,Who bears the burden of proof in contributory negligence?,The doctor.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Records,For how long are MTP records maintained?,5 years.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,BNS,Which BNS section covers acid attack (vitriolage)?,BNS 124.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Grievous hurt,"In the definition of grievous hurt, for how many days must the sufferer be in severe bodily pain or unable to follow ordinary pursuits? (changed)",15 days.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Insanity,Name the tests/rules of legal insanity.,"McNaughten's rule, Durham's rule, Curren's rule, the irresistible impulse test, and the American Law Institute test."
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Insanity,What does compos mentis mean?,Having control of the mind (of sound mind).
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,BNSS,Which BNSS section states that no consent is needed to examine a rape accused?,BNSS 52.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,BNSS,Which BNSS section covers examination of a rape victim?,BNSS 184.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,BNSS,"Which BNSS section covers in-camera trial, and for which offences?",BNSS 366 — sexual assault and POCSO cases.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Oral evidence,List the exceptions to oral evidence.,Dying declaration; deposition of a medical witness from a lower court; evidence of a witness in a previous judicial proceeding; and reports of certain government scientific experts.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Oral evidence,Which government scientific experts' reports are exceptions to oral evidence?,"The Chemical Examiner, the Chief Controller of Explosives, the Director of the Fingerprint Bureau, and the Director of a Central Forensic Science Laboratory."
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Dying declaration,Who records a dying deposition versus a dying declaration?,A dying deposition is recorded by a magistrate; a dying declaration can be recorded by anyone.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Dying declaration,Is an oath taken for a dying deposition or a dying declaration?,Oath is taken for a dying deposition; not for a dying declaration.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Dying declaration,Is cross-examination allowed in a dying deposition or a dying declaration?,Cross-examination is present in a dying deposition; absent in a dying declaration.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Dying declaration,Is a dying deposition valid if the patient survives?,Yes; a dying declaration is not valid if the patient survives.
+Forensic Medicine & Toxicology,Part-37 (coreBTR) Medical Jurisprudence & Legal Sections,Dying declaration,Which is used in India — dying deposition or dying declaration?,The dying declaration (dying deposition is not used in India).
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Sexual assault,For how long does sperm remain motile in the vagina?,6–12 hours.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Sexual assault,"What is the time limit for smegma, and what is it used for?",24 hours — for examination of the accused (using Lugol's iodine).
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Sexual assault,What is a false virgin?,"A woman whose hymen remains intact due to increased elasticity, but who shows a fourchette tear."
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Sexual assault,Define a posthumous child. (changed),A child born after the death of its father.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Sexual assault,What is a supposititious child?,A fictitious child (falsely claimed to be born to a woman).
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Paraphilias,Which BNS section covers exhibitionism?,BNS 296.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Paraphilias,Which BNS section covers frotteurism?,BNS 75.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Paraphilias,What other names are given to sexual masochism taken to extremes?,"Kotzwarism, autoerotic asphyxia, or sexual asphyxia."
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Paraphilias,What are the active and passive partners in lesbianism (tribadism/sapphism) called?,Active = dyke; passive = femme.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Paraphilias,What are the other names for sodomy?,Greek love or buggery.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Paraphilias,What is sodomy with an elderly person called?,Gerontophilia.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Paraphilias,"What is sodomy with a child called, and what is the child called?",Pederasty; the child is called a catamite.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Complexes,What is the Pharaoh complex?,Brother-sister attraction (a form of incest).
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Complexes,"Oedipus, Electra and Pharaoh complexes all fall under which heading?",Incest.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Lochia,Give the sequence and duration of lochia. (changed),Rubra (4 days) → serosa (8 days) → alba (12 days); total about 24 days.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Live vs still born,What are the lung weights in Foder's test for live-born vs still-born?,Live born 60 g; still born 30 g.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Live vs still born,What is the lung:body weight ratio in Plocquet's test for live-born vs still-born?,Live born 1:35; still born 1:70.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Live vs still born,What does Wredin's test show in a still-born?,A gel membrane in the ear (absent in the live born).
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Live vs still born,What is Breslau's second life test?,Positive (air in the stomach/intestine) in the live born; negative in the still born.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Live vs still born,What is the result of the hydrostatic test in live-born vs still-born?,Live born — lungs float; still born — lungs sink.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Live vs still born,What causes a false positive hydrostatic test?,"Putrefaction, or positive pressure ventilation (PPV)."
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Live vs still born,What causes a false negative hydrostatic test?,Collapse or consolidation of the lungs.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Miscellaneous,What is Ewing's postulate?,A postulate linking a crime/event to trauma (establishing causal connection).
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Miscellaneous,Which technique uses prior knowledge of an event to detect a suspect's reaction?,Brain mapping.
+Forensic Medicine & Toxicology,"Part-38 (coreBTR) Sexual Assault, Paraphilias & Infanticide",Miscellaneous,Which substance did the British East India Company transport to China in the 18th century?,Opium.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Blood,What does the precipitin test determine?,The species of origin of a blood stain.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Semen,Which semen test is best in azoospermia?,The MUP test.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Semen,Which reagent is used in the Barberio test?,Picric acid (forms yellow spermine crystals).
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Teeth,Enamel pearls and taurodontism are found in which race?,Mongoloids.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Teeth,Name the four dental notation systems.,"Universal, Palmer, FDI, and Haderup dental notation systems."
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Hair,"Describe the medulla, medullary index and pigment of human hair.",Medulla fragmented and thin; medullary index less than 0.33; pigment uniformly distributed.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Hair,"Describe the medulla, medullary index and pigment of animal hair.",Medulla continuous and thick; medullary index greater than 0.5; pigment confined to the medulla.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Fingerprints,"In rugoscopy (palatoscopy), which part of the palate is studied?",The anterior one-third of the hard palate.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Fingerprints,"What is Locard's principle, and what technique is named after him?",The theory of exchange (every contact leaves a trace); poroscopy is his technique.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Race,A cephalic index of 70–75 indicates which race?,Dolichocephalic — Negroes.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Race,A cephalic index of 75–80 indicates which race?,Mesaticephalic — Caucasians and Asians.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Race,A cephalic index of 80–85 indicates which race?,Brachycephalic — Mongoloids.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Gender,Which nuclear structures are used to determine sex from cells?,Barr bodies (in females) and the Davidson body (drumstick in neutrophils).
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Gender,What is the sternal cut-off for a male in Ashley's rule?,Greater than 149 mm.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Pelvis,What is the other name for the sacroiliac joint surface in the female-pelvis exceptions?,The cheiolitic line.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Bone age,At what age do the radius and ulna centres appear at the wrist?,Radius at 2 years and ulna at 5 years.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Bone age,At what age does the wrist fuse?,19 years.
+Forensic Medicine & Toxicology,Part-39 (coreBTR) Forensic Serology & Human Identification,Bone age,"Give the elbow fusion ages listed as L-14, M-15, O-16 in coreBTR.","Lateral epicondyle at 14, medial epicondyle at 15, and olecranon at 16 years. (The abbreviations are not expanded in the notes — please verify.)"
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Corrosives,List the duties of a doctor in a poisoning case.,"Perform the medical duty first, then inform the police and preserve the evidence."
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Corrosives,Which poisons cause hypocalcaemia?,"Hydrofluoric acid, ethylene glycol (antifreeze), and oxalic acid (whitener)."
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Corrosives,Which poison causes hypokalaemia?,Barium carbonate.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Corrosives,Which poisons cause hypomagnesaemia?,Hydrofluoric acid and Celphos (aluminium phosphide).
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Activated charcoal,List the contraindications to activated charcoal.,"Heavy metals, corrosives, alcohol, kerosene, and organophosphates."
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Corrosives,What is the common name for sulphuric acid?,Oil of vitriol.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Corrosives,What is the common name for nitric acid?,Aqua fortis.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Carbolic acid,Which metabolites cause carboluria and ochronosis?,Pyrocatechol and hydroquinone.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Stomach mucosa,Blue stomach mucosa indicates which poisons?,Copper sulfate (CuSO4) or sodium amytal.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Cyanide,"Besides bitter almonds, what other smells are described for cyanide?",Flax or peach.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Carbon monoxide,Which type of anoxia predominates in CO poisoning?,Anaemic anoxia (greater than histotoxic).
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Carbon monoxide,Which instrument accurately measures saturation in CO poisoning?,A co-oximeter.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Carbon monoxide,Which brain structure undergoes necrosis in CO poisoning?,The globus pallidus.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Cardiac poisons,"What is the mechanism of digitalis (Digitalis purpurea, foxglove)?",Inhibition of Na-K ATPase.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Cardiac poisons,Which additional plant is listed as a cardiac poison in coreBTR?,Calotropis.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Cardiac poisons,List all the features of aconite poisoning.,Root known as monk's hood; paraesthesia; low blood pressure; and hippus.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Deliriants,Which plant is Atropa belladonna also known as?,Nightshade — a deliriant.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Deliriants,Which plant is the source of cocaine?,Erythroxylum coca.
+Forensic Medicine & Toxicology,Part-40 (coreBTR) Corrosives & Asphyxiant/Cardiac Poisons,Deliriants,"Why is physostigmine, not neostigmine, used in datura poisoning?",Physostigmine is a tertiary compound and can cross the blood-brain barrier.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Organochlorines,Name the organochlorine insecticides and their nickname.,"DDT, Lindane and Endrin — Endrin is called 'plant penicillin'."
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Organochlorines,What is the mechanism of organochlorine toxicity?,"They keep sodium channels open, causing CNS stimulation."
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Organophosphates,What late complication follows organophosphate poisoning?,Delayed neuropathy.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Organic irritants,"What is the common toxin of the irritant seeds, and its mechanism?",Toxalbumin — it inhibits protein synthesis.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Strychnine,What is the characteristic mental state between strychnine convulsions?,The patient remains conscious in between episodes.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Seeds,Describe capsicum seeds and the condition they cause.,"Small, yellow and round; they cause 'Hunan hands'."
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Seeds,Describe datura seeds (compared with capsicum seeds).,Larger and dark.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Seeds,"Which seed is Nigella sativum, listed among the organic irritant poisons?",Black cumin seed — listed with the irritant seeds in coreBTR.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Spinal poisons,Name the spinal poisons.,Nux vomica and Gelsemium.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Peripheral nerve poisons,Name the peripheral nerve poisons.,Curare and Conium.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,What is the whole-blood clotting time cut-off in viper envenomation? (changed),More than 20 minutes.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,What is the additional local feature of viper bite?,Blistering at the bite site.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,When is antisnake venom indicated?,Only if there is ophitoxaemia (signs of envenomation).
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,Compare the belly scales of poisonous and non-poisonous snakes.,"Poisonous: large, covering the entire belly. Non-poisonous: small, not covering the belly."
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,Compare the head scales of poisonous and non-poisonous snakes.,Poisonous: small. Non-poisonous: large.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,Compare the fangs of poisonous and non-poisonous snakes.,Poisonous: long and canalised. Non-poisonous: short and solid.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,Compare the tail of poisonous and non-poisonous snakes.,Poisonous: compressed. Non-poisonous: not compressed.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,Compare the habits of poisonous and non-poisonous snakes.,Poisonous: nocturnal. Non-poisonous: diurnal.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Snakes,Compare the bite marks of poisonous and non-poisonous snakes.,Poisonous: two fang marks. Non-poisonous: small teeth in a row.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Arsenic,What is the skin pigmentation of chronic arsenic poisoning also called?,"Rain-drop pigmentation, or Bowen's disease."
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Arsenic,What is the full name of the nail sign of arsenic poisoning?,Aldrich-Mees lines.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Phosphorus,Which colour of phosphorus is toxic and which is non-toxic?,Yellow/white phosphorus is toxic; red phosphorus is non-toxic.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Copper,What condition results from copper inhalation?,Vineyard sprayer's disease (an interstitial lung disease).
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Lead,What is the blood lead level at which clinical symptoms appear?,Above 70 micrograms/dL.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Lead,Which three enzymes are inhibited in lead poisoning?,"ALA dehydratase, ferrochelatase, and coproporphyrinogen oxidase."
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Lead,What is the most common presentation of lead-induced anaemia?,"Facial pallor, progressing to sideroblastic anaemia."
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Mercury,What is mercuria lentis?,A brown malt reflex of the lens in mercury poisoning.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Mercury,Name the renal and salivary features of mercury poisoning.,Membranous nephropathy and excess salivation.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Mercury,"How does inorganic/elemental mercury present, and what is the treatment?",Inhalation causes psychoses; treated with BAL.
+Forensic Medicine & Toxicology,"Part-41 (coreBTR) Plant, Agricultural, Snake & Metallic Poisons",Mercury,"How does organic/methyl mercury present, and what is the treatment?",It causes Minamata disease; treated with DMSA.
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Chelators,In which condition is EDTA contraindicated?,Renal failure.
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Diuresis,Which four drugs are removed by forced alkaline diuresis?,"Salicylates, TCAs, methotrexate, and barbiturates (Rx: NaHCO3)."
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Cyanide,"Besides Lillie's kit, what other antidotes are used for cyanide?",PAPP-A and vitamin B12 (hydroxocobalamin).
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Alcohol withdrawal,State the timing and sensorium in alcoholic hallucinosis. (changed),"Less than 48 hours, with an intact sensorium."
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Alcohol,What is morbid jealousy in alcoholism called?,Othello syndrome.
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Alcohol,What is the Mellanby effect?,"Tolerance — as the alcohol level rises, a higher dose is required to produce the same effect."
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Alcohol,What are the components of the coma cocktail?,"IV dextrose, thiamine (vitamin B1), and naloxone."
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Drugs of abuse,Which anaesthetic agent is phencyclidine related to?,Ketamine (angel dust) — it produces dissociative anaesthesia.
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Drugs of abuse,What other street name is given to MDMA besides ecstasy?,Crystal meth.
+Forensic Medicine & Toxicology,"Part-42 (coreBTR) Antidotes, Alcohol & Drugs of Abuse",Drugs of abuse,What is skin popping?,"Subcutaneous injection of heroin, leaving characteristic skin scars."
