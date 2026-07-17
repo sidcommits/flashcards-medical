@@ -1,0 +1,556 @@
+subject,deck,topic,front,back
+Neurology,Part-1,Sensory Receptors,Which cutaneous receptor is the most numerous and found only in non-hairy (glabrous) skin?,Meissner corpuscle
+Neurology,Part-1,Sensory Receptors,What functions does the Meissner corpuscle serve?,"Detects fine touch, dynamic two-point discrimination, and low-frequency vibration"
+Neurology,Part-1,Sensory Receptors,What type of adaptation does the Meissner corpuscle show?,Fast adaptation
+Neurology,Part-1,Sensory Receptors,Which receptor is the largest and most sensitive cutaneous receptor?,Pacinian corpuscle
+Neurology,Part-1,Sensory Receptors,What does the Pacinian corpuscle detect?,High-frequency vibration and deep pressure
+Neurology,Part-1,Sensory Receptors,What type of adaptation does the Pacinian corpuscle show?,Fast adaptation
+Neurology,Part-1,Sensory Receptors,"What does the hair follicle receptor detect, and what is its adaptation type?",Detects hair movement; shows fast adaptation
+Neurology,Part-1,Sensory Receptors,Which slow-adapting receptor is located at epidermal edges and is important for Braille reading?,Merkel disc
+Neurology,Part-1,Sensory Receptors,What discrimination function is attributed to the Merkel disc?,Static two-point discrimination
+Neurology,Part-1,Sensory Receptors,"Which slow-adapting receptor detects skin stretch and sustained pressure, and is maximal in joint capsules?",Ruffini endings
+Neurology,Part-1,Sensory Receptors,"Which nerve endings mediate itching and slow pain, and which molecule mediates this?","Type C nerve endings, mediated by Substance P"
+Neurology,Part-1,Sensory Receptors,Which neurotransmitter mediates fast pain (as opposed to the slow pain carried by Type C fibers)?,Glutamate
+Neurology,Part-1,Sensory Receptors,What mnemonic helps recall which receptors show fast adaptation?,"""Miss Pacman is Fast"" - referring to Meissner corpuscle, Pacinian corpuscle, and hair follicle receptors"
+Neurology,Part-1,Sensory Receptors,State the Weber-Fechner law of perception.,"As stimulus intensity increases, perception increases"
+Neurology,Part-1,Sensory Receptors,State the frequency coding law of neural signaling.,"As stimulus intensity increases, the frequency of action potentials increases"
+Neurology,Part-1,Nerve Fiber Classification,"What are the functions, conduction velocity, and diameter of Aalpha nerve fibers?",Proprioception and somatic motor function; conduction velocity 70-120 m/sec; diameter 12-20 microns
+Neurology,Part-1,Nerve Fiber Classification,"What are the functions, conduction velocity, and diameter of Abeta nerve fibers?",Touch and pressure; conduction velocity 30-70 m/sec; diameter 8 microns
+Neurology,Part-1,Nerve Fiber Classification,"What are the functions, conduction velocity, and diameter of Agamma nerve fibers?",Efferent fibers to muscle spindles; conduction velocity 15-30 m/sec; diameter 5 microns
+Neurology,Part-1,Nerve Fiber Classification,"What are the functions, conduction velocity, and diameter of Adelta nerve fibers?",Fast pain (via glutamate) and cold temperature sensation; conduction velocity 12-30 m/sec; diameter 2-5 microns
+Neurology,Part-1,Nerve Fiber Classification,"What are the functions, conduction velocity, and diameter of Type B nerve fibers?",Preganglionic autonomic fibers; conduction velocity 3-12 m/sec; diameter 3 microns
+Neurology,Part-1,Nerve Fiber Classification,"What are the functions, conduction velocity, and diameter of Type C nerve fibers?","Slow pain, warm temperature sensation, and postganglionic sympathetic fibers; conduction velocity 0.5-2 m/sec; diameter 1 micron"
+Neurology,Part-1,Nerve Fiber Classification,"Which fiber type is unmyelinated, and what is its alternate name in the Lloyd and Hunt classification?",Type C fibers; also known as Type 4 fibers
+Neurology,Part-1,Nerve Fiber Classification,What sensations do Adelta fibers carry and via which neurotransmitter?,"Cold temperature and fast/sharp pain, mediated by glutamate"
+Neurology,Part-1,Nerve Fiber Classification,What sensations do C fibers carry and via which neurotransmitter?,"Warm/burning/freezing pain and slow pain, mediated by Substance P"
+Neurology,Part-1,Nerve Fiber Classification,"What is the order of nerve fiber sensitivity to local anesthetics, and what mnemonic captures it?","A (Agamma > Aalpha > Adelta) > B > C; mnemonic ""GoD!"""
+Neurology,Part-1,Nerve Fiber Classification,"What is the order of nerve fiber sensitivity to pressure, and what mnemonic captures it?","A > B > C; mnemonic ""Return to basics"""
+Neurology,Part-1,Nerve Fiber Classification,"What is the order of nerve fiber sensitivity to hypoxia, and what mnemonic captures it?","B > A > C; mnemonic ""BACo!"""
+Neurology,Part-1,Nerve Fiber Classification,How do conduction velocity and fiber diameter change from Aalpha fibers down to C fibers?,Both conduction velocity and fiber diameter progressively decrease from Aalpha to C fibers (larger diameter = faster conduction)
+Neurology,Part-1,Pain Pathway & Modulation,"Which fiber types carry pain signals, and what pathway do they take to reach conscious perception?","Adelta fibers and C fibers carry pain via the spinothalamic tract to the brain, where it is perceived"
+Neurology,Part-1,Pain Pathway & Modulation,What is the function of the descending pain inhibition system?,It suppresses nociceptive transmission in chronic pain at the level of the spinothalamic tract
+Neurology,Part-1,Pain Pathway & Modulation,What is the role of the periaqueductal gray (PAG) in pain modulation?,It activates descending inhibition pathways
+Neurology,Part-1,Pain Pathway & Modulation,Which structure and neurotransmitter inhibit pain at the spinal level via serotonergic pathways?,"Nucleus raphe, using serotonin (5-HT)"
+Neurology,Part-1,Pain Pathway & Modulation,Which structure and neurotransmitter inhibit pain at the spinal level via noradrenergic pathways?,"Locus ceruleus, using norepinephrine (NE)"
+Neurology,Part-1,Pain Pathway & Modulation,What do interneurons in the dorsal horn release to inhibit pain transmission?,Enkephalins and dynorphins
+Neurology,Part-1,Pain Pathway & Modulation,"What is the Gate Control Theory of pain, and who proposed it?",Proposed by Melzack & Wall; activation of Abeta (touch) fibers inhibits Adelta and C fiber pain transmission
+Neurology,Part-1,Pain Pathway & Modulation,"What structure is known as the ""Gating Center"" in the Gate Control Theory?",The substantia gelatinosa (lamina 2 of the dorsal horn)
+Neurology,Part-1,Pain Pathway & Modulation,Give two clinical applications of the Gate Control Theory of pain.,TENS (Transcutaneous Electrical Nerve Stimulation) and acupuncture (which increases enkephalin release)
+Neurology,Part-1,Pain Pathway & Modulation,Define hyperalgesia.,An exaggerated response to a painful stimulus
+Neurology,Part-1,Pain Pathway & Modulation,Define allodynia.,A non-painful stimulus that is perceived as painful
+Neurology,Part-1,Pain Pathway & Modulation,"A woman gets sunburned on the beach, and later feels pain during a 40 degree C warm bath. Which receptor and phenomenon explain this pain?","Innocuous thermal receptors (not nociceptors, since 40 degree C is below the ~49 degree C nociceptor threshold) are activated; the pain represents allodynia due to sunburn sensitization"
+Neurology,Part-2,Neurotransmitter Changes in Disease,"Where is acetylcholine synthesized, and how are its levels altered in depression and mania?","Synthesized in the basal nucleus of Meynert; increased in depression, decreased in mania"
+Neurology,Part-2,Neurotransmitter Changes in Disease,"How are acetylcholine levels altered in Alzheimer's disease, Huntington's disease, and Parkinson's disease?","Markedly decreased in Alzheimer's disease, decreased in Huntington's disease, increased in Parkinson's disease"
+Neurology,Part-2,Neurotransmitter Changes in Disease,"Where is dopamine synthesized, and how are its levels altered in depression, mania, and schizophrenia?","Synthesized in the ventral tegmentum and substantia nigra; decreased in depression, markedly increased in mania, markedly increased in schizophrenia"
+Neurology,Part-2,Neurotransmitter Changes in Disease,How are dopamine levels altered in Huntington's disease and Parkinson's disease?,Increased in Huntington's disease; markedly decreased in Parkinson's disease
+Neurology,Part-2,Neurotransmitter Changes in Disease,"Where is GABA synthesized, and how are its levels altered in anxiety, depression, and mania?","Synthesized in the nucleus accumbens; markedly decreased in anxiety, decreased in depression, decreased in mania"
+Neurology,Part-2,Neurotransmitter Changes in Disease,How is GABA altered in Huntington's disease?,Decreased
+Neurology,Part-2,Neurotransmitter Changes in Disease,"Where is norepinephrine synthesized, and how are its levels altered in anxiety and depression?","Synthesized in the locus ceruleus; markedly increased in anxiety, markedly decreased in depression"
+Neurology,Part-2,Neurotransmitter Changes in Disease,"Where is serotonin synthesized, and how are its levels altered in anxiety and depression?","Synthesized in the raphe nuclei (medulla, pons); markedly decreased in both anxiety and depression"
+Neurology,Part-2,Hypothalamic Nuclei,"What is the function of the lateral hypothalamic nucleus, and what mnemonic helps recall it?","Mediates hunger and anger, stimulated by ghrelin; mnemonic ""Makes you grow laterally"""
+Neurology,Part-2,Hypothalamic Nuclei,"What is the function of the ventromedial hypothalamic nucleus, and what mnemonic helps recall it?","Mediates satiety, stimulated by leptin; mnemonic ""Opposite of Lateral nucleus"""
+Neurology,Part-2,Hypothalamic Nuclei,"What is the function of the anterior hypothalamic nucleus, and what mnemonic helps recall it?","Mediates cooling; mnemonic ""AC - Anterior cooling"""
+Neurology,Part-2,Hypothalamic Nuclei,"What is the function of the posterior hypothalamic nucleus, and what mnemonic helps recall it?","Mediates heat generation via shivering and vasoconstriction; mnemonic ""Opposite of anterior"""
+Neurology,Part-2,Hypothalamic Nuclei,"What hormone does the supraoptic nucleus release, and what mnemonic covers this along with the paraventricular nucleus?","ADH; mnemonic ""SAD POX"""
+Neurology,Part-2,Hypothalamic Nuclei,What hormone does the paraventricular nucleus release?,"Oxytocin (covered by the mnemonic ""SAD POX"")"
+Neurology,Part-2,Hypothalamic Nuclei,"What does the suprachiasmatic nucleus release, from which gland, and what mnemonic helps recall it?","Releases melatonin from the pineal gland; mnemonic ""Circadian - Chiasmatic"""
+Neurology,Part-2,Hypothalamic Nuclei,"What hormone does the preoptic nucleus release, and what mnemonic helps recall it?","GnRH; mnemonic ""Pre gonadotropin hormone"""
+Neurology,Part-2,Hypothalamic Nuclei,What is the overall regulatory role of the arcuate nucleus?,"It is the regulator center for hunger, satiety, and reproduction"
+Neurology,Part-2,Hypothalamic Nuclei,Which neurons in the arcuate nucleus stimulate hunger?,NPY/AgRP neurons
+Neurology,Part-2,Hypothalamic Nuclei,Which neurons in the arcuate nucleus promote satiety?,POMC/CART neurons
+Neurology,Part-2,Hypothalamic Nuclei,What is the role of kisspeptin neurons in the arcuate nucleus?,They act as a trigger for puberty by stimulating pulsatile GnRH secretion
+Neurology,Part-2,Hypothalamic Nuclei,Why is pulsatile GnRH release stimulated by kisspeptin neurons important?,It is essential for proper activation of LH and FSH
+Neurology,Part-2,Hypothalamic Nuclei,"What causes Kallmann syndrome, and what is its clinical consequence?","A mutation of kisspeptin, causing delayed or absent puberty"
+Neurology,Part-2,Hypothalamic Nuclei,What is leptin's role in puberty?,It acts as a permissive signal for puberty - it allows puberty to happen but does not directly start it
+Neurology,Part-2,Hypothalamic Nuclei,What effect does low leptin (as seen in anorexia) have on puberty?,It causes delayed or suppressed puberty
+Neurology,Part-2,Thermoregulation,What is the core body temperature set point?,37 degrees C
+Neurology,Part-2,Thermoregulation,What dominates thermoregulation when body temperature rises above 37 degrees C?,Evaporative heat loss (sweating) dominates
+Neurology,Part-2,Thermoregulation,What dominates thermoregulation when body temperature falls below 37 degrees C?,Heat production dominates
+Neurology,Part-2,Thermoregulation,"What happens to the hypothalamic set point during fever, and how does the body respond?",The set point rises; shivering and vasoconstriction occur to raise body temperature to the new set point
+Neurology,Part-2,Thermoregulation,"What happens during the ""crisis"" (defervescence) phase when a fever resolves?","The set point suddenly drops, and vasodilation plus sweating occur to lower body temperature"
+Neurology,Part-3,Feeding Regulation,List the anorexigenic (feeding-decreasing) mediators described in the notes.,"alpha-MSH, Leptin, Serotonin, Norepinephrine, CRH, Insulin, Cholecystokinin (CCK), Glucagon-like peptide (GLP), CART, and Peptide YY (PYY)"
+Neurology,Part-3,Feeding Regulation,List the orexigenic (feeding-increasing) mediators described in the notes.,"Neuropeptide Y (NPY), Agouti-related protein (AGRP), Melanin-concentrating hormone (MCH), Orexins A and B, Endorphins, Galanin (GAL), Amino acids (glutamate and gamma-aminobutyric acid), Cortisol, Ghrelin, and Endocannabinoids"
+Neurology,Part-3,Feeding Regulation,"What does alpha-MSH stand for, and is it orexigenic or anorexigenic?",alpha-Melanocyte-stimulating hormone; it is anorexigenic (decreases feeding)
+Neurology,Part-3,Feeding Regulation,"What does CRH stand for, and what is its effect on feeding?",Corticotropin-releasing hormone; it is anorexigenic (decreases feeding)
+Neurology,Part-3,Feeding Regulation,"What does CART stand for, and what is its effect on feeding?",Cocaine & amphetamine regulated transcript; it is anorexigenic (decreases feeding)
+Neurology,Part-3,Feeding Regulation,What is the feeding effect of Peptide YY (PYY)?,Anorexigenic (decreases feeding)
+Neurology,Part-3,Feeding Regulation,What is the feeding effect of Neuropeptide Y (NPY)?,Orexigenic (increases feeding)
+Neurology,Part-3,Feeding Regulation,What is the feeding effect of Agouti-related protein (AGRP)?,Orexigenic (increases feeding)
+Neurology,Part-3,Feeding Regulation,What is the feeding effect of ghrelin and cortisol?,Both are orexigenic (increase feeding)
+Neurology,Part-3,Feeding Regulation,What hormone do adipocytes (fat cells) produce that suppresses appetite?,Leptin
+Neurology,Part-3,Feeding Regulation,"What does adiponectin do, and which cells produce it?",Produced by adipocytes; it improves insulin sensitivity and is anti-inflammatory and cardioprotective
+Neurology,Part-4,Thalamic Nuclei,"What input does the Ventral Posterolateral (VPL) thalamic nucleus receive, and what mnemonic helps recall its clinical relevance?","Receives input from the spinothalamic tract and dorsal column; mnemonic ""Very painful limbs"""
+Neurology,Part-4,Thalamic Nuclei,"What sensations does the VPL nucleus relay, and to which cortical destination?","Somatic body sensations - pain, temperature, touch, vibration, and proprioception; relays to the primary somatosensory cortex (Brodmann Areas 3,1,2)"
+Neurology,Part-4,Thalamic Nuclei,"What input does the Ventral Posteromedial (VPM) thalamic nucleus receive, and what mnemonic helps recall its clinical relevance?","Receives input from the trigeminal nerve (sensory) and gustatory input via the Chorda Tympani, 9th cranial nerve, and 10th cranial nerve; mnemonic ""Very painful mouth"""
+Neurology,Part-4,Thalamic Nuclei,"What sensations does the VPM nucleus relay, and to which cortical destinations?","Somatic face sensations and taste; somatic sensation goes to the primary somatosensory cortex (Brodmann Areas 3,1,2), while taste goes to Brodmann area 43"
+Neurology,Part-4,Thalamic Nuclei,"What input does the Lateral Geniculate Nucleus (LGN) receive, and what mnemonic helps recall its function?","Receives input from the optic tract; mnemonic ""L: Light (vision)"""
+Neurology,Part-4,Thalamic Nuclei,"To which cortical area does the LGN relay visual information, and what mnemonic marks this Brodmann area?","Primary visual cortex (Brodmann Area 17); mnemonic ""we start seeing people at 17"""
+Neurology,Part-4,Thalamic Nuclei,"What input does the Medial Geniculate Nucleus (MGN) receive, and what mnemonic helps recall its function?","Receives input from the inferior colliculus of the auditory pathway; mnemonic ""M: Music (hearing)"""
+Neurology,Part-4,Thalamic Nuclei,What is the mnemonic for the auditory pathway structures leading into the MGN?,EECOLIMA
+Neurology,Part-4,Thalamic Nuclei,To which cortical area does the MGN relay auditory information?,Primary auditory cortex (Brodmann Areas 41/42)
+Neurology,Part-4,Thalamic Nuclei,"What input do the Ventral Anterior/Ventral Lateral (VA/VL) thalamic nuclei receive, and what is their function?",Receive input from the basal ganglia and cerebellum; involved in motor planning and coordination
+Neurology,Part-4,Thalamic Nuclei,To which cortical area do the VA/VL nuclei relay information?,"Motor cortex (Brodmann Areas 4,6)"
+Neurology,Part-4,Thalamic Nuclei,Which thalamic nucleus is part of the limbic system?,The anterior nucleus
+Neurology,Part-4,Thalamic Nuclei,Which thalamic nucleus is involved in memory and is affected in Wernicke's encephalopathy?,The medial dorsal nucleus
+Neurology,Part-4,Thalamic Nuclei,Which thalamic nucleus is affected in Prion's disease?,The pulvinar
+Neurology,Part-5,Memory,"What is semantic memory, where is it processed, and what type of memory category does it belong to?","Memory of facts and general knowledge; retrieved via the prefrontal cortex, with storage involving the anterior and lateral temporal cortex; it is conscious and expressible, and belongs to declarative (explicit) memory"
+Neurology,Part-5,Memory,"What is episodic memory, where is it located, and what happens with bilateral hippocampal lesions?","Memory of personal experiences and events, located in the hippocampus, neocortex, and medial temporal lobe (declarative/explicit memory); bilateral hippocampal lesions cause anterograde amnesia"
+Neurology,Part-5,Memory,"What is procedural memory, where is it located, and what type of learning does it represent?","Memory for skills and habits, located in the striatum and cerebellum; represents unconscious learning (non-declarative/implicit memory)"
+Neurology,Part-5,Memory,"What is priming/perceptual memory, and where is it located?","Improved response to a stimulus due to prior exposure (e.g., improved performance when given hints); located in the neocortex (non-declarative/implicit memory)"
+Neurology,Part-5,Memory,"What is associative learning, what is a classic example, and where is it located?","Classical and operant conditioning (e.g., Pavlov's experiment); located in the amygdala and cerebellum (non-declarative/implicit memory)"
+Neurology,Part-5,Memory,"What syndrome results from bilateral amygdala lesions, and what are its clinical features?","Kluver-Bucy Syndrome, characterized by hyperorality and hypersexuality"
+Neurology,Part-5,Memory,"What is habituation, and what is its underlying cellular mechanism?","A decreased response to a repeated stimulus, caused by decreased calcium influx leading to decreased glutamate release"
+Neurology,Part-5,Memory,"What is sensitization, and what is its underlying cellular mechanism?","An increased response to a stimulus, caused by increased serotonin leading to increased calcium influx and increased glutamate release"
+Neurology,Part-5,Memory,How long does short-term memory last?,30 to 300 seconds
+Neurology,Part-5,Memory,"Where does long-term potentiation/depression occur, and which neurons are specifically involved?","In the hippocampus, involving CA1 neurons"
+Neurology,Part-5,Memory,Which neurotransmitter mediates long-term potentiation/depression?,Glutamate
+Neurology,Part-5,Memory,"Which two receptors mediate long-term potentiation, and what is the key characteristic of each?",The NMDA receptor (a slow channel) and the AMPA receptor (mediates fast excitatory transmission)
+Neurology,Part-6,Dementia,"What is the most common cause of dementia, and what is the second most common cause?","Alzheimer's dementia is the most common cause; vascular dementia is the second most common, characterized by early executive dysfunction"
+Neurology,Part-6,Dementia,"What are the early clinical features of Alzheimer's dementia, and which brain lobes are involved early?",Short-term memory loss and spatial disorientation; the temporal and parietal lobes are involved early
+Neurology,Part-6,Dementia,"What are the late clinical features of Alzheimer's dementia, and which brain lobe is involved late?",Personality changes; the frontal lobe is involved late
+Neurology,Part-6,Dementia,"Which genetic condition is Alzheimer's disease associated with, and via which gene/chromosome?","Down's syndrome, via the APP gene located on chromosome 21"
+Neurology,Part-6,Dementia,How do ApoE2 and ApoE4 alleles affect Alzheimer's disease prognosis?,ApoE2 is associated with a good prognosis; ApoE4 is associated with a bad prognosis
+Neurology,Part-6,Dementia,What is the treatment for mild Alzheimer's disease?,"AChE inhibitors - Donepezil, Rivastigmine, and Galantamine"
+Neurology,Part-6,Dementia,What is the treatment for moderate to severe Alzheimer's disease?,"Memantine, an NMDA receptor inhibitor"
+Neurology,Part-6,Dementia,Which monoclonal antibodies are used to treat Alzheimer's disease?,Lecanemab and Aducanumab
+Neurology,Part-6,Dementia,Which Alzheimer's disease drug is available as a transdermal patch?,Rivastigmine
+Neurology,Part-6,Dementia,"What are neurofibrillary tangles composed of, and what is their histological appearance?","Composed of TAU proteins; appear as flame-shaped, basophilic structures (a non-specific finding)"
+Neurology,Part-6,Dementia,"What are Hirano bodies composed of, and what is their histological appearance?","Composed of actin; appear as eosinophilic, rod-like structures (a non-specific finding)"
+Neurology,Part-6,Dementia,"What does the Bielschowsky stain demonstrate, and what type of stain is it?",A silver stain that demonstrates beta-amyloid plaques
+Neurology,Part-6,Dementia,"Which amyloid subtype is associated with Alzheimer's disease, and which is associated with cerebral amyloid angiopathy?","A-beta 42 is associated with Alzheimer's disease; A-beta 40 is associated with cerebral amyloid angiopathy, causing vascular fragility and lobar hemorrhages"
+Neurology,Part-6,Dementia,What is the characteristic clinical course of vascular dementia?,A stepwise decline
+Neurology,Part-6,Dementia,"What neuroimaging finding is seen in vascular dementia, and what is its cause?","Deep white matter changes, due to multiple infarcts or small vessel disease"
+Neurology,Part-6,Dementia,What is Binswanger disease?,A subtype of vascular dementia caused by chronic small vessel ischemia
+Neurology,Part-6,Dementia,What are the early clinical features of Pick's disease (frontotemporal dementia)?,Early personality and behavioral changes
+Neurology,Part-6,Dementia,What gross pathological finding is characteristic of Pick's disease?,Knife-edge atrophy of the frontal lobe
+Neurology,Part-6,Dementia,"What are ""Pick bodies"" composed of?",Tau proteins and ubiquitin
+Neurology,Part-6,Dementia,"What is Hakim's triad of normal pressure hydrocephalus, and what mnemonic describes it?","Urinary incontinence, dementia, and gait ataxia; mnemonic ""wet-wacky-wobbly"""
+Neurology,Part-6,Dementia,What is the underlying mechanism causing symptoms in normal pressure hydrocephalus?,Cortical fibers of the frontal lobe become compressed/occluded due to lateral ventricular dilatation
+Neurology,Part-6,Dementia,What type of gait is characteristic of normal pressure hydrocephalus?,"A shuffling gait with preserved arm swing, known as magnetic gait"
+Neurology,Part-6,Dementia,"Is normal pressure hydrocephalus reversible, and how is it treated?","Yes, it is a reversible dementia, treated with a VP (ventriculoperitoneal) shunt"
+Neurology,Part-6,Dementia,What are the clinical features of Prion's disease?,"Rapidly progressive dementia, myoclonus, infective proteins in CSF, periodic sharp waves on EEG, elevated 14-3-3 protein in CSF, and a history of neurosurgery/corneal transplant/cannibalism"
+Neurology,Part-6,Dementia,What imaging sign is characteristic of variant CJD (a prion disease)?,"The pulvinar sign, also called the hockey stick sign"
+Neurology,Part-6,Dementia,"What is the underlying pathology in Prion's disease, and is it transmissible?","Spongiform encephalopathy, which is transmissible"
+Neurology,Part-6,Dementia,"What causes HIV-Associated Neurocognitive Disorder (HAND), and what neuroimaging finding is seen?",Caused by HIV infection; causes diffuse (global) cerebral atrophy
+Neurology,Part-6,Dementia,What is the histological hallmark of HIV-Associated Neurocognitive Disorder?,Microglial nodules
+Neurology,Part-7,Basal Ganglia,What are the five main components of the basal ganglia?,"Caudate, Putamen, Globus pallidus (GPi and GPe), Substantia nigra (SNpc and SNpr), and the Subthalamic nucleus"
+Neurology,Part-7,Basal Ganglia,What are the two divisions of the globus pallidus?,Globus pallidus internal (GPi) and Globus pallidus external (GPe)
+Neurology,Part-7,Basal Ganglia,What are the two divisions of the substantia nigra?,SNpc (pars compacta) and SNpr (pars reticulata)
+Neurology,Part-7,Basal Ganglia,Which two structures together form the striatum?,Caudate + Putamen
+Neurology,Part-7,Basal Ganglia,Which two structures together form the lentiform nucleus?,Putamen + Globus pallidus
+Neurology,Part-7,Basal Ganglia,What is the overall functional role of the basal ganglia?,To inhibit unwanted/excess movements and facilitate smooth voluntary movement
+Neurology,Part-7,Basal Ganglia,"What neurotransmitter mediates most basal ganglia output, and is it excitatory or inhibitory?","GABA, which is inhibitory"
+Neurology,Part-7,Basal Ganglia,"Which two basal ganglia structures are exceptions to the typical GABA/inhibitory output, and what neurotransmitters do they use instead?",The subthalamic nucleus (STN) uses glutamate; the SNpc uses dopamine
+Neurology,Part-7,Basal Ganglia,"Damage to which basal ganglia structure causes chorea, and what are its features?","The caudate; chorea causes dance-like, purposeless movements"
+Neurology,Part-7,Basal Ganglia,"Damage to which basal ganglia structure causes athetosis, and what are its features?","The globus pallidus; athetosis causes slow, writhing movements"
+Neurology,Part-7,Basal Ganglia,"Damage to which basal ganglia structure causes parkinsonism, and what are its features?","The substantia nigra (SNpc); parkinsonism causes bradykinesia, rigidity, and tremor"
+Neurology,Part-7,Basal Ganglia,"Damage to which basal ganglia structure causes contralateral hemiballismus, and what are its features?",The subthalamic nucleus; hemiballismus causes violent flinging movements
+Neurology,Part-7,Basal Ganglia,"What is the most common movement disorder, and is the basal ganglia involved?",Essential tremor; the basal ganglia is NOT involved
+Neurology,Part-7,Basal Ganglia,What is the frequency and character of essential tremor?,"A high-frequency tremor at 6-10 Hz, occurring as a postural/action tremor"
+Neurology,Part-7,Basal Ganglia,What factors worsen essential tremor?,Activity and stress
+Neurology,Part-7,Basal Ganglia,What factor characteristically improves essential tremor?,Alcohol
+Neurology,Part-7,Basal Ganglia,"Is essential tremor typically familial, and what is the drug of choice for treatment?","Yes, it is often familial; the drug of choice is propranolol"
+Neurology,Part-7,Basal Ganglia,"In the direct pathway of basal ganglia motor control, which dopamine receptor is activated, and what is its effect?","Dopamine acts on the D-1 receptor, producing an excitatory (+) effect"
+Neurology,Part-7,Basal Ganglia,"In the direct pathway, what does striatal activation do to the GPi, and what is the net effect on movement?","The striatum inhibits the GPi; since the GPi no longer inhibits the thalamus, the net effect is facilitation of movement (""double negative is positive"")"
+Neurology,Part-7,Basal Ganglia,"In the indirect pathway of basal ganglia motor control, which dopamine receptor is activated, and what is its effect?","Dopamine acts on the D-2 receptor, producing an inhibitory (-) effect"
+Neurology,Part-7,Basal Ganglia,"In the indirect pathway, how does the striatum ultimately affect the GPi, and what is the net effect on movement?","Via a long path through the STN and GPe, the striatum excites the GPi; the GPi then inhibits the thalamus, resulting in no movement"
+Neurology,Part-8,Movement Disorders,What does the mnemonic TRAP stand for in defining parkinsonism?,"Tremor, Rigidity, Akinesia/Bradykinesia, and Postural instability"
+Neurology,Part-8,Movement Disorders,What is another name for parkinsonism?,Paralysis Agitans
+Neurology,Part-8,Movement Disorders,"Describe the classic tremor of parkinsonism, including its frequency.","A ""pill-rolling"" resting tremor occurring at 3-6 Hz"
+Neurology,Part-8,Movement Disorders,Describe the type of rigidity seen in parkinsonism.,"""Lead-pipe"" or ""cogwheel"" stiffness"
+Neurology,Part-8,Movement Disorders,What does akinesia/bradykinesia refer to in parkinsonism?,Slowness or lack of movement
+Neurology,Part-8,Movement Disorders,What does postural instability refer to in parkinsonism?,Balance problems and falls
+Neurology,Part-8,Movement Disorders,"What is micrographia, as seen in parkinsonism?","Small, cramped handwriting"
+Neurology,Part-8,Movement Disorders,"What is meant by ""mask-like facies"" in parkinsonism?",Reduced facial expression
+Neurology,Part-8,Movement Disorders,Describe the shuffling gait characteristic of parkinsonism.,Short steps with reduced arm swing
+Neurology,Part-8,Movement Disorders,What are the late clinical features of parkinsonism?,Dementia and depression
+Neurology,Part-8,Movement Disorders,"How does classic parkinsonism (Parkinson's disease) respond to dopamine, and how does this differ from Parkinson-plus syndromes?","Parkinson's disease has a good response to dopamine, whereas Parkinson-plus syndromes have a poor response"
+Neurology,Part-8,Movement Disorders,"What is meant by ""fluctuating cognition"" in Lewy body dementia?",The patient may be lucid at one time and confused shortly afterward
+Neurology,Part-8,Movement Disorders,What is a characteristic early clinical sign of Lewy body dementia?,Visual hallucinations
+Neurology,Part-8,Movement Disorders,"What is REM Sleep Behavior Disorder (RBD), as seen in Lewy body dementia?","Loss of normal REM sleep paralysis, causing patients to act out their dreams (kicking, shouting, movements)"
+Neurology,Part-8,Movement Disorders,How prominent is parkinsonism in Lewy body dementia?,"Spontaneous parkinsonism occurs with bradykinesia and rigidity, but tremor is less prominent"
+Neurology,Part-8,Movement Disorders,What protein forms Lewy bodies?,Alpha-synuclein
+Neurology,Part-8,Movement Disorders,"List the three synucleinopathies mentioned in the notes, with their key features.","Parkinson's disease (most common); Dementia with Lewy bodies (early dementia + visual hallucinations + Parkinsonism features); Multiple system atrophy (Parkinsonism + autonomic failure, e.g. hypotension, urinary issues)"
+Neurology,Part-8,Movement Disorders,List the seven tauopathies mentioned in the notes.,"Progressive supranuclear palsy, Corticobasal degeneration, Alzheimer's disease, Pick's disease, Chronic traumatic encephalopathy, Pantothenate kinase-associated degeneration, and Subacute sclerosing panencephalitis (a measles complication)"
+Neurology,Part-8,Movement Disorders,"What two general features characterize the ""Parkinson-plus"" syndromes as a group?",Poor response to dopamine and absence of tremors
+Neurology,Part-8,Movement Disorders,What are the key features of Multiple System Atrophy (MSA-C)?,"Autonomic features and the ""hot cross bun"" sign in the pons"
+Neurology,Part-8,Movement Disorders,What are the key features of Lewy body dementia listed among the Parkinson-plus category?,Dementia and visual hallucinations
+Neurology,Part-8,Movement Disorders,What are the key features of Progressive Supranuclear Palsy?,"Impaired downward gaze and the ""hummingbird sign"""
+Neurology,Part-8,Movement Disorders,What are the key features of Corticobasal Degeneration?,Alien limb phenomenon and asymmetric bradykinesia
+Neurology,Part-9,Parkinson Disease Management,What is the drug of choice for Parkinson's disease in elderly patients (age 65 or older)?,Levodopa + Carbidopa (Syndopa)
+Neurology,Part-9,Parkinson Disease Management,Which Parkinson's disease symptoms does Levodopa + Carbidopa treat most effectively?,Bradykinesia and rigidity
+Neurology,Part-9,Parkinson Disease Management,Why is Levodopa + Carbidopa not preferred as first-line in young Parkinson's disease patients?,Due to side effects of motor fluctuations and dyskinesia with long-term use
+Neurology,Part-9,Parkinson Disease Management,What is the drug of choice for Parkinson's disease in young patients?,"Dopamine agonists - Pramipexole, Ropinirole"
+Neurology,Part-9,Parkinson Disease Management,What is the drug of choice for drug-induced parkinsonism or tremor-predominant Parkinson's disease?,Central anticholinergics - Trihexyphenidyl (also known as Benztropine)
+Neurology,Part-9,Parkinson Disease Management,"What is Istradefylline, and what class of drug is it?",A newer Parkinson's disease drug that acts as an adenosine (A2A) receptor antagonist
+Neurology,Part-9,Parkinson Disease Management,"What is the management approach for advanced Parkinson's disease, and what are its targets?","Deep Brain Stimulation (DBS), targeting the subthalamic nucleus (STN) and Globus pallidus interna (GPi)"
+Neurology,Part-9,Parkinson Disease Management,"What is the ""on-off phenomenon"" seen with Syndopa (Levodopa + Carbidopa) therapy?","""On"" periods feature dyskinesia, while ""off"" periods feature akinesia and tremors"
+Neurology,Part-9,Parkinson Disease Management,How is the on-off phenomenon of Syndopa therapy managed?,With COMT inhibitors or MAO-B inhibitors
+Neurology,Part-9,Parkinson Disease Management,"Which class of MAO inhibitors is used in depression, as opposed to Parkinson's disease?",MAO-A inhibitors
+Neurology,Part-9,Parkinson Disease Management,"What is levodopa-induced dyskinesia (LID), and when does it occur?","Dyskinesia that occurs during the ""on"" period of levodopa therapy"
+Neurology,Part-9,Parkinson Disease Management,"How is levodopa-induced dyskinesia treated, and what are the side effects of this treatment?",Treated with Amantadine; side effects include edema and livedo reticularis
+Neurology,Part-9,Parkinson Disease Management,What are the adverse effects associated with dopamine agonist therapy in Parkinson's disease?,"Impulse control disorders - pathological gambling, hypersexuality, and compulsive shopping"
+Neurology,Part-9,Parkinson Disease Management,Why is bromocriptine avoided as a dopamine agonist in Parkinson's disease?,Due to side effects of vasoconstriction and cardiac valvular fibrosis
+Neurology,Part-9,Parkinson Disease Management,Which dopamine agonist for Parkinson's disease is available as a transdermal patch?,Rotigotine
+Neurology,Part-9,Parkinson Disease Management,"What enzyme does carbidopa inhibit, and why is it co-administered with levodopa?","Carbidopa inhibits DOPA decarboxylase, preventing peripheral conversion of levodopa to dopamine so that more levodopa reaches the brain"
+Neurology,Part-9,Parkinson Disease Management,Name two peripheral COMT inhibitors used in Parkinson's disease.,Entacapone and Tolcapone
+Neurology,Part-9,Parkinson Disease Management,Which COMT inhibitor acts centrally as well as peripherally?,Tolcapone
+Neurology,Part-9,Parkinson Disease Management,Name two MAO type-B inhibitors used in Parkinson's disease.,Selegiline and Rasagiline
+Neurology,Part-9,Parkinson Disease Management,Which drug increases dopamine availability and is also used to treat levodopa-induced dyskinesia?,Amantadine
+Neurology,Part-9,Parkinson Disease Management,Name the non-ergot dopamine agonists used in Parkinson's disease.,Pramipexole and Ropinirole
+Neurology,Part-9,Parkinson Disease Management,Name the ergot dopamine agonist used in Parkinson's disease (generally avoided).,Bromocriptine
+Neurology,Part-10,Cerebellum,"What clinical features result from lesions of the vermis, flocculonodular lobe, or anterior lobe of the cerebellum?","Truncal ataxia, staggering gait, and nystagmus; classically seen in alcoholics"
+Neurology,Part-10,Cerebellum,What is the function of the flocculonodular lobe (vestibulocerebellum)?,Maintains balance
+Neurology,Part-10,Cerebellum,What is the function of the anterior lobe (spinocerebellum)?,Coordination
+Neurology,Part-10,Cerebellum,What is the function of the dentate nucleus (lateral hemisphere/cerebro-cerebellum)?,Motor planning
+Neurology,Part-10,Cerebellum,What clinical features result from lesions of the dentate nucleus (lateral cerebellar hemisphere)?,"Dysmetria, intention tremor, and dysdiadochokinesia"
+Neurology,Part-10,Cerebellum,What additional reflex finding can be seen with cerebellar dysfunction?,Pendular knee jerk
+Neurology,Part-10,Cerebellum,"What is the overall function of the vermis, flocculonodular lobe, and anterior lobe together?",They maintain truncal balance
+Neurology,Part-10,Cerebellum,What is the overall function of the lateral hemisphere/cerebro-cerebellum?,Fine movement of the limbs
+Neurology,Part-10,Cerebellum,"List the four deep cerebellar nuclei from lateral to medial, with their mnemonic.","Dentate, Emboliform, Globose, Fastigial (mnemonic: ""dentate, emboliform, globose, fastigial"")"
+Neurology,Part-10,Cerebellum,"Through which deep cerebellar nucleus, tract, and peduncle do most cerebellar efferents pass?","Most efferents pass via the dentate nucleus, through the dentato-rubro-thalamic tract, via the superior cerebellar peduncle"
+Neurology,Part-10,Cerebellum,Which deep cerebellar nucleus is phylogenetically the oldest?,The fastigial nucleus
+Neurology,Part-10,Cerebellum,What tracts pass through the superior cerebellar peduncle?,"The dentato-thalamic and dentato-rubro-thalamic tracts, and the ventral spinocerebellar tract"
+Neurology,Part-10,Cerebellum,"What is notable about the middle cerebellar peduncle, and what does it carry?","It is the largest cerebellar peduncle and is purely afferent, carrying the cortico-ponto-cerebellar tract"
+Neurology,Part-10,Cerebellum,What does the inferior cerebellar peduncle carry?,Everything else - the remaining afferent and efferent tracts not carried by the superior or middle peduncles
+Neurology,Part-10,Cerebellum,What is unique about the cerebellar cortex in terms of neurotransmission?,It is the largest collection of inhibitory fibers in the brain
+Neurology,Part-10,Cerebellum,What mnemonic describes the excitatory relationship between granular cells and mossy fibers in the cerebellar cortex?,"""Granny (granular cells) is excited to meet mausi (mossy fibers)"""
+Neurology,Part-10,Cerebellum,"Which afferent fibers to the cerebellum are climbing fibers, and what mnemonic helps recall this?","Olivocerebellar and paraolivocerebellar tract fibers; mnemonic ""olives (like grapes) are climbers"""
+Neurology,Part-10,Cerebellum,What are the remaining (non-climbing) afferent fibers to the cerebellum called?,"Mossy fibers (mnemonic: ""Mausi will only go to excited granny"")"
+Neurology,Part-10,Cerebellum,What is the final efferent pathway out of the cerebellar cortex?,Purkinje cells project to the deep cerebellar nuclei
+Neurology,Part-11,Approach to Headache,"What headache characteristics (quality, aura, duration) suggest migraine?","Pulsatile quality, aura may be present, and duration of 4-72 hours"
+Neurology,Part-11,Approach to Headache,"What group of unilateral headaches feature recurrent attacks with ipsilateral cranial autonomic symptoms, and what are those symptoms?","Trigeminal autonomic cephalalgias; symptoms include lacrimation, conjunctival injection, periorbital pain, and Horner syndrome"
+Neurology,Part-11,Approach to Headache,What is the typical duration and demographic pattern of cluster headache?,15 minutes to 3 hours in duration; more common in males than females
+Neurology,Part-11,Approach to Headache,What is the acute treatment for cluster headache?,100% high-flow oxygen (12-15 L/min); triptans can also be used
+Neurology,Part-11,Approach to Headache,What is the prophylactic treatment for cluster headache?,Calcium channel blockers (CCBs)
+Neurology,Part-11,Approach to Headache,"What is the typical duration of paroxysmal hemicrania, and what is its diagnostic clue?",2-30 minutes; shows a dramatic response to indomethacin
+Neurology,Part-11,Approach to Headache,"What does SUNCT stand for, and what is its typical duration and pain quality?","Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing; lasts 5-200 seconds with burning, stabbing pain"
+Neurology,Part-11,Approach to Headache,"What is the typical duration, location, and trigger of trigeminal neuralgia?","5-200 seconds, in the V2/V3 trigeminal nerve territory, triggered by chewing or touch"
+Neurology,Part-11,Approach to Headache,"What is the drug of choice for trigeminal neuralgia, and what is done in refractory cases?",Carbamazepine is the drug of choice; refractory cases may require gamma knife surgery
+Neurology,Part-11,Approach to Headache,What are the characteristics of tension-type headache?,A band-like sensation lasting 4-6 hours
+Neurology,Part-11,Approach to Headache,What is the most common type of headache overall?,Tension-type headache
+Neurology,Part-11,Approach to Headache,"What is the drug of choice for acute tension-type headache, and what is used for prophylaxis?",NSAIDs for acute treatment; TCAs (tricyclic antidepressants) for prophylaxis when headaches occur more than 15 days a month
+Neurology,Part-11,Approach to Headache,"What are the characteristic features of idiopathic intracranial hypertension (IIH), and its other name?","Dull, aching headache with papilledema; also known as pseudotumor cerebri"
+Neurology,Part-11,Approach to Headache,"What cranial nerve palsy is characteristic of IIH, and what symptom results?","6th cranial nerve palsy, causing diplopia"
+Neurology,Part-11,Approach to Headache,What is the CSF finding in idiopathic intracranial hypertension?,Raised intracranial pressure with normal CSF composition
+Neurology,Part-11,Approach to Headache,What is the first-line treatment for idiopathic intracranial hypertension?,Weight loss and acetazolamide
+Neurology,Part-11,Approach to Headache,What treatments are used for refractory IIH or when vision is threatened?,Repeated lumbar punctures or optic nerve sheath fenestration
+Neurology,Part-11,Approach to Headache,What characteristic imaging finding is seen in idiopathic intracranial hypertension?,Optic nerve sheath dilation
+Neurology,Part-11,Approach to Headache,"What are the risk factors for idiopathic intracranial hypertension, and what mnemonic covers them?","Tetracycline, Obesity, Vitamin A, and Danazol; mnemonic ""TOAD"""
+Neurology,Part-11,Approach to Headache,What is the first-line acute treatment for migraine?,NSAIDs
+Neurology,Part-11,Approach to Headache,"What is the drug of choice for acute migraine treatment, and what is its mechanism of action?","Triptans, which are 5-HT1B/1D receptor agonists"
+Neurology,Part-11,Approach to Headache,"What are the contraindications to triptan use, and why?","CAD, stroke, and hypertension, due to the risk of vasoconstriction"
+Neurology,Part-11,Approach to Headache,"What drug is used for acute migraine when triptans are contraindicated, and why is it safer?","Lasmiditan, a selective 5-HT1F agonist, which does not cause vasoconstriction and is safe in CAD/stroke"
+Neurology,Part-11,Approach to Headache,What is the drug of choice for migraine prophylaxis?,"Propranolol, a beta-blocker"
+Neurology,Part-11,Approach to Headache,What other drugs are first-line options for migraine prophylaxis besides propranolol?,Topiramate and Valproate
+Neurology,Part-11,Approach to Headache,"What are gepants, name two examples, and what are they used for in migraine?",CGRP antagonists; examples are Rimegepant and Atogepant; useful for acute migraine treatment and also for prophylaxis
+Neurology,Part-11,Approach to Headache,Name four monoclonal antibodies used in migraine treatment.,"Erenumab, Galcanezumab, Fremanezumab, and Eptinezumab"
+Neurology,Part-12,Meningitis,"What are the normal CSF values for WBC count, glucose, protein, and opening pressure?","WBC 0-5 cells/uL, glucose 40-70 mg/dL, protein less than 40 mg/dL, opening pressure 50-180 mm H2O; CSF is normally clear"
+Neurology,Part-12,Meningitis,What are the characteristic CSF findings in bacterial meningitis?,"Turbid CSF with markedly increased WBC count (predominantly neutrophils), markedly decreased glucose, and markedly increased protein and opening pressure"
+Neurology,Part-12,Meningitis,"What are the characteristic CSF findings in tubercular meningitis, and what is its classic gross appearance?","Turbid CSF, classically forming a ""cobweb coagulum"" on standing, with markedly increased WBC count (predominantly lymphocytes), markedly decreased glucose, and markedly increased protein and opening pressure"
+Neurology,Part-12,Meningitis,What are the characteristic CSF findings in viral meningitis (the more common type)?,"Clear CSF with mildly increased lymphocyte count, normal or slightly decreased glucose, mildly increased protein, and normal opening pressure"
+Neurology,Part-12,Meningitis,"What are the characteristic CSF findings in fungal meningitis, and what is a key risk factor?","Clear CSF with mildly increased lymphocyte count, normal or slightly decreased glucose, mildly increased protein, and normal opening pressure; associated with a history of HIV"
+Neurology,Part-12,Meningitis,What are the characteristic CSF findings in Guillain-Barré syndrome?,"Clear CSF with normal WBC count and normal glucose, but markedly increased protein (called albuminocytologic dissociation), with normal opening pressure"
+Neurology,Part-12,Meningitis,What CSF finding is characteristic of multiple sclerosis?,Oligoclonal bands
+Neurology,Part-12,Guillain-Barré Syndrome,What is the most common form of Guillain-Barré syndrome?,AIDP (Acute Inflammatory Demyelinating Polyneuropathy)
+Neurology,Part-12,Guillain-Barré Syndrome,What is the classic clinical presentation of Guillain-Barré syndrome?,Bilateral acute ascending flaccid paralysis with areflexia
+Neurology,Part-12,Guillain-Barré Syndrome,What antecedent infection is classically associated with Guillain-Barré syndrome?,"A prior gastrointestinal infection, especially with Campylobacter jejuni"
+Neurology,Part-12,Guillain-Barré Syndrome,"What is the typical time course of Guillain-Barré syndrome, and what happens if symptoms exceed this duration or relapse?","It follows a monophasic course lasting less than 4 weeks; if it lasts more than 8 weeks, or relapses 3 or more times, it is reclassified as CIDP (chronic inflammatory demyelinating polyneuropathy)"
+Neurology,Part-12,Guillain-Barré Syndrome,What diagnostic criteria are used to diagnose Guillain-Barré syndrome?,The Brighton criteria
+Neurology,Part-12,Guillain-Barré Syndrome,What is the most common cause of death in Guillain-Barré syndrome?,Respiratory paralysis
+Neurology,Part-12,Guillain-Barré Syndrome,"What is the ""20-30-40 rule"" for monitoring respiratory function in Guillain-Barré syndrome?","Vital capacity less than 20 mL/kg, Maximum Inspiratory Pressure (MIP) less than -30 cm H2O, and Maximum Expiratory Pressure (MEP) less than 40 cm H2O - these indicate the need for elective intubation"
+Neurology,Part-12,Guillain-Barré Syndrome,"What is the treatment for Guillain-Barré syndrome, and which treatment is notably NOT used?",IVIG or plasmapheresis; steroids are NOT used
+Neurology,Part-12,Guillain-Barré Syndrome,Which antibody is associated with the acute demyelinating (AIDP) variant of GBS?,Anti-GM1 antibodies
+Neurology,Part-12,Guillain-Barré Syndrome,"What are the axonal variants of GBS, and which antibody is associated with AMAN?","AMAN (Acute Motor Axonal Neuropathy, associated with anti-GD1A antibodies) and AMSAN (Acute Motor and Sensory Axonal Neuropathy)"
+Neurology,Part-12,Guillain-Barré Syndrome,"What is the ophthalmoplegic variant of GBS called, and which antibody is associated with it?","Miller Fisher syndrome, associated with anti-GQ1b antibodies"
+Neurology,Part-12,Guillain-Barré Syndrome,What are the nerve conduction velocity (NCV) findings in demyelinating neuropathy?,Decreased conduction velocity and prolonged latencies
+Neurology,Part-12,Guillain-Barré Syndrome,What are the NCV findings in axonal variant neuropathy?,"Decreased amplitude, with preserved conduction velocity"
+Neurology,Part-12,Charcot-Marie-Tooth Disease,"What is Charcot-Marie-Tooth disease, and how common is it?",The most common inherited peripheral neuropathy
+Neurology,Part-12,Charcot-Marie-Tooth Disease,"What genetic abnormality causes Charcot-Marie-Tooth disease, and what is the resulting mechanism?","Duplication of the PMP22 gene, causing demyelination"
+Neurology,Part-12,Charcot-Marie-Tooth Disease,What are the clinical features of Charcot-Marie-Tooth disease?,"Distal muscle weakness and atrophy, areflexia (due to peripheral nerve involvement), foot drop, and pes cavus (hammer toes)"
+Neurology,Part-12,Charcot-Marie-Tooth Disease,What is the characteristic nerve biopsy finding in Charcot-Marie-Tooth disease?,Onion bulb appearance
+Neurology,Part-12,Charcot-Marie-Tooth Disease,What is the characteristic clinical sign of distal leg muscle wasting in Charcot-Marie-Tooth disease?,The inverted champagne bottle sign
+Neurology,Part-13,Central Demyelinating Disorders,How do myelitis segment length and optic neuritis laterality differ between multiple sclerosis and ADEM/NMO?,MS shows short segment myelitis (less than 3 vertebral bodies) with unilateral optic neuritis; ADEM and NMO show long segment myelitis (more than 3 vertebral bodies) with bilateral optic neuritis
+Neurology,Part-13,Multiple Sclerosis,What age group and sex predominance is typical of multiple sclerosis?,"20-40 years, with female predominance"
+Neurology,Part-13,Multiple Sclerosis,What geographic and vitamin association is seen with multiple sclerosis?,"It is more common away from the equator, and is associated with low vitamin D levels"
+Neurology,Part-13,Multiple Sclerosis,What is the most common clinical subtype of multiple sclerosis?,Relapsing remitting type (RRMS)
+Neurology,Part-13,Multiple Sclerosis,"What is the investigation of choice for multiple sclerosis, and what criteria are used?","Contrast-enhanced (CE) MRI, applying McDonald's criteria"
+Neurology,Part-13,Multiple Sclerosis,What does the McDonald criteria for multiple sclerosis diagnosis require?,Dissemination in time and space
+Neurology,Part-13,Multiple Sclerosis,What are the three components of the Charcot triad in multiple sclerosis?,"Scanning speech, intentional tremors, and nystagmus"
+Neurology,Part-13,Multiple Sclerosis,"What is the Lhermitte sign, and what mnemonic describes it?","A shock-like sensation on flexion of the neck; mnemonic ""Lower-my-neck"""
+Neurology,Part-13,Multiple Sclerosis,What is the Uhthoff phenomenon in multiple sclerosis?,"Exacerbation of symptoms with heat exposure (e.g., a hot shower)"
+Neurology,Part-13,Multiple Sclerosis,What MRI findings are characteristic of multiple sclerosis?,Dawson fingers and periventricular white matter involvement
+Neurology,Part-13,Multiple Sclerosis,What is the treatment for an acute relapse of multiple sclerosis?,Steroids
+Neurology,Part-13,Multiple Sclerosis,What drugs are used for chronic management of relapsing-remitting multiple sclerosis (RRMS)?,"Beta-interferons, Natalizumab, Mitoxantrone, Fingolimod, and Alemtuzumab"
+Neurology,Part-13,Multiple Sclerosis,"What serious side effect is associated with Natalizumab, and what is its mechanism of action?","It blocks alpha4beta1 integrin, and carries the serious side effect risk of PML (progressive multifocal leukoencephalopathy)"
+Neurology,Part-13,Multiple Sclerosis,"Which drug is the only one approved for primary progressive multiple sclerosis (PPMS), and in which trial was it studied?","Ocrelizumab, studied in the ORATORIO trial"
+Neurology,Part-13,ADEM,What age group is typically affected by ADEM (Acute Disseminated Encephalomyelitis)?,"Children, under 20 years of age"
+Neurology,Part-13,ADEM,What preceding event is classically associated with ADEM?,A history of antecedent viral infection
+Neurology,Part-13,ADEM,What is the typical clinical course of ADEM?,Monophasic - it does not recur
+Neurology,Part-13,ADEM,What characteristic MRI finding is seen in ADEM?,"Multiple fluffy, cotton-wool lesions"
+Neurology,Part-13,Neuromyelitis Optica,What age group is typically affected by Neuromyelitis Optica (Devic's disease)?,20-40 years
+Neurology,Part-13,Neuromyelitis Optica,What antibody is associated with Neuromyelitis Optica?,Anti-aquaporin 4 antibodies
+Neurology,Part-13,Neuromyelitis Optica,"What four clinical syndromes are seen in Neuromyelitis Optica, reflecting peri-ventricular involvement?","Area postrema syndrome, diencephalon syndrome, acute myelitis, and bilateral optic neuritis"
+Neurology,Part-13,PML,"What virus causes Progressive Multifocal Leukoencephalopathy (PML), and which cell type does it infect?",JC virus; it infects oligodendrocytes
+Neurology,Part-13,PML,"What type of infection is PML, and what imaging pattern does it typically show?","An opportunistic infection, showing asymmetric white matter involvement"
+Neurology,Part-13,PML,In which patient populations is PML seen?,Patients with HIV/AIDS and patients on Natalizumab therapy
+Neurology,Part-14,Spinal Cord Tracts,What sensations does the anterior spinothalamic tract carry?,"Crude touch, pressure, and itch"
+Neurology,Part-14,Spinal Cord Tracts,What sensations does the lateral spinothalamic tract carry?,Pain and temperature
+Neurology,Part-14,Spinal Cord Tracts,At what level do spinothalamic tract fibers cross to the opposite side?,At the level of the spinal cord
+Neurology,Part-14,Spinal Cord Tracts,What sensations does the dorsal column-medial lemniscus pathway carry?,"Fine touch, vibration, conscious proprioception, and two-point discrimination"
+Neurology,Part-14,Spinal Cord Tracts,At what level do dorsal column fibers cross to the opposite side?,At the level of the medulla
+Neurology,Part-14,Spinal Cord Tracts,Which clinical sign is positive when the dorsal column pathway is defective?,Romberg sign
+Neurology,Part-14,Spinal Cord Tracts,What is the function of the corticospinal tract?,Voluntary motor control
+Neurology,Part-14,Spinal Cord Tracts,What is the function of the corticobulbar tract?,"Voluntary motor control of the face, head, and neck"
+Neurology,Part-14,Spinal Cord Tracts,"In the dorsal column, which fibers are located medially and which laterally, and what mnemonic helps recall this?","Sacral fibers (fasciculus gracilis) lie medially; cervical fibers (fasciculus cuneatus) lie laterally; mnemonic ""Gracious legs"""
+Neurology,Part-14,Spinal Cord Tracts,"In the spinothalamic and corticospinal tracts, which fibers are located medially and which laterally?",Cervical fibers lie medially; sacral fibers lie laterally (the opposite arrangement compared to the dorsal column)
+Neurology,Part-14,Spinal Cord Tracts,What body region does the fasciculus gracilis carry sensation from?,The lower body/legs
+Neurology,Part-14,Spinal Cord Tracts,What body region does the fasciculus cuneatus carry sensation from?,The upper body/arms
+Neurology,Part-14,Spinal Cord Tracts,Where is the intermediate horn (containing sympathetic neurons) located in the spinal cord?,From T1 to L2/L3
+Neurology,Part-14,UMN vs LMN,Which cranial nerves are involved in a pseudobulbar (supranuclear/UMN) palsy?,"Cranial nerves 5, 7, 10, 11, and 12"
+Neurology,Part-14,UMN vs LMN,Which cranial nerves are involved in a bulbar (LMN) palsy?,"Cranial nerves 9, 10, 11, and 12"
+Neurology,Part-14,UMN vs LMN,How does the gag reflex differ between pseudobulbar and bulbar palsy?,Exaggerated in pseudobulbar (UMN) palsy; absent in bulbar (LMN) palsy
+Neurology,Part-14,UMN vs LMN,How does the jaw jerk differ between pseudobulbar and bulbar palsy?,Exaggerated in pseudobulbar (UMN) palsy; absent in bulbar (LMN) palsy
+Neurology,Part-14,UMN vs LMN,How does tongue involvement differ between pseudobulbar and bulbar palsy?,Spasticity occurs in pseudobulbar (UMN) palsy; fasciculations occur in bulbar (LMN) palsy
+Neurology,Part-14,UMN vs LMN,How does speech differ between pseudobulbar and bulbar palsy?,Laboured/spastic speech occurs in pseudobulbar palsy; nasal twang with nasal regurgitation occurs in bulbar palsy
+Neurology,Part-14,UMN vs LMN,How does weakness compare between UMN and LMN lesions?,Weakness is present in both UMN and LMN lesions
+Neurology,Part-14,UMN vs LMN,How do reflexes compare between UMN and LMN lesions?,Reflexes are increased in UMN lesions and decreased in LMN lesions
+Neurology,Part-14,UMN vs LMN,How does muscle tone compare between UMN and LMN lesions?,Tone is spastic in UMN lesions and flaccid in LMN lesions
+Neurology,Part-14,UMN vs LMN,How does the Babinski sign compare between UMN and LMN lesions?,Babinski sign is positive in UMN lesions and negative in LMN lesions
+Neurology,Part-14,UMN vs LMN,How do atrophy and fasciculations compare between UMN and LMN lesions?,Atrophy and fasciculations are absent in UMN lesions and present in LMN lesions
+Neurology,Part-14,UMN vs LMN,What does a positive Babinski sign (extensor plantar response) indicate?,An upper motor neuron (UMN) lesion
+Neurology,Part-14,UMN vs LMN,What is the method for eliciting the Oppenheim sign (a Babinski response variant)?,Firmly stroking down the medial tibia
+Neurology,Part-14,UMN vs LMN,What is the method for eliciting the Chaddock sign (a Babinski response variant)?,Stroking around the lateral malleolus
+Neurology,Part-14,UMN vs LMN,What is the method for eliciting the Gordon sign (a Babinski response variant)?,Squeezing the calf muscles
+Neurology,Part-15,Spinal Cord Lesions,"What is preserved in an anterior spinal artery infarct, and why?","The dorsal columns (fine touch and proprioception) are preserved, since the anterior spinal artery does not supply them"
+Neurology,Part-15,Spinal Cord Lesions,In what clinical setting is anterior spinal artery infarct classically seen?,"Post aortic procedures, such as EVAR (endovascular aneurysm repair)"
+Neurology,Part-15,Spinal Cord Lesions,What is the underlying cause of tabes dorsalis?,Tertiary syphilis
+Neurology,Part-15,Spinal Cord Lesions,What clinical features are seen in tabes dorsalis?,"Lancinating pain, positive Romberg sign, and Argyll Robertson pupil (with the accommodation reflex present)"
+Neurology,Part-15,Spinal Cord Lesions,Which spinal cord tracts are involved in tabes dorsalis?,Both dorsal columns
+Neurology,Part-15,Spinal Cord Lesions,"What is syringomyelia, and what is its characteristic distribution of sensory loss?","Dilation of the central canal of the spinal cord, causing a cape-like distribution of sensory loss over the shoulders and arms"
+Neurology,Part-15,Spinal Cord Lesions,Which tract is always spared in syringomyelia?,The dorsal column
+Neurology,Part-15,Spinal Cord Lesions,What congenital malformation is syringomyelia associated with?,Chiari I malformation
+Neurology,Part-15,Spinal Cord Lesions,What are the three causes of subacute combined degeneration (SACD)?,"Vitamin B12 deficiency, ileal disease/resection, and nitrous oxide (N2O) exposure (e.g., from old operating theater use)"
+Neurology,Part-15,Spinal Cord Lesions,What are the clinical features of subacute combined degeneration (SACD)?,Bilateral UMN signs plus dorsal column involvement
+Neurology,Part-15,Spinal Cord Lesions,"What is the underlying pathology of poliomyelitis, and what is the pattern of destruction?",Asymmetric destruction of anterior horn cells
+Neurology,Part-15,Spinal Cord Lesions,What are the clinical features of poliomyelitis?,"A viral prodrome (e.g., diarrhea) followed by bilateral flaccid (LMN) paralysis"
+Neurology,Part-15,Spinal Cord Lesions,What is the underlying genetic cause of spinal muscular atrophy (Werdnig-Hoffmann disease)?,A defect in the SMN gene
+Neurology,Part-15,Spinal Cord Lesions,"What is the clinical presentation of spinal muscular atrophy, and what type of motor neuron disorder is it?","A ""floppy baby"" presentation, with symmetric anterior horn cell loss; it is a pure LMN disorder"
+Neurology,Part-15,Spinal Cord Lesions,What treatments are available for spinal muscular atrophy?,"Nusinersen, Onasemnogene (Zolgensma), and Risdiplam"
+Neurology,Part-15,Spinal Cord Lesions,What is another name for amyotrophic lateral sclerosis (ALS)?,Lou Gehrig's disease
+Neurology,Part-15,Spinal Cord Lesions,"What clinical features characterize ALS, and what is notably spared?","Both UMN and LMN signs are present; sensory loss, bowel/bladder involvement, and cognitive decline are notably absent"
+Neurology,Part-15,Spinal Cord Lesions,What pathological findings are characteristic of ALS?,Bunina bodies and TDP-43 inclusions
+Neurology,Part-15,Spinal Cord Lesions,What treatments are available for ALS?,"Riluzole, Edaravone, Sodium phenylbutyrate-taurursodiol, and Tofersen"
+Neurology,Part-15,Spinal Cord Lesions,"What sensory deficit occurs contralateral to a Brown-Séquard (hemicord) lesion, and why?","Loss of pain and temperature sensation, because the spinothalamic tract (already crossed) is affected contralaterally"
+Neurology,Part-15,Spinal Cord Lesions,What findings occur ipsilateral to and below the level of a Brown-Séquard lesion?,UMN signs
+Neurology,Part-15,Spinal Cord Lesions,What findings occur ipsilateral to and at the level of a Brown-Séquard lesion?,LMN signs and loss of all sensations
+Neurology,Part-15,Spinal Cord Lesions,What is the genetic basis of Friedreich ataxia?,"A GAA repeat expansion on chromosome 9, inherited in an autosomal recessive (AR) pattern"
+Neurology,Part-15,Spinal Cord Lesions,Which tracts are involved in Friedreich ataxia?,The spinocerebellar tracts
+Neurology,Part-15,Spinal Cord Lesions,What nutritional deficiency can Friedreich ataxia clinically mimic?,Vitamin E deficiency
+Neurology,Part-15,Spinal Cord Lesions,What systemic features are associated with Friedreich ataxia?,"Hypertrophic cardiomyopathy, diabetes mellitus, and kyphoscoliosis"
+Neurology,Part-16,Myasthenia Gravis,What is the classic weakness pattern seen in myasthenia gravis?,"Ptosis and diplopia starting with the eyelids, worsening in the evening, and improving with rest"
+Neurology,Part-16,Myasthenia Gravis,What functions are notably NOT involved in myasthenia gravis?,"Sensory function, autonomic function, deep tendon reflexes (DTRs), bowel/bladder function, and pupillary function"
+Neurology,Part-16,Myasthenia Gravis,"What bedside test can support a diagnosis of myasthenia gravis, and what is the expected finding?",The ice-pack test; it shows improvement of symptoms with cooling
+Neurology,Part-16,Myasthenia Gravis,What are the two clinical types of myasthenia gravis?,Ocular and generalized
+Neurology,Part-16,Myasthenia Gravis,What is the most common antibody found in myasthenia gravis?,Anti-acetylcholine receptor (anti-AChR) antibodies
+Neurology,Part-16,Myasthenia Gravis,"If anti-AChR antibodies are negative in myasthenia gravis, which antibody should be tested, and what is its frequency in generalized MG?",Anti-MuSK antibody; found in 40% of seronegative cases of generalized myasthenia gravis
+Neurology,Part-16,Myasthenia Gravis,What is the drug of choice for treating myasthenia gravis?,Pyridostigmine
+Neurology,Part-16,Myasthenia Gravis,How is myasthenic crisis managed?,With IVIG or plasmapheresis
+Neurology,Part-16,Myasthenia Gravis,What is a newer drug used in the treatment of myasthenia gravis?,Rozanolixizumab
+Neurology,Part-16,Myasthenia Gravis,Which classes of drugs should be avoided in patients with myasthenia gravis?,"Beta-blockers, calcium channel blockers (CCBs), fluoroquinolones, beta-lactams, and aminoglycosides"
+Neurology,Part-16,Myasthenia Gravis,"What is a key differential diagnosis for myasthenia gravis, and what are its clinical features?","Critical illness myopathy/neuropathy, featuring proximal weakness and axonal degeneration"
+Neurology,Part-16,Myasthenia Gravis vs LEMS,Where is the site of the pathological defect in myasthenia gravis?,"Postsynaptic, at the acetylcholine receptors"
+Neurology,Part-16,Myasthenia Gravis vs LEMS,Where is the site of the pathological defect in Lambert-Eaton myasthenic syndrome (LEMS)?,"Presynaptic, at the voltage-gated calcium channels"
+Neurology,Part-16,Myasthenia Gravis vs LEMS,What antibodies are typically found in myasthenia gravis?,Anti-AChR and anti-MuSK antibodies
+Neurology,Part-16,Myasthenia Gravis vs LEMS,What antibodies are typically found in Lambert-Eaton myasthenic syndrome?,Antibodies against voltage-gated calcium channels
+Neurology,Part-16,Myasthenia Gravis vs LEMS,What is the repetitive nerve stimulation (RNS) response pattern in myasthenia gravis?,A decremental response
+Neurology,Part-16,Myasthenia Gravis vs LEMS,What is the repetitive nerve stimulation (RNS) response pattern in Lambert-Eaton myasthenic syndrome?,An incremental response
+Neurology,Part-16,Myasthenia Gravis vs LEMS,"What tumor is myasthenia gravis classically associated with, and what workup follows?",Thymoma; the thymus should be evaluated
+Neurology,Part-16,Myasthenia Gravis vs LEMS,What malignancy is Lambert-Eaton myasthenic syndrome classically associated with?,Small cell lung carcinoma
+Neurology,Part-16,Myasthenia Gravis vs LEMS,How does weakness behave with repeated muscle use in myasthenia gravis versus LEMS?,"In myasthenia gravis, weakness worsens with use; in LEMS, weakness improves with use"
+Neurology,Part-17,Aphasia,"Which cerebral hemisphere controls speech/language, and in whom is this typical?","The dominant hemisphere, usually the left hemisphere in right-handed individuals"
+Neurology,Part-17,Aphasia,What are the three brain areas responsible for speech/language function?,"Broca's area, Wernicke's area, and the arcuate fasciculus (which connects the two)"
+Neurology,Part-17,Aphasia,"What Brodmann area, gyrus, and MCA branch correspond to Broca's area?","Brodmann area 44, located in the inferior frontal gyrus, supplied by the superior branch of the MCA"
+Neurology,Part-17,Aphasia,What is the characteristic speech pattern in Broca's aphasia?,"""Broken speech"", but comprehension is preserved"
+Neurology,Part-17,Aphasia,"What Brodmann area, gyrus, and MCA branch correspond to Wernicke's area?","Brodmann area 22, located in the superior temporal gyrus, supplied by the inferior branch of the MCA"
+Neurology,Part-17,Aphasia,What is the characteristic speech pattern in Wernicke's aphasia?,"Fluent but non-comprehensible (""wacky"") speech, with impaired understanding"
+Neurology,Part-17,Aphasia,"What is conduction aphasia, and which structure is involved?","An aphasia in which the patient cannot repeat words, due to involvement of the arcuate fasciculus"
+Neurology,Part-17,Aphasia,"What happens to repetition ability when Broca's area, Wernicke's area, or the arcuate fasciculus is damaged?",Repetition becomes impaired
+Neurology,Part-17,Aphasia,"What are transcortical aphasias, and how do they differ from Broca's/Wernicke's/conduction aphasia?","Aphasias in which repetition is preserved, unlike the other three types where repetition is impaired"
+Neurology,Part-17,Aphasia,What defines transcortical motor aphasia?,Reduced fluency with intact repetition
+Neurology,Part-17,Aphasia,What defines transcortical sensory aphasia?,Reduced comprehension with intact repetition
+Neurology,Part-17,Brodmann Areas,Which Brodmann area corresponds to the primary motor cortex?,Area 4
+Neurology,Part-17,Brodmann Areas,"Which Brodmann area corresponds to the frontal eye field, and what is its function?",Area 8; it controls voluntary conjugate gaze (saccades)
+Neurology,Part-17,Brodmann Areas,In which direction do the eyes deviate with a frontal eye field (FEF) lesion?,Towards the side of the lesion
+Neurology,Part-17,Brodmann Areas,In which direction do the eyes deviate with a PPRF (paramedian pontine reticular formation) lesion?,Away from the side of the lesion
+Neurology,Part-17,Brodmann Areas,Which Brodmann areas correspond to the primary somatosensory cortex?,"Areas 3, 1, and 2"
+Neurology,Part-17,Brodmann Areas,Which Brodmann area corresponds to the vestibular cortex?,Area 2
+Neurology,Part-17,Brodmann Areas,Which Brodmann areas correspond to the somatosensory association cortex?,"Areas 5, 7, and 40"
+Neurology,Part-17,Brodmann Areas,"Which Brodmann areas correspond to the visual association cortex, and what syndrome results from a dominant hemisphere lesion there?","Areas 39, 19, and 18; a dominant hemisphere lesion causes Gerstmann syndrome"
+Neurology,Part-17,Brodmann Areas,What is the classic tetrad of Gerstmann syndrome?,"Agraphia, acalculia, finger agnosia, and right-left disorientation"
+Neurology,Part-17,Brodmann Areas,"Which Brodmann area corresponds to the primary visual cortex, and what mnemonic helps recall it?","Area 17; mnemonic ""we start seeing people at 17"""
+Neurology,Part-17,Brodmann Areas,Which Brodmann areas correspond to the prefrontal cortex?,"Areas 9, 10, 11, and 12"
+Neurology,Part-17,Brodmann Areas,Which Brodmann areas correspond to Broca's area?,Areas 44 and 45
+Neurology,Part-17,Brodmann Areas,"Which Brodmann areas correspond to the primary auditory cortex, and what is another name for this region?",Areas 41 and 42; also known as Heschl's gyrus
+Neurology,Part-17,Cortical Plasticity,State the Law of Projection regarding sensation.,"Sensation is always perceived at the site of the receptor, regardless of where along the sensory pathway the stimulus actually occurs"
+Neurology,Part-17,Cortical Plasticity,Give a clinical example illustrating the Law of Projection.,"After amputation, stimulating the remaining nerve stump causes the patient to feel pain in the missing limb"
+Neurology,Part-17,Cortical Plasticity,What is cortical plasticity (S1 reorganization)?,The reorganization of the primary somatosensory cortex that occurs after a loss or change in sensory input
+Neurology,Part-17,Cortical Plasticity,Give an example of cortical plasticity after hand amputation.,"The face representation area expands into the area that previously represented the hand, so touching the face produces sensation felt in the phantom hand"
+Neurology,Part-17,Cortical Plasticity,What two mechanisms combine to produce phantom limb pain?,The Law of Projection (pain felt in the missing limb) combined with cortical plasticity (abnormal remapping that sustains the sensation)
+Neurology,Part-18,Stroke Approach,"How is stroke defined, and what two categories does it include?","An acute focal neurological deficit of vascular origin, including ischemic stroke and hemorrhagic stroke"
+Neurology,Part-18,Stroke Approach,What does the FAST mnemonic stand for in rapid stroke recognition?,"Face (one-sided drooping), Arm (weakness), Speech (slurred/aphasia), Time (call emergency immediately) - ""Time is brain"""
+Neurology,Part-18,Stroke Approach,What is a TIA (Transient Ischemic Attack)?,"A brief, reversible neurological deficit with no infarction seen on MRI (normal DWI)"
+Neurology,Part-18,Stroke Approach,What score is used to assess the risk of future stroke after a TIA?,The ABCD2 score
+Neurology,Part-18,Stroke Approach,What are the components and point values of the ABCD2 score?,Age >=60 years (1 point); BP >=140/90 mmHg (1 point); speech disturbance only (1 point) or unilateral weakness (2 points); symptom duration 10-59 minutes (1 point) or >=60 minutes (2 points); diabetes mellitus (1 point)
+Neurology,Part-18,Stroke Approach,"What is the initial imaging test in suspected stroke, and what is its purpose?","NCCT (non-contrast CT) head, to rule out hemorrhage"
+Neurology,Part-18,Stroke Approach,"What is the most common location of hemorrhagic stroke, and what condition is it associated with?",The putamen; associated with hypertension
+Neurology,Part-18,Stroke Approach,What clinical sign suggests internal capsule involvement in hemorrhagic stroke?,Dense hemiplegia
+Neurology,Part-18,Stroke Approach,"What is the treatment for hemorrhagic stroke, and what caution should be observed?","Blood pressure control, while avoiding rapid overcorrection since this may reduce cerebral perfusion"
+Neurology,Part-18,Stroke Approach,"What is the investigation of choice for ischemic stroke, and what does it show?","MRI with DWI (diffusion-weighted imaging), which shows diffusion restriction"
+Neurology,Part-18,Stroke Approach,What does diffusion restriction on MRI in ischemic stroke reflect pathophysiologically?,"Na+/K+ pump failure, causing cytotoxic edema"
+Neurology,Part-18,Stroke Management,What is the treatment for ischemic stroke within the 4.5-hour window period?,Thrombolysis with IV Alteplase
+Neurology,Part-18,Stroke Management,What is the dosing regimen for IV Alteplase used in thrombolysis?,"0.9 mg/kg, given as a 10% bolus followed by a 90% infusion over 1 hour"
+Neurology,Part-18,Stroke Management,What blood pressure level is a contraindication to thrombolysis?,BP greater than 185/110 mmHg
+Neurology,Part-18,Stroke Management,"What are the time-based contraindications to thrombolysis related to recent surgery, GI bleed, and myocardial infarction?","Major surgery within 2 weeks, GI bleed within 3 weeks, and recent myocardial infarction (along with recent head injury/ICH and bleeding diathesis)"
+Neurology,Part-18,Stroke Management,"What NCCT finding is a relative contraindication to thrombolysis, and why?","Greater than 1/3 MCA territory infarct on NCCT, due to a higher risk of hemorrhagic transformation"
+Neurology,Part-18,Stroke Management,What ASPECTS score indicates a larger infarct size and higher risk with thrombolysis?,An ASPECTS score of 4 or less (a lower score indicates a larger infarct size)
+Neurology,Part-18,Stroke Management,What is the management approach for ischemic stroke presenting beyond the 4.5-hour window?,CT angiography plus CT perfusion imaging
+Neurology,Part-18,Stroke Management,Under what two conditions is mechanical thrombectomy performed for ischemic stroke beyond the window period?,"Large vessel occlusion, or a viable penumbra (reduced blood flow but normal blood volume due to dilated arteries)"
+Neurology,Part-19,Vascular Anatomy of Brain,"Does the middle cerebral artery participate in the Circle of Willis, and what structure does it enter?","No, it does not participate in the Circle of Willis; it enters the lateral sulcus"
+Neurology,Part-19,Vascular Anatomy of Brain,What structures does the anterior choroidal artery supply?,The internal capsule and basal ganglia
+Neurology,Part-19,Vascular Anatomy of Brain,"What is the origin of the posterior communicating artery, and what circulation is it part of?","It is a direct branch of the ICA (internal carotid artery), and is part of the anterior circulation"
+Neurology,Part-19,Vascular Anatomy of Brain,Between which two arteries does the 3rd cranial nerve run?,Between the posterior cerebral artery (PCA) and the superior cerebellar artery
+Neurology,Part-19,Vascular Anatomy of Brain,Through which anatomical canal does the labyrinthine (internal auditory) artery run?,The internal acoustic meatus
+Neurology,Part-19,Vascular Anatomy of Brain,What is the most common location for a Berry (saccular) aneurysm?,The junction of the ACA and ACOM (anterior communicating artery)
+Neurology,Part-19,Vascular Anatomy of Brain,What visual field defect can result from an ACA/ACOM aneurysm compressing the optic chiasma?,Bitemporal hemianopia (BTHA)
+Neurology,Part-19,Vascular Anatomy of Brain,Which Circle of Willis aneurysm locations are most likely to rupture?,Aneurysms at the PCA and PCOM (posterior communicating artery)
+Neurology,Part-19,Vascular Anatomy of Brain,"What cranial nerve palsy results from a PCA/PCOM aneurysm, and what eye finding does it cause?","3rd cranial nerve palsy, causing an ipsilateral ""down and out"" eye"
+Neurology,Part-19,Dural Venous Sinuses,"What complication results from superior sagittal sinus (SSS) thrombosis, and by what mechanism?","Communicating hydrocephalus, due to reduced CSF absorption at the arachnoid granulations"
+Neurology,Part-19,Dural Venous Sinuses,"How does a choroid plexus papilloma cause hydrocephalus, in contrast to SSS thrombosis?","It causes hydrocephalus via CSF overproduction, rather than by obstruction"
+Neurology,Part-19,Dural Venous Sinuses,"What does the inferior sagittal sinus join, and what structure does it form?",It joins the vein of Galen to form the straight sinus
+Neurology,Part-19,Dural Venous Sinuses,What two structures combine to form the vein of Galen (great cerebral vein)?,The internal cerebral vein and the vein of Rosenthal
+Neurology,Part-19,Dural Venous Sinuses,"What four sinuses meet at the confluence of sinuses, and what mnemonic describes them?","Transverse sinus, Occipital sinus, Straight sinus, and Superior sagittal sinus; mnemonic ""TOSS"""
+Neurology,Part-19,Dural Venous Sinuses,What is the venous drainage pathway following the confluence of sinuses?,Confluence of sinuses -> transverse sinus -> sigmoid sinus -> internal jugular vein (IJV)
+Neurology,Part-19,Dural Venous Sinuses,What imaging sign on CT venography indicates superior sagittal sinus thrombosis?,The empty delta sign
+Neurology,Part-20,Stroke Localisation,What are the clinical features of an Anterior Cerebral Artery (ACA) stroke?,"Contralateral weakness and sensory loss with the lower limb more affected than the upper limb, urinary incontinence, and behavioral/personality changes (due to frontal lobe involvement)"
+Neurology,Part-20,Stroke Localisation,What are the clinical features of a Middle Cerebral Artery (MCA) stroke?,Contralateral weakness and sensory loss affecting the face and upper limb
+Neurology,Part-20,Stroke Localisation,What deficit occurs with dominant parietal lobe involvement in an MCA stroke?,Aphasia
+Neurology,Part-20,Stroke Localisation,What deficit occurs with non-dominant parietal lobe involvement in an MCA stroke?,Hemi-spatial neglect
+Neurology,Part-20,Stroke Localisation,What are the clinical features of a Posterior Cerebral Artery (PCA) stroke?,"Contralateral homonymous hemianopia, Anton syndrome (denial of blindness), and alexia without agraphia (in the dominant hemisphere)"
+Neurology,Part-20,Stroke Localisation,What is Anton syndrome?,"Denial of blindness, seen in PCA stroke"
+Neurology,Part-20,Stroke Localisation,"What is alexia without agraphia, and in which hemisphere does the causative lesion occur?",The ability to write but not read; occurs with a lesion in the dominant hemisphere in PCA stroke
+Neurology,Part-20,Stroke Localisation,What is the clinical presentation of a thalamic stroke?,"Contralateral hemisensory loss, followed by burning, severe pain"
+Neurology,Part-20,Stroke Localisation,What is Dejerine-Roussy syndrome?,The thalamic pain syndrome seen after thalamic stroke
+Neurology,Part-20,Stroke Localisation,"What is stereognosis, and which lobe's function does it test?",The ability to identify an object by touching it; it tests parietal lobe function
+Neurology,Part-20,Stroke Localisation,"What is graphesthesia, and which lobe's function does it test?",The ability to recognize tracings drawn on the skin; it tests parietal lobe function
+Neurology,Part-20,Stroke Localisation,"What is simultagnosia, and where is the responsible lesion located?",Inability to perceive multiple objects together; the lesion is located in the parieto-occipital region
+Neurology,Part-20,Stroke Localisation,"What is prosopagnosia, and where is the responsible lesion located?",Inability to perceive known faces; the lesion is located in the temporo-occipital region
+Neurology,Part-21,Brainstem Stroke Syndromes,"In the ""multiples of 12"" scheme, which cranial nerve numbers correspond to the midbrain, pons, and medulla?","Midbrain: cranial nerves 3 and 4; Pons: cranial nerves 5,6,7,8; Medulla: cranial nerves 9,10,11,12"
+Neurology,Part-21,Brainstem Stroke Syndromes,"What structures make up the ""M"" (medial) group affected in brainstem strokes?","The MLF (causing INO), the corticospinal tract (causing motor weakness), and the medial lemniscus"
+Neurology,Part-21,Brainstem Stroke Syndromes,"What structures make up the ""S"" (lateral) group affected in brainstem strokes?","Sensory fibers (spinothalamic tract), the spinocerebellar tract, and the sympathetic column (causing Horner's syndrome)"
+Neurology,Part-21,Brainstem Stroke Syndromes,"Which cranial nerve is involved in midbrain stroke syndromes, and what pupillary finding results?","The 3rd cranial nerve; results in an ipsilateral ""down and out"" pupil"
+Neurology,Part-21,Brainstem Stroke Syndromes,What clinical feature results from red nucleus involvement in a midbrain stroke?,Hyperkinesia
+Neurology,Part-21,Brainstem Stroke Syndromes,What clinical feature results from superior cerebellar peduncle involvement in a midbrain stroke?,Ataxia
+Neurology,Part-21,Brainstem Stroke Syndromes,With which major artery territory are midbrain stroke syndromes classically associated?,The posterior cerebral artery (PCA)
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Weber syndrome, and which structure alone is involved?","Contralateral hemiplegia plus an ipsilateral ""down and out"" pupil; involves only the 3rd cranial nerve"
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Benedikt syndrome, and what mnemonic helps recall it?","Contralateral hyperkinesis, chorea, and tremor, plus an ipsilateral ""down and out"" pupil; involves the 3rd cranial nerve plus the red nucleus; mnemonic ""Redhead"""
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Nothnagel syndrome, and what mnemonic helps recall it?","Ipsilateral cerebellar ataxia plus an ipsilateral ""down and out"" pupil; involves the 3rd cranial nerve plus ataxia; mnemonic ""SCP anterior: north"""
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Claude syndrome, and what mnemonic helps recall it?","Contralateral hyperkinesis, chorea, and tremor, plus ataxia, plus an ipsilateral ""down and out"" pupil; involves the 3rd cranial nerve plus red nucleus plus hemi-ataxia; mnemonic ""C = A+B"""
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Parinaud syndrome, and in what tumor is it classically seen?",Upward gaze palsy plus Collier sign (eyelid retraction); classically seen in pinealoblastoma
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Millard-Gubler syndrome, and what mnemonic helps recall it?","Contralateral hemiplegia plus ipsilateral CN VI and CN VII palsy; involves the 6th and 7th cranial nerves; mnemonic ""count letters"""
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Foville syndrome, and what mnemonic helps recall it?","Contralateral hemiplegia and hemisensory loss, plus ipsilateral CN VI, VII, and VIII palsy, plus horizontal gaze palsy (due to PPRF involvement); mnemonic ""fovALL"""
+Neurology,Part-21,Brainstem Stroke Syndromes,"What are the clinical features of Raymond syndrome, and what mnemonic helps recall it?","Contralateral hemiplegia plus ipsilateral CN VI palsy only; mnemonic ""6th common like Raymond"""
+Neurology,Part-21,Brainstem Stroke Syndromes,"What is another name for medial medullary syndrome, and what is its classic presentation?",Dejerine syndrome (not to be confused with Dejerine-Roussy syndrome); presents with contralateral hemiplegia plus ipsilateral tongue deviation
+Neurology,Part-21,Brainstem Stroke Syndromes,"Which cranial nerve, when affected, causes the ipsilateral tongue deviation of medial medullary syndrome?",The 12th cranial nerve (hypoglossal nerve)
+Neurology,Part-21,Brainstem Stroke Syndromes,Which artery is most often responsible for medial medullary syndrome?,The anterior spinal artery (more often than the vertebral artery)
+Neurology,Part-21,Brainstem Stroke Syndromes,"What is another name for lateral medullary syndrome, and which arteries are typically involved?",Wallenberg syndrome; involves the vertebral artery or PICA (posterior inferior cerebellar artery)
+Neurology,Part-21,Brainstem Stroke Syndromes,What are the clinical features of lateral medullary syndrome (Wallenberg syndrome)?,"Loss of pain and temperature sensation from the contralateral body and ipsilateral face, plus Horner syndrome, dysphagia, hoarseness, and loss of the gag reflex"
+Neurology,Part-21,Brainstem Stroke Syndromes,What 10th cranial nerve symptoms are seen in lateral medullary syndrome?,"Dysphagia, hoarseness, and loss of the gag reflex"
+Neurology,Part-22,Seizures,What defines a focal (partial) seizure?,A seizure arising from a localized area in one cerebral hemisphere
+Neurology,Part-22,Seizures,"What is the current terminology for what was previously called a ""simple partial"" seizure?",Focal aware seizure
+Neurology,Part-22,Seizures,"What is the current terminology for what was previously called a ""complex partial"" seizure?",Focal impaired awareness seizure
+Neurology,Part-22,Seizures,What is the most common cause of focal seizures with impaired awareness?,Mesial temporal lobe sclerosis
+Neurology,Part-22,Seizures,What is the underlying pathology of mesial temporal lobe sclerosis?,Hippocampal sclerosis
+Neurology,Part-22,Seizures,What is the investigation of choice for mesial temporal lobe sclerosis?,MRI brain
+Neurology,Part-22,Seizures,What is the treatment of choice for drug-resistant mesial temporal lobe sclerosis?,Temporal lobectomy
+Neurology,Part-22,Seizures,What is Jacksonian march?,A simple partial (focal) seizure that spreads from distal to proximal muscle groups
+Neurology,Part-22,Seizures,What is Todd paralysis?,Transient post-ictal focal weakness
+Neurology,Part-22,Seizures,"What is the drug of choice for focal seizures, and what is a key risk of this drug?",Carbamazepine; carries a risk of SIADH
+Neurology,Part-22,Seizures,"What is the drug of choice for focal seizures in elderly patients, and why?","Lamotrigine, because it is better tolerated in the elderly (though it carries a risk of SJS)"
+Neurology,Part-22,Status Epilepticus,How is status epilepticus defined?,"Seizures lasting 5 minutes or more, OR recurrent seizures without regaining consciousness between them"
+Neurology,Part-22,Status Epilepticus,What is the initial management step for status epilepticus?,ABC - airway protection and placing the patient in the recovery position
+Neurology,Part-22,Status Epilepticus,"What is the first-line drug class for status epilepticus, and which agents are used?","IV benzodiazepines - Lorazepam, Diazepam, or Midazolam"
+Neurology,Part-22,Status Epilepticus,"What is the preferred second-line agent for status epilepticus, and why is it preferred over phenytoin?",Fosphenytoin; preferred because it can be given IV/IM and can be mixed with dextrose
+Neurology,Part-22,Status Epilepticus,What are the alternative second-line agents for status epilepticus besides fosphenytoin?,Valproate or Levetiracetam
+Neurology,Part-22,Status Epilepticus,What is the criterion for stopping antiepileptic drugs (AEDs)?,The patient should be seizure-free for at least 2 years
+Neurology,Part-22,Status Epilepticus,List the poor prognostic factors for seizure recurrence after stopping AEDs.,"Age 16 years or older, requiring more than one AED, seizures occurring after starting AED therapy, history of generalized tonic-clonic seizures, history of myoclonic seizures/JME, and abnormal EEG in the prior year"
+Neurology,Part-22,Epilepsy Syndromes,What are the clinical features of West Syndrome?,An infant with global developmental delay and salaam spells
+Neurology,Part-22,Epilepsy Syndromes,What EEG finding is characteristic of West Syndrome?,"Hypsarrhythmia, described as ""mountain waves"""
+Neurology,Part-22,Epilepsy Syndromes,"What is the drug of choice for West Syndrome, and what alternative is used when it is associated with tuberous sclerosis?",ACTH is the drug of choice; Vigabatrin is used when West Syndrome is associated with tuberous sclerosis
+Neurology,Part-22,Epilepsy Syndromes,What are the clinical features of absence seizures?,"Transient loss of consciousness lasting a few seconds, with no loss of postural control"
+Neurology,Part-22,Epilepsy Syndromes,What EEG finding is characteristic of absence seizures?,A 3 Hz spike and slow wave pattern
+Neurology,Part-22,Epilepsy Syndromes,"What is the drug of choice for typical absence seizures, and what is used for atypical absence seizures?",Ethosuximide for typical absence seizures; Valproate for atypical absence seizures
+Neurology,Part-22,Epilepsy Syndromes,"In what age group is Juvenile Myoclonic Epilepsy seen, and what is its classic clinical presentation?","Adolescents; presents with dropping things or falling in the early morning, described as being ""clumsy"""
+Neurology,Part-22,Epilepsy Syndromes,What EEG finding is characteristic of Juvenile Myoclonic Epilepsy?,A 3-6 Hz generalized polyspike and wave pattern
+Neurology,Part-22,Epilepsy Syndromes,What genes are associated with Juvenile Myoclonic Epilepsy?,GABRA1 and CLCN2
+Neurology,Part-22,Epilepsy Syndromes,What is the drug of choice for Juvenile Myoclonic Epilepsy?,Valproate
+Neurology,Part-22,Epilepsy Syndromes,What are the clinical features of Lennox-Gastaut Syndrome?,Multifocal seizures and low IQ
+Neurology,Part-22,Epilepsy Syndromes,What EEG finding is characteristic of Lennox-Gastaut Syndrome?,A 1-2 Hz spike and wave pattern
+Neurology,Part-22,Epilepsy Syndromes,"What is the drug of choice for Lennox-Gastaut Syndrome, and what is notable about treatment response?","Valproate, though the condition is often refractory to treatment"
+Neurology,Part-22,Epilepsy Syndromes,Which benzodiazepine is approved for use in Lennox-Gastaut Syndrome?,Clobazam
+Neurology,Part-22,Epilepsy Syndromes,"What gene defect causes GLUT1 deficiency syndrome (SLC2A1), and what is the underlying mechanism?","Defective GLUT1 transporter, causing decreased glucose transport to the brain"
+Neurology,Part-22,Epilepsy Syndromes,What are the clinical features of GLUT1 deficiency syndrome?,Seizures plus developmental delay
+Neurology,Part-22,Epilepsy Syndromes,"What is the treatment for GLUT1 deficiency syndrome, and why is it effective?","A ketogenic diet, which provides ketones as an alternative brain fuel"
+Neurology,Part-22,Epilepsy Syndromes,What gene mutation causes Dravet syndrome (SCN1A)?,A sodium channel gene mutation
+Neurology,Part-22,Epilepsy Syndromes,"What is the treatment for Dravet syndrome, and what drug class must be avoided?",Valproate; sodium channel blockers (such as carbamazepine and phenytoin) must be avoided
+Neurology,Part-23,Anti-Epileptic Drugs,What effect do benzodiazepines have on chloride channels as their antiepileptic mechanism?,They increase the frequency of chloride (Cl-) channel opening
+Neurology,Part-23,Anti-Epileptic Drugs,"What effect do barbiturates (e.g., Phenobarbital) have on chloride channels, and what mnemonic captures this?","They increase the duration of chloride (Cl-) channel opening; mnemonic ""barbidurates"""
+Neurology,Part-23,Anti-Epileptic Drugs,"Why are benzodiazepines and barbiturates not usually preferred as first-line, long-term antiepileptics despite being GABA agonists?",Because they carry a high risk of tolerance and dependence
+Neurology,Part-23,Anti-Epileptic Drugs,What are the two special clinical indications for phenobarbital?,"Drug of choice for neonatal seizures, and for Crigler-Najjar syndrome type II"
+Neurology,Part-23,Anti-Epileptic Drugs,"Which two drugs are used for peripheral neuropathic pain via GABA-related mechanisms, and for which conditions are they the drug of choice?","Gabapentin and Pregabalin; drugs of choice for diabetic neuropathy, post-herpetic neuralgia, and spinal cord injury-related neuropathy"
+Neurology,Part-23,Anti-Epileptic Drugs,"Which drug is a GABA transaminase inhibitor with a serious irreversible visual side effect, and what is that side effect?",Vigabatrin; causes irreversible visual field defects
+Neurology,Part-23,Anti-Epileptic Drugs,Which drug acts as a GABA reuptake inhibitor?,Tiagabine
+Neurology,Part-23,Anti-Epileptic Drugs,List the sodium channel blocker antiepileptic drugs mentioned in the notes.,"Phenytoin, Carbamazepine, Lamotrigine, Valproate, Topiramate, and Lacosamide"
+Neurology,Part-23,Anti-Epileptic Drugs,"Which antiepileptic drug is described as a ""slow"" sodium channel blocker?",Lacosamide
+Neurology,Part-23,Anti-Epileptic Drugs,What serious adverse effects are associated with Lamotrigine?,Stevens-Johnson syndrome (SJS) and hemophagocytic lymphohistiocytosis (HLH)
+Neurology,Part-23,Anti-Epileptic Drugs,"Which two drugs act as calcium channel blockers among the antiepileptics, and which is the drug of choice for absence seizures?",Ethosuximide (drug of choice for absence seizures) and Valproate
+Neurology,Part-23,Anti-Epileptic Drugs,Which antiepileptic drug is an NMDA receptor antagonist?,Felbamate
+Neurology,Part-23,Anti-Epileptic Drugs,Which antiepileptic drug is an AMPA receptor antagonist?,Perampanel
+Neurology,Part-23,Anti-Epileptic Drugs,Which antiepileptic drug acts as a potassium channel opener?,Retigabine (also known as Ezogabine)
+Neurology,Part-23,Anti-Epileptic Drugs,"Which antiepileptic drug modulates the SV2A receptor, and what is notable about its safety profile?",Levetiracetam; it has the best safety profile among antiepileptic drugs
+Neurology,Part-23,Anti-Epileptic Drugs,What are the main side effects of Levetiracetam?,"Neuropsychiatric effects, including mood and behavioral changes"
+Neurology,Part-23,Anti-Epileptic Drugs,"What does the mnemonic ""PHENYTOIN"" stand for in listing its adverse effects?","P-Pseudolymphoma, H-Hirsutism, E-Enlarged gums (gingival hyperplasia), N-Nystagmus, Y-Yellowing (hepatotoxicity), T-Teratogenic (neural tube defects), O-Osteoporosis, I-Interference with folate (megaloblastic anemia), N-Neuropathy"
+Neurology,Part-23,Anti-Epileptic Drugs,What are the important adverse effects of carbamazepine?,"Agranulocytosis, SJS/TEN, and SIADH"
+Neurology,Part-23,Anti-Epileptic Drugs,"What is a safer alternative to carbamazepine, and how does its side effect profile compare?",Oxcarbazepine; it has reduced SJS risk but increased SIADH risk
+Neurology,Part-23,Anti-Epileptic Drugs,What are the important adverse effects of valproate?,"Hepatotoxicity (especially in children), pancreatitis, PCOS, and teratogenicity causing neural tube defects (spina bifida)"
+Neurology,Part-23,Anti-Epileptic Drugs,What is the antidote for valproate toxicity?,L-carnitine
+Neurology,Part-23,Anti-Epileptic Drugs,What are the important adverse effects of topiramate?,"Kidney/renal stones (mnemonic ""Stopiramate""), angle closure glaucoma, and weight loss"
+Neurology,Part-23,Anti-Epileptic Drugs,"Which antiepileptic drug is a CYP450 inhibitor, unlike most other antiepileptics which are CYP450 inducers?",Valproate
+Neurology,Part-24,Raised ICP,What is the formula for Cerebral Perfusion Pressure (CPP)?,CPP = MAP - ICP
+Neurology,Part-24,Raised ICP,What are the target values for ICP and CPP in clinical management of raised ICP?,ICP less than 20 mmHg; CPP greater than 60 mmHg
+Neurology,Part-24,Raised ICP,"How does PaCO2 affect cerebral blood flow (CBF), and why?","CBF increases as PaCO2 increases, because CO2 causes cerebral vasodilation"
+Neurology,Part-24,Raised ICP,"How does PaO2 affect cerebral blood flow, and under what specific condition?","CBF increases as PaO2 decreases, but only once PaO2 falls below 50 mmHg"
+Neurology,Part-24,Raised ICP,"Over what range of MAP does cerebral blood flow remain constant, and what is this phenomenon called?",MAP 60-160 mmHg; this phenomenon is called autoregulation
+Neurology,Part-24,Raised ICP,What are the three components of Cushing's triad seen in raised ICP?,"Hypertension, bradycardia, and respiratory changes"
+Neurology,Part-24,Raised ICP,What causes the hypertension seen in Cushing's triad?,A sympathetic response aimed at raising MAP
+Neurology,Part-24,Raised ICP,What causes the bradycardia seen in Cushing's triad?,"Increased MAP stimulates baroreceptors in the carotid sinus, causing vagal activation"
+Neurology,Part-24,Raised ICP,What causes the respiratory changes seen in Cushing's triad?,"Brainstem compression, since the medulla contains the respiratory center"
+Neurology,Part-24,Raised ICP,What is the effect of head-end elevation (30 degrees) in managing raised ICP?,It improves venous drainage
+Neurology,Part-24,Raised ICP,What is the purpose of ventriculostomy in managing raised ICP?,CSF drainage
+Neurology,Part-24,Raised ICP,How does mannitol help manage raised ICP?,It is an osmotic diuretic that pulls fluid out of the brain
+Neurology,Part-24,Raised ICP,What is the mechanism and clinical use of steroids in managing raised ICP?,"They reduce vasogenic edema; used for tumor or abscess, but avoided in trauma, stroke, or hemorrhage (where cytotoxic edema predominates)"
+Neurology,Part-24,Raised ICP,How does hyperventilation help manage raised ICP?,"It lowers PaCO2, which (since CO2 causes vasodilation) reduces cerebral blood flow, thereby lowering ICP"
+Neurology,Part-24,Raised ICP,How do vasopressors help manage raised ICP?,They increase MAP
+Neurology,Part-24,Brain Death,What GCS score and motor findings define brainstem death?,"GCS 3/15, with complete unresponsiveness and no motor response (no decorticate or decerebrate posturing)"
+Neurology,Part-24,Brain Death,"What is the apnea test for brainstem death, and what does it demonstrate?",No breathing occurs even when PaCO2 reaches 60 mmHg or higher; hypercapnia is the strongest stimulus for respiration
+Neurology,Part-24,Brain Death,What brainstem reflexes are absent in brainstem death?,"Fixed pupils, absent corneal reflex, absent doll's eye reflex, and absent gag/cough reflex"
+Neurology,Part-24,Brain Death,"Can any reflexes persist in brainstem death, and if so, which ones?","Yes, spinal reflexes may persist, such as limb movements"
+Neurology,Part-24,Brain Death,What EEG finding is expected in brainstem death?,A flat EEG with no activity
+Neurology,Part-24,Brain Death,"What nuclear imaging finding indicates brainstem death, and which scan is used?","The Tc-99m HMPAO scan shows an ""empty skull"" appearance with the ""hot nose sign"""
+Neurology,Part-24,Brain Death,What CT scan finding is associated with brainstem death?,The white cerebellum sign
+Neurology,Part-24,Brain Death,"What level of lesion produces decorticate posturing, and which tract is disrupted vs. intact?",A lesion above the red nucleus (in the midbrain); the corticospinal tract is disrupted while the rubrospinal tract remains intact/active
+Neurology,Part-24,Brain Death,"What level of lesion produces decerebrate posturing, and which tracts are disrupted?","A lesion at or below the red nucleus; both the corticospinal and rubrospinal tracts are disrupted, leaving vestibulospinal tract dominance"
+Neurology,Part-24,Brain Death,"Where is the lesion located in locked-in syndrome, and which tracts are affected?","A ventral pons lesion, affecting the corticospinal and corticobulbar tracts"
+Neurology,Part-24,Brain Death,What are the clinical features of locked-in syndrome?,"Quadriplegia and inability to speak, with consciousness fully intact"
+Neurology,Part-24,Brain Death,"What eye movements are preserved in locked-in syndrome, and which are lost?",Vertical eye movements and blinking are preserved; horizontal gaze is lost (due to PPRF involvement)
+Neurology,Part-24,Brain Death,What is the status of breathing and EEG in locked-in syndrome?,Both are normal
