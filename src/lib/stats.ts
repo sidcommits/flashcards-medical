@@ -29,10 +29,12 @@ export function readiness(cards: Card[], reviews: Record<string, Review>, examDa
 }
 
 /** Count of cards due in each of the next `days` days; overdue counted in day 0. */
-export function dueForecast(reviews: Record<string, Review>, days = 7): number[] {
+export function dueForecast(cards: Card[], reviews: Record<string, Review>, days = 7): number[] {
   const buckets = new Array(days).fill(0);
   const now = Date.now();
-  for (const r of Object.values(reviews)) {
+  for (const c of cards) {
+    const r = reviews[c.id];
+    if (!r) continue;
     const d = Math.floor((r.due - now) / DAY);
     if (d < 0) buckets[0] += 1;
     else if (d < days) buckets[d] += 1;

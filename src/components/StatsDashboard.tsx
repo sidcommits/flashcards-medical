@@ -53,7 +53,7 @@ export default function StatsDashboard() {
       ready, days, pace,
       streakN: streak(goalDays),
       todayCount: stats.reviewedByDay[todayLocal()] ?? 0, // device-local, matches server local_date
-      forecast: dueForecast(reviews, 7),
+      forecast: dueForecast(cards, reviews, 7),
       strugglingN: cards.filter((c) => isLeech(reviews[c.id])).length,
     };
   }, [cards, reviews, exam, goalDays, stats]);

@@ -16,23 +16,36 @@ describe('stats', () => {
   });
 
   it('dueForecast buckets due cards into the next 7 days, overdue in day 0', () => {
+    const cards = [card('a'), card('b'), card('c')];
     const reviews = {
       a: mk({ due: Date.now() - DAY }),       // overdue -> day 0
       b: mk({ due: Date.now() + 2 * DAY }),    // day 2
       c: mk({ due: Date.now() + 2 * DAY }),    // day 2
     };
-    const f = dueForecast(reviews, 7);
+    const f = dueForecast(cards, reviews, 7);
     expect(f[0]).toBe(1);
     expect(f[2]).toBe(2);
   });
 
   it('dueForecast excludes cards due beyond the horizon', () => {
+    const cards = [card('a'), card('b'), card('c')];
     const reviews = {
       a: mk({ due: Date.now() + 2 * DAY }),
       b: mk({ due: Date.now() + 2 * DAY }),
       c: mk({ due: Date.now() + 30 * DAY }), // beyond 7-day horizon -> excluded
     };
-    expect(dueForecast(reviews, 7).reduce((x, y) => x + y, 0)).toBe(2);
+    expect(dueForecast(cards, reviews, 7).reduce((x, y) => x + y, 0)).toBe(2);
+  });
+
+  it('dueForecast ignores orphaned reviews whose card no longer exists', () => {
+    const cards = [card('a')];
+    const reviews = {
+      a: mk({ due: Date.now() - DAY }),         // overdue -> day 0
+      ghost: mk({ due: Date.now() + 2 * DAY }), // no matching card -> ignored
+    };
+    const f = dueForecast(cards, reviews, 7);
+    expect(f[0]).toBe(1);
+    expect(f.reduce((x, y) => x + y, 0)).toBe(1);
   });
 
   it('readiness: never-studied cards count as 0', () => {
