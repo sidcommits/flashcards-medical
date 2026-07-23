@@ -1,5 +1,6 @@
 'use client';
 
+import { useLayoutEffect, useRef } from 'react';
 import type { Card } from '@/lib/cards';
 
 const DRAW_TEAL = '#1f5d54';
@@ -24,16 +25,37 @@ export default function Flashcard({
   onFlip: () => void;
   accent: string;
 }) {
+  const cardRef = useRef<HTMLDivElement>(null);
+  const frontRef = useRef<HTMLDivElement>(null);
+  const backRef = useRef<HTMLDivElement>(null);
+
+  // The flip-card container has no intrinsic height (both faces are
+  // absolutely positioned so long answer text doesn't overflow past a
+  // height set by the front face alone). Size it to whichever face is
+  // currently showing, and re-measure if that face's content reflows
+  // (e.g. viewport width change).
+  useLayoutEffect(() => {
+    const active = flipped ? backRef.current : frontRef.current;
+    const container = cardRef.current;
+    if (!active || !container) return;
+    const sync = () => { container.style.height = `${active.offsetHeight}px`; };
+    sync();
+    const ro = new ResizeObserver(sync);
+    ro.observe(active);
+    return () => ro.disconnect();
+  }, [flipped, card]);
+
   return (
     <div className="scene w-full" style={{ ['--accent' as string]: accent }}>
       <div
+        ref={cardRef}
         className={`flip-card ${flipped ? 'is-flipped' : ''}`}
         onClick={onFlip}
         role="button"
         tabIndex={-1}
       >
-        {/* FRONT — defines height */}
-        <div className="flip-face card-face flex min-h-[340px] cursor-pointer flex-col gap-4 p-7 sm:p-9">
+        {/* FRONT */}
+        <div ref={frontRef} className="flip-face card-face flex min-h-[340px] cursor-pointer flex-col gap-4 p-7 sm:p-9">
           <div className="flex items-center justify-between">
             <FaceLabel deck={card.deck} topic={card.topic} />
             {card.isDraw ? (
@@ -54,7 +76,7 @@ export default function Flashcard({
         </div>
 
         {/* BACK */}
-        <div className="flip-face flip-face--back card-face flex min-h-[340px] cursor-pointer flex-col gap-4 p-7 sm:p-9">
+        <div ref={backRef} className="flip-face flip-face--back card-face flex min-h-[340px] cursor-pointer flex-col gap-4 p-7 sm:p-9">
           <FaceLabel deck={card.deck} topic={card.topic} />
           <div className="text-[0.7rem] font-semibold uppercase tracking-[0.22em] text-accent">
             Answer

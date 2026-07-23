@@ -48,18 +48,21 @@ body {
   position: relative;
   width: 100%;
   transform-style: preserve-3d;
-  transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
+  transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1), height 0.35s ease;
 }
 .flip-card.is-flipped {
   transform: rotateY(180deg);
 }
+/* Each face is pinned to the top/sides but not the bottom, so its height
+   stays intrinsic to its own content — the flip-card's height (set in JS
+   from whichever face is showing) is what actually sizes the visible card. */
 .flip-face {
+  position: absolute;
+  inset: 0 0 auto 0;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
 }
 .flip-face--back {
-  position: absolute;
-  inset: 0;
   transform: rotateY(180deg);
 }
 
