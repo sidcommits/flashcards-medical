@@ -38,11 +38,15 @@ export default function Flashcard({
     const active = flipped ? backRef.current : frontRef.current;
     const container = cardRef.current;
     if (!active || !container) return;
-    const sync = () => { container.style.height = `${active.offsetHeight}px`; };
+    let cancelled = false;
+    const sync = () => { if (!cancelled) container.style.height = `${active.offsetHeight}px`; };
     sync();
     const ro = new ResizeObserver(sync);
     ro.observe(active);
-    return () => ro.disconnect();
+    // Web fonts swapping in after this measurement can reflow the text
+    // without ResizeObserver reliably catching it in time on every browser.
+    document.fonts?.ready.then(sync);
+    return () => { cancelled = true; ro.disconnect(); };
   }, [flipped, card]);
 
   return (

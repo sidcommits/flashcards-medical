@@ -24,6 +24,18 @@
   --color-accent: var(--accent);
 }
 
+/* Chrome for Android auto-boosts text size in narrow text columns for
+   readability, independent of any CSS px value set on the element. The
+   Flashcard component measures answer-text height in JS to size the flip
+   card (see Flashcard.tsx) — if the browser boosts font size AFTER that
+   measurement, the box ends up sized for smaller text than what actually
+   renders, cropping the bottom padding/line. Opting out keeps JS-measured
+   and rendered layout in sync. */
+html {
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
   background:
     radial-gradient(1100px 560px at 50% -12%, rgba(255, 255, 255, 0.65), transparent 62%),
